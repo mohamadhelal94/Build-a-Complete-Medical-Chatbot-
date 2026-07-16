@@ -1,0 +1,11 @@
+.git
+.github
+.env
+__pycache__
+.ipynb_checkpoints
+research
+data/
+*.ipynb
+*.pyc
+.DS_Store
+medical_chatbot.egg-info

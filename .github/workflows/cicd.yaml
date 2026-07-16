@@ -1,0 +1,105 @@
+name: Build and Deploy Medical Chatbot
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  continuous-integration:
+    name: Build and Push Image to ECR
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Login to Amazon ECR
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build Docker image
+        run: |
+          docker build \
+            -t "${{ secrets.ECR_REPO }}:${{ github.sha }}" \
+            -t "${{ secrets.ECR_REPO }}:latest" \
+            .
+
+      - name: Push Docker image to Amazon ECR
+        run: |
+          docker push "${{ secrets.ECR_REPO }}:${{ github.sha }}"
+          docker push "${{ secrets.ECR_REPO }}:latest"
+
+  continuous-deployment:
+    name: Deploy to EC2
+    needs: continuous-integration
+    runs-on: self-hosted
+
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Login to Amazon ECR
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Create Docker network
+        run: |
+          docker network inspect medicalbot-network >/dev/null 2>&1 || \
+          docker network create medicalbot-network
+
+      - name: Start Ollama container
+        run: |
+          if docker ps -a --format '{{.Names}}' | grep -q '^medicalbot-ollama$'; then
+            docker start medicalbot-ollama || true
+          else
+            docker run -d \
+              --name medicalbot-ollama \
+              --restart unless-stopped \
+              --network medicalbot-network \
+              -v ollama_data:/root/.ollama \
+              ollama/ollama:latest
+          fi
+
+      - name: Download Llama model
+        run: |
+          echo "Waiting for Ollama to start..."
+          sleep 10
+          docker exec medicalbot-ollama ollama pull llama3.2:3b
+
+      - name: Pull latest application image
+        run: |
+          docker pull "${{ secrets.ECR_REPO }}:latest"
+
+      - name: Stop old application container
+        run: |
+          docker rm -f medicalbot-app || true
+
+      - name: Start new application container
+        run: |
+          docker run -d \
+            --name medicalbot-app \
+            --restart unless-stopped \
+            --network medicalbot-network \
+            -p 8000:8000 \
+            -e PINECONE_API_KEY="${{ secrets.PINECONE_API_KEY }}" \
+            -e OLLAMA_BASE_URL="http://medicalbot-ollama:11434" \
+            "${{ secrets.ECR_REPO }}:latest"
+
+      - name: Show running containers
+        run: |
+          docker ps
+
+      - name: Show application logs
+        run: |
+          sleep 10
+          docker logs --tail 100 medicalbot-app
