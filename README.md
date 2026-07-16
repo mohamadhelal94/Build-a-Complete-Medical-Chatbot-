@@ -1,15 +1,17 @@
 # Build a Complete Medical Chatbot
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# Build-a-Complete-Medical-Chatbot-with-RAG-Ollama-LangChain-Pinecone-Flask
 
 # How to run?
+
 ### STEPS:
 
 Clone the repository
 
 ```bash
-git clone https: https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-.git
+git clone https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-.git
 ```
-### STEP 01- Create a conda environment after opening the repository
+
+### STEP 01 - Create a Conda environment after opening the repository
 
 ```bash
 conda create -n medibot python=3.10 -y
@@ -19,113 +21,229 @@ conda create -n medibot python=3.10 -y
 conda activate medibot
 ```
 
+---
 
-### STEP 02- install the requirements
+### STEP 02 - Install the requirements
+
 ```bash
 pip install -r requirements.txt
 ```
 
+---
 
-### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+### STEP 03 - Install Ollama
 
-```ini
-PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-```
+Download Ollama from:
 
+https://ollama.com/download
+
+After installation, pull the model:
 
 ```bash
-# run the following command to store embeddings to pinecone
+ollama pull llama3.2:3b
+```
+
+Verify the model:
+
+```bash
+ollama list
+```
+
+---
+
+### STEP 04 - Create a `.env` file in the root directory
+
+```ini
+PINECONE_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
+
+---
+
+### STEP 05 - Store embeddings into Pinecone
+
+Run this command only once (or whenever you update the PDF):
+
+```bash
 python store_index.py
 ```
 
+---
+
+### STEP 06 - Run the Flask application
+
 ```bash
-# Finally run the following command
 python app.py
 ```
 
-Now,
-```bash
-open up localhost:
+Now open your browser and navigate to:
+
+```text
+http://127.0.0.1:8000
 ```
 
+---
 
-### Techstack Used:
+# Project Structure
+
+```text
+Build-a-Complete-Medical-Chatbot-/
+│
+├── app.py
+├── store_index.py
+├── requirements.txt
+├── templates/
+│   └── chat.html
+├── static/
+│   └── style.css
+├── src/
+│   ├── helper.py
+│   └── prompt.py
+├── research/
+│   └── trials.ipynb
+├── data/
+│   └── Medical_book.pdf
+└── README.md
+```
+
+---
+
+### Tech Stack Used
 
 - Python
-- LangChain
 - Flask
-- GPT
+- LangChain
+- Ollama (Llama 3.2)
+- Hugging Face Embeddings
 - Pinecone
+- Sentence Transformers
 
+---
 
+# Features
 
-# AWS-CICD-Deployment-with-Github-Actions
+- Medical Question Answering using RAG
+- Local Large Language Model (Ollama)
+- Hugging Face Embeddings
+- Pinecone Vector Database
+- Flask Web Interface
+- LangChain Retrieval Pipeline
+- No OpenAI API Required
 
-## 1. Login to AWS console.
+---
 
-## 2. Create IAM user for deployment
+# Example Questions
 
-	#with specific access
+- What is Acromegaly?
+- What are the symptoms of diabetes?
+- Explain hypertension.
+- What causes asthma?
+- What is chronic kidney disease?
 
-	1. EC2 access : It is virtual machine
+---
 
-	2. ECR: Elastic Container registry to save your docker image in aws
+# AWS CICD Deployment with GitHub Actions
 
+## 1. Login to AWS Console
 
-	#Description: About the deployment
+---
 
-	1. Build docker image of the source code
+## 2. Create IAM User for Deployment
 
-	2. Push your docker image to ECR
+### Required Access
 
-	3. Launch Your EC2 
+- Amazon EC2
+- Amazon ECR (Elastic Container Registry)
 
-	4. Pull Your image from ECR in EC2
+---
 
-	5. Lauch your docker image in EC2
+### Deployment Workflow
 
-	#Policy:
+1. Build Docker image
+2. Push Docker image to Amazon ECR
+3. Launch EC2 Instance
+4. Pull Docker image from ECR
+5. Run the Docker container
 
-	1. AmazonEC2ContainerRegistryFullAccess
+---
 
-	2. AmazonEC2FullAccess
+### Required IAM Policies
 
-	
-## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot
+- AmazonEC2ContainerRegistryFullAccess
+- AmazonEC2FullAccess
 
-	
-## 4. Create EC2 machine (Ubuntu) 
+---
 
-## 5. Open EC2 and Install docker in EC2 Machine:
-	
-	
-	#optinal
+## 3. Create an Amazon ECR Repository
 
-	sudo apt-get update -y
+Save the repository URI.
 
-	sudo apt-get upgrade
-	
-	#required
+Example:
 
-	curl -fsSL https://get.docker.com -o get-docker.sh
+```text
+xxxxxxxxxxxx.dkr.ecr.us-east-1.amazonaws.com/medical-chatbot
+```
 
-	sudo sh get-docker.sh
+---
 
-	sudo usermod -aG docker ubuntu
+## 4. Create an EC2 Instance (Ubuntu)
 
-	newgrp docker
-	
-# 6. Configure EC2 as self-hosted runner:
-    setting>actions>runner>new self hosted runner> choose os> then run command one by one
+---
 
+## 5. Install Docker on EC2
 
-# 7. Setup github secrets:
+```bash
+sudo apt-get update -y
+sudo apt-get upgrade -y
 
-   - AWS_ACCESS_KEY_ID
-   - AWS_SECRET_ACCESS_KEY
-   - AWS_DEFAULT_REGION
-   - ECR_REPO
-   - PINECONE_API_KEY
-   - OPENAI_API_KEY
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+
+sudo usermod -aG docker ubuntu
+newgrp docker
+```
+
+---
+
+## 6. Configure EC2 as a Self-hosted GitHub Runner
+
+GitHub Repository
+
+```
+Settings
+    → Actions
+        → Runners
+            → New Self-hosted Runner
+```
+
+Follow the commands provided by GitHub.
+
+---
+
+## 7. Configure GitHub Secrets
+
+Add the following repository secrets:
+
+- AWS_ACCESS_KEY_ID
+- AWS_SECRET_ACCESS_KEY
+- AWS_DEFAULT_REGION
+- ECR_REPOSITORY
+- PINECONE_API_KEY
+
+---
+
+# Future Improvements
+
+- Conversation Memory
+- Source Citation
+- Chat History
+- User Authentication
+- Multi-PDF Support
+- Streaming Responses
+- Docker Compose
+- Kubernetes Deployment
+
+---
+
+# License
+
+This project is for educational purposes.
