@@ -9,3 +9,4 @@ langchain-community==0.3.26
 langchain-huggingface==0.3.1
 langchain-ollama==0.3.9
 -e .
+gunicorn==26.0.0
