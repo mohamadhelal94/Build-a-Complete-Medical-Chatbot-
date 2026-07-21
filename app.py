@@ -52,6 +52,9 @@ chat_model = ChatOllama(
     model="llama3.2:3b",
     temperature=0,
     base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434"),
+    num_ctx=2048,
+    num_thread=2,
+    num_predict=128,
 )
 
 # Define the system and user prompts for the chatbot
