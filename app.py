@@ -36,9 +36,6 @@ load_dotenv()
 app = Flask(__name__)
 
 
-# =========================================================
-# Environment
-# =========================================================
 
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -54,9 +51,9 @@ if not OPENAI_API_KEY:
     )
 
 
-# =========================================================
+
 # Embeddings + Pinecone
-# =========================================================
+
 
 embeddings = create_embeddings()
 
@@ -66,9 +63,8 @@ docsearch = PineconeVectorStore.from_existing_index(
 )
 
 
-# =========================================================
 # OpenAI model
-# =========================================================
+
 
 chat_model = ChatOpenAI(
     model=os.getenv(
@@ -81,10 +77,7 @@ chat_model = ChatOpenAI(
     max_retries=2,
 )
 
-
-# =========================================================
 # Structured symptom extraction
-# =========================================================
 
 class SymptomDetails(BaseModel):
     """Information explicitly provided for the current medical problem."""
@@ -298,9 +291,8 @@ def extract_symptom_details(
     )
 
 
-# =========================================================
+
 # New medical problem detection
-# =========================================================
 
 class ConversationState(BaseModel):
     """Whether the latest message starts a different medical problem."""
@@ -376,9 +368,9 @@ def detect_new_medical_problem(
     )
 
 
-# =========================================================
+
 # Risk assessment
-# =========================================================
+
 
 class RiskAssessment(BaseModel):
     """Basic triage-style risk assessment."""
@@ -525,9 +517,9 @@ def generate_urgent_response(
     ).strip()
 
 
-# =========================================================
-# Medical topic detection
-# =========================================================
+
+# Medical topics
+
 
 TOPIC_KEYWORDS = {
     "musculoskeletal": {
@@ -730,10 +722,7 @@ def detect_topic(
 
     return best_topic
 
-
-# =========================================================
 # Missing-information logic
-# =========================================================
 
 def get_missing_information(
     details: SymptomDetails,
@@ -856,9 +845,8 @@ def get_missing_information(
     return missing
 
 
-# =========================================================
 # English retrieval query
-# =========================================================
+
 
 def translate_query_for_retrieval(
     query: str,
@@ -892,9 +880,6 @@ def translate_query_for_retrieval(
     return english_query or query
 
 
-# =========================================================
-# Retrieval + reranking
-# =========================================================
 
 def retrieve_and_rerank(
     query: str,
@@ -1175,10 +1160,7 @@ retriever = RunnableLambda(
     retrieve_and_rerank
 )
 
-
-# =========================================================
 # RAG chain
-# =========================================================
 
 contextualize_question_prompt = (
     ChatPromptTemplate.from_messages(
@@ -1265,10 +1247,8 @@ rag_chain = create_retrieval_chain(
     question_answer_chain,
 )
 
-
-# =========================================================
 # Chat history
-# =========================================================
+
 
 def convert_chat_history(
     history_data,
@@ -1321,9 +1301,8 @@ def convert_chat_history(
     return messages
 
 
-# =========================================================
-# Casual conversation
-# =========================================================
+# Casual conversation in multiple languages.
+
 
 CASUAL_MESSAGES = {
     # English
@@ -1634,9 +1613,8 @@ def history_has_medical_user_message(
     return False
 
 
-# =========================================================
-# Flask routes
-# =========================================================
+# Flask routes 
+
 
 @app.route("/")
 def index():
@@ -1678,9 +1656,7 @@ def chat():
             }
         ), 400
 
-    # -----------------------------------------------------
-    # Casual conversation
-    # -----------------------------------------------------
+
 
     if is_casual_message(
         user_message
@@ -1705,9 +1681,9 @@ def chat():
             )
         )
 
-        # -------------------------------------------------
-        # Detect new medical complaint
-        # -------------------------------------------------
+        
+        # Detect new medical complaint 
+        
 
         if history_has_medical_user_message(
             full_chat_history
@@ -1742,9 +1718,8 @@ def chat():
                 full_chat_history
             )
 
-        # -------------------------------------------------
         # Extract symptoms
-        # -------------------------------------------------
+      
 
         symptom_details = (
             extract_symptom_details(
@@ -1764,9 +1739,7 @@ def chat():
             symptom_data,
         )
 
-        # -------------------------------------------------
-        # Risk assessment
-        # -------------------------------------------------
+        
 
         risk_assessment = (
             assess_medical_risk(
@@ -1780,10 +1753,8 @@ def chat():
             risk_assessment.model_dump(),
         )
 
-        # -------------------------------------------------
-        # IMPORTANT:
+        
         # Urgent cases bypass normal RAG questioning
-        # -------------------------------------------------
 
         if risk_assessment.urgent:
             urgent_answer = (
@@ -1811,9 +1782,8 @@ def chat():
                 }
             )
 
-        # -------------------------------------------------
         # Normal medical conversation
-        # -------------------------------------------------
+        
 
         missing_information = (
             get_missing_information(
@@ -1871,9 +1841,9 @@ def chat():
         ):
             retrieved_documents = []
 
-        # -------------------------------------------------
+        
         # Sources
-        # -------------------------------------------------
+        
 
         sources = []
         seen_sources = set()
