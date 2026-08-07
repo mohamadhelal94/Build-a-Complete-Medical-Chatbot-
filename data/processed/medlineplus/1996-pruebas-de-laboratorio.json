@@ -1,0 +1,45 @@
+{
+  "id": "1996",
+  "title": "Pruebas de laboratorio",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las pruebas de laboratorio ayudan a los médicos a determinar cómo está funcionando su cuerpo. Muchos factores afectan los resultados. Entérese aquí.",
+  "summary": "Las pruebas de laboratorio examinan muestras de sangre, orina o tejidos corporales. Un técnico o el médico analizan las muestras para determinar si los resultados están dentro de los límites normales. Los análisis usan un rango de valores porque lo que se considera normal varía de una persona a otra. Muchos factores afectan los resultados de los análisis. Entre ellos: Sexo, edad y raza Lo que come y lo que bebe Las medicinas que toma El seguimiento de las instrucciones antes del análisis El médico también puede comparar los resultados con análisis anteriores. Las pruebas de laboratorio son a menudo parte de un examen de rutina para detectar cambios en su salud. También ayudan a los médicos a diagnosticar cuadros clínicos, planificar o evaluar tratamientos y controlar enfermedades.",
+  "synonyms": [
+    "Tests de laboratorio"
+  ],
+  "groups": [
+    "Pruebas de diagnóstico"
+  ],
+  "related_topics": [
+    {
+      "title": "Análisis de orina",
+      "url": "https://medlineplus.gov/spanish/urinalysis.html",
+      "id": "6356"
+    },
+    {
+      "title": "Análisis de sangre",
+      "url": "https://medlineplus.gov/spanish/bloodcounttests.html",
+      "id": "6352"
+    },
+    {
+      "title": "Diagnóstico por imágenes",
+      "url": "https://medlineplus.gov/spanish/diagnosticimaging.html",
+      "id": "1857"
+    },
+    {
+      "title": "Prueba de hemoglobina glicosilada (HbA1c)",
+      "url": "https://medlineplus.gov/spanish/a1c.html",
+      "id": "6309"
+    }
+  ],
+  "see_references": [
+    "Diagnóstico",
+    "Pruebas de orina",
+    "Pruebas de sangre"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/laboratorytests.html"
+}

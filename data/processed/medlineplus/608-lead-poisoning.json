@@ -1,0 +1,34 @@
+{
+  "id": "608",
+  "title": "Lead Poisoning",
+  "language": "English",
+  "date_created": "10/28/1999",
+  "meta_description": "Breathing air, drinking water or eating food that contains lead can cause health problems. Find a list of scenarios that can lead to lead poisoning.",
+  "summary": "Lead is a metal that occurs naturally in the earth's crust. Lead can be found in all parts of our environment. Much of it comes from human activities such as mining and manufacturing. Lead used to be in paint; older houses may still have lead paint. You could be exposed to lead by: Eating food or drinking water that contains lead. Water pipes in older homes may contain lead. Working in a job where lead is used Using lead in a hobby, such as making stained glass or lead-glazed pottery Using folk remedies such as herbs or foods that contain lead Breathing air, drinking water, eating food, or swallowing or touching dirt that contains lead can cause many health problems. Lead can affect almost every organ and system in your body. In adults, lead can increase blood pressure and cause infertility, nerve disorders, and muscle and joint pain. It can also make you irritable and affect your ability to concentrate and remember. Lead is especially dangerous for children. A child who swallows large amounts of lead may develop anemia, severe stomachache, muscle weakness, and brain damage. Even at low levels, lead can affect a child's mental and physical growth. Agency for Toxic Substances Disease Registry",
+  "synonyms": [
+    "Plumbism"
+  ],
+  "groups": [
+    "Children and Teenagers",
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Plumbism",
+    "lead exposure"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Lead Poisoning",
+      "id": "D007855"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/leadpoisoning.html"
+}

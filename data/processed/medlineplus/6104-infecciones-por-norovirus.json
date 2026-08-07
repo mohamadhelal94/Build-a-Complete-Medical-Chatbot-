@@ -1,0 +1,34 @@
+{
+  "id": "6104",
+  "title": "Infecciones por Norovirus",
+  "language": "Spanish",
+  "date_created": "01/16/2013",
+  "meta_description": "Los norovirus son un grupo de virus relacionados. Causan síntomas como náusea y diarrea. Conozca los tratamientos para la infección por norovirus.",
+  "summary": "Los Norovirus son un grupo de virus relacionados. La infección con el Norovirus provoca una enfermedad llamada gastroenteritis , que es la inflamación del estómago y los intestinos. Las personas pueden contagiarse unas a otras o por medio del agua o alimentos contaminados. También se puede adquirir el Norovirus si se toca una superficie contaminada. Estas infecciones pueden ser graves, sobre todo para niños pequeños y personas mayores. Los síntomas más comunes de una infección por Norovirus son: Diarrea Náuseas y vómitos Dolor de estómago Otros síntomas pueden ser: fiebre, dolor de cabeza o dolor general en el cuerpo. El tratamiento incluye descanso y beber muchos líquidos para prevenir la deshidratación . No hay un medicamento específico para tratar las infecciones por Norovirus. Estas infecciones pueden prevenirse con un adecuado lavado de manos y un manejo apropiado de los alimentos cuando se cocinan. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Norovirus"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Gastroenteritis",
+      "url": "https://medlineplus.gov/spanish/gastroenteritis.html",
+      "id": "3057"
+    }
+  ],
+  "see_references": [
+    "Norwalk"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/norovirusinfections.html"
+}

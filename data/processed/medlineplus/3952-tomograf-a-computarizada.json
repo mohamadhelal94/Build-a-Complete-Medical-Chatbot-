@@ -1,0 +1,33 @@
+{
+  "id": "3952",
+  "title": "Tomografía computarizada",
+  "language": "Spanish",
+  "date_created": "01/06/2005",
+  "meta_description": "La tomografía computarizada es una tecnología para diagnóstico con imágenes. Utiliza un equipo de rayos X para crear imágenes transversales del cuerpo.",
+  "summary": "¿Quién necesita una tomografía computarizada? La tomografía computarizada (TC) es un tipo de prueba de imagen médica, que usa equipo especial de rayos X para producir fotografías detalladas del interior de su cuerpo. Una tomografía computarizada genera imágenes transversales, que son similares a cortes del cuerpo. Estas imágenes muestran el tamaño y la estructura de los órganos, los huesos y otros tejidos. Las imágenes de tomografía computarizada también pueden combinarse para crear vistas en tres dimensiones (3D). Los proveedores de salud utilizan las tomografías computarizadas para diagnosticar, tratar y monitorear algunas condiciones de salud. ¿Quién necesita una tomografía computarizada? Su proveedor puede sugerirle que se haga una tomografía computarizada por muchas razones, incluyendo: Fracturas (huesos rotos) Cáncer Tumores o masas Coágulos sanguíneos Señales de enfermedad del corazón Afecciones espinales Enfermedad del pulmón Las tomografías computarizadas también pueden usarse para determinar el mejor punto para realizar una biopsia o para guiar ciertos tratamientos. También pueden utilizarse para detectar sangramientos internos y lesiones por traumatismos o para evaluar el cerebro por ciertas condiciones. ¿Cómo prepararse para una tomografía computarizada? Pueden pedirle no comer ni beber por unas horas antes de la prueba. Pregúntele a su proveedor si hay algunas instrucciones especiales a seguir. Para algunas tomografías computarizadas usted podría recibir material de contraste. El contraste ayuda a que ciertas partes del cuerpo se vean más claramente en las imágenes. Dependiendo de cuál sea el área examinada, el contraste se lo pueden dar como: Un líquido para tragar Una inyección Un enema para aplicar en el recto Las tomografías computarizadas utilizan radiación ionizante a niveles superiores al estándar de una imagen de rayos X, pero la cantidad se mantiene lo más baja posible. Siempre déjele saber a su proveedor si está embarazada o sospecha que puede estarlo. ¿Cómo se realiza una tomografía computarizada? Podrían pedirle que se cambie de ropa y que se quite cualquier pieza de joyería u otros objetos que puedan afectar la tomografía. Durante el procedimiento, usted permanecerá acostado y quieto en una mesa. La mesa pasará lentamente por el centro de una máquina grande, con forma de rosquilla. El tubo de rayos X rotará alrededor de su cuerpo para crear las imágenes. Usted podría escuchar zumbidos durante la tomografía y es posible que se le pida contener la respiración por breves momentos. La prueba es indolora. La tomografía por lo general dura pocos minutos, pero algunas pueden tomar hasta 30 minutos dependiendo del área que sea analizada. ¿Qué se puede esperar después de una tomografía computarizada? La mayoría de las personas puede retomar sus actividades normales de inmediato. Si le fue dado material de contraste, tomar líquidos le ayudará a que su cuerpo lo deseche. Un especialista, llamado radiólogo, revisará las imágenes y compartirá los resultados con su proveedor. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "TAC",
+    "TC",
+    "Tomografía computada"
+  ],
+  "groups": [
+    "Pruebas de diagnóstico"
+  ],
+  "related_topics": [
+    {
+      "title": "Diagnóstico por imágenes",
+      "url": "https://medlineplus.gov/spanish/diagnosticimaging.html",
+      "id": "1857"
+    },
+    {
+      "title": "Rayos X",
+      "url": "https://medlineplus.gov/spanish/xrays.html",
+      "id": "3950"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ctscans.html"
+}

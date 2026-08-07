@@ -1,0 +1,34 @@
+{
+  "id": "1236",
+  "title": "Tinnitus",
+  "language": "English",
+  "date_created": "04/06/2000",
+  "meta_description": "Tinnitus is often described as a ringing in the ears, but it can also sound like roaring, hissing, or buzzing. There are many causes. Read the list.",
+  "summary": "Tinnitus is often described as a ringing in the ears. It also can sound like roaring, clicking, hissing, or buzzing. It may be soft or loud, high pitched or low pitched. You might hear it in either one or both ears. Millions of Americans have tinnitus. People with severe tinnitus may have trouble hearing, working or even sleeping. Causes of tinnitus include: Hearing loss in older people Exposure to loud noises Ear and sinus infections Heart or blood vessel problems Meniere's disease Brain tumors Hormonal changes in women Thyroid problems Certain medicines Treatment depends on the cause. Treatments may include hearing aids, sound-masking devices, medicines, and ways to learn how to cope with the noise. NIH: National Institute on Deafness and Other Communication Disorders",
+  "synonyms": [],
+  "groups": [
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Hearing Disorders and Deafness",
+      "url": "https://medlineplus.gov/hearingdisordersanddeafness.html",
+      "id": "204"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tinnitus",
+      "id": "D014012"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/tinnitus.html"
+}

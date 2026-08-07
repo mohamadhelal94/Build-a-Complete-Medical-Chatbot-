@@ -1,0 +1,86 @@
+{
+  "id": "1887",
+  "title": "Salud ambiental",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Existen algunos peligros ocultos en el ambiente que pueden afectar su salud. Entérese sobre salud ambiental, riesgos naturales y provocados por el hombre.",
+  "summary": "El medio ambiente afecta nuestra salud. Si algunas partes del medio ambiente, como el aire , el agua o la tierra, se contaminan, puede causar problemas de salud. Por ejemplo, contaminantes y otras sustancias químicas en el aire o en el hogar pueden desencadenar crisis de asma. Algunos riesgos ambientales son parte del mundo natural, como el radón en la tierra. Otros son resultado de actividades humanas, como intoxicación por plomo en la pintura o la exposición al asbesto o al mercurio por su uso en la minería e industrias. NIH: Instituto Nacional de las Ciencias de Salud Ambiental",
+  "synonyms": [
+    "Medio ambiente y usted"
+  ],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental"
+  ],
+  "related_topics": [
+    {
+      "title": "Agua potable",
+      "url": "https://medlineplus.gov/spanish/drinkingwater.html",
+      "id": "1867"
+    },
+    {
+      "title": "Campos electromagnéticos",
+      "url": "https://medlineplus.gov/spanish/electromagneticfields.html",
+      "id": "1883"
+    },
+    {
+      "title": "Contaminación de interiores",
+      "url": "https://medlineplus.gov/spanish/indoorairpollution.html",
+      "id": "1973"
+    },
+    {
+      "title": "Contaminación del agua",
+      "url": "https://medlineplus.gov/spanish/waterpollution.html",
+      "id": "3173"
+    },
+    {
+      "title": "Contaminación del aire",
+      "url": "https://medlineplus.gov/spanish/airpollution.html",
+      "id": "1730"
+    },
+    {
+      "title": "Derrame de petróleo",
+      "url": "https://medlineplus.gov/spanish/oilspills.html",
+      "id": "5555"
+    },
+    {
+      "title": "Exposición a la radiación",
+      "url": "https://medlineplus.gov/spanish/radiationexposure.html",
+      "id": "2116"
+    },
+    {
+      "title": "Moho",
+      "url": "https://medlineplus.gov/spanish/molds.html",
+      "id": "2037"
+    },
+    {
+      "title": "Pesticidas",
+      "url": "https://medlineplus.gov/spanish/pesticides.html",
+      "id": "2085"
+    },
+    {
+      "title": "Ruido",
+      "url": "https://medlineplus.gov/spanish/noise.html",
+      "id": "2055"
+    },
+    {
+      "title": "Salud ocupacional",
+      "url": "https://medlineplus.gov/spanish/occupationalhealth.html",
+      "id": "2061"
+    }
+  ],
+  "see_references": [
+    "Ambiente, Salud del",
+    "Cambio del clima",
+    "Climático, Cambio",
+    "Medioambiente, Salud del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de las Ciencias de Salud Ambiental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIEHS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/environmentalhealth.html"
+}

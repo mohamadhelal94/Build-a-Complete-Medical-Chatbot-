@@ -1,0 +1,56 @@
+{
+  "id": "1850",
+  "title": "Trastornos del desarrollo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los trastornos del desarrollo pueden ser físicos, mentales o ambos a la vez. Estos problemas en general duran toda la vida, pero la terapia puede ayudar.",
+  "summary": "¿Qué son los trastornos del desarrollo? Los trastornos del desarrollo (o discapacidades del desarrollo) son afecciones que suelen estar presentes al nacer. Pueden afectar el crecimiento y el desarrollo de un niño. Estos trastornos pueden causar problemas físicos, de aprendizaje, de lenguaje o de comportamiento. Pueden incluir: Problemas de aprendizaje : Estos afectan la capacidad de aprender Trastorno del espectro autista (TEA): Este es un trastorno que afecta el comportamiento, la comunicación y las habilidades sociales Parálisis cerebral : Afecta el movimiento, la coordinación y el equilibrio Discapacidades físicas, que pueden incluir ceguera o sordera Problemas que pueden afectar tanto las capacidades físicas como mentales. Esto puede incluir el síndrome de Down Estos trastornos pueden provocar desafíos de por vida en el aprendizaje. Hacer las tareas diarias puede ser difícil. El tratamiento temprano puede ayudar a su hijo a obtener habilidades importantes y aprovechar al máximo sus fortalezas. ¿Qué causa los trastornos del desarrollo? Los trastornos del desarrollo suelen estar presentes al nacer. Pueden ocurrir por varias razones. Estas pueden incluir: Anomalías genéticas o cromosómicas: Estas causan afecciones como el síndrome de Down, el síndrome del cromosoma X frágil y el síndrome de Rett Consumo de sustancias durante el embarazo. Por ejemplo, beber alcohol durante el embarazo puede causar trastornos del espectro alcohólico fetal Ciertas infecciones durante el embarazo Nacimiento prematuro o bajo peso al nacer ¿Cómo se diagnostican las discapacidades del desarrollo? La forma en que se diagnostica un trastorno del desarrollo depende de la afección. Se pueden realizar pruebas de detección o un examen físico para verificar si hay un problema médico. Otras pruebas y cuestionarios pueden ayudar a determinar si su hijo tiene una discapacidad del desarrollo. Estos pueden incluir: Pruebas de detección que se realizan durante el embarazo o para recién nacidos Pruebas de detección del desarrollo y del comportamiento o cuestionarios para verificar si su hijo se está desarrollando como debería Observar el comportamiento de su hijo y cómo interactúa con otras personas Evaluar el rendimiento intelectual y escolar de su hijo Preguntar sobre sus antecedentes familiares ¿Cuáles son los tratamientos para los trastornos del desarrollo? Si su hijo tiene un trastorno del desarrollo, estos suelen ser de por vida. A menudo, no tienen cura, pero el tratamiento puede ayudar a aliviar los síntomas. Los tratamientos pueden incluir: Terapia física, terapia del habla y terapia ocupacional Métodos de enseñanza especiales Consejería psicológica Realizar un seguimiento de cómo crece y cambia su hijo con el tiempo NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [
+    "Discapacidades del desarrollo"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Discapacidades",
+      "url": "https://medlineplus.gov/spanish/disabilities.html",
+      "id": "1861"
+    },
+    {
+      "title": "Problemas de aprendizaje",
+      "url": "https://medlineplus.gov/spanish/learningdisabilities.html",
+      "id": "2001"
+    },
+    {
+      "title": "Síndrome de Down",
+      "url": "https://medlineplus.gov/spanish/downsyndrome.html",
+      "id": "1866"
+    },
+    {
+      "title": "Trastorno del espectro autista",
+      "url": "https://medlineplus.gov/spanish/autismspectrumdisorder.html",
+      "id": "1763"
+    },
+    {
+      "title": "Trastornos del espectro alcohólico fetal",
+      "url": "https://medlineplus.gov/spanish/fetalalcoholspectrumdisorders.html",
+      "id": "1901"
+    }
+  ],
+  "see_references": [
+    "Discapacidad intelectual",
+    "Intelectual, discapacidad",
+    "Retraso mental"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/developmentaldisabilities.html"
+}

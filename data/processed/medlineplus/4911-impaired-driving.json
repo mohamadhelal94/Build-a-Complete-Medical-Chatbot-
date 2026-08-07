@@ -1,0 +1,41 @@
+{
+  "id": "4911",
+  "title": "Impaired Driving",
+  "language": "English",
+  "date_created": "01/12/2009",
+  "meta_description": "Impaired driving affects everyone. Some of the causes include sleepiness, drugs and alcohol. Learn how to ensure safety on the road.",
+  "summary": "Impaired driving is dangerous. It's the cause of more than half of all car crashes. It means operating a motor vehicle while you are affected by: Alcohol Legal or illegal drugs Sleepiness Distractions, such as using a cell phone or texting Having a medical condition which affects your driving For your safety and the safety of others, do not drive while impaired. Have someone else drive you or take public transportation when you cannot drive. If you need to take a call or send a text message, pull over. National Highway Traffic Safety Administration",
+  "synonyms": [
+    "Distracted driving",
+    "Drugged driving",
+    "Drunk driving"
+  ],
+  "groups": [
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Motor Vehicle Safety",
+      "url": "https://medlineplus.gov/motorvehiclesafety.html",
+      "id": "155"
+    }
+  ],
+  "see_references": [
+    "Driving",
+    "Drugged Driving",
+    "Drunk Driving"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Driving Under the Influence",
+      "id": "D000066448"
+    },
+    {
+      "name": "Distracted Driving",
+      "id": "D000071826"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/impaireddriving.html"
+}

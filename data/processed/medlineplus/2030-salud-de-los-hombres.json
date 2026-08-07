@@ -1,0 +1,58 @@
+{
+  "id": "2030",
+  "title": "Salud de los hombres",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Muchos hombres necesitan prestar más atención a su salud. Una atención preventiva y hacerse pruebas de detección puede ayudar a reducir los riesgos, detectar problemas antes y mejorar los resultados",
+  "summary": "La mayoría de los hombres tienen que prestar más atención a su salud. En comparación con las mujeres, los hombres son más propensos a: Fumar y beber Tomar decisiones poco saludables o riesgosas Retrasar chequeos regulares y atención médica También hay afecciones de salud que afectan solamente a los hombres, como el cáncer de próstata y bajos niveles de testosterona. Muchos de los principales riesgos de salud que enfrentan los hombres, como el de cáncer del colon o enfermedades cardiacas , pueden prevenirse y tratarse con un diagnóstico anticipado. Pruebas de diagnóstico pueden determinar enfermedades en forma temprana, cuando es más fácil tratarlas. Es importante someterse con regularidad a los exámenes médicos necesarios.",
+  "synonyms": [],
+  "groups": [
+    "Hombres",
+    "Grupos especiales"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de próstata",
+      "url": "https://medlineplus.gov/spanish/prostatecancer.html",
+      "id": "2110"
+    },
+    {
+      "title": "Cáncer de testículo",
+      "url": "https://medlineplus.gov/spanish/testicularcancer.html",
+      "id": "2191"
+    },
+    {
+      "title": "Disfunción eréctil",
+      "url": "https://medlineplus.gov/spanish/erectiledysfunction.html",
+      "id": "1972"
+    },
+    {
+      "title": "Enfermedades de la próstata",
+      "url": "https://medlineplus.gov/spanish/prostatediseases.html",
+      "id": "2111"
+    },
+    {
+      "title": "Enfermedades del pene",
+      "url": "https://medlineplus.gov/spanish/penisdisorders.html",
+      "id": "2020"
+    },
+    {
+      "title": "Infertilidad en el hombre",
+      "url": "https://medlineplus.gov/spanish/maleinfertility.html",
+      "id": "5657"
+    },
+    {
+      "title": "Problemas sexuales en los hombres",
+      "url": "https://medlineplus.gov/spanish/sexualproblemsinmen.html",
+      "id": "5572"
+    }
+  ],
+  "see_references": [
+    "Hombres, Salud de los",
+    "Varón, Salud del"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/menshealth.html"
+}

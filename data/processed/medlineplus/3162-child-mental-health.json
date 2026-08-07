@@ -1,0 +1,64 @@
+{
+  "id": "3162",
+  "title": "Child Mental Health",
+  "language": "English",
+  "date_created": "02/27/2003",
+  "meta_description": "It's important to recognize and treat mental illnesses in children early on. Learn about warning signs, tests, and therapies.",
+  "summary": "It's important to recognize and treat mental illnesses in children early on. Once mental illness develops, it becomes a regular part of your child's behavior. This makes it more difficult to treat. But it's not always easy to know when your child has a serious problem. Everyday stresses can cause changes in your child's behavior. For example, getting a new brother or sister or going to a new school may cause a child to temporarily act out. Warning signs that it might be a more serious problem include: Problems in more than one setting (at school, at home, with peers) Changes in appetite or sleep Social withdrawal or fear of things he or she did not used to be not afraid of Returning to behaviors more common in younger children, such as bedwetting Signs of being upset, such as sadness or tearfulness Signs of self-destructive behavior, such as head-banging or suddenly getting hurt often Repeated thoughts of death To diagnose mental health problems, the doctor or mental health specialist looks at your child's signs and symptoms, medical history, and family history. Treatments include medicines and talk therapy. NIH: National Institute of Mental Health",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Mental Health and Behavior"
+  ],
+  "related_topics": [
+    {
+      "title": "Bullying and Cyberbullying",
+      "url": "https://medlineplus.gov/bullyingandcyberbullying.html",
+      "id": "4026"
+    },
+    {
+      "title": "Child Behavior Disorders",
+      "url": "https://medlineplus.gov/childbehaviordisorders.html",
+      "id": "184"
+    },
+    {
+      "title": "Mental Disorders",
+      "url": "https://medlineplus.gov/mentaldisorders.html",
+      "id": "5676"
+    },
+    {
+      "title": "Mental Health",
+      "url": "https://medlineplus.gov/mentalhealth.html",
+      "id": "35"
+    }
+  ],
+  "see_references": [
+    "Mental Health, Child"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Mental Health",
+      "url": "http://www.nimh.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Mental Disorders",
+      "id": "D001523"
+    },
+    {
+      "name": "Mental Health",
+      "id": "D008603"
+    },
+    {
+      "name": "Psychology, Child",
+      "id": "D002666"
+    },
+    {
+      "name": "Child Psychiatry",
+      "id": "D002665"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/childmentalhealth.html"
+}

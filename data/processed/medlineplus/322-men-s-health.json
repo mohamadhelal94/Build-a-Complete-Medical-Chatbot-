@@ -1,0 +1,60 @@
+{
+  "id": "322",
+  "title": "Men's Health",
+  "language": "English",
+  "date_created": "12/02/1999",
+  "meta_description": "Many men need to pay more attention to their health. Preventive care and screening tests can help lower risks, detect problems early, and improve outcomes.",
+  "summary": "Most men need to pay more attention to their health. Compared to women, men are more likely to: Smoke and drink Make unhealthy or risky choices Put off regular checkups and medical care There are also health conditions that only affect men, such as prostate cancer and low testosterone. Many of the major health risks that men face - like colon cancer or heart disease - can be prevented and treated with early diagnosis. Screening tests can find diseases early, when they are easier to treat. It's important to get the screening tests you need.",
+  "synonyms": [],
+  "groups": [
+    "Men",
+    "Population Groups"
+  ],
+  "related_topics": [
+    {
+      "title": "Enlarged Prostate (BPH)",
+      "url": "https://medlineplus.gov/enlargedprostatebph.html",
+      "id": "6196"
+    },
+    {
+      "title": "Erectile Dysfunction",
+      "url": "https://medlineplus.gov/erectiledysfunction.html",
+      "id": "118"
+    },
+    {
+      "title": "Penis Disorders",
+      "url": "https://medlineplus.gov/penisdisorders.html",
+      "id": "1360"
+    },
+    {
+      "title": "Prostate Cancer",
+      "url": "https://medlineplus.gov/prostatecancer.html",
+      "id": "112"
+    },
+    {
+      "title": "Prostate Diseases",
+      "url": "https://medlineplus.gov/prostatediseases.html",
+      "id": "7"
+    },
+    {
+      "title": "Sexual Problems in Men",
+      "url": "https://medlineplus.gov/sexualproblemsinmen.html",
+      "id": "5571"
+    },
+    {
+      "title": "Testicular Cancer",
+      "url": "https://medlineplus.gov/testicularcancer.html",
+      "id": "434"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Men's Health",
+      "id": "D054526"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/menshealth.html"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "3585",
+  "title": "Benign Tumors",
+  "language": "English",
+  "date_created": "08/20/2003",
+  "meta_description": "Benign tumors may not be cancerous but do need to be removed by a doctor. Find out more about benign tumors.",
+  "summary": "Tumors are abnormal growths in your body. They can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. Benign tumors grow only in one place. They cannot spread or invade other parts of your body. Even so, they can be dangerous if they press on vital organs, such as your brain. Tumors are made up of extra cells. Normally, cells grow and divide to form new cells as your body needs them. When cells grow old, they die, and new cells take their place. Sometimes, this process goes wrong. New cells form when your body does not need them, and old cells do not die when they should. These extra cells can divide without stopping and may form a tumor. Treatment often involves surgery. Benign tumors usually don't grow back. NIH: National Cancer Institute",
+  "synonyms": [
+    "Benign neoplasms",
+    "Noncancerous tumors"
+  ],
+  "groups": [
+    "Cancers"
+  ],
+  "related_topics": [
+    {
+      "title": "Acoustic Neuroma",
+      "url": "https://medlineplus.gov/acousticneuroma.html",
+      "id": "1624"
+    },
+    {
+      "title": "Colonic Polyps",
+      "url": "https://medlineplus.gov/colonicpolyps.html",
+      "id": "3134"
+    },
+    {
+      "title": "Neurofibromatosis",
+      "url": "https://medlineplus.gov/neurofibromatosis.html",
+      "id": "1387"
+    },
+    {
+      "title": "Tuberous Sclerosis",
+      "url": "https://medlineplus.gov/tuberoussclerosis.html",
+      "id": "1375"
+    },
+    {
+      "title": "Uterine Fibroids",
+      "url": "https://medlineplus.gov/uterinefibroids.html",
+      "id": "1222"
+    }
+  ],
+  "see_references": [
+    "Adenoma",
+    "Hemangioma",
+    "Tumors, Benign"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Papilloma",
+      "id": "D010212"
+    },
+    {
+      "name": "Fibroma",
+      "id": "D005350"
+    },
+    {
+      "name": "Adenoma",
+      "id": "D000236"
+    },
+    {
+      "name": "Myoma",
+      "id": "D009214"
+    },
+    {
+      "name": "Lipoma",
+      "id": "D008067"
+    },
+    {
+      "name": "Neoplasms",
+      "id": "D009369"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/benigntumors.html"
+}

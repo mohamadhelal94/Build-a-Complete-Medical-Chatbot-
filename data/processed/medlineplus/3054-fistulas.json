@@ -1,0 +1,24 @@
+{
+  "id": "3054",
+  "title": "Fistulas",
+  "language": "English",
+  "date_created": "01/23/2003",
+  "meta_description": "An abnormal connection between two body parts is called a fistula. Treatment depends on the location of the fistula. Read more about them here.",
+  "summary": "A fistula is an abnormal connection between two parts inside of the body. Fistulas may develop between different organs, such as between the esophagus and the windpipe or the bowel and the vagina. They can also develop between two blood vessels, such as between an artery and a vein or between two arteries. Some people are born with a fistula. Other common causes of fistulas include: Complications from surgery Injury Infection Diseases, such as Crohn's disease or ulcerative colitis Treatment depends on the cause of the fistula, where it is, and how bad it is. Some fistulas will close on their own. In some cases, you may need antibiotics and/or surgery.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System",
+    "Lungs and Breathing"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Fistula",
+      "id": "D005402"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/fistulas.html"
+}

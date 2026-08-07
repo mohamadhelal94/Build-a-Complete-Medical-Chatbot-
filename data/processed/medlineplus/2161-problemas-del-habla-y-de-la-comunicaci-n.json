@@ -1,0 +1,67 @@
+{
+  "id": "2161",
+  "title": "Problemas del habla y de la comunicación",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Muchos problemas pueden afectar nuestra capacidad para hablar y comunicarnos. Infórmese sobre las causas.",
+  "summary": "Muchos problemas pueden afectar nuestra capacidad para hablar y comunicarnos. Varían desde decir las palabras de manera incorrecta hasta la incapacidad total para hablar o entender el habla. Entre las causas se incluyen: Problemas auditivos y sordera Problemas con la voz , como la disfonía o los problemas causados por el labio leporino o paladar hendido Problemas del habla, como el tartamudeo Discapacidades del desarrollo Problemas de aprendizaje Trastorno del espectro autista Lesión cerebral Algunos problemas del habla y la comunicación pueden ser genéticos. Frecuentemente, se desconocen las causas. En el primer grado de enseñanza, aproximadamente 5% de los niños tienen problemas del habla notorios. La terapia del habla y del lenguaje puede serles útil. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [
+    "Retraso en el habla y lenguaje"
+  ],
+  "groups": [
+    "Cerebro y nervios",
+    "Salud oral y dental",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Afasia",
+      "url": "https://medlineplus.gov/spanish/aphasia.html",
+      "id": "1753"
+    },
+    {
+      "title": "Problemas de aprendizaje",
+      "url": "https://medlineplus.gov/spanish/learningdisabilities.html",
+      "id": "2001"
+    },
+    {
+      "title": "Problemas de audición en niños",
+      "url": "https://medlineplus.gov/spanish/hearingproblemsinchildren.html",
+      "id": "3694"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    },
+    {
+      "title": "Problemas del habla y del lenguaje en niños",
+      "url": "https://medlineplus.gov/spanish/speechandlanguageproblemsinchildren.html",
+      "id": "5960"
+    },
+    {
+      "title": "Tartamudez",
+      "url": "https://medlineplus.gov/spanish/stuttering.html",
+      "id": "3630"
+    },
+    {
+      "title": "Trastornos de la voz",
+      "url": "https://medlineplus.gov/spanish/voicedisorders.html",
+      "id": "2255"
+    }
+  ],
+  "see_references": [
+    "Comunicación, Problemas de",
+    "Habla y comunicación, Problemas de",
+    "Problemas de la comunicación"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/speechandcommunicationdisorders.html"
+}

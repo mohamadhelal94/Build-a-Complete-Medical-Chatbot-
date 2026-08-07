@@ -1,0 +1,67 @@
+{
+  "id": "1914",
+  "title": "Infecciones por hongos",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las infecciones por hongos (micosis) son causadas por hongos. Muchas son fáciles de tratar, pero otras son muy graves. Tipos, síntomas y más aquí.",
+  "summary": "Si alguna vez tuvo pie de atleta o una infección por cándida (candidiasis), puede culpar a un hongo. Los hongos son organismos primitivos. Las setas y el moho son algunos tipos de hongos. Los hongos viven en el aire, el suelo, las plantas y el agua. Algunos viven en el cuerpo humano. Sólo aproximadamente la mitad de todos los tipos de hongos son dañinos. Algunos hongos se reproducen mediante pequeñas esporas en el aire. Estas esporas pueden inhalarse o pueden caer sobre las personas. Como consecuencia, las infecciones por hongos (micóticas) suelen comenzar en los pulmones o en la piel. Es más probable que contraiga una infección micótica si tiene un sistema inmunitario debilitado. Los hongos pueden ser difíciles de matar. Para las infecciones en la piel y las uñas, se pueden aplicar medicamentos directamente sobre el área infectada. Los medicamentos antimicóticos por vía oral también se encuentran disponibles para las infecciones graves.",
+  "synonyms": [
+    "Infecciones micóticas"
+  ],
+  "groups": [
+    "Infecciones",
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Aspergilosis",
+      "url": "https://medlineplus.gov/spanish/aspergillosis.html",
+      "id": "5629"
+    },
+    {
+      "title": "Fiebre del valle",
+      "url": "https://medlineplus.gov/spanish/valleyfever.html",
+      "id": "5635"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/spanish/histoplasmosis.html",
+      "id": "5633"
+    },
+    {
+      "title": "Infecciones por cándida",
+      "url": "https://medlineplus.gov/spanish/yeastinfections.html",
+      "id": "1796"
+    },
+    {
+      "title": "Infecciones por Pneumocystis",
+      "url": "https://medlineplus.gov/spanish/pneumocystisinfections.html",
+      "id": "2093"
+    },
+    {
+      "title": "Infecciones por tiña",
+      "url": "https://medlineplus.gov/spanish/tineainfections.html",
+      "id": "2197"
+    },
+    {
+      "title": "Moho",
+      "url": "https://medlineplus.gov/spanish/molds.html",
+      "id": "2037"
+    },
+    {
+      "title": "Pie de atleta",
+      "url": "https://medlineplus.gov/spanish/athletesfoot.html",
+      "id": "1761"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/fungalinfections.html"
+}

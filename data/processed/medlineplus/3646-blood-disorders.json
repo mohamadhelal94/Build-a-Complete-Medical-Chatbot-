@@ -1,0 +1,98 @@
+{
+  "id": "3646",
+  "title": "Blood Disorders",
+  "language": "English",
+  "date_created": "11/18/2003",
+  "meta_description": "Blood disorders affect one or more parts of the blood and prevent your blood from doing its job. Find out about the types, causes, and treatments.",
+  "summary": "Your blood is living tissue made up of liquid and solids. The liquid part, called plasma, is made of water, salts and protein. Over half of your blood is plasma. The solid part of your blood contains red blood cells, white blood cells and platelets. Blood disorders affect one or more parts of the blood and prevent your blood from doing its job. They can be acute or chronic. Many blood disorders are inherited. Other causes include other diseases, side effects of medicines, and a lack of certain nutrients in your diet. Types of blood disorders include: Platelet disorders , excessive clotting , and bleeding problems , which affect how your blood clots Anemia , which happens when your blood does not carry enough oxygen to the rest of your body Cancers of the blood, such as leukemia and myeloma Eosinophilic disorders , which are problems with one type of white blood cell.",
+  "synonyms": [
+    "Hematologic diseases"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Anemia",
+      "url": "https://medlineplus.gov/anemia.html",
+      "id": "139"
+    },
+    {
+      "title": "Bleeding Disorders",
+      "url": "https://medlineplus.gov/bleedingdisorders.html",
+      "id": "166"
+    },
+    {
+      "title": "Blood",
+      "url": "https://medlineplus.gov/blood.html",
+      "id": "6037"
+    },
+    {
+      "title": "Blood Clots",
+      "url": "https://medlineplus.gov/bloodclots.html",
+      "id": "6076"
+    },
+    {
+      "title": "Blood Count Tests",
+      "url": "https://medlineplus.gov/bloodcounttests.html",
+      "id": "6351"
+    },
+    {
+      "title": "Blood Transfusion and Donation",
+      "url": "https://medlineplus.gov/bloodtransfusionanddonation.html",
+      "id": "1211"
+    },
+    {
+      "title": "Childhood Leukemia",
+      "url": "https://medlineplus.gov/childhoodleukemia.html",
+      "id": "1438"
+    },
+    {
+      "title": "Eosinophilic Disorders",
+      "url": "https://medlineplus.gov/eosinophilicdisorders.html",
+      "id": "4589"
+    },
+    {
+      "title": "Hemochromatosis",
+      "url": "https://medlineplus.gov/hemochromatosis.html",
+      "id": "1220"
+    },
+    {
+      "title": "Hemophilia",
+      "url": "https://medlineplus.gov/hemophilia.html",
+      "id": "3115"
+    },
+    {
+      "title": "Leukemia",
+      "url": "https://medlineplus.gov/leukemia.html",
+      "id": "5620"
+    },
+    {
+      "title": "Rh Incompatibility",
+      "url": "https://medlineplus.gov/rhincompatibility.html",
+      "id": "5901"
+    },
+    {
+      "title": "Thalassemia",
+      "url": "https://medlineplus.gov/thalassemia.html",
+      "id": "4239"
+    }
+  ],
+  "see_references": [
+    "Hematologic Disorders"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hematologic Diseases",
+      "id": "D006402"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/blooddisorders.html"
+}

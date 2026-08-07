@@ -1,0 +1,59 @@
+{
+  "id": "1847",
+  "title": "Salud dental",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Si no tiene una buena salud dental, puede tener problemas como caries, pérdida de dientes o enfermedad de las encías. Cómo mantener su boca saludable.",
+  "summary": "Es importante que el cuidado de la boca y los dientes comience en la infancia . Si no es así, puede tener problemas con los dientes y encías , como caries o la pérdida de los dientes. Estas son algunas cosas que puede hacer para mantener su boca y sus dientes sanos: Cepillarse los dientes dos veces al día con una pasta dental con fluoruro Limpiarse entre los dientes todos los días con hilo dental o algún producto similar Comer con inteligencia: limitar los alimentos azucarados entre comidas No fumar ni masticar tabaco Visitar regularmente al dentista o a otro profesional de salud dental NIH: Instituto Nacional de Investigación Dental y Craneofacial",
+  "synonyms": [
+    "Salud de los dientes"
+  ],
+  "groups": [
+    "Salud oral y dental",
+    "Bienestar y estilo de vida"
+  ],
+  "related_topics": [
+    {
+      "title": "Caries",
+      "url": "https://medlineplus.gov/spanish/toothdecay.html",
+      "id": "5952"
+    },
+    {
+      "title": "Dentaduras postizas",
+      "url": "https://medlineplus.gov/spanish/dentures.html",
+      "id": "3584"
+    },
+    {
+      "title": "Enfermedades de las encías",
+      "url": "https://medlineplus.gov/spanish/gumdisease.html",
+      "id": "1928"
+    },
+    {
+      "title": "Ortodoncia",
+      "url": "https://medlineplus.gov/spanish/orthodontia.html",
+      "id": "3615"
+    },
+    {
+      "title": "Salud dental del niño",
+      "url": "https://medlineplus.gov/spanish/childdentalhealth.html",
+      "id": "1811"
+    },
+    {
+      "title": "Trastornos dentales",
+      "url": "https://medlineplus.gov/spanish/toothdisorders.html",
+      "id": "3070"
+    }
+  ],
+  "see_references": [
+    "Dientes"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación Dental y Craneofacial",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCR"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/dentalhealth.html"
+}

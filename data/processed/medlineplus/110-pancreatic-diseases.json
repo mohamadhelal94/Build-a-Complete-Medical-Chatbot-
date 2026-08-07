@@ -1,0 +1,50 @@
+{
+  "id": "110",
+  "title": "Pancreatic Diseases",
+  "language": "English",
+  "date_created": "11/23/1999",
+  "meta_description": "Pancreatic diseases include pancreatitis, pancreatic cancer, and cystic fibrosis. The pancreas also plays a role in type 1 and type 2 diabetes.",
+  "summary": "The pancreas is a gland behind your stomach and in front of your spine. It produces juices that help break down food and hormones that help control blood sugar levels. Problems with the pancreas can lead to many health problems. These include: Pancreatitis , or inflammation of the pancreas: This happens when digestive enzymes start digesting the pancreas itself Pancreatic cancer Cystic fibrosis , a genetic disorder in which thick, sticky mucus can also block tubes in your pancreas The pancreas also plays a role in diabetes. In type 1 diabetes , the beta cells of the pancreas no longer make insulin because the body's immune system has attacked them. In type 2 diabetes , the pancreas loses the ability to secrete enough insulin in response to meals.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System",
+    "Endocrine System"
+  ],
+  "related_topics": [
+    {
+      "title": "Cystic Fibrosis",
+      "url": "https://medlineplus.gov/cysticfibrosis.html",
+      "id": "203"
+    },
+    {
+      "title": "Pancreas Transplantation",
+      "url": "https://medlineplus.gov/pancreastransplantation.html",
+      "id": "352"
+    },
+    {
+      "title": "Pancreatic Cancer",
+      "url": "https://medlineplus.gov/pancreaticcancer.html",
+      "id": "469"
+    },
+    {
+      "title": "Pancreatitis",
+      "url": "https://medlineplus.gov/pancreatitis.html",
+      "id": "5876"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pancreatic Diseases",
+      "id": "D010182"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pancreaticdiseases.html"
+}

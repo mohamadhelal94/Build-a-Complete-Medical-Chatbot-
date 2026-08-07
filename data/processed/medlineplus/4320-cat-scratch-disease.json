@@ -1,0 +1,26 @@
+{
+  "id": "4320",
+  "title": "Cat Scratch Disease",
+  "language": "English",
+  "date_created": "02/16/2006",
+  "meta_description": "If you feel sick after a you have been scratched or bitten by a cat, you may have cat scratch disease, also called cat scratch fever. Find out more.",
+  "summary": "Cat scratch disease (CSD) is an illness caused by the bacterium Bartonella henselae. Almost half of all cats carry the infection at some point. The infection does not make cats sick. However, the scratch or bite of an infected cat can cause symptoms in people, including : Swollen lymph nodes , especially around the head, neck, and upper limbs Fever Headache Fatigue Poor appetite For people with weak immune systems, CSD may cause more serious problems. The best way to avoid CSD is to avoid rough play with cats that could lead to scratches or bites. If you do get a scratch or bite, wash it well with soap and water. If the bite or scratch gets infected or if you have symptoms of CSD, call your doctor. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "CSD",
+    "Cat scratch fever"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Cat-Scratch Disease",
+      "id": "D002372"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/catscratchdisease.html"
+}

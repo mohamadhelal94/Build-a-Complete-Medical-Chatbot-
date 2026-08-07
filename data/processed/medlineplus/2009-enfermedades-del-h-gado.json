@@ -1,0 +1,80 @@
+{
+  "id": "2009",
+  "title": "Enfermedades del hígado",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El hígado es el órgano más grande dentro del cuerpo. Algunas condiciones son: hígado graso, hepatitis, cirrosis, alcoholismo, peritonitis, etc. Más aquí.",
+  "summary": "El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. Existen muchos tipos de enfermedades hepáticas: Enfermedades causadas por virus, como la hepatitis A , la hepatitis B y la hepatitis C Enfermedades causadas por drogas, venenos o toxinas o por ingerir demasiado alcohol. Por ejemplo, esteatosis hepática y cirrosis Cáncer de hígado Enfermedades hereditarias, como hemocromatosis y la enfermedad de Wilson Los síntomas de la enfermedad hepática pueden variar, pero a menudo incluyen hinchazón del abdomen y las piernas, aparición fácil de moretones, cambios en el color de las heces y la orina y color amarillo de piel y ojos o ictericia . A veces no hay síntomas. Las pruebas por imágenes o las pruebas funcionales hepáticas pueden comprobar si hay daño en el hígado o ayudar a diagnosticar enfermedades del hígado.",
+  "synonyms": [
+    "Enfermedades hepáticas",
+    "Hepatopatías"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cirrosis",
+      "url": "https://medlineplus.gov/spanish/cirrhosis.html",
+      "id": "1824"
+    },
+    {
+      "title": "Cáncer de hígado",
+      "url": "https://medlineplus.gov/spanish/livercancer.html",
+      "id": "2008"
+    },
+    {
+      "title": "Enfermedad de Wilson",
+      "url": "https://medlineplus.gov/spanish/wilsondisease.html",
+      "id": "2272"
+    },
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/spanish/hepatitis.html",
+      "id": "1949"
+    },
+    {
+      "title": "Hepatitis A",
+      "url": "https://medlineplus.gov/spanish/hepatitisa.html",
+      "id": "2270"
+    },
+    {
+      "title": "Hepatitis B",
+      "url": "https://medlineplus.gov/spanish/hepatitisb.html",
+      "id": "2271"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/spanish/hepatitisc.html",
+      "id": "1950"
+    },
+    {
+      "title": "Ictericia",
+      "url": "https://medlineplus.gov/spanish/jaundice.html",
+      "id": "4453"
+    },
+    {
+      "title": "Síndrome de Reye",
+      "url": "https://medlineplus.gov/spanish/reyesyndrome.html",
+      "id": "2127"
+    },
+    {
+      "title": "Trasplante de hígado",
+      "url": "https://medlineplus.gov/spanish/livertransplantation.html",
+      "id": "2010"
+    }
+  ],
+  "see_references": [
+    "Esteatohepatitis no alcohólica",
+    "Hígado, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/liverdiseases.html"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4611",
+  "title": "Linfedema",
+  "language": "Spanish",
+  "date_created": "10/08/2008",
+  "meta_description": "La linfedema es un tipo de inflamación que ocurre cuando la linfa se acumula en el tejido blando del cuerpo. Causas y opciones para tratamiento aquí.",
+  "summary": "Linfedema es el nombre de un tipo de inflamación . Ocurre cuando se acumula linfa en los tejidos blandos del cuerpo. La linfa es un líquido que contiene glóbulos blancos, células que defienden contra los gérmenes. Se puede acumular cuando el sistema linfático está dañado o bloqueado. Suele ocurrir en los brazos o las piernas. Las causas de linfedema incluyen: Infección Cáncer Tejido cicatricial por radioterapia o extirpación quirúrgica de ganglios linfáticos Afecciones hereditarias en las que los ganglios linfáticos o los vasos no se desarrollan normalmente El tratamiento puede ayudar a controlar los síntomas. Incluye ejercicios, dispositivos de compresión, cuidado de la piel y masajes. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [],
+  "groups": [
+    "Sangre, corazón y circulación",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Edema",
+      "url": "https://medlineplus.gov/spanish/edema.html",
+      "id": "1879"
+    },
+    {
+      "title": "Enfermedades del sistema linfático",
+      "url": "https://medlineplus.gov/spanish/lymphaticdiseases.html",
+      "id": "2016"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/lymphedema.html"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "5578",
+  "title": "Pregnancy and Medicines",
+  "language": "English",
+  "date_created": "08/04/2010",
+  "meta_description": "Not all medicines are safe to take when you are pregnant. Some medicines can harm your baby, including over-the-counter drugs, herbs and supplements.",
+  "summary": "Is it safe to take medicine during pregnancy? Some medicines are safe to take during pregnancy , but many are not. If you're pregnant, check with your health care provider before taking any medicine. Some medicines can harm your developing fetus . This includes: Prescription drugs Over-the-counter medicines Herbs and supplements Should I stop taking my medicine during pregnancy? Always talk to your provider before you stop or start any medicine. You may take medicine to treat a health problem you had before pregnancy. Not using the medicine that you need may be more harmful to you and your fetus than using the medicine. For example, many pregnant women take prescription medicines for health problems like diabetes , asthma, seizures, and heartburn. The decision about whether to take a certain medicine should depend on the risks and benefits that go with it. You and your provider should make this choice together. Can I take vitamins during pregnancy? If you're pregnant, you shouldn't take regular vitamins . They may have too much or too little of the vitamins you need. For example, everyone needs folic acid , a type of B vitamin. But if you're trying to get pregnant, it's really important. Getting enough folic acid before and during pregnancy can prevent birth defects of the brain or spine. During your prenatal care visits, your provider will talk about prenatal vitamins. These are a special kind of vitamin to take during pregnancy. Food and Drug Administration",
+  "synonyms": [],
+  "groups": [
+    "Pregnancy and Reproduction",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Birth Defects",
+      "url": "https://medlineplus.gov/birthdefects.html",
+      "id": "1127"
+    },
+    {
+      "title": "Fetal Alcohol Spectrum Disorders",
+      "url": "https://medlineplus.gov/fetalalcoholspectrumdisorders.html",
+      "id": "1300"
+    },
+    {
+      "title": "Medicines",
+      "url": "https://medlineplus.gov/medicines.html",
+      "id": "31"
+    },
+    {
+      "title": "Preconception Care",
+      "url": "https://medlineplus.gov/preconceptioncare.html",
+      "id": "4455"
+    },
+    {
+      "title": "Pregnancy and Opioids",
+      "url": "https://medlineplus.gov/pregnancyandopioids.html",
+      "id": "7131"
+    },
+    {
+      "title": "Pregnancy and Substance Use",
+      "url": "https://medlineplus.gov/pregnancyandsubstanceuse.html",
+      "id": "1385"
+    },
+    {
+      "title": "Reproductive Hazards",
+      "url": "https://medlineplus.gov/reproductivehazards.html",
+      "id": "39"
+    }
+  ],
+  "see_references": [
+    "Medicines and Pregnancy"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Abnormalities, Drug-Induced",
+      "id": "D000014"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pregnancyandmedicines.html"
+}

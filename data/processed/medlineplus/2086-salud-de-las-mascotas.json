@@ -1,0 +1,38 @@
+{
+  "id": "2086",
+  "title": "Salud de las mascotas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Mantener la salud de su mascota es su responsabilidad. Entérese cuáles son las señales que indican que su mascota puede tener problemas de salud.",
+  "summary": "Las mascotas pueden agregarle diversión, compañía y una sensación de seguridad a su vida. Antes de adquirir una mascota, piense cuidadosamente acerca de qué animal es el mejor para su familia. ¿Qué es lo que cada integrante de la familia busca en una mascota? ¿Quién va a cuidarla? ¿Alguna persona en la casa es alérgica a los animales? ¿Qué tipo de animal se ajusta a su estilo de vida y presupuesto? Cuando ya tenga una mascota, manténgala sana. Aprenda a reconocer los signos de problemas médicos. Lleve a su mascota al veterinario si observa: Pérdida del apetito Consumo excesivo de agua Aumento o pérdida de peso en forma rápida Comportamiento fuera de lo común Cansancio y pereza Dificultad para levantarse o acostarse Abultamientos extraños",
+  "synonyms": [],
+  "groups": [
+    "Bienestar y estilo de vida"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los animales y su salud",
+      "url": "https://medlineplus.gov/spanish/animaldiseasesandyourhealth.html",
+      "id": "4056"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/spanish/mpox.html",
+      "id": "3230"
+    },
+    {
+      "title": "Rabia",
+      "url": "https://medlineplus.gov/spanish/rabies.html",
+      "id": "2115"
+    }
+  ],
+  "see_references": [
+    "Animales domésticos, Salud de los",
+    "Mascotas",
+    "Veterianaria"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/pethealth.html"
+}

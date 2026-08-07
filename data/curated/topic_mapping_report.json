@@ -1,0 +1,3386 @@
+{
+  "mapped_manual": [
+    {
+      "topic": "High fever",
+      "category": "General Symptoms",
+      "matched_topic": "Fever",
+      "matched_name": "Fever",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fever.html"
+    },
+    {
+      "topic": "Low-grade fever",
+      "category": "General Symptoms",
+      "matched_topic": "Fever",
+      "matched_name": "Fever",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fever.html"
+    },
+    {
+      "topic": "Chills",
+      "category": "General Symptoms",
+      "matched_topic": "Fever",
+      "matched_name": "Fever",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fever.html"
+    },
+    {
+      "topic": "Weakness",
+      "category": "General Symptoms",
+      "matched_topic": "Fatigue",
+      "matched_name": "Fatigue",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fatigue.html"
+    },
+    {
+      "topic": "Confusion",
+      "category": "General Symptoms",
+      "matched_topic": "Delirium",
+      "matched_name": "Delirium",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/delirium.html"
+    },
+    {
+      "topic": "Weight loss",
+      "category": "General Symptoms",
+      "matched_topic": "Weight Control",
+      "matched_name": "Weight Control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/weightcontrol.html"
+    },
+    {
+      "topic": "Weight gain",
+      "category": "General Symptoms",
+      "matched_topic": "Weight Control",
+      "matched_name": "Weight Control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/weightcontrol.html"
+    },
+    {
+      "topic": "Muscle pain",
+      "category": "General Symptoms",
+      "matched_topic": "Muscle Disorders",
+      "matched_name": "Muscle Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/muscledisorders.html"
+    },
+    {
+      "topic": "Joint pain",
+      "category": "General Symptoms",
+      "matched_topic": "Joint Disorders",
+      "matched_name": "Joint Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/jointdisorders.html"
+    },
+    {
+      "topic": "Dry cough",
+      "category": "Respiratory",
+      "matched_topic": "Cough",
+      "matched_name": "Cough",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cough.html"
+    },
+    {
+      "topic": "Productive cough",
+      "category": "Respiratory",
+      "matched_topic": "Cough",
+      "matched_name": "Cough",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cough.html"
+    },
+    {
+      "topic": "Persistent cough",
+      "category": "Respiratory",
+      "matched_topic": "Cough",
+      "matched_name": "Cough",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cough.html"
+    },
+    {
+      "topic": "Blocked nose",
+      "category": "Respiratory",
+      "matched_topic": "Nose Injuries and Disorders",
+      "matched_name": "Nose Injuries and Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/noseinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Lower back pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Back Pain",
+      "matched_name": "Back Pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/backpain.html"
+    },
+    {
+      "topic": "Upper back pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Back Pain",
+      "matched_name": "Back Pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/backpain.html"
+    },
+    {
+      "topic": "Pain between shoulder blades",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Back Pain",
+      "matched_name": "Back Pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/backpain.html"
+    },
+    {
+      "topic": "Neck pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Neck Injuries and Disorders",
+      "matched_name": "Neck Injuries and Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/neckinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Shoulder pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Shoulder Injuries and Disorders",
+      "matched_name": "Shoulder Injuries and Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/shoulderinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Muscle stiffness",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Muscle Disorders",
+      "matched_name": "Muscle Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/muscledisorders.html"
+    },
+    {
+      "topic": "Heel pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Heel Injuries and Disorders",
+      "matched_name": "Heel Injuries and Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heelinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Ankle pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Ankle Injuries and Disorders",
+      "matched_name": "Ankle Injuries and Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/ankleinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Poor posture",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Back Pain",
+      "matched_name": "Back Pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/backpain.html"
+    },
+    {
+      "topic": "Work-related muscle pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Muscle Disorders",
+      "matched_name": "Muscle Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/muscledisorders.html"
+    },
+    {
+      "topic": "Heavy lifting injuries",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Back Injuries",
+      "matched_name": "Back Injuries",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/backinjuries.html"
+    },
+    {
+      "topic": "Penis pain",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "Penis Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Penis swelling",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "Penis Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Penis redness",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "Penis Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Penis itching",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "Penis Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Penis discharge",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Sexually Transmitted Infections",
+      "matched_name": "Sexually Transmitted Infections",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexuallytransmittedinfections.html"
+    },
+    {
+      "topic": "Pain during erection",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "Penis Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Weak erection",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Erectile Dysfunction",
+      "matched_name": "Erectile Dysfunction",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/erectiledysfunction.html"
+    },
+    {
+      "topic": "Morning erections",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Erectile Dysfunction",
+      "matched_name": "Erectile Dysfunction",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/erectiledysfunction.html"
+    },
+    {
+      "topic": "High libido",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Testicular pain",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Testicular Disorders",
+      "matched_name": "Testicular Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/testiculardisorders.html"
+    },
+    {
+      "topic": "Prostatitis",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Prostate Diseases",
+      "matched_name": "Prostate Diseases",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/prostatediseases.html"
+    },
+    {
+      "topic": "Varicocele",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Testicular Disorders",
+      "matched_name": "Testicular Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/testiculardisorders.html"
+    },
+    {
+      "topic": "Hydrocele",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Testicular Disorders",
+      "matched_name": "Testicular Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/testiculardisorders.html"
+    },
+    {
+      "topic": "Menstrual pain",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Heavy periods",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Light periods",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Irregular periods",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Missed period",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Late period",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menstruation",
+      "matched_name": "Menstruation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menstruation.html"
+    },
+    {
+      "topic": "Pain during sex",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Sexual Problems in Women",
+      "matched_name": "Sexual Problems in Women",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualproblemsinwomen.html"
+    },
+    {
+      "topic": "Vaginal discharge",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Vaginal Diseases",
+      "matched_name": "Vaginal Diseases",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vaginaldiseases.html"
+    },
+    {
+      "topic": "Vaginal itching",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Vaginal Diseases",
+      "matched_name": "Vaginal Diseases",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vaginaldiseases.html"
+    },
+    {
+      "topic": "Vaginal odor",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Vaginal Diseases",
+      "matched_name": "Vaginal Diseases",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vaginaldiseases.html"
+    },
+    {
+      "topic": "Ovarian cyst",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Ovarian Cysts",
+      "matched_name": "Ovarian Cysts",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/ovariancysts.html"
+    },
+    {
+      "topic": "Pregnancy symptoms",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Pregnancy",
+      "matched_name": "Pregnancy",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/pregnancy.html"
+    },
+    {
+      "topic": "Breast pain",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Breast Diseases",
+      "matched_name": "Breast Diseases",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/breastdiseases.html"
+    },
+    {
+      "topic": "High libido",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Different sex drives",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Partner wants more sex",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Relationship intimacy",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Communication with partner",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Anxiety and sex",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Pornography and sexual function",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Masturbation",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexual Health",
+      "matched_name": "Sexual Health",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualhealth.html"
+    },
+    {
+      "topic": "Emergency contraception",
+      "category": "Sexual Relationships",
+      "matched_topic": "Birth Control",
+      "matched_name": "Birth Control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/birthcontrol.html"
+    },
+    {
+      "topic": "STI prevention",
+      "category": "Sexual Relationships",
+      "matched_topic": "Sexually Transmitted Infections",
+      "matched_name": "Sexually Transmitted Infections",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexuallytransmittedinfections.html"
+    },
+    {
+      "topic": "Blood in urine",
+      "category": "Urinary System",
+      "matched_topic": "Urine and Urination",
+      "matched_name": "Urine and Urination",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/urineandurination.html"
+    },
+    {
+      "topic": "Hydration",
+      "category": "Lifestyle",
+      "matched_topic": "Dehydration",
+      "matched_name": "Dehydration",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/dehydration.html"
+    },
+    {
+      "topic": "Protein",
+      "category": "Lifestyle",
+      "matched_topic": "Dietary Proteins",
+      "matched_name": "Dietary Proteins",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/dietaryproteins.html"
+    },
+    {
+      "topic": "Weight loss",
+      "category": "Lifestyle",
+      "matched_topic": "Weight Control",
+      "matched_name": "Weight Control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/weightcontrol.html"
+    },
+    {
+      "topic": "Weight gain",
+      "category": "Lifestyle",
+      "matched_topic": "Weight Control",
+      "matched_name": "Weight Control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/weightcontrol.html"
+    },
+    {
+      "topic": "Adrenal disorders",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Adrenal Gland Disorders",
+      "matched_name": "Adrenal Gland Disorders",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/adrenalglanddisorders.html"
+    },
+    {
+      "topic": "Paracetamol",
+      "category": "Medicines",
+      "matched_topic": "Pain Relievers",
+      "matched_name": "Pain Relievers",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/painrelievers.html"
+    },
+    {
+      "topic": "Ibuprofen",
+      "category": "Medicines",
+      "matched_topic": "Pain Relievers",
+      "matched_name": "Pain Relievers",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/painrelievers.html"
+    },
+    {
+      "topic": "Painkillers",
+      "category": "Medicines",
+      "matched_topic": "Pain Relievers",
+      "matched_name": "Pain Relievers",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/painrelievers.html"
+    },
+    {
+      "topic": "Missed dose",
+      "category": "Medicines",
+      "matched_topic": "Medicines",
+      "matched_name": "Medicines",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/medicines.html"
+    },
+    {
+      "topic": "Medicine safety",
+      "category": "Medicines",
+      "matched_topic": "Medicines",
+      "matched_name": "Medicines",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/medicines.html"
+    },
+    {
+      "topic": "Vaccinations",
+      "category": "Pregnancy & Children",
+      "matched_topic": "Vaccines",
+      "matched_name": "Vaccines",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vaccines.html"
+    },
+    {
+      "topic": "Dry eyes",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "Tears",
+      "matched_name": "Tears",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/tears.html"
+    }
+  ],
+  "mapped_exact": [
+    {
+      "topic": "Fever",
+      "category": "General Symptoms",
+      "matched_topic": "Fever",
+      "matched_name": "fever",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fever.html"
+    },
+    {
+      "topic": "Fatigue",
+      "category": "General Symptoms",
+      "matched_topic": "Fatigue",
+      "matched_name": "fatigue",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fatigue.html"
+    },
+    {
+      "topic": "Headache",
+      "category": "General Symptoms",
+      "matched_topic": "Headache",
+      "matched_name": "headache",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/headache.html"
+    },
+    {
+      "topic": "Migraine",
+      "category": "General Symptoms",
+      "matched_topic": "Migraine",
+      "matched_name": "migraine",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/migraine.html"
+    },
+    {
+      "topic": "Vertigo",
+      "category": "General Symptoms",
+      "matched_topic": "Dizziness and Vertigo",
+      "matched_name": "vertigo",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/dizzinessandvertigo.html"
+    },
+    {
+      "topic": "Fainting",
+      "category": "General Symptoms",
+      "matched_topic": "Fainting",
+      "matched_name": "fainting",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fainting.html"
+    },
+    {
+      "topic": "Dehydration",
+      "category": "General Symptoms",
+      "matched_topic": "Dehydration",
+      "matched_name": "dehydration",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/dehydration.html"
+    },
+    {
+      "topic": "Swollen glands",
+      "category": "General Symptoms",
+      "matched_topic": "Lymphatic Diseases",
+      "matched_name": "swollen glands",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/lymphaticdiseases.html"
+    },
+    {
+      "topic": "Swelling",
+      "category": "General Symptoms",
+      "matched_topic": "Edema",
+      "matched_name": "swelling",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/edema.html"
+    },
+    {
+      "topic": "Itching",
+      "category": "General Symptoms",
+      "matched_topic": "Itching",
+      "matched_name": "itching",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/itching.html"
+    },
+    {
+      "topic": "Tremor",
+      "category": "General Symptoms",
+      "matched_topic": "Tremor",
+      "matched_name": "tremor",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/tremor.html"
+    },
+    {
+      "topic": "Hot flashes",
+      "category": "General Symptoms",
+      "matched_topic": "Menopause",
+      "matched_name": "hot flashes",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menopause.html"
+    },
+    {
+      "topic": "Dry mouth",
+      "category": "General Symptoms",
+      "matched_topic": "Dry Mouth",
+      "matched_name": "dry mouth",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/drymouth.html"
+    },
+    {
+      "topic": "Bad breath",
+      "category": "General Symptoms",
+      "matched_topic": "Bad Breath",
+      "matched_name": "bad breath",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/badbreath.html"
+    },
+    {
+      "topic": "Common cold",
+      "category": "Respiratory",
+      "matched_topic": "Common Cold",
+      "matched_name": "common cold",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/commoncold.html"
+    },
+    {
+      "topic": "Influenza",
+      "category": "Respiratory",
+      "matched_topic": "Flu",
+      "matched_name": "influenza",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/flu.html"
+    },
+    {
+      "topic": "COVID-19",
+      "category": "Respiratory",
+      "matched_topic": "COVID-19 (Coronavirus Disease 2019)",
+      "matched_name": "covid-19",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/covid19coronavirusdisease2019.html"
+    },
+    {
+      "topic": "Sore throat",
+      "category": "Respiratory",
+      "matched_topic": "Sore Throat",
+      "matched_name": "sore throat",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sorethroat.html"
+    },
+    {
+      "topic": "Cough",
+      "category": "Respiratory",
+      "matched_topic": "Cough",
+      "matched_name": "cough",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cough.html"
+    },
+    {
+      "topic": "Chest pain",
+      "category": "Respiratory",
+      "matched_topic": "Chest Pain",
+      "matched_name": "chest pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/chestpain.html"
+    },
+    {
+      "topic": "Shortness of breath",
+      "category": "Respiratory",
+      "matched_topic": "Breathing Problems",
+      "matched_name": "shortness of breath",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/breathingproblems.html"
+    },
+    {
+      "topic": "Asthma",
+      "category": "Respiratory",
+      "matched_topic": "Asthma",
+      "matched_name": "asthma",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/asthma.html"
+    },
+    {
+      "topic": "Bronchitis",
+      "category": "Respiratory",
+      "matched_topic": "Chronic Bronchitis",
+      "matched_name": "bronchitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/chronicbronchitis.html"
+    },
+    {
+      "topic": "Pneumonia",
+      "category": "Respiratory",
+      "matched_topic": "Pneumonia",
+      "matched_name": "pneumonia",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/pneumonia.html"
+    },
+    {
+      "topic": "Sinusitis",
+      "category": "Respiratory",
+      "matched_topic": "Sinusitis",
+      "matched_name": "sinusitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sinusitis.html"
+    },
+    {
+      "topic": "Nosebleed",
+      "category": "Respiratory",
+      "matched_topic": "Nose Injuries and Disorders",
+      "matched_name": "nosebleed",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/noseinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Allergic rhinitis",
+      "category": "Respiratory",
+      "matched_topic": "Allergy",
+      "matched_name": "allergic rhinitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/allergy.html"
+    },
+    {
+      "topic": "Seasonal allergies",
+      "category": "Respiratory",
+      "matched_topic": "Hay Fever",
+      "matched_name": "seasonal allergies",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hayfever.html"
+    },
+    {
+      "topic": "Hay fever",
+      "category": "Respiratory",
+      "matched_topic": "Hay Fever",
+      "matched_name": "hay fever",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hayfever.html"
+    },
+    {
+      "topic": "Abdominal pain",
+      "category": "Digestive",
+      "matched_topic": "Abdominal Pain",
+      "matched_name": "abdominal pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/abdominalpain.html"
+    },
+    {
+      "topic": "Heartburn",
+      "category": "Digestive",
+      "matched_topic": "Heartburn",
+      "matched_name": "heartburn",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heartburn.html"
+    },
+    {
+      "topic": "GERD",
+      "category": "Digestive",
+      "matched_topic": "GERD",
+      "matched_name": "gerd",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/gerd.html"
+    },
+    {
+      "topic": "Indigestion",
+      "category": "Digestive",
+      "matched_topic": "Indigestion",
+      "matched_name": "indigestion",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/indigestion.html"
+    },
+    {
+      "topic": "Acid reflux",
+      "category": "Digestive",
+      "matched_topic": "Heartburn",
+      "matched_name": "acid reflux",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heartburn.html"
+    },
+    {
+      "topic": "Gas",
+      "category": "Digestive",
+      "matched_topic": "Gas",
+      "matched_name": "gas",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/gas.html"
+    },
+    {
+      "topic": "Burping",
+      "category": "Digestive",
+      "matched_topic": "Gas",
+      "matched_name": "burping",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/gas.html"
+    },
+    {
+      "topic": "Hiccups",
+      "category": "Digestive",
+      "matched_topic": "Hiccups",
+      "matched_name": "hiccups",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hiccups.html"
+    },
+    {
+      "topic": "Vomiting",
+      "category": "Digestive",
+      "matched_topic": "Nausea and Vomiting",
+      "matched_name": "vomiting",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/nauseaandvomiting.html"
+    },
+    {
+      "topic": "Diarrhea",
+      "category": "Digestive",
+      "matched_topic": "Diarrhea",
+      "matched_name": "diarrhea",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/diarrhea.html"
+    },
+    {
+      "topic": "Constipation",
+      "category": "Digestive",
+      "matched_topic": "Constipation",
+      "matched_name": "constipation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/constipation.html"
+    },
+    {
+      "topic": "Food poisoning",
+      "category": "Digestive",
+      "matched_topic": "Foodborne Illness",
+      "matched_name": "food poisoning",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/foodborneillness.html"
+    },
+    {
+      "topic": "Hemorrhoids",
+      "category": "Digestive",
+      "matched_topic": "Hemorrhoids",
+      "matched_name": "hemorrhoids",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hemorrhoids.html"
+    },
+    {
+      "topic": "IBS",
+      "category": "Digestive",
+      "matched_topic": "Irritable Bowel Syndrome",
+      "matched_name": "ibs",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/irritablebowelsyndrome.html"
+    },
+    {
+      "topic": "Crohn's disease",
+      "category": "Digestive",
+      "matched_topic": "Crohn's Disease",
+      "matched_name": "crohn's disease",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/crohnsdisease.html"
+    },
+    {
+      "topic": "Ulcerative colitis",
+      "category": "Digestive",
+      "matched_topic": "Ulcerative Colitis",
+      "matched_name": "ulcerative colitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/ulcerativecolitis.html"
+    },
+    {
+      "topic": "Gallstones",
+      "category": "Digestive",
+      "matched_topic": "Gallstones",
+      "matched_name": "gallstones",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/gallstones.html"
+    },
+    {
+      "topic": "Appendicitis",
+      "category": "Digestive",
+      "matched_topic": "Appendicitis",
+      "matched_name": "appendicitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/appendicitis.html"
+    },
+    {
+      "topic": "Stomach ulcer",
+      "category": "Digestive",
+      "matched_topic": "Peptic Ulcer",
+      "matched_name": "stomach ulcer",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/pepticulcer.html"
+    },
+    {
+      "topic": "Lactose intolerance",
+      "category": "Digestive",
+      "matched_topic": "Lactose Intolerance",
+      "matched_name": "lactose intolerance",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/lactoseintolerance.html"
+    },
+    {
+      "topic": "Celiac disease",
+      "category": "Digestive",
+      "matched_topic": "Celiac Disease",
+      "matched_name": "celiac disease",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/celiacdisease.html"
+    },
+    {
+      "topic": "Frozen shoulder",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Shoulder Injuries and Disorders",
+      "matched_name": "frozen shoulder",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/shoulderinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Muscle strain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Sprains and Strains",
+      "matched_name": "muscle strain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sprainsandstrains.html"
+    },
+    {
+      "topic": "Muscle cramps",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Muscle Cramps",
+      "matched_name": "muscle cramps",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/musclecramps.html"
+    },
+    {
+      "topic": "Sciatica",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Sciatica",
+      "matched_name": "sciatica",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sciatica.html"
+    },
+    {
+      "topic": "Tennis elbow",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Elbow Injuries and Disorders",
+      "matched_name": "tennis elbow",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/elbowinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Carpal tunnel syndrome",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Carpal Tunnel Syndrome",
+      "matched_name": "carpal tunnel syndrome",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/carpaltunnelsyndrome.html"
+    },
+    {
+      "topic": "Arthritis",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Arthritis",
+      "matched_name": "arthritis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/arthritis.html"
+    },
+    {
+      "topic": "Osteoarthritis",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Osteoarthritis",
+      "matched_name": "osteoarthritis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/osteoarthritis.html"
+    },
+    {
+      "topic": "Rheumatoid arthritis",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "Rheumatoid Arthritis",
+      "matched_name": "rheumatoid arthritis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/rheumatoidarthritis.html"
+    },
+    {
+      "topic": "Peyronie's disease",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Penis Disorders",
+      "matched_name": "peyronie's disease",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/penisdisorders.html"
+    },
+    {
+      "topic": "Erectile dysfunction",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Erectile Dysfunction",
+      "matched_name": "erectile dysfunction",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/erectiledysfunction.html"
+    },
+    {
+      "topic": "Premature ejaculation",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Sexual Problems in Men",
+      "matched_name": "premature ejaculation",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sexualproblemsinmen.html"
+    },
+    {
+      "topic": "Infertility",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Infertility",
+      "matched_name": "infertility",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/infertility.html"
+    },
+    {
+      "topic": "Pelvic pain",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Pelvic Pain",
+      "matched_name": "pelvic pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/pelvicpain.html"
+    },
+    {
+      "topic": "Menopause",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menopause",
+      "matched_name": "menopause",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menopause.html"
+    },
+    {
+      "topic": "Perimenopause",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Menopause",
+      "matched_name": "perimenopause",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/menopause.html"
+    },
+    {
+      "topic": "PCOS",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Polycystic Ovary Syndrome",
+      "matched_name": "pcos",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/polycysticovarysyndrome.html"
+    },
+    {
+      "topic": "Endometriosis",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Endometriosis",
+      "matched_name": "endometriosis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/endometriosis.html"
+    },
+    {
+      "topic": "Postpartum care",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "Postpartum Care",
+      "matched_name": "postpartum care",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/postpartumcare.html"
+    },
+    {
+      "topic": "Birth control",
+      "category": "Sexual Relationships",
+      "matched_topic": "Birth Control",
+      "matched_name": "birth control",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/birthcontrol.html"
+    },
+    {
+      "topic": "Kidney stones",
+      "category": "Urinary System",
+      "matched_topic": "Kidney Stones",
+      "matched_name": "kidney stones",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/kidneystones.html"
+    },
+    {
+      "topic": "Overactive bladder",
+      "category": "Urinary System",
+      "matched_topic": "Overactive Bladder",
+      "matched_name": "overactive bladder",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/overactivebladder.html"
+    },
+    {
+      "topic": "Urinary incontinence",
+      "category": "Urinary System",
+      "matched_topic": "Urinary Incontinence",
+      "matched_name": "urinary incontinence",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/urinaryincontinence.html"
+    },
+    {
+      "topic": "Stress",
+      "category": "Mental Health",
+      "matched_topic": "Stress",
+      "matched_name": "stress",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/stress.html"
+    },
+    {
+      "topic": "Anxiety",
+      "category": "Mental Health",
+      "matched_topic": "Anxiety",
+      "matched_name": "anxiety",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/anxiety.html"
+    },
+    {
+      "topic": "Depression",
+      "category": "Mental Health",
+      "matched_topic": "Depression",
+      "matched_name": "depression",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/depression.html"
+    },
+    {
+      "topic": "Grief",
+      "category": "Mental Health",
+      "matched_topic": "Bereavement",
+      "matched_name": "grief",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/bereavement.html"
+    },
+    {
+      "topic": "ADHD",
+      "category": "Mental Health",
+      "matched_topic": "Attention Deficit Hyperactivity Disorder",
+      "matched_name": "adhd",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/attentiondeficithyperactivitydisorder.html"
+    },
+    {
+      "topic": "Autism",
+      "category": "Mental Health",
+      "matched_topic": "Autism Spectrum Disorder",
+      "matched_name": "autism",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/autismspectrumdisorder.html"
+    },
+    {
+      "topic": "OCD",
+      "category": "Mental Health",
+      "matched_topic": "Obsessive-Compulsive Disorder",
+      "matched_name": "ocd",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+    },
+    {
+      "topic": "PTSD",
+      "category": "Mental Health",
+      "matched_topic": "Post-Traumatic Stress Disorder",
+      "matched_name": "ptsd",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/posttraumaticstressdisorder.html"
+    },
+    {
+      "topic": "Insomnia",
+      "category": "Mental Health",
+      "matched_topic": "Insomnia",
+      "matched_name": "insomnia",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/insomnia.html"
+    },
+    {
+      "topic": "Smoking",
+      "category": "Lifestyle",
+      "matched_topic": "Smoking",
+      "matched_name": "smoking",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/smoking.html"
+    },
+    {
+      "topic": "Vaping",
+      "category": "Lifestyle",
+      "matched_topic": "E-Cigarettes",
+      "matched_name": "vaping",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/ecigarettes.html"
+    },
+    {
+      "topic": "Alcohol",
+      "category": "Lifestyle",
+      "matched_topic": "Alcohol",
+      "matched_name": "alcohol",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/alcohol.html"
+    },
+    {
+      "topic": "Energy drinks",
+      "category": "Lifestyle",
+      "matched_topic": "Caffeine",
+      "matched_name": "energy drinks",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/caffeine.html"
+    },
+    {
+      "topic": "Vitamins",
+      "category": "Lifestyle",
+      "matched_topic": "Vitamins",
+      "matched_name": "vitamins",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vitamins.html"
+    },
+    {
+      "topic": "Minerals",
+      "category": "Lifestyle",
+      "matched_topic": "Minerals",
+      "matched_name": "minerals",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/minerals.html"
+    },
+    {
+      "topic": "Obesity",
+      "category": "Lifestyle",
+      "matched_topic": "Obesity",
+      "matched_name": "obesity",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/obesity.html"
+    },
+    {
+      "topic": "Healthy eating",
+      "category": "Lifestyle",
+      "matched_topic": "Nutrition",
+      "matched_name": "healthy eating",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/nutrition.html"
+    },
+    {
+      "topic": "Sleep hygiene",
+      "category": "Lifestyle",
+      "matched_topic": "Healthy Sleep",
+      "matched_name": "sleep hygiene",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/healthysleep.html"
+    },
+    {
+      "topic": "Acne",
+      "category": "Skin",
+      "matched_topic": "Acne",
+      "matched_name": "acne",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/acne.html"
+    },
+    {
+      "topic": "Eczema",
+      "category": "Skin",
+      "matched_topic": "Eczema",
+      "matched_name": "eczema",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/eczema.html"
+    },
+    {
+      "topic": "Psoriasis",
+      "category": "Skin",
+      "matched_topic": "Psoriasis",
+      "matched_name": "psoriasis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/psoriasis.html"
+    },
+    {
+      "topic": "Sunburn",
+      "category": "Skin",
+      "matched_topic": "Sun Exposure",
+      "matched_name": "sunburn",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/sunexposure.html"
+    },
+    {
+      "topic": "Ringworm",
+      "category": "Skin",
+      "matched_topic": "Tinea Infections",
+      "matched_name": "ringworm",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/tineainfections.html"
+    },
+    {
+      "topic": "Cellulitis",
+      "category": "Skin",
+      "matched_topic": "Cellulitis",
+      "matched_name": "cellulitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cellulitis.html"
+    },
+    {
+      "topic": "Hives",
+      "category": "Skin",
+      "matched_topic": "Hives",
+      "matched_name": "hives",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hives.html"
+    },
+    {
+      "topic": "Warts",
+      "category": "Skin",
+      "matched_topic": "Warts",
+      "matched_name": "warts",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/warts.html"
+    },
+    {
+      "topic": "Moles",
+      "category": "Skin",
+      "matched_topic": "Moles",
+      "matched_name": "moles",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/moles.html"
+    },
+    {
+      "topic": "Scabies",
+      "category": "Skin",
+      "matched_topic": "Scabies",
+      "matched_name": "scabies",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/scabies.html"
+    },
+    {
+      "topic": "Rosacea",
+      "category": "Skin",
+      "matched_topic": "Rosacea",
+      "matched_name": "rosacea",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/rosacea.html"
+    },
+    {
+      "topic": "Cold sores",
+      "category": "Skin",
+      "matched_topic": "Cold Sores",
+      "matched_name": "cold sores",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/coldsores.html"
+    },
+    {
+      "topic": "Shingles",
+      "category": "Skin",
+      "matched_topic": "Shingles",
+      "matched_name": "shingles",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/shingles.html"
+    },
+    {
+      "topic": "High blood pressure",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "High Blood Pressure",
+      "matched_name": "high blood pressure",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/highbloodpressure.html"
+    },
+    {
+      "topic": "Low blood pressure",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "Low Blood Pressure",
+      "matched_name": "low blood pressure",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/lowbloodpressure.html"
+    },
+    {
+      "topic": "Chest pain",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "Chest Pain",
+      "matched_name": "chest pain",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/chestpain.html"
+    },
+    {
+      "topic": "Heart failure",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "Heart Failure",
+      "matched_name": "heart failure",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heartfailure.html"
+    },
+    {
+      "topic": "Type 1 diabetes",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Diabetes Type 1",
+      "matched_name": "type 1 diabetes",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/diabetestype1.html"
+    },
+    {
+      "topic": "Type 2 diabetes",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Diabetes Type 2",
+      "matched_name": "type 2 diabetes",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/diabetestype2.html"
+    },
+    {
+      "topic": "Prediabetes",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Prediabetes",
+      "matched_name": "prediabetes",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/prediabetes.html"
+    },
+    {
+      "topic": "Hypoglycemia",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Hypoglycemia",
+      "matched_name": "hypoglycemia",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hypoglycemia.html"
+    },
+    {
+      "topic": "Hyperglycemia",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Hyperglycemia",
+      "matched_name": "hyperglycemia",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hyperglycemia.html"
+    },
+    {
+      "topic": "Insulin resistance",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Metabolic Syndrome",
+      "matched_name": "insulin resistance",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/metabolicsyndrome.html"
+    },
+    {
+      "topic": "Hypothyroidism",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Hypothyroidism",
+      "matched_name": "hypothyroidism",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hypothyroidism.html"
+    },
+    {
+      "topic": "Hyperthyroidism",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Hyperthyroidism",
+      "matched_name": "hyperthyroidism",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hyperthyroidism.html"
+    },
+    {
+      "topic": "Antibiotics",
+      "category": "Medicines",
+      "matched_topic": "Antibiotics",
+      "matched_name": "antibiotics",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/antibiotics.html"
+    },
+    {
+      "topic": "Drug interactions",
+      "category": "Medicines",
+      "matched_topic": "Drug Reactions",
+      "matched_name": "drug interactions",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/drugreactions.html"
+    },
+    {
+      "topic": "Side effects",
+      "category": "Medicines",
+      "matched_topic": "Drug Reactions",
+      "matched_name": "side effects",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/drugreactions.html"
+    },
+    {
+      "topic": "Pregnancy",
+      "category": "Pregnancy & Children",
+      "matched_topic": "Pregnancy",
+      "matched_name": "pregnancy",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/pregnancy.html"
+    },
+    {
+      "topic": "Breastfeeding",
+      "category": "Pregnancy & Children",
+      "matched_topic": "Breastfeeding",
+      "matched_name": "breastfeeding",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/breastfeeding.html"
+    },
+    {
+      "topic": "Child development",
+      "category": "Pregnancy & Children",
+      "matched_topic": "Child Development",
+      "matched_name": "child development",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/childdevelopment.html"
+    },
+    {
+      "topic": "Burns",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Burns",
+      "matched_name": "burns",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/burns.html"
+    },
+    {
+      "topic": "Bleeding",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Bleeding",
+      "matched_name": "bleeding",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/bleeding.html"
+    },
+    {
+      "topic": "Nosebleed",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Nose Injuries and Disorders",
+      "matched_name": "nosebleed",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/noseinjuriesanddisorders.html"
+    },
+    {
+      "topic": "Choking",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Choking",
+      "matched_name": "choking",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/choking.html"
+    },
+    {
+      "topic": "CPR",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "CPR",
+      "matched_name": "cpr",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/cpr.html"
+    },
+    {
+      "topic": "Poisoning",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Poisoning",
+      "matched_name": "poisoning",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/poisoning.html"
+    },
+    {
+      "topic": "Heat stroke",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Heat Illness",
+      "matched_name": "heat stroke",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heatillness.html"
+    },
+    {
+      "topic": "Heat exhaustion",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Heat Illness",
+      "matched_name": "heat exhaustion",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/heatillness.html"
+    },
+    {
+      "topic": "Hypothermia",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Hypothermia",
+      "matched_name": "hypothermia",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hypothermia.html"
+    },
+    {
+      "topic": "Animal bites",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Animal Bites",
+      "matched_name": "animal bites",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/animalbites.html"
+    },
+    {
+      "topic": "Snake bites",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Animal Bites",
+      "matched_name": "snake bites",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/animalbites.html"
+    },
+    {
+      "topic": "Electric shock",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Electrical Injuries",
+      "matched_name": "electric shock",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/electricalinjuries.html"
+    },
+    {
+      "topic": "Broken bone",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "Fractures",
+      "matched_name": "broken bone",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/fractures.html"
+    },
+    {
+      "topic": "Hearing loss",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "Hearing Disorders and Deafness",
+      "matched_name": "hearing loss",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hearingdisordersanddeafness.html"
+    },
+    {
+      "topic": "Bad breath",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "Bad Breath",
+      "matched_name": "bad breath",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/badbreath.html"
+    },
+    {
+      "topic": "Strep throat",
+      "category": "Infectious Diseases",
+      "matched_topic": "Streptococcal Infections",
+      "matched_name": "strep throat",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/streptococcalinfections.html"
+    },
+    {
+      "topic": "Mononucleosis",
+      "category": "Infectious Diseases",
+      "matched_topic": "Infectious Mononucleosis",
+      "matched_name": "mononucleosis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/infectiousmononucleosis.html"
+    },
+    {
+      "topic": "Tuberculosis",
+      "category": "Infectious Diseases",
+      "matched_topic": "Tuberculosis",
+      "matched_name": "tuberculosis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/tuberculosis.html"
+    },
+    {
+      "topic": "Chickenpox",
+      "category": "Infectious Diseases",
+      "matched_topic": "Chickenpox",
+      "matched_name": "chickenpox",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/chickenpox.html"
+    },
+    {
+      "topic": "Measles",
+      "category": "Infectious Diseases",
+      "matched_topic": "Measles",
+      "matched_name": "measles",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/measles.html"
+    },
+    {
+      "topic": "Mumps",
+      "category": "Infectious Diseases",
+      "matched_topic": "Mumps",
+      "matched_name": "mumps",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/mumps.html"
+    },
+    {
+      "topic": "Rubella",
+      "category": "Infectious Diseases",
+      "matched_topic": "Rubella",
+      "matched_name": "rubella",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/rubella.html"
+    },
+    {
+      "topic": "Malaria",
+      "category": "Infectious Diseases",
+      "matched_topic": "Malaria",
+      "matched_name": "malaria",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/malaria.html"
+    },
+    {
+      "topic": "Dengue",
+      "category": "Infectious Diseases",
+      "matched_topic": "Dengue",
+      "matched_name": "dengue",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/dengue.html"
+    },
+    {
+      "topic": "Lyme disease",
+      "category": "Infectious Diseases",
+      "matched_topic": "Lyme Disease",
+      "matched_name": "lyme disease",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/lymedisease.html"
+    },
+    {
+      "topic": "Hepatitis",
+      "category": "Infectious Diseases",
+      "matched_topic": "Hepatitis",
+      "matched_name": "hepatitis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hepatitis.html"
+    },
+    {
+      "topic": "HIV",
+      "category": "Infectious Diseases",
+      "matched_topic": "HIV",
+      "matched_name": "hiv",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "topic": "AIDS",
+      "category": "Infectious Diseases",
+      "matched_topic": "HIV",
+      "matched_name": "aids",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "topic": "HPV",
+      "category": "Infectious Diseases",
+      "matched_topic": "HPV",
+      "matched_name": "hpv",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/hpv.html"
+    },
+    {
+      "topic": "Syphilis",
+      "category": "Infectious Diseases",
+      "matched_topic": "Syphilis",
+      "matched_name": "syphilis",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/syphilis.html"
+    },
+    {
+      "topic": "Gonorrhea",
+      "category": "Infectious Diseases",
+      "matched_topic": "Gonorrhea",
+      "matched_name": "gonorrhea",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/gonorrhea.html"
+    },
+    {
+      "topic": "Healthy eating",
+      "category": "Nutrition",
+      "matched_topic": "Nutrition",
+      "matched_name": "healthy eating",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/nutrition.html"
+    },
+    {
+      "topic": "Vegetarian diet",
+      "category": "Nutrition",
+      "matched_topic": "Vegetarian Diet",
+      "matched_name": "vegetarian diet",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vegetariandiet.html"
+    },
+    {
+      "topic": "Vegan diet",
+      "category": "Nutrition",
+      "matched_topic": "Vegetarian Diet",
+      "matched_name": "vegan diet",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vegetariandiet.html"
+    },
+    {
+      "topic": "Vitamin D",
+      "category": "Nutrition",
+      "matched_topic": "Vitamin D",
+      "matched_name": "vitamin d",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/vitamind.html"
+    },
+    {
+      "topic": "Calcium",
+      "category": "Nutrition",
+      "matched_topic": "Calcium",
+      "matched_name": "calcium",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/calcium.html"
+    },
+    {
+      "topic": "Magnesium",
+      "category": "Nutrition",
+      "matched_topic": "Minerals",
+      "matched_name": "magnesium",
+      "score": 1.0,
+      "source_url": "https://medlineplus.gov/minerals.html"
+    }
+  ],
+  "mapped_fuzzy": [
+    {
+      "topic": "Male fertility",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "Male Infertility",
+      "matched_name": "male infertility",
+      "score": 0.933,
+      "source_url": "https://medlineplus.gov/maleinfertility.html"
+    },
+    {
+      "topic": "Urinary tract infection",
+      "category": "Urinary System",
+      "matched_topic": "Urinary Tract Infections",
+      "matched_name": "urinary tract infections",
+      "score": 0.979,
+      "source_url": "https://medlineplus.gov/urinarytractinfections.html"
+    },
+    {
+      "topic": "Kidney infection",
+      "category": "Urinary System",
+      "matched_topic": "Urinary Tract Infections",
+      "matched_name": "kidney infections",
+      "score": 0.97,
+      "source_url": "https://medlineplus.gov/urinarytractinfections.html"
+    },
+    {
+      "topic": "Skin infection",
+      "category": "Skin",
+      "matched_topic": "Skin Infections",
+      "matched_name": "skin infections",
+      "score": 0.966,
+      "source_url": "https://medlineplus.gov/skininfections.html"
+    },
+    {
+      "topic": "Fungal infection",
+      "category": "Skin",
+      "matched_topic": "Fungal Infections",
+      "matched_name": "fungal infections",
+      "score": 0.97,
+      "source_url": "https://medlineplus.gov/fungalinfections.html"
+    },
+    {
+      "topic": "Thyroid disease",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "Thyroid Diseases",
+      "matched_name": "thyroid diseases",
+      "score": 0.968,
+      "source_url": "https://medlineplus.gov/thyroiddiseases.html"
+    },
+    {
+      "topic": "Pregnancy nutrition",
+      "category": "Pregnancy & Children",
+      "matched_topic": "Pregnancy and Nutrition",
+      "matched_name": "pregnancy and nutrition",
+      "score": 0.905,
+      "source_url": "https://medlineplus.gov/pregnancyandnutrition.html"
+    },
+    {
+      "topic": "Ear infection",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "Ear Infections",
+      "matched_name": "ear infections",
+      "score": 0.963,
+      "source_url": "https://medlineplus.gov/earinfections.html"
+    },
+    {
+      "topic": "Vitamin B12",
+      "category": "Nutrition",
+      "matched_topic": "B Vitamins",
+      "matched_name": "vitamin b",
+      "score": 0.9,
+      "source_url": "https://medlineplus.gov/bvitamins.html"
+    }
+  ],
+  "unmapped": [
+    {
+      "topic": "Night sweats",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Dizziness",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sleepiness",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Difficulty concentrating",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Loss of appetite",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Increased appetite",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Excessive hunger",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Excessive thirst",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Body aches",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bone pain",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bruising",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Rash",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Numbness",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Tingling",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Cold hands",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Cold feet",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Excessive sweating",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "General weakness",
+      "category": "General Symptoms",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Hoarseness",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Chest tightness",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Difficulty breathing",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Rapid breathing",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Wheezing",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Runny nose",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sneezing",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Loss of smell",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Loss of taste",
+      "category": "Respiratory",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Upper abdominal pain",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Lower abdominal pain",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Right lower abdominal pain",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Left lower abdominal pain",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bloating",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Nausea",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Blood in stool",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Black stool",
+      "category": "Digestive",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Disc herniation",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Knee pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Hip pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Foot pain",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sprained ankle",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Golfer's elbow",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Joint stiffness",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Tendon injury",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Ligament injury",
+      "category": "Muscles, Bones & Back",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Pain during urination",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Pain after ejaculation",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Curved penis",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Delayed ejaculation",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Blood in semen",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Low testosterone",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Low libido",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Testicular lump",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Scrotal swelling",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Scrotal itching",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Prostate enlargement",
+      "category": "Sexual Health (Men)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Morning sickness",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Ovulation pain",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Breast lump",
+      "category": "Sexual Health (Women)",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Low sexual desire",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Loss of libido",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "No desire for sex",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Stress and libido",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Depression and libido",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Safe sex",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Condom use",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Consent",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Pain during intercourse",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Fear of sex",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sex after childbirth",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sex during pregnancy",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sex during menstruation",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "How often is sex normal?",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is sex every day normal?",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is sex once a week normal?",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is sex three times a week normal?",
+      "category": "Sexual Relationships",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Painful urination",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Burning urination",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Frequent urination",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Urgent urination",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Cloudy urine",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Dark urine",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bedwetting",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Difficulty urinating",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Weak urine stream",
+      "category": "Urinary System",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Chronic stress",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Generalized anxiety",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Social anxiety",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Panic attack",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Burnout",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Loneliness",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Poor sleep",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Nightmares",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Excessive sleeping",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Mood swings",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Memory problems",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Health anxiety",
+      "category": "Mental Health",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Healthy diet",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Exercise",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Walking",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Running",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Gym training",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Stretching",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Coffee",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Work-life balance",
+      "category": "Lifestyle",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Dry skin",
+      "category": "Skin",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Oily skin",
+      "category": "Skin",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Skin tags",
+      "category": "Skin",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Palpitations",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Fast heart rate",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Slow heart rate",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Heart attack symptoms",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Stroke symptoms",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "High cholesterol",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Poor circulation",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Leg swelling",
+      "category": "Heart & Blood Pressure",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Low testosterone",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "High testosterone",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Hormonal imbalance",
+      "category": "Diabetes & Hormones",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Aspirin",
+      "category": "Medicines",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Anti-inflammatory medicines",
+      "category": "Medicines",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Allergy medicines",
+      "category": "Medicines",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Cold medicines",
+      "category": "Medicines",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Medicine overdose",
+      "category": "Medicines",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Baby fever",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Child fever",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Child cough",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Child diarrhea",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Child vomiting",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bottle feeding",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Teething",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Baby rash",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Child constipation",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Newborn care",
+      "category": "Pregnancy & Children",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Cuts",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Insect bites",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Head injury",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sprains",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Emergency bleeding control",
+      "category": "First Aid & Emergencies",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Eye pain",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Red eye",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Blurred vision",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Vision loss",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Ear pain",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Ringing in ears",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Toothache",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Bleeding gums",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Mouth ulcers",
+      "category": "Eye, Ear & Mouth",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Herpes",
+      "category": "Infectious Diseases",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Chlamydia",
+      "category": "Infectious Diseases",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Mediterranean diet",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Protein intake",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Fiber intake",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Sugar intake",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Salt intake",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Water intake",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Iron deficiency",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Omega-3",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Chocolate",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Fast food",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Supplements",
+      "category": "Nutrition",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can stress cause fever?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can anxiety cause chest pain?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can stress reduce sexual desire?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Why do I feel tired all the time?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Why am I always sleepy?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can chocolate affect my period?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can I exercise with a fever?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can I work with a fever?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Should I go to work when sick?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "How much water should I drink?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can I have sex during pregnancy?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can I have sex during my period?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Why don't I want sex anymore?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is it normal to have sex once a week?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is it normal to have sex every day?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Is it normal to have sex three times a week?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can stress cause erectile dysfunction?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Why do I have back pain after work?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "Can lifting heavy objects hurt my back?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "When should I see a doctor?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    },
+    {
+      "topic": "When should I go to the emergency department?",
+      "category": "Frequently Asked Questions",
+      "matched_topic": "",
+      "matched_name": "",
+      "score": 0.0,
+      "source_url": ""
+    }
+  ]
+}

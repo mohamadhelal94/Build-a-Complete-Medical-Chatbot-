@@ -1,0 +1,76 @@
+{
+  "id": "2277",
+  "title": "Trastornos metabólicos",
+  "language": "Spanish",
+  "date_created": "08/19/2002",
+  "meta_description": "El metabolismo transforma en energía los alimentos que come. Un trastorno metabólico causa problemas en este proceso, como la diabetes. Entérese aquí.",
+  "summary": "El metabolismo es el proceso que usa el organismo para obtener o producir energía por medio de los alimentos que ingiere. La comida está formada por proteínas, carbohidratos y grasas. Las sustancias químicas del sistema digestivo descomponen las partes de los alimentos en azúcares y ácidos, el combustible de su cuerpo. El organismo puede utilizar esta energía de inmediato o almacenarla en tejidos corporales, como el hígado, los músculos y la grasa corporal. Un trastorno metabólico ocurre cuando hay reacciones químicas anormales en el cuerpo que interrumpen este proceso. Cuando esto pasa, es posible que tenga demasiadas o muy pocas sustancias que su cuerpo necesita para mantenerse saludable. Existen diferentes grupos de trastornos. Algunos afectan la descomposición de los aminoácidos , los carbohidratos o los lípidos . Otro grupo, las enfermedades mitocondriales, afectan la parte de las células que producen la energía. Usted puede desarrollar un trastorno metabólico si algunos órganos, como el hígado o el páncreas, se enferman o no funcionan normalmente. La diabetes es un ejemplo.",
+  "synonyms": [
+    "Problemas del metabolismo",
+    "Problemas metabólicos"
+  ],
+  "groups": [
+    "Genética y defectos congénitos",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Amiloidosis",
+      "url": "https://medlineplus.gov/spanish/amyloidosis.html",
+      "id": "5274"
+    },
+    {
+      "title": "Enfermedad celíaca",
+      "url": "https://medlineplus.gov/spanish/celiacdisease.html",
+      "id": "1802"
+    },
+    {
+      "title": "Enfermedad de Gaucher",
+      "url": "https://medlineplus.gov/spanish/gaucherdisease.html",
+      "id": "1918"
+    },
+    {
+      "title": "Enfermedad de Wilson",
+      "url": "https://medlineplus.gov/spanish/wilsondisease.html",
+      "id": "2272"
+    },
+    {
+      "title": "Fenilcetonuria",
+      "url": "https://medlineplus.gov/spanish/phenylketonuria.html",
+      "id": "2087"
+    },
+    {
+      "title": "Hemocromatosis",
+      "url": "https://medlineplus.gov/spanish/hemochromatosis.html",
+      "id": "1947"
+    },
+    {
+      "title": "Porfiria",
+      "url": "https://medlineplus.gov/spanish/porphyria.html",
+      "id": "2098"
+    },
+    {
+      "title": "Raquitismo",
+      "url": "https://medlineplus.gov/spanish/rickets.html",
+      "id": "3899"
+    },
+    {
+      "title": "Trastornos cerebrales genéticos",
+      "url": "https://medlineplus.gov/spanish/geneticbraindisorders.html",
+      "id": "3118"
+    }
+  ],
+  "see_references": [
+    "Metabolismo",
+    "Metabolopatía congénita"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/metabolicdisorders.html"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4151",
+  "title": "Advance Directives",
+  "language": "English",
+  "date_created": "03/24/2005",
+  "meta_description": "Advance directives, or living wills, inform your family about your wishes if you become too ill to let them know. Find out more.",
+  "summary": "What kind of medical care would you want if you were too ill or hurt to express your wishes? Advance directives are legal documents that allow you to spell out your decisions about end-of-life care ahead of time. They give you a way to tell your wishes to family, friends, and health care professionals and to avoid confusion later on. A living will tells which treatments you want if you are dying or permanently unconscious. You can accept or refuse medical care. You might want to include instructions on: The use of dialysis and breathing machines If you want to be resuscitated if your breathing or heartbeat stops Tube feeding Organ or tissue donation A durable power of attorney for health care is a document that names your health care proxy. Your proxy is someone you trust to make health decisions for you if you are unable to do so. NIH: National Cancer Institute",
+  "synonyms": [],
+  "groups": [
+    "Social/Family Issues",
+    "Personal Health Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "End of Life Issues",
+      "url": "https://medlineplus.gov/endoflifeissues.html",
+      "id": "496"
+    },
+    {
+      "title": "Family Issues",
+      "url": "https://medlineplus.gov/familyissues.html",
+      "id": "525"
+    },
+    {
+      "title": "Hospice Care",
+      "url": "https://medlineplus.gov/hospicecare.html",
+      "id": "1355"
+    }
+  ],
+  "see_references": [
+    "Do-Not-Resuscitate Orders",
+    "Living Wills",
+    "Resuscitation Orders"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Advance Directives",
+      "id": "D016223"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/advancedirectives.html"
+}

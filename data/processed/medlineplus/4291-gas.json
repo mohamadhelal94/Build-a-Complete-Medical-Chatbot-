@@ -1,0 +1,59 @@
+{
+  "id": "4291",
+  "title": "Gas",
+  "language": "English",
+  "date_created": "02/01/2006",
+  "meta_description": "Passing gas can be embarrassing. But everyone does it. Find out the causes of gas and how to control burping and flatulence.",
+  "summary": "Everyone has gas. Most people pass gas 13 to 21 times a day. Passing gas through the mouth is called belching or burping. Passing gas through the anus is called flatulence. Most of the time gas does not have an odor. The odor comes from bacteria in the large intestine that release small amounts of gases that contain sulfur. Gas in the digestive tract comes from two sources: air that you swallow and the breakdown of undigested food by bacteria in the large intestine. Certain foods may cause gas. Foods that produce gas in one person may not cause gas in another. You can reduce the amount of gas you have by: Drinking lots of water and non-fizzy drinks Eating more slowly so you swallow less air when you eat Avoiding milk products if you have lactose intolerance Medicines can help reduce gas or the pain and bloating caused by gas. If your symptoms still bother you, see your health care provider. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Belch",
+    "Burp",
+    "Eructation",
+    "Flatulence",
+    "Flatus"
+  ],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Abdominal Pain",
+      "url": "https://medlineplus.gov/abdominalpain.html",
+      "id": "3061"
+    },
+    {
+      "title": "Digestive Diseases",
+      "url": "https://medlineplus.gov/digestivediseases.html",
+      "id": "29"
+    },
+    {
+      "title": "Stomach Disorders",
+      "url": "https://medlineplus.gov/stomachdisorders.html",
+      "id": "420"
+    }
+  ],
+  "see_references": [
+    "Belching",
+    "Burping",
+    "Flatulence"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Eructation",
+      "id": "D004884"
+    },
+    {
+      "name": "Flatulence",
+      "id": "D005414"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/gas.html"
+}

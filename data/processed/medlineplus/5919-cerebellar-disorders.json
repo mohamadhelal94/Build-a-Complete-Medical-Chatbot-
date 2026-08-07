@@ -1,0 +1,57 @@
+{
+  "id": "5919",
+  "title": "Cerebellar Disorders",
+  "language": "English",
+  "date_created": "11/08/2011",
+  "meta_description": "Cerebellar disorders are problems with the cerebellum, an area of the brain that controls coordination and balance. Ataxias is one of these disorders.",
+  "summary": "When you play the piano or hit a tennis ball you are activating the cerebellum. The cerebellum is the area of the brain that controls coordination and balance. Problems with the cerebellum include: Cancer Genetic disorders Ataxias - failure of muscle control in the arms and legs that result in movement disorders Degeneration - disorders caused by brain cells decreasing in size or wasting away Treatment of cerebellar disorders depends on the cause. In some cases, there is no cure but treatment may help with symptoms. NIH: National Institute of Neurological Disorders and Stroke",
+  "synonyms": [],
+  "groups": [
+    "Brain and Nerves"
+  ],
+  "related_topics": [
+    {
+      "title": "Ataxia Telangiectasia",
+      "url": "https://medlineplus.gov/ataxiatelangiectasia.html",
+      "id": "3795"
+    },
+    {
+      "title": "Brain Diseases",
+      "url": "https://medlineplus.gov/braindiseases.html",
+      "id": "174"
+    },
+    {
+      "title": "Degenerative Nerve Diseases",
+      "url": "https://medlineplus.gov/degenerativenervediseases.html",
+      "id": "619"
+    },
+    {
+      "title": "Friedreich Ataxia",
+      "url": "https://medlineplus.gov/friedreichataxia.html",
+      "id": "4359"
+    },
+    {
+      "title": "Genetic Brain Disorders",
+      "url": "https://medlineplus.gov/geneticbraindisorders.html",
+      "id": "3117"
+    }
+  ],
+  "see_references": [
+    "Ataxia",
+    "Dandy-Walker Syndrome"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cerebellar Diseases",
+      "id": "D002526"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cerebellardisorders.html"
+}

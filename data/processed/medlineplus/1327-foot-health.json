@@ -1,0 +1,61 @@
+{
+  "id": "1327",
+  "title": "Foot Health",
+  "language": "English",
+  "date_created": "08/01/2000",
+  "meta_description": "Have you been taking good care of your feet? Learn how to select the right footwear and how to practice healthy foot care on the Foot Health topic.",
+  "summary": "Each step you take involves a complex network of bones, muscles, tendons, and ligaments. This, combined with all of the weight they carry, explains why feet can have problems. To keep your feet healthy: Examine your feet regularly Wear comfortable shoes that fit Wash your feet daily with soap and lukewarm water Trim your toenails straight across and not too short Your foot health can be a clue to your overall health. For example, joint stiffness could mean arthritis. Tingling or numbness could be a sign of diabetes. Swelling might indicate kidney disease, heart disease, or high blood pressure. Good foot care and regular foot checks are an important part of your health care. If you have foot problems, be sure to talk to your doctor. NIH: National Institute on Aging",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Athlete's Foot",
+      "url": "https://medlineplus.gov/athletesfoot.html",
+      "id": "151"
+    },
+    {
+      "title": "Diabetic Foot",
+      "url": "https://medlineplus.gov/diabeticfoot.html",
+      "id": "1341"
+    },
+    {
+      "title": "Foot Injuries and Disorders",
+      "url": "https://medlineplus.gov/footinjuriesanddisorders.html",
+      "id": "508"
+    },
+    {
+      "title": "Heel Injuries and Disorders",
+      "url": "https://medlineplus.gov/heelinjuriesanddisorders.html",
+      "id": "3650"
+    },
+    {
+      "title": "Nail Diseases",
+      "url": "https://medlineplus.gov/naildiseases.html",
+      "id": "532"
+    },
+    {
+      "title": "Toe Injuries and Disorders",
+      "url": "https://medlineplus.gov/toeinjuriesanddisorders.html",
+      "id": "3648"
+    }
+  ],
+  "see_references": [
+    "Shoes"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Foot",
+      "id": "D005528"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/foothealth.html"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "4280",
+  "title": "Testicular Disorders",
+  "language": "English",
+  "date_created": "01/23/2006",
+  "meta_description": "Testicular cancer mainly affects young men between the ages of 20 and 39. You can get cancer in one or both testicles. Know what to look out for.",
+  "summary": "Testicles, or testes, make male hormones and sperm. They are two egg-shaped organs inside the scrotum, the loose sac of skin behind the penis. It's easy to injure your testicles because they are not protected by bones or muscles. Men and boys should wear athletic supporters when they play sports. You should examine your testicles monthly and seek medical attention for lumps, redness, pain or other changes. Testicles can get inflamed or infected. They can also develop cancer. Testicular cancer is rare and highly treatable. It usually happens between the ages of 15 and 40.",
+  "synonyms": [],
+  "groups": [
+    "Endocrine System",
+    "Men",
+    "Sexual Health Issues",
+    "Male Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Penis Disorders",
+      "url": "https://medlineplus.gov/penisdisorders.html",
+      "id": "1360"
+    },
+    {
+      "title": "Testicular Cancer",
+      "url": "https://medlineplus.gov/testicularcancer.html",
+      "id": "434"
+    }
+  ],
+  "see_references": [
+    "Male Genital Disorders",
+    "Semen",
+    "Undescended Testicle"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Testicular Diseases",
+      "id": "D013733"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/testiculardisorders.html"
+}

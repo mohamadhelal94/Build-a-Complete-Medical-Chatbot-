@@ -1,0 +1,47 @@
+{
+  "id": "3163",
+  "title": "Salud mental del niño",
+  "language": "Spanish",
+  "date_created": "06/20/2003",
+  "meta_description": "Es importante reconocer y tratar las enfermedades mentales de los niños desde el comienzo. Entérese sobre tipos de problemas mentales y sus síntomas.",
+  "summary": "Es importante reconocer y tratar los trastornos mentales de los niños desde el comienzo. Una vez que el trastorno mental se desarrolla, se vuelve una parte habitual de la conducta de su hijo. Esto lo hace más difícil de tratar. Pero no siempre es fácil saber si su hijo tiene un problema serio. Las tensiones diarias pueden causar cambios en el comportamiento de su hijo. Por ejemplo, la llegada de un nuevo hermano o hermana o ir a una nueva escuela puede causar problemas pasajeros de comportamiento. Las señales de aviso de cuándo podría ser un problema más serio incluyen: Problemas en más de un entorno (en la escuela, en casa, con sus compañeros) Cambios en el apetito o el sueño Aislamiento social o miedo a cosas que antes no le causaba temor Volver a portarse como un niño pequeño, por ejemplo orinarse en la cama Señales de estar molesto, como tristeza o llanto Signos de hacerse daño a sí mismo, como golpearse la cabeza o de repente herirse a menudo Pensamientos repetitivos sobre la muerte Para diagnosticar problemas de salud mental, el profesional de la salud o especialista en salud mental presta atención a las señales y síntomas de su hijo, su historia clínica y familiar. Los tratamientos incluyen medicamentos y terapia de conversación. NIH: Instituto Nacional de la Salud Mental",
+  "synonyms": [],
+  "groups": [
+    "Niños y adolescentes",
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Intimidación y ciberacoso",
+      "url": "https://medlineplus.gov/spanish/bullyingandcyberbullying.html",
+      "id": "4027"
+    },
+    {
+      "title": "Salud mental",
+      "url": "https://medlineplus.gov/spanish/mentalhealth.html",
+      "id": "2034"
+    },
+    {
+      "title": "Salud mental del adolescente",
+      "url": "https://medlineplus.gov/spanish/teenmentalhealth.html",
+      "id": "3638"
+    },
+    {
+      "title": "Trastornos de la conducta del niño",
+      "url": "https://medlineplus.gov/spanish/childbehaviordisorders.html",
+      "id": "1809"
+    }
+  ],
+  "see_references": [
+    "Chicos, Salud mental"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/childmentalhealth.html"
+}

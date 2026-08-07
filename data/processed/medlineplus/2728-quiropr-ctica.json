@@ -1,0 +1,39 @@
+{
+  "id": "2728",
+  "title": "Quiropráctica",
+  "language": "Spanish",
+  "date_created": "07/29/2003",
+  "meta_description": "Los quiroprácticos realizan ajustes de la columna u otras partes del cuerpo para corregir problemas posturales o aliviar el dolor. Más aquí",
+  "summary": "La quiropráctica es una profesión en el campo de la salud. Los quiroprácticos realizan ajustes (manipulaciones) de la columna vertebral u otras partes del cuerpo. El objetivo es corregir problemas posturales (de postura del cuerpo), aliviar el dolor y asistir la capacidad natural del cuerpo de curarse a sí mismo. En la quiropráctica se pueden usar otros tratamientos como: Calor y frío (hielo) Estimulación eléctrica Técnicas de relajación Ejercicios generales y de rehabilitación Asesoría nutricional, para adelgazar y otras sugerencias sobre el estilo de vida Suplementos dietarios Muchas personas acuden a los quiroprácticos para tratar el dolor de espalda baja, dolor de cuello y dolores de cabeza . NIH: Centro Nacional de Salud Complementaria e Integral",
+  "synonyms": [],
+  "groups": [
+    "Terapias complementarias y alternativas"
+  ],
+  "related_topics": [
+    {
+      "title": "Dolor de espalda",
+      "url": "https://medlineplus.gov/spanish/backpain.html",
+      "id": "1766"
+    },
+    {
+      "title": "Lesiones y enfermedades de la columna vertebral",
+      "url": "https://medlineplus.gov/spanish/spineinjuriesanddisorders.html",
+      "id": "2165"
+    },
+    {
+      "title": "Medicina complementaria e integral",
+      "url": "https://medlineplus.gov/spanish/complementaryandintegrativemedicine.html",
+      "id": "1735"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Centro Nacional de Salud Complementaria e Integral",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCCAM"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/chiropractic.html"
+}

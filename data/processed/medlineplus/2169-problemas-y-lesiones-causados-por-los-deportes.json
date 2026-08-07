@@ -1,0 +1,74 @@
+{
+  "id": "2169",
+  "title": "Problemas y lesiones causados por los deportes",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El ejercicio es bueno para usted, pero algunas veces puede lastimarse al hacer deportes. Cuáles son las lesiones más comunes y como prevenirlas.",
+  "summary": "El ejercicio es bueno para usted, pero algunas veces puede lastimarse cuando practica deportes o se ejercita. Los accidentes, mala forma al ejercitarse o el uso de ropa y equipo inadecuado pueden ser algunas de las causas. Algunas personas se lastiman porque no están en forma. La falta de calentamiento o estirar los músculos también puede causar lesiones. Las lesiones deportivas más comunes son: Torceduras y distensiones Lesiones de rodilla Inflamación muscular Traumatismos en el tendón de Aquiles Dolor en el hueso de la tibia Lesiones del manguito rotatorio del hombro Fracturas (huesos rotos) Dislocaciones Si se lastima, deje de practicar deportes o ejercitarse. Continuar jugando o seguir ejercitándose puede causarle más daño. El tratamiento suele comenzar con el método RICE, por sus siglas en inglés (reposo, hielo, compresión y elevación) para aliviar el dolor, reducir la inflamación y acelerar la curación. Otros tratamientos posibles incluyen analgésicos, inmovilizar el área lesionada, rehabilitación y, algunas veces, cirugía. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+  "synonyms": [],
+  "groups": [
+    "Lesiones y heridas",
+    "Bienestar y estilo de vida",
+    "Aptitud física y ejercicio"
+  ],
+  "related_topics": [
+    {
+      "title": "Conmoción cerebral",
+      "url": "https://medlineplus.gov/spanish/concussion.html",
+      "id": "4868"
+    },
+    {
+      "title": "Entrenamiento para deportes y ejercicio",
+      "url": "https://medlineplus.gov/spanish/sportsfitness.html",
+      "id": "2168"
+    },
+    {
+      "title": "Lesiones y enfermedades de la mano",
+      "url": "https://medlineplus.gov/spanish/handinjuriesanddisorders.html",
+      "id": "2239"
+    },
+    {
+      "title": "Lesiones y enfermedades de la rodilla",
+      "url": "https://medlineplus.gov/spanish/kneeinjuriesanddisorders.html",
+      "id": "1994"
+    },
+    {
+      "title": "Lesiones y enfermedades del codo",
+      "url": "https://medlineplus.gov/spanish/elbowinjuriesanddisorders.html",
+      "id": "1881"
+    },
+    {
+      "title": "Lesiones y enfermedades del hombro",
+      "url": "https://medlineplus.gov/spanish/shoulderinjuriesanddisorders.html",
+      "id": "2145"
+    },
+    {
+      "title": "Lesiones y enfermedades del pie",
+      "url": "https://medlineplus.gov/spanish/footinjuriesanddisorders.html",
+      "id": "1912"
+    },
+    {
+      "title": "Lesiones y enfermedades del tobillo",
+      "url": "https://medlineplus.gov/spanish/ankleinjuriesanddisorders.html",
+      "id": "1747"
+    },
+    {
+      "title": "Torceduras y distensiones",
+      "url": "https://medlineplus.gov/spanish/sprainsandstrains.html",
+      "id": "2235"
+    }
+  ],
+  "see_references": [
+    "Deportes, Lesiones",
+    "Deportes, Problemas"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/sportsinjuries.html"
+}

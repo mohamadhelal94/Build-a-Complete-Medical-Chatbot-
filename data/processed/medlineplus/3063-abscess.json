@@ -1,0 +1,34 @@
+{
+  "id": "3063",
+  "title": "Abscess",
+  "language": "English",
+  "date_created": "01/09/2003",
+  "meta_description": "Abscesses are filled with pus and can occur anywhere on your body. They can be painful. Learn about types of abscesses and how they are treated.",
+  "summary": "An abscess is a pocket of pus. You can get an abscess almost anywhere in your body. When an area of your body becomes infected, your body's immune system tries to fight the infection. White blood cells go to the infected area, collect within the damaged tissue, and cause inflammation. During this process, pus forms. Pus is a mixture of living and dead white blood cells, germs, and dead tissue. Bacteria, viruses, parasites and swallowed objects can all lead to abscesses. Skin abscesses are easy to detect. They are red, raised and painful. Abscesses inside your body may not be obvious and can damage organs, including the brain, lungs and others. Treatments include drainage and antibiotics.",
+  "synonyms": [],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Infectious Diseases",
+      "url": "https://medlineplus.gov/infectiousdiseases.html",
+      "id": "513"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Abscess",
+      "id": "D000038"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/abscess.html"
+}

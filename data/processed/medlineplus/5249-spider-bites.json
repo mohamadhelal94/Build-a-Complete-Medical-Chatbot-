@@ -1,0 +1,42 @@
+{
+  "id": "5249",
+  "title": "Spider Bites",
+  "language": "English",
+  "date_created": "07/27/2009",
+  "meta_description": "Spider bites generally garner a reaction similar to that of a bee sting, including redness, pain and swelling. Find tips on how to treat spider bites",
+  "summary": "Though many people are afraid of spiders, they rarely bite people unless threatened. Most spider bites are harmless. Occasionally, spider bites can cause allergic reactions. And bites by the venomous black widow and brown recluse spiders can be very dangerous to people. If you are bitten by a spider, you may see a reaction similar to that of a bee sting, including redness, pain and swelling at the site. To treat a spider bite: Wash the area well with soap and water Apply an ice pack or a wet compress to the area Take over-the-counter pain medicine, if needed Consider using antihistamines for severe swelling Seek medical treatment for small children and adults with severe symptoms",
+  "synonyms": [],
+  "groups": [
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Animal Bites",
+      "url": "https://medlineplus.gov/animalbites.html",
+      "id": "161"
+    },
+    {
+      "title": "Insect Bites and Stings",
+      "url": "https://medlineplus.gov/insectbitesandstings.html",
+      "id": "526"
+    },
+    {
+      "title": "Tick Bites",
+      "url": "https://medlineplus.gov/tickbites.html",
+      "id": "1645"
+    }
+  ],
+  "see_references": [
+    "Black Widow Spider Bites",
+    "Brown Recluse Spider Bites"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Spider Bites",
+      "id": "D001098"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spiderbites.html"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2132",
+  "title": "Enfermedades de las glándulas salivales",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las glándulas salivales producen saliva que ablanda los alimentos, lo que ayuda a digerir la comida. Entérese sobre otras funciones y condiciones.",
+  "summary": "Sus glándulas salivales se ubican en su boca. Usted tiene tres pares de glándulas salivales grandes y cientos de glándulas pequeñas. Estas producen saliva, también llamada esputo, y la segregan hacia la boca a través de aberturas llamadas ductos. La saliva ablanda los alimentos, lo que ayuda a masticarlos y tragarlos. Ayuda a digerir la comida. También limpia la boca y contiene anticuerpos que pueden matar gérmenes. Los problemas de las glándulas salivales pueden irritarlas e inflamarlas. Usted puede tener síntomas como: Un mal sabor en la boca Dificultad para abrir la boca Boca seca Dolor en su cara o boca Inflamación en su cara o cuello Entre las causas de los problemas en las glándulas salivales se incluyen las infecciones, la obstrucción y el cáncer . Los problemas también pueden deberse a otros trastornos, tales como las paperas o el síndrome de Sjögren .",
+  "synonyms": [],
+  "groups": [
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Boca seca",
+      "url": "https://medlineplus.gov/spanish/drymouth.html",
+      "id": "5799"
+    },
+    {
+      "title": "Cáncer de la glándulas salivales",
+      "url": "https://medlineplus.gov/spanish/salivaryglandcancer.html",
+      "id": "5332"
+    },
+    {
+      "title": "Paperas",
+      "url": "https://medlineplus.gov/spanish/mumps.html",
+      "id": "2042"
+    },
+    {
+      "title": "Síndrome de Sjögren",
+      "url": "https://medlineplus.gov/spanish/sjogrenssyndrome.html",
+      "id": "2148"
+    }
+  ],
+  "see_references": [
+    "Enfermedades de la glándula parótida",
+    "Glándula parótida, Enfermedades de la",
+    "Glándulas salivales, Enfermedades de las",
+    "Saliva",
+    "Sialolitos en los conductos salivales"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación Dental y Craneofacial",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCR"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/salivaryglanddisorders.html"
+}

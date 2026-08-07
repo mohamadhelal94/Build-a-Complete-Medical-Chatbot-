@@ -1,0 +1,43 @@
+{
+  "id": "5460",
+  "title": "Síndromes de malabsorción",
+  "language": "Spanish",
+  "date_created": "06/01/2010",
+  "meta_description": "El síndrome de malabsorción ocurre cuando su intestino delgado no puede absorber los nutrientes de los alimentos. Causas, síntomas, tratamientos.",
+  "summary": "Su intestino delgado hace la mayor parte de la digestión de las comidas que usted ingiere. Si usted sufre de un síndrome de malabsorción, su intestino delgado no puede absorber los nutrientes de los alimentos. Las causas de un síndrome de malabsorción incluyen: Enfermedad celíaca Intolerancia a la lactosa Síndrome del intestino corto, que es el resultado de una cirugía para extirpar una gran parte del intestino delgado Enfermedad de Whipple, una infección bacteriana rara Enfermedades genéticas Algunas medicinas El tratamiento de los síndromes de malabsorción depende de su causa.",
+  "synonyms": [
+    "Absorción deficiente de alimentos",
+    "Mala absorción intestinal",
+    "Problemas de absorción de alimentos",
+    "Problemas de absorción de nutrientes"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad celíaca",
+      "url": "https://medlineplus.gov/spanish/celiacdisease.html",
+      "id": "1802"
+    },
+    {
+      "title": "Intolerancia a la lactosa",
+      "url": "https://medlineplus.gov/spanish/lactoseintolerance.html",
+      "id": "1997"
+    }
+  ],
+  "see_references": [
+    "Absorción deficiente de alimentos",
+    "Malabsorción, Síndromes de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/malabsorptionsyndromes.html"
+}

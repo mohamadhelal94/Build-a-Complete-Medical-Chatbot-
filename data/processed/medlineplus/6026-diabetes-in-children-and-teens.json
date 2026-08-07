@@ -1,0 +1,79 @@
+{
+  "id": "6026",
+  "title": "Diabetes in Children and Teens",
+  "language": "English",
+  "date_created": "07/02/2012",
+  "meta_description": "Children and teens can get Type 1 or Type 2 Diabetes. Learn the differences between the two.",
+  "summary": "Until recently, the common type of diabetes in children and teens was type 1 . It was called juvenile diabetes. With Type 1 diabetes, the pancreas does not make insulin. Insulin is a hormone that helps glucose,or sugar, get into your cells to give them energy. Without insulin, too much sugar stays in the blood. Now younger people are also getting type 2 diabetes . Type 2 diabetes used to be called adult-onset diabetes. But now it is becoming more common in children and teens, due to more obesity . With Type 2 diabetes, the body does not make or use insulin well. Children have a higher risk of type 2 diabetes if they are overweight or have obesity, have a family history of diabetes, or are not active. Children who are African American, Hispanic, Native American/Alaska Native, Asian American, or Pacific Islander also have a higher risk. To lower the risk of type 2 diabetes in children: Have them maintain a healthy weight Be sure they are physically active Have them eat smaller portions of healthy foods Limit time with the TV, computer, and video Children and teens with type 1 diabetes may need to take insulin. Type 2 diabetes may be controlled with diet and exercise . If not, patients will need to take oral diabetes medicines or insulin. A blood test called the A1C can check on how you are managing your diabetes.",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Endocrine System",
+    "Diabetes Mellitus"
+  ],
+  "related_topics": [
+    {
+      "title": "A1C",
+      "url": "https://medlineplus.gov/a1c.html",
+      "id": "6308"
+    },
+    {
+      "title": "Blood Glucose",
+      "url": "https://medlineplus.gov/bloodglucose.html",
+      "id": "6121"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/diabetes.html",
+      "id": "4"
+    },
+    {
+      "title": "Diabetes Complications",
+      "url": "https://medlineplus.gov/diabetescomplications.html",
+      "id": "4567"
+    },
+    {
+      "title": "Diabetes Medicines",
+      "url": "https://medlineplus.gov/diabetesmedicines.html",
+      "id": "4935"
+    },
+    {
+      "title": "Diabetes Type 1",
+      "url": "https://medlineplus.gov/diabetestype1.html",
+      "id": "1339"
+    },
+    {
+      "title": "Diabetes Type 2",
+      "url": "https://medlineplus.gov/diabetestype2.html",
+      "id": "5930"
+    },
+    {
+      "title": "Diabetic Diet",
+      "url": "https://medlineplus.gov/diabeticdiet.html",
+      "id": "3048"
+    },
+    {
+      "title": "Prediabetes",
+      "url": "https://medlineplus.gov/prediabetes.html",
+      "id": "5784"
+    }
+  ],
+  "see_references": [
+    "Children and Diabetes",
+    "Teens and Diabetes"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Diabetes Mellitus",
+      "id": "D003920"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/diabetesinchildrenandteens.html"
+}

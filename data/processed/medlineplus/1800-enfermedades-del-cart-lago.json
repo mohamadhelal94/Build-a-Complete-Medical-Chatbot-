@@ -1,0 +1,49 @@
+{
+  "id": "1800",
+  "title": "Enfermedades del cartílago",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Entre los problemas en los cartílagos se encuentran osteoartritis, otros tipos de artritis, lesiones en áreas específicas como la rodilla, etc.",
+  "summary": "El cartílago es el tejido firme, pero flexible, que cubre los extremos de los huesos en una articulación. También da forma y apoyo a otras partes del cuerpo, tales como a las orejas, la nariz y la tráquea. El cartílago sano ayuda a moverse al permitir que los huesos se deslicen por encima de los otros. También protege a los huesos impidiendo que se froten entre sí. El cartílago lesionado, inflamado o dañado puede causar síntomas como dolor y limitación del movimiento. También puede conducir a daños articulares y deformidad. Entre las causas de problemas en los cartílagos se encuentran: Rupturas y lesiones, como en las lesiones causadas por los deportes Factores genéticos Otras enfermedades, tales como algunos tipos de artritis La osteoartritis resulta de la degradación del cartílago. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del tejido conectivo",
+      "url": "https://medlineplus.gov/spanish/connectivetissuedisorders.html",
+      "id": "1834"
+    },
+    {
+      "title": "Lesiones y enfermedades de la rodilla",
+      "url": "https://medlineplus.gov/spanish/kneeinjuriesanddisorders.html",
+      "id": "1994"
+    },
+    {
+      "title": "Lesiones y enfermedades del codo",
+      "url": "https://medlineplus.gov/spanish/elbowinjuriesanddisorders.html",
+      "id": "1881"
+    },
+    {
+      "title": "Problemas de las articulaciones",
+      "url": "https://medlineplus.gov/spanish/jointdisorders.html",
+      "id": "4622"
+    }
+  ],
+  "see_references": [
+    "Cartílago, Enfermedades del",
+    "Desgarro meniscal",
+    "Hallux rigidus",
+    "Osteocondritis disecante"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cartilagedisorders.html"
+}

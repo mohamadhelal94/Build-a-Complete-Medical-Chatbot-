@@ -1,0 +1,77 @@
+{
+  "id": "1906",
+  "title": "Primeros auxilios",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los accidentes son cosas que pasan. Es importante tener un botiquín de primeros auxilios disponible y también aprender a tratar heridas y lesiones.",
+  "summary": "¿Qué son los primeros auxilios? Los accidentes ocurren. Alguien podría atragantarse , sufrir una picadura de abeja , torcerse un tobillo o sufrir una quemadura o una cortada leve mientras cocina. Los primeros auxilios son la atención inmediata que se brinda después de una lesión o enfermedad repentina antes de que llegue ayuda médica . Conocer los primeros auxilios básicos y saber cuándo llamar al 911 puede ser útil para mantener la calma y actuar de manera rápida. ¿Cuándo es necesario llamar al 911? Llame al 911 de inmediato ante emergencias que pongan en peligro la vida, como cuando alguien se desmaya, no puede respirar o no reacciona a estímulos. Mientras espera a que llegue ayuda, usted podría salvarle la vida mediante: La reanimación cardiopulmonar ( RCP ). La RCP puede ayudar a una persona que ha dejado de respirar o cuyo corazón ha dejado de latir. Asimismo, un RCP (DEA) podría ser útil, ya que se usa junto con la RCP para auxiliar a alguien que está sufriendo un paro cardíaco . Con frecuencia, es posible encontrar uno en lugares públicos, como gimnasios, aeropuertos y oficinas Los golpes en la espalda y las compresiones abdominales (maniobra de Heimlich) ayudan a una persona que se está atragantando ¿Cuál es el tratamiento para las lesiones frecuentes? Considere tomar un curso de RCP o de primeros auxilios para desarrollar habilidades prácticas que pueda utilizar durante una emergencia. También podría aprender cómo tratar muchas lesiones frecuentes, entre las que se incluyen: Cortadas y raspaduras Enjuague el área con agua limpia Aplique presión firme y constante con una gasa para detener el sangrado Si la sangre empapa la gasa, coloque más gasa encima en lugar de retirar la primera capa y continúe aplicando presión Busque atención médica si el sangrado no se detiene después de 10 minutos de aplicar presión firme o si la herida es profunda, tiene los bordes separados o fue causada por un objeto sucio u oxidado Envenenamiento Si alguien ingiere una sustancia peligrosa , llame al Centro de Control de Envenenamientos al 1-800-222-1222. Con frecuencia pueden ayudarle a determinar qué hacer, incluso si necesita llamar al 911 o acudir a la sala de emergencias. Enfermedades causadas por el calor Aprenda sobre como reconocer y responder ante una enfermedad causada por el calor y otras emergencias frecuentes antes de que se vuelvan graves. ¿Qué debería tener un botiquín de primeros auxilios básicos? Es una buena idea tener un botiquín de primeros auxilios en su hogar y en su automóvil. Los botiquines de primeros auxilios vienen en muchos tipos y tamaños. Algunos están diseñados para necesidades específicas, como para usar cuando viaja, está en el trabajo o practica deportes, y contienen más suministros que un botiquín básico. También puede preparar su propio botiquín de primeros auxilios que incluya artículos personales, como números de teléfono de emergencia o medicamentos. Un botiquín de primeros auxilios básico incluye: Curitas o apósitos adhesivos Gasas estériles Cinta adhesiva Toallitas antisépticas Guantes desechables Tijeras Una guía de primeros auxilios para saber cómo usar cada artículo Revise el botiquín con regularidad y reemplace los artículos vencidos.",
+  "synonyms": [],
+  "groups": [
+    "Lesiones y heridas",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Atragantamiento",
+      "url": "https://medlineplus.gov/spanish/choking.html",
+      "id": "1818"
+    },
+    {
+      "title": "Enfermedades causadas por el calor",
+      "url": "https://medlineplus.gov/spanish/heatillness.html",
+      "id": "1946"
+    },
+    {
+      "title": "Hipotermia",
+      "url": "https://medlineplus.gov/spanish/hypothermia.html",
+      "id": "1967"
+    },
+    {
+      "title": "Mordeduras de animales",
+      "url": "https://medlineplus.gov/spanish/animalbites.html",
+      "id": "1775"
+    },
+    {
+      "title": "Objetos extraños en el cuerpo",
+      "url": "https://medlineplus.gov/spanish/foreignbodies.html",
+      "id": "5608"
+    },
+    {
+      "title": "Picaduras y mordeduras de insectos",
+      "url": "https://medlineplus.gov/spanish/insectbitesandstings.html",
+      "id": "1981"
+    },
+    {
+      "title": "Preparativos y recuperación ante un desastre",
+      "url": "https://medlineplus.gov/spanish/disasterpreparationandrecovery.html",
+      "id": "1862"
+    },
+    {
+      "title": "Quemaduras",
+      "url": "https://medlineplus.gov/spanish/burns.html",
+      "id": "1791"
+    },
+    {
+      "title": "Reanimación cardiopulmonar",
+      "url": "https://medlineplus.gov/spanish/cpr.html",
+      "id": "3640"
+    },
+    {
+      "title": "Servicios de emergencias médicas",
+      "url": "https://medlineplus.gov/spanish/emergencymedicalservices.html",
+      "id": "3874"
+    },
+    {
+      "title": "Shock",
+      "url": "https://medlineplus.gov/spanish/shock.html",
+      "id": "5718"
+    }
+  ],
+  "see_references": [
+    "Emergencias"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/firstaid.html"
+}

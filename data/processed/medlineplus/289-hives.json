@@ -1,0 +1,40 @@
+{
+  "id": "289",
+  "title": "Hives",
+  "language": "English",
+  "date_created": "10/07/1999",
+  "meta_description": "Hives is a skin rash that can cause the skin to be red and have itchy bumps. Learn possible reasons to have rashes and treatments.",
+  "summary": "Hives are red and sometimes itchy bumps on your skin. An allergic reaction to a drug or food usually causes them. Allergic reactions cause your body to release chemicals that can make your skin swell up in hives. People who have other allergies are more likely to get hives than other people. Other causes include infections and stress. Hives are very common. They usually go away on their own, but if you have a serious case, you might need medicine or a shot. In rare cases, hives can cause a dangerous swelling in your airways, making it hard to breathe - which is a medical emergency.",
+  "synonyms": [
+    "Urticaria"
+  ],
+  "groups": [
+    "Skin, Hair and Nails",
+    "Immune System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Allergy",
+      "url": "https://medlineplus.gov/allergy.html",
+      "id": "24"
+    }
+  ],
+  "see_references": [
+    "Urticaria"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urticaria",
+      "id": "D014581"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hives.html"
+}

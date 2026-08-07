@@ -1,0 +1,66 @@
+{
+  "id": "3652",
+  "title": "Intestinal Cancer",
+  "language": "English",
+  "date_created": "11/24/2003",
+  "meta_description": "There are five types of small intestine cancer. Find out how your diet and health history can affect your risk. Learn about intestinal cancer here.",
+  "summary": "Your small intestine is part of your digestive system. It is a long tube that connects your stomach to your large intestine. Intestinal cancer is rare, but eating a high-fat diet or having Crohn's disease , celiac disease, or a history of colonic polyps can increase your risk. Possible signs of small intestine cancer include: Abdominal pain Weight loss for no reason Blood in the stool A lump in the abdomen Imaging tests that create pictures of the small intestine and the area around it can help diagnose intestinal cancer and show whether it has spread. Surgery is the most common treatment. Additional options include chemotherapy, radiation therapy, or a combination. NIH: National Cancer Institute",
+  "synonyms": [
+    "Duodenal cancer",
+    "Ileal cancer",
+    "Jejunal cancer",
+    "Small intestine cancer"
+  ],
+  "groups": [
+    "Cancers",
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Carcinoid Tumors",
+      "url": "https://medlineplus.gov/carcinoidtumors.html",
+      "id": "1277"
+    },
+    {
+      "title": "Colorectal Cancer",
+      "url": "https://medlineplus.gov/colorectalcancer.html",
+      "id": "88"
+    },
+    {
+      "title": "Soft Tissue Sarcoma",
+      "url": "https://medlineplus.gov/softtissuesarcoma.html",
+      "id": "495"
+    },
+    {
+      "title": "Stomach Cancer",
+      "url": "https://medlineplus.gov/stomachcancer.html",
+      "id": "419"
+    }
+  ],
+  "see_references": [
+    "Gastrointestinal Stromal Tumors",
+    "Small Intestine Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ileal Neoplasms",
+      "id": "D007078"
+    },
+    {
+      "name": "Jejunal Neoplasms",
+      "id": "D007580"
+    },
+    {
+      "name": "Duodenal Neoplasms",
+      "id": "D004379"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/intestinalcancer.html"
+}

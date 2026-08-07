@@ -1,0 +1,38 @@
+{
+  "id": "1910",
+  "title": "Seguridad con los alimentos",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Tomar medidas para la manipulación, cocción y almacenamiento de alimentos puede prevenir enfermedades. Existen 4 pasos básicos. Aquí cuáles son.",
+  "summary": "Medidas adecuadas de seguridad en la manipulación, cocción y almacenamiento de alimentos pueden prevenir enfermedades transmitidas por alimentos . Hay cuatro pasos básicos para la seguridad alimentaria en el hogar: Limpiar: Siempre lave los alimentos, las manos, mostradores y utensilios de cocina Separe: Mantenga los alimentos crudos separados de los cocidos. Los gérmenes pueden propagarse de un alimento a otro Cocine: Los alimentos necesitan calentarse y mantenerse calientes. El calor mata a los gérmenes Enfríe: Ponga la comida fresca en el refrigerador inmediatamente En la tienda, evite latas que estén abolladas o frascos que tengan grietas o tapas sueltas. Revise las etiquetas para verificar que no ha alcanzado su fecha de vencimiento. Departamento de Agricultura de Estados Unidos",
+  "synonyms": [
+    "Inocuidad de los alimentos",
+    "Seguridad alimentaria",
+    "Seguridad con los alimentos"
+  ],
+  "groups": [
+    "Alimentos y nutrición",
+    "Envenenamientos, toxicología y salud ambiental",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Creutzfeldt-Jakob",
+      "url": "https://medlineplus.gov/spanish/creutzfeldtjakobdisease.html",
+      "id": "1840"
+    },
+    {
+      "title": "Enfermedades transmitidas por alimentos",
+      "url": "https://medlineplus.gov/spanish/foodborneillness.html",
+      "id": "1909"
+    }
+  ],
+  "see_references": [
+    "Alimentos, Seguridad",
+    "Inocuidad de los alimentos"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/foodsafety.html"
+}

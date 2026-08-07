@@ -1,0 +1,28 @@
+{
+  "id": "5274",
+  "title": "Amiloidosis",
+  "language": "Spanish",
+  "date_created": "10/06/2009",
+  "meta_description": "La amiloidosis es una afección rara que puede afectar diferentes partes del cuerpo. Entérese sobre síntomas y tratamiento de la amiloidosis.",
+  "summary": "La amiloidosis ocurre cuando proteínas anormales llamadas amiloides se acumulan y forman depósitos. Estos depósitos pueden concentrarse en ciertos órganos como los riñones y el corazón. Esto puede causar que el órgano se vuelva rígido y no pueda funcionar como debería. Hay tres tipos de amiloidosis: Primaria: sin causa conocida Secundaria: causada por otra enfermedad, incluyendo ciertos tipos de cáncer Hereditaria: se transmite por los genes Los síntomas pueden variar dependiendo del órgano afectado. El tratamiento depende del tipo de amiloidosis que usted tenga. El objetivo es aliviar los síntomas y limitar la producción de proteínas. Si la causa es otra enfermedad, se debe tratar.",
+  "synonyms": [
+    "Amilidosis"
+  ],
+  "groups": [
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Trastornos metabólicos",
+      "url": "https://medlineplus.gov/spanish/metabolicdisorders.html",
+      "id": "2277"
+    }
+  ],
+  "see_references": [
+    "Amiloide"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/amyloidosis.html"
+}

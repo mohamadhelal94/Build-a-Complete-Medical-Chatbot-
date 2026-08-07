@@ -1,0 +1,40 @@
+{
+  "id": "1917",
+  "title": "Hemorragia gastrointestinal",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El sangrado gastrointestinal puede ser síntoma de un problema más serio. Infórmese sobre pruebas y condiciones del tracto gastrointestinal aquí.",
+  "summary": "Las vías intestinales o gastrointestinales incluyen el esófago, el estómago, el intestino delgado, el intestino grueso o colon, el recto y el ano. La hemorragia (sangrado) puede provenir de una o más de estas zonas. La cantidad de sangre puede ser tan pequeña que sólo se detecta con pruebas de laboratorio. Los signos de hemorragia en el tracto digestivo dependen de dónde se encuentra y cuánto sangrando hay. Los signos de sangrado en el tracto digestivo superior incluyen: Sangre de un color rojo brillante en el vómito Vómito que parece café molido Heces negras o alquitranadas Sangre oscura mezclada con heces Heces mezcladas o recubiertas de sangre de color rojo brillante Los signos de sangrado en el tracto digestivo inferior incluyen: Heces negras o alquitranadas Sangre oscura mezclada con heces Heces mezcladas o recubiertos de sangre de color rojo brillante La hemorragia gastrointestinal no es una enfermedad, sino el síntoma de una enfermedad. Existen muchas causas posibles de hemorragia gastrointestinal, entre ellas se encuentran hemorroides , úlceras pépticas , desgarres o inflamación en el esófago, diverticulosis y diverticulitis , colitis ulcerativa o ulcerosa y enfermedad de Crohn , pólipos del colon o cáncer de colon , estómago o esófago . La prueba que se utiliza con mayor frecuencia para conocer la causa de la hemorragia gastrointestinal se llama endoscopía . Se utiliza un instrumento flexible que se inserta a través de la boca o el recto para ver el interior de las vías intestinales (GI). Un tipo de endoscopía que analiza el intestino grueso se llama colonoscopía . NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Sangrado gastrointestinal"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Hemorroides",
+      "url": "https://medlineplus.gov/spanish/hemorrhoids.html",
+      "id": "1948"
+    },
+    {
+      "title": "Úlcera péptica",
+      "url": "https://medlineplus.gov/spanish/pepticulcer.html",
+      "id": "2083"
+    }
+  ],
+  "see_references": [
+    "Digestivo, Sangrado del aparato",
+    "Sangrado gastrointestinal"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/gastrointestinalbleeding.html"
+}

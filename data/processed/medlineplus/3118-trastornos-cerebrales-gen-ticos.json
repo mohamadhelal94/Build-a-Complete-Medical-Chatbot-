@@ -1,0 +1,71 @@
+{
+  "id": "3118",
+  "title": "Trastornos cerebrales genéticos",
+  "language": "Spanish",
+  "date_created": "10/16/2003",
+  "meta_description": "Los trastornos cerebrales genéticos afectan el desarrollo y funcionamiento del cerebro. Causas, síntomas, tratamiento.",
+  "summary": "Los trastornos genéticos del cerebro son causados por una variación o mutación en un gen. Una variación o alteración es una forma diferente de un gen. Una mutación es un cambio en el gen mismo. Los trastornos cerebrales genéticos afectan el desarrollo y funcionamiento del cerebro. Algunos trastornos cerebrales genéticos se deben a las mutaciones genéticas casuales o mutaciones causadas por exposición ambiental, como lo es el humo del cigarrillo. Otras enfermedades son hereditarias, lo que significa que un gen mutante o un grupo de genes mutantes se transmite entre familiares. También existen trastornos causados por una combinación de cambios en los genes y otros factores externos. Algunos ejemplos de los trastornos cerebrales genéticos son: Leucodistrofias Fenilcetonuria Enfermedad de Tay-Sachs Enfermedad de Wilson Muchas personas con trastornos cerebrales genéticos no pueden producir suficiente cantidad de ciertas proteínas que influyen en el desarrollo y el funcionamiento del cerebro. Estos trastornos pueden causar problemas serios que afectan el sistema nervioso. Algunos de estos trastornos cuentan con tratamientos para controlar los síntomas. Algunos otros, ponen en peligro la vida.",
+  "synonyms": [
+    "Trastornos hereditarios del cerebro"
+  ],
+  "groups": [
+    "Cerebro y nervios",
+    "Genética y defectos congénitos",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Tay-Sachs",
+      "url": "https://medlineplus.gov/spanish/taysachsdisease.html",
+      "id": "2738"
+    },
+    {
+      "title": "Enfermedad de Wilson",
+      "url": "https://medlineplus.gov/spanish/wilsondisease.html",
+      "id": "2272"
+    },
+    {
+      "title": "Enfermedades del cerebelo",
+      "url": "https://medlineplus.gov/spanish/cerebellardisorders.html",
+      "id": "5920"
+    },
+    {
+      "title": "Enfermedades genéticas",
+      "url": "https://medlineplus.gov/spanish/geneticdisorders.html",
+      "id": "1921"
+    },
+    {
+      "title": "Fenilcetonuria",
+      "url": "https://medlineplus.gov/spanish/phenylketonuria.html",
+      "id": "2087"
+    },
+    {
+      "title": "Leucodistrofias",
+      "url": "https://medlineplus.gov/spanish/leukodystrophies.html",
+      "id": "2282"
+    },
+    {
+      "title": "Pruebas genéticas",
+      "url": "https://medlineplus.gov/spanish/genetictesting.html",
+      "id": "1922"
+    },
+    {
+      "title": "Trastornos metabólicos",
+      "url": "https://medlineplus.gov/spanish/metabolicdisorders.html",
+      "id": "2277"
+    }
+  ],
+  "see_references": [
+    "Cerebral genético, Trastorno",
+    "Galactosemia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/geneticbraindisorders.html"
+}

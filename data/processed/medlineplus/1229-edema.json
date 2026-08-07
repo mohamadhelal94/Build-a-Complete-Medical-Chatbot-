@@ -1,0 +1,41 @@
+{
+  "id": "1229",
+  "title": "Edema",
+  "language": "English",
+  "date_created": "01/28/2002",
+  "meta_description": "Edema is swelling caused by fluid in your tissues. It can be anywhere in the body, but is often in the feet and legs. Learn the causes and treatments.",
+  "summary": "Edema means swelling caused by fluid in your body's tissues. It usually occurs in the feet, ankles and legs, but it can involve your entire body. Causes of edema include: Eating too much salt Sunburn Heart failure Kidney disease Liver problems from cirrhosis Pregnancy Problems with lymph nodes , especially after mastectomy Some medicines Standing or walking a lot when the weather is warm To keep swelling down, your health care provider may recommend keeping your legs raised when sitting, wearing support stockings, limiting how much salt you eat, or taking a medicine called a diuretic - also called a water pill.",
+  "synonyms": [
+    "Dropsy",
+    "Swelling"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Lymphatic Diseases",
+      "url": "https://medlineplus.gov/lymphaticdiseases.html",
+      "id": "591"
+    }
+  ],
+  "see_references": [
+    "Dropsy",
+    "Swelling"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Edema",
+      "id": "D004487"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/edema.html"
+}

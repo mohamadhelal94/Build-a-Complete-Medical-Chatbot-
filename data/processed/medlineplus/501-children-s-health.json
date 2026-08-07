@@ -1,0 +1,118 @@
+{
+  "id": "501",
+  "title": "Children's Health",
+  "language": "English",
+  "date_created": "06/15/1999",
+  "meta_description": "Most parents know the basics of keeping their child healthy, but what else do you need to know? Learn about issues related to your kid's health.",
+  "summary": "Your child's health includes physical, mental and social well-being. Most parents know the basics of keeping children healthy, like offering them healthy foods , making sure they get enough sleep and exercise and ensuring their safety . It is also important for children to get regular checkups with their health care provider. These visits are a chance to check your child's development . They are also a good time to catch or prevent problems. Other than checkups, school-age children should be seen for: Significant weight gain or loss Sleep problems or change in behavior Fever higher than 102 Rashes or skin infections Frequent sore throats Breathing problems",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Population Groups"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Dental Health",
+      "url": "https://medlineplus.gov/childdentalhealth.html",
+      "id": "1535"
+    },
+    {
+      "title": "Child Development",
+      "url": "https://medlineplus.gov/childdevelopment.html",
+      "id": "185"
+    },
+    {
+      "title": "Child Mental Health",
+      "url": "https://medlineplus.gov/childmentalhealth.html",
+      "id": "3162"
+    },
+    {
+      "title": "Child Safety",
+      "url": "https://medlineplus.gov/childsafety.html",
+      "id": "535"
+    },
+    {
+      "title": "Childhood Vaccines",
+      "url": "https://medlineplus.gov/childhoodvaccines.html",
+      "id": "1342"
+    },
+    {
+      "title": "Common Infant and Newborn Problems",
+      "url": "https://medlineplus.gov/commoninfantandnewbornproblems.html",
+      "id": "5428"
+    },
+    {
+      "title": "Exercise for Children",
+      "url": "https://medlineplus.gov/exerciseforchildren.html",
+      "id": "3012"
+    },
+    {
+      "title": "Hearing Problems in Children",
+      "url": "https://medlineplus.gov/hearingproblemsinchildren.html",
+      "id": "3693"
+    },
+    {
+      "title": "Medicines and Children",
+      "url": "https://medlineplus.gov/medicinesandchildren.html",
+      "id": "6005"
+    },
+    {
+      "title": "School Health",
+      "url": "https://medlineplus.gov/schoolhealth.html",
+      "id": "3612"
+    },
+    {
+      "title": "Speech and Language Problems in Children",
+      "url": "https://medlineplus.gov/speechandlanguageproblemsinchildren.html",
+      "id": "5959"
+    },
+    {
+      "title": "Teen Health",
+      "url": "https://medlineplus.gov/teenhealth.html",
+      "id": "609"
+    },
+    {
+      "title": "Toddler Health",
+      "url": "https://medlineplus.gov/toddlerhealth.html",
+      "id": "1547"
+    },
+    {
+      "title": "Uncommon Infant and Newborn Problems",
+      "url": "https://medlineplus.gov/uncommoninfantandnewbornproblems.html",
+      "id": "5431"
+    }
+  ],
+  "see_references": [
+    "Pediatrics"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pediatrics",
+      "id": "D010372"
+    },
+    {
+      "name": "Child Health",
+      "id": "D000067576"
+    },
+    {
+      "name": "Child Health Services",
+      "id": "D002662"
+    },
+    {
+      "name": "Child, Hospitalized",
+      "id": "D002673"
+    },
+    {
+      "name": "Child Welfare",
+      "id": "D002669"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/childrenshealth.html"
+}

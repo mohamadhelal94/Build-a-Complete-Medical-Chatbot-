@@ -1,0 +1,47 @@
+{
+  "id": "1824",
+  "title": "Cirrosis",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La cirrosis hepática es un conjunto de cicatrices en el hígado. Con el tiempo puede provocar graves problemas. Síntomas, tratamiento de la cirrosis.",
+  "summary": "La cirrosis es un conjunto de cicatrices en el hígado. El tejido cicatricial se forma por lesiones o enfermedades prolongadas. Este tejido no puede hacer lo que hace el tejido hepático sano: producir proteínas, ayudar a combatir las infecciones, limpiar la sangre, ayudar a digerir los alimentos y almacenar energía. La cirrosis puede conducir a: Formación de moretones o hematomas, sangrado o sangrado de la nariz Hinchazón del abdomen o las piernas Sensibilidad adicional a las medicinas Aumento de la presión en la vena que entra al hígado Venas dilatadas en el esófago y el estómago que pueden sangrar inesperadamente Insuficiencia renal Ictericia Picazón fuerte Piedras en la vesícula Unas pocas personas con cirrosis desarrollan cáncer de hígado . La cirrosis puede tener muchas causas. En los Estados Unidos, las causas más comunes son el alcoholismo crónico y la hepatitis . Nada hará desaparecer el tejido escamoso, pero tratar la causa puede evitar que la enfermedad empeore. Si se forma demasiado tejido escamoso, quizá deba pensar en un trasplante de hígado . NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de hígado",
+      "url": "https://medlineplus.gov/spanish/livercancer.html",
+      "id": "2008"
+    },
+    {
+      "title": "Enfermedades de la vesícula biliar",
+      "url": "https://medlineplus.gov/spanish/gallbladderdiseases.html",
+      "id": "1915"
+    },
+    {
+      "title": "Enfermedades del hígado",
+      "url": "https://medlineplus.gov/spanish/liverdiseases.html",
+      "id": "2009"
+    },
+    {
+      "title": "Trasplante de hígado",
+      "url": "https://medlineplus.gov/spanish/livertransplantation.html",
+      "id": "2010"
+    }
+  ],
+  "see_references": [
+    "Cirrosis del hígado",
+    "Hígado, Cirrosis del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cirrhosis.html"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1934",
+  "title": "Centros de salud",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los centros de salud como hospitales, clínicas y centros de especialistas proveen cuidados y servicios médicos. ¿Cómo elegir el más adecuado para usted?",
+  "summary": "Los centros de salud son lugares que brindan cuidados para la salud. Incluyen hospitales, clínicas, centros de cuidados ambulatorios y centros de cuidados especializados, tales como las maternidades y los centros psiquiátricos. Al elegir un centro de salud, usted puede considerar: La cercanía a donde vive o trabaja Si su seguro médico paga los servicios en ese centro Si su médico puede atenderlo allí La calidad del establecimiento La calidad es importante. Algunos centros trabajan mejor que otros. Una forma de saber acerca de la calidad de un centro es revisar los informes realizados por el gobierno federal, estatal y grupos de consumidores.",
+  "synonyms": [
+    "Clínicas",
+    "Hospitales",
+    "Sanatorios"
+  ],
+  "groups": [
+    "Sistemas de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidados de hospicio",
+      "url": "https://medlineplus.gov/spanish/hospicecare.html",
+      "id": "1962"
+    },
+    {
+      "title": "Residencias para personas mayores",
+      "url": "https://medlineplus.gov/spanish/nursinghomes.html",
+      "id": "2057"
+    }
+  ],
+  "see_references": [
+    "Cuidado de la salud, Centros de",
+    "Hospitales"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/healthfacilities.html"
+}

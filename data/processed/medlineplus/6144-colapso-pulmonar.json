@@ -1,0 +1,43 @@
+{
+  "id": "6144",
+  "title": "Colapso pulmonar",
+  "language": "Spanish",
+  "date_created": "07/01/2013",
+  "meta_description": "Un colapso pulmonar ocurre cuando entra aire al espacio  pleural. Si el colapso es total, se lo llama neumotórax. Si es parcial, se le llama atelectasia.",
+  "summary": "Un colapso pulmonar ocurre cuando entra aire al espacio pleural (el área entre el pulmón y la pared del pecho). Si el colapso es total, se lo llama neumotórax. Si solo una parte del pulmón colapsa, se denomina atelectasia. Las causas del colapso pulmonar incluyen: Enfermedades de los pulmones, como neumonía o cáncer de pulmón Estar conectado a un ventilador mecánico Cirugía del tórax o abdomen Vía respiratoria obstruida Pueden no presentarse síntomas si solo un área pequeña colapsa. Pero si el área es más grande, puede sentir falta de aliento y su corazón latiendo más rápidamente. El colapso pulmonar se diagnostica por medio de rayos X. El tratamiento depende de la causa subyacente. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Atelectasia pulmonar"
+  ],
+  "groups": [
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los pulmones",
+      "url": "https://medlineplus.gov/spanish/lungdiseases.html",
+      "id": "2125"
+    },
+    {
+      "title": "Lesiones y enfermedades del tórax",
+      "url": "https://medlineplus.gov/spanish/chestinjuriesanddisorders.html",
+      "id": "5859"
+    },
+    {
+      "title": "Trastornos pleurales",
+      "url": "https://medlineplus.gov/spanish/pleuraldisorders.html",
+      "id": "4628"
+    }
+  ],
+  "see_references": [
+    "Pulmón, Colapso"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/collapsedlung.html"
+}

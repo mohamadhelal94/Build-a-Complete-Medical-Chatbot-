@@ -1,0 +1,39 @@
+{
+  "id": "5215",
+  "title": "Implantes cocleares",
+  "language": "Spanish",
+  "date_created": "04/07/2011",
+  "meta_description": "Un implante coclear puede ayudar a las personas sordas o a las que tienen graves problemas de audición. Lea sobre cómo se coloca un implante aquí.",
+  "summary": "Un implante coclear es un dispositivo electrónico pequeño y complejo que puede ayudar a proporcionar algún sentido de la audición. Personas que sean profundamente sordas o que tengan graves dificultades auditivas pueden beneficiarse con su uso. El implante consiste en dos partes. Una parte externa que se sitúa detrás de la oreja y una segunda parte que se coloca quirúrgicamente debajo de la piel. Este implante no restablece la audición normal. Puede proporcionar a una persona sorda una comprensión del habla. Tanto niños como adultos pueden beneficiarse de ellos. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [],
+  "groups": [
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Audífonos",
+      "url": "https://medlineplus.gov/spanish/hearingaids.html",
+      "id": "5217"
+    },
+    {
+      "title": "Problemas de audición en niños",
+      "url": "https://medlineplus.gov/spanish/hearingproblemsinchildren.html",
+      "id": "3694"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cochlearimplants.html"
+}

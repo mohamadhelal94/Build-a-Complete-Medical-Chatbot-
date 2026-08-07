@@ -1,0 +1,55 @@
+{
+  "id": "5664",
+  "title": "Pericardial Disorders",
+  "language": "English",
+  "date_created": "10/20/2010",
+  "meta_description": "The pericardium is a membrane that surrounds the heart. Pericardial disorders include pericarditis, pericardial effusion, and cardiac tamponade.",
+  "summary": "The pericardium is a membrane, or sac, that surrounds your heart. It holds the heart in place and helps it work properly. Problems with the pericardium include: Pericarditis - an inflammation of the sac. It can be from a virus or other infection, a heart attack, heart surgery, other medical conditions, injuries, and certain medicines. Pericardial effusion - the buildup of fluid in the sac Cardiac tamponade - a serious problem in which buildup of fluid in the sac causes problems with the function of the heart Symptoms of pericardial problems include chest pain, rapid heartbeat, and difficulty breathing. Fever is a common symptom of acute pericarditis. Your doctor may use a physical exam, imaging tests, and heart tests to make a diagnosis. Treatment depends on the cause. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Heart Attack",
+      "url": "https://medlineplus.gov/heartattack.html",
+      "id": "5"
+    },
+    {
+      "title": "Heart Diseases",
+      "url": "https://medlineplus.gov/heartdiseases.html",
+      "id": "277"
+    },
+    {
+      "title": "Heart Health Tests",
+      "url": "https://medlineplus.gov/hearthealthtests.html",
+      "id": "6452"
+    }
+  ],
+  "see_references": [
+    "Pericardial Effusion",
+    "Pericarditis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pericarditis",
+      "id": "D010493"
+    },
+    {
+      "name": "Pericardial Effusion",
+      "id": "D010490"
+    },
+    {
+      "name": "Cardiac Tamponade",
+      "id": "D002305"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pericardialdisorders.html"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "420",
+  "title": "Stomach Disorders",
+  "language": "English",
+  "date_created": "12/02/1999",
+  "meta_description": "Have questions about what's causing your bellyache? Take a look at this information on stomach disorders. Find information on kids and adults.",
+  "summary": "Your stomach is an organ between your esophagus and small intestine. It is where digestion of protein begins. The stomach has three tasks. It stores swallowed food. It mixes the food with stomach acids. Then it sends the mixture on to the small intestine. Most people have a problem with their stomach at one time or another. Indigestion and heartburn are common problems. You can relieve some stomach problems with over-the-counter medicines and lifestyle changes, such as avoiding fatty foods or eating more slowly. Other problems like peptic ulcers or GERD require medical attention. You should see a doctor if you have any of the following: Blood when you have a bowel movement Severe abdominal pain Heartburn not relieved by antacids Unintended weight loss Ongoing vomiting or diarrhea NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Gastric disorders"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Abdominal Pain",
+      "url": "https://medlineplus.gov/abdominalpain.html",
+      "id": "3061"
+    },
+    {
+      "title": "Gastroenteritis",
+      "url": "https://medlineplus.gov/gastroenteritis.html",
+      "id": "3056"
+    },
+    {
+      "title": "Indigestion",
+      "url": "https://medlineplus.gov/indigestion.html",
+      "id": "4293"
+    },
+    {
+      "title": "Nausea and Vomiting",
+      "url": "https://medlineplus.gov/nauseaandvomiting.html",
+      "id": "489"
+    },
+    {
+      "title": "Peptic Ulcer",
+      "url": "https://medlineplus.gov/pepticulcer.html",
+      "id": "357"
+    },
+    {
+      "title": "Stomach Cancer",
+      "url": "https://medlineplus.gov/stomachcancer.html",
+      "id": "419"
+    }
+  ],
+  "see_references": [
+    "Gastric Disorders",
+    "Gastritis",
+    "Gastroparesis",
+    "Stomach Ache"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Stomach Diseases",
+      "id": "D013272"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/stomachdisorders.html"
+}

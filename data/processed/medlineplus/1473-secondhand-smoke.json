@@ -1,0 +1,47 @@
+{
+  "id": "1473",
+  "title": "Secondhand Smoke",
+  "language": "English",
+  "date_created": "05/09/2001",
+  "meta_description": "Secondhand smoke is smoke that comes from the burning end of a cigarette, cigar, or pipe, and the smoke breathed out by the smoker affecting others.",
+  "summary": "Secondhand smoke is a mixture of the smoke that comes from the burning end of a cigarette, cigar, or pipe, and the smoke breathed out by the smoker. It contains more than 7,000 chemicals. Hundreds of those chemicals are toxic and about 70 can cause cancer. Health effects of secondhand smoke include: Ear infections in children More frequent and severe asthma attacks in children Heart disease and lung cancer in adults who have never smoked There is no safe amount of secondhand smoke. Even low levels of it can be harmful. The only way to fully protect nonsmokers from secondhand smoke is not to allow smoking indoors. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Environmental tobacco smoke",
+    "Passive smoking",
+    "Tobacco smoke pollution"
+  ],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [
+    {
+      "title": "Smokeless Tobacco",
+      "url": "https://medlineplus.gov/smokelesstobacco.html",
+      "id": "1474"
+    },
+    {
+      "title": "Smoking",
+      "url": "https://medlineplus.gov/smoking.html",
+      "id": "108"
+    }
+  ],
+  "see_references": [
+    "Environmental Tobacco Smoke",
+    "Passive Smoking",
+    "Smoking, Passive"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tobacco Smoke Pollution",
+      "id": "D014028"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/secondhandsmoke.html"
+}

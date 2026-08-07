@@ -1,0 +1,46 @@
+{
+  "id": "1538",
+  "title": "Molds",
+  "language": "English",
+  "date_created": "09/21/2001",
+  "meta_description": "If you have wet spots in your house, you will probably get mold. Molds, such as black mold, can cause health problems. Read more.",
+  "summary": "Molds are fungi that can be found both outdoors and indoors. They grow best in warm, damp and humid conditions. If you have damp or wet spots in your house, you will probably get mold. Molds can cause health problems. Inhaling or touching mold or mold spores may cause allergic reactions or asthma attacks in sensitive people. Molds can cause fungal infections . In addition, mold exposure may irritate your eyes, skin, nose, throat, and lungs. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Fungi"
+  ],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [
+    {
+      "title": "Aspergillosis",
+      "url": "https://medlineplus.gov/aspergillosis.html",
+      "id": "5628"
+    },
+    {
+      "title": "Fungal Infections",
+      "url": "https://medlineplus.gov/fungalinfections.html",
+      "id": "258"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/histoplasmosis.html",
+      "id": "5632"
+    },
+    {
+      "title": "Valley Fever",
+      "url": "https://medlineplus.gov/valleyfever.html",
+      "id": "5634"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Fungi",
+      "id": "D005658"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/molds.html"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2151",
+  "title": "Trastornos de pigmentación de la piel",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los problemas del color de la piel ocurren cuando las células de la melanina se dañan o enferman, causando un color muy oscuro o muy claro en la piel.",
+  "summary": "Pigmentación significa coloración. Los trastornos de la coloración de la piel afectan el color de la piel. Su piel obtiene su color de un pigmento llamado melanina, el que es producido por células especiales de la piel. Cuando éstas células se dañan o se enferman, se afecta la producción de melanina. Algunos trastornos de la pigmentación afectan solamente ciertas regiones de la piel. Otros afectan todo el cuerpo. Si el cuerpo produce demasiada melanina, la piel se oscurece. El embarazo, la enfermedad de Addison y la exposición al sol pueden oscurecer la piel. Si el cuerpo produce muy poca melanina, la piel se hace más clara. El vitiligo es una afección que causa áreas de piel clara. El albinismo es un cuadro genético que afecta toda la piel de una persona. Una persona con albinismo puede no tener color, una coloración más ligera que su piel normal o áreas de color de piel sin color. Las infecciones, las ampollas y las quemaduras pueden ser otras causas de regiones de piel más clara.",
+  "synonyms": [
+    "Problemas del color de la piel"
+  ],
+  "groups": [
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Lunares",
+      "url": "https://medlineplus.gov/spanish/moles.html",
+      "id": "4492"
+    },
+    {
+      "title": "Manchas de nacimiento",
+      "url": "https://medlineplus.gov/spanish/birthmarks.html",
+      "id": "5403"
+    },
+    {
+      "title": "Vitiligo",
+      "url": "https://medlineplus.gov/spanish/vitiligo.html",
+      "id": "2224"
+    }
+  ],
+  "see_references": [
+    "Pigmentación de la piel, Trastornos de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/skinpigmentationdisorders.html"
+}

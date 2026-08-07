@@ -1,0 +1,42 @@
+{
+  "id": "535",
+  "title": "Child Safety",
+  "language": "English",
+  "date_created": "07/26/1999",
+  "meta_description": "What steps should you take to ensure your child's safety? Get specifics on safety for kids.",
+  "summary": "As parents, we want to keep our children safe from harm. Take steps to keep your children safe: Install the right child safety seat in your car Teach children how to cross the street safely Make sure they wear the right gear and equipment for sports Install and test smoke alarms Store medicines, cleaners and other dangerous substances in locked cabinets Babyproof your home Don't leave small children unattended",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Infant and Newborn Care",
+      "url": "https://medlineplus.gov/infantandnewborncare.html",
+      "id": "1549"
+    },
+    {
+      "title": "Motor Vehicle Safety",
+      "url": "https://medlineplus.gov/motorvehiclesafety.html",
+      "id": "155"
+    },
+    {
+      "title": "School Health",
+      "url": "https://medlineplus.gov/schoolhealth.html",
+      "id": "3612"
+    }
+  ],
+  "see_references": [
+    "Safety, Child"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Safety",
+      "id": "D012449"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/childsafety.html"
+}

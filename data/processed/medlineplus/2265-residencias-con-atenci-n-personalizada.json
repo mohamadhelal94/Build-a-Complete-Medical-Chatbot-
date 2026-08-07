@@ -1,0 +1,34 @@
+{
+  "id": "2265",
+  "title": "Residencias con atención personalizada",
+  "language": "Spanish",
+  "date_created": "12/30/2002",
+  "meta_description": "Las residencias de asistencia personalizada ayudan a los adultos mayores con el cuidado que necesitan por el envejecimiento. Entérese aquí.",
+  "summary": "Las residencias con atención personalizada (también llamados centros de vida asistida) entregan vivienda y servicios a personas que necesitan ayuda con su cuidado diario. Puede que requieran asistencia para vestirse, bañarse, tomar sus medicamentos y limpiarse, pero no la atención médica que proporciona un hogar de adultos mayores . La vida asistida permite a los residentes vivir de manera más independiente. En ocasiones, los centros de vida asistida tienen otros nombres, como establecimientos residenciales o instituciones de atención residencial. Pueden tener distintos tamaños, ya sea para apenas 25 residentes o para 120 residentes o más. En general, los residentes viven en sus propios apartamentos o habitaciones y comparten áreas comunes. Es común que estas instalaciones ofrezcan niveles diferentes de atención. Los residentes pagan más por una mayor atención. Los tipos de servicios que ofrecen pueden ser diferentes de estado a estado. Los servicios pueden incluir: Hasta tres comidas al día Asistencia con el cuidado personal, como bañarse, vestirse, comer, levantarse de la cama o sillas, moverse y usar el baño Ayuda con medicamentos Labores domésticas Lavandería Vigilancia, seguridad y personal en el lugar las 24 horas Actividades sociales y recreativas Transporte Los residentes suelen ser adultos mayores, incluidos aquellos con Alzheimer u otros tipos de demencia . Pero en algunos casos, pueden ser más jóvenes y tener enfermedades mentales , trastornos del desarrollo o ciertas afecciones médicas. NIH: Instituto Nacional sobre el Envejecimiento",
+  "synonyms": [
+    "Cuidado de personas en instituciones"
+  ],
+  "groups": [
+    "Personas mayores",
+    "Sistemas de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Residencias para personas mayores",
+      "url": "https://medlineplus.gov/spanish/nursinghomes.html",
+      "id": "2057"
+    },
+    {
+      "title": "Servicios de atención médica a domicilio",
+      "url": "https://medlineplus.gov/spanish/homecareservices.html",
+      "id": "2260"
+    }
+  ],
+  "see_references": [
+    "Ayuda cotidiana para ancianos y discapacitados"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/assistedliving.html"
+}

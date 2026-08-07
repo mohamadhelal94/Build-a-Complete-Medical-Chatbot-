@@ -1,0 +1,4348 @@
+{
+  "dataset_name": "MedicalBot Common Topics",
+  "version": "1.0",
+  "total_categories": 20,
+  "total_topics": 422,
+  "categories": [
+    {
+      "id": "general-symptoms",
+      "category": "General Symptoms",
+      "topics": [
+        {
+          "id": "fever",
+          "title": "Fever",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "high-fever",
+          "title": "High fever",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "low-grade-fever",
+          "title": "Low-grade fever",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chills",
+          "title": "Chills",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "night-sweats",
+          "title": "Night sweats",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fatigue",
+          "title": "Fatigue",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weakness",
+          "title": "Weakness",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "headache",
+          "title": "Headache",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "migraine",
+          "title": "Migraine",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dizziness",
+          "title": "Dizziness",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vertigo",
+          "title": "Vertigo",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fainting",
+          "title": "Fainting",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "confusion",
+          "title": "Confusion",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sleepiness",
+          "title": "Sleepiness",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "difficulty-concentrating",
+          "title": "Difficulty concentrating",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weight-loss",
+          "title": "Weight loss",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weight-gain",
+          "title": "Weight gain",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "loss-of-appetite",
+          "title": "Loss of appetite",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "increased-appetite",
+          "title": "Increased appetite",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "excessive-hunger",
+          "title": "Excessive hunger",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "excessive-thirst",
+          "title": "Excessive thirst",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dehydration",
+          "title": "Dehydration",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "body-aches",
+          "title": "Body aches",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "muscle-pain",
+          "title": "Muscle pain",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "joint-pain",
+          "title": "Joint pain",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bone-pain",
+          "title": "Bone pain",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "swollen-glands",
+          "title": "Swollen glands",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "swelling",
+          "title": "Swelling",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bruising",
+          "title": "Bruising",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "itching",
+          "title": "Itching",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "rash",
+          "title": "Rash",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "numbness",
+          "title": "Numbness",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "tingling",
+          "title": "Tingling",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "tremor",
+          "title": "Tremor",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cold-hands",
+          "title": "Cold hands",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cold-feet",
+          "title": "Cold feet",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hot-flashes",
+          "title": "Hot flashes",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "excessive-sweating",
+          "title": "Excessive sweating",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dry-mouth",
+          "title": "Dry mouth",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bad-breath",
+          "title": "Bad breath",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "general-weakness",
+          "title": "General weakness",
+          "category": "General Symptoms",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "respiratory",
+      "category": "Respiratory",
+      "topics": [
+        {
+          "id": "common-cold",
+          "title": "Common cold",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "influenza",
+          "title": "Influenza",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "covid-19",
+          "title": "COVID-19",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sore-throat",
+          "title": "Sore throat",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hoarseness",
+          "title": "Hoarseness",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cough",
+          "title": "Cough",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dry-cough",
+          "title": "Dry cough",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "productive-cough",
+          "title": "Productive cough",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "persistent-cough",
+          "title": "Persistent cough",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chest-pain",
+          "title": "Chest pain",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chest-tightness",
+          "title": "Chest tightness",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "shortness-of-breath",
+          "title": "Shortness of breath",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "difficulty-breathing",
+          "title": "Difficulty breathing",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "rapid-breathing",
+          "title": "Rapid breathing",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "wheezing",
+          "title": "Wheezing",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "asthma",
+          "title": "Asthma",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bronchitis",
+          "title": "Bronchitis",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pneumonia",
+          "title": "Pneumonia",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sinusitis",
+          "title": "Sinusitis",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "runny-nose",
+          "title": "Runny nose",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "blocked-nose",
+          "title": "Blocked nose",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "nosebleed",
+          "title": "Nosebleed",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sneezing",
+          "title": "Sneezing",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "allergic-rhinitis",
+          "title": "Allergic rhinitis",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "seasonal-allergies",
+          "title": "Seasonal allergies",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hay-fever",
+          "title": "Hay fever",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "loss-of-smell",
+          "title": "Loss of smell",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "loss-of-taste",
+          "title": "Loss of taste",
+          "category": "Respiratory",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "digestive",
+      "category": "Digestive",
+      "topics": [
+        {
+          "id": "abdominal-pain",
+          "title": "Abdominal pain",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "upper-abdominal-pain",
+          "title": "Upper abdominal pain",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "lower-abdominal-pain",
+          "title": "Lower abdominal pain",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "right-lower-abdominal-pain",
+          "title": "Right lower abdominal pain",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "left-lower-abdominal-pain",
+          "title": "Left lower abdominal pain",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heartburn",
+          "title": "Heartburn",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "gerd",
+          "title": "GERD",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "indigestion",
+          "title": "Indigestion",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "acid-reflux",
+          "title": "Acid reflux",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bloating",
+          "title": "Bloating",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "gas",
+          "title": "Gas",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "burping",
+          "title": "Burping",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hiccups",
+          "title": "Hiccups",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "nausea",
+          "title": "Nausea",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vomiting",
+          "title": "Vomiting",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "diarrhea",
+          "title": "Diarrhea",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "constipation",
+          "title": "Constipation",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "food-poisoning",
+          "title": "Food poisoning",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "blood-in-stool",
+          "title": "Blood in stool",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "black-stool",
+          "title": "Black stool",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hemorrhoids",
+          "title": "Hemorrhoids",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ibs",
+          "title": "IBS",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "crohn-s-disease",
+          "title": "Crohn's disease",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ulcerative-colitis",
+          "title": "Ulcerative colitis",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "gallstones",
+          "title": "Gallstones",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "appendicitis",
+          "title": "Appendicitis",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "stomach-ulcer",
+          "title": "Stomach ulcer",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "lactose-intolerance",
+          "title": "Lactose intolerance",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "celiac-disease",
+          "title": "Celiac disease",
+          "category": "Digestive",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "muscles-bones-back",
+      "category": "Muscles, Bones & Back",
+      "topics": [
+        {
+          "id": "lower-back-pain",
+          "title": "Lower back pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "upper-back-pain",
+          "title": "Upper back pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-between-shoulder-blades",
+          "title": "Pain between shoulder blades",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "neck-pain",
+          "title": "Neck pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "shoulder-pain",
+          "title": "Shoulder pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "frozen-shoulder",
+          "title": "Frozen shoulder",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "muscle-strain",
+          "title": "Muscle strain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "muscle-cramps",
+          "title": "Muscle cramps",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "muscle-stiffness",
+          "title": "Muscle stiffness",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sciatica",
+          "title": "Sciatica",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "disc-herniation",
+          "title": "Disc herniation",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "knee-pain",
+          "title": "Knee pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hip-pain",
+          "title": "Hip pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "foot-pain",
+          "title": "Foot pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heel-pain",
+          "title": "Heel pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ankle-pain",
+          "title": "Ankle pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sprained-ankle",
+          "title": "Sprained ankle",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "tennis-elbow",
+          "title": "Tennis elbow",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "golfer-s-elbow",
+          "title": "Golfer's elbow",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "carpal-tunnel-syndrome",
+          "title": "Carpal tunnel syndrome",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "poor-posture",
+          "title": "Poor posture",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "work-related-muscle-pain",
+          "title": "Work-related muscle pain",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heavy-lifting-injuries",
+          "title": "Heavy lifting injuries",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "joint-stiffness",
+          "title": "Joint stiffness",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "arthritis",
+          "title": "Arthritis",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "osteoarthritis",
+          "title": "Osteoarthritis",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "rheumatoid-arthritis",
+          "title": "Rheumatoid arthritis",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "tendon-injury",
+          "title": "Tendon injury",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ligament-injury",
+          "title": "Ligament injury",
+          "category": "Muscles, Bones & Back",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "sexual-health-men",
+      "category": "Sexual Health (Men)",
+      "topics": [
+        {
+          "id": "penis-pain",
+          "title": "Penis pain",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "penis-swelling",
+          "title": "Penis swelling",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "penis-redness",
+          "title": "Penis redness",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "penis-itching",
+          "title": "Penis itching",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "penis-discharge",
+          "title": "Penis discharge",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-during-urination",
+          "title": "Pain during urination",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-during-erection",
+          "title": "Pain during erection",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-after-ejaculation",
+          "title": "Pain after ejaculation",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "curved-penis",
+          "title": "Curved penis",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "peyronie-s-disease",
+          "title": "Peyronie's disease",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "erectile-dysfunction",
+          "title": "Erectile dysfunction",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weak-erection",
+          "title": "Weak erection",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "morning-erections",
+          "title": "Morning erections",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "premature-ejaculation",
+          "title": "Premature ejaculation",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "delayed-ejaculation",
+          "title": "Delayed ejaculation",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "blood-in-semen",
+          "title": "Blood in semen",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "low-testosterone",
+          "title": "Low testosterone",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "low-libido",
+          "title": "Low libido",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "high-libido",
+          "title": "High libido",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "testicular-pain",
+          "title": "Testicular pain",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "testicular-lump",
+          "title": "Testicular lump",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "scrotal-swelling",
+          "title": "Scrotal swelling",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "scrotal-itching",
+          "title": "Scrotal itching",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "infertility",
+          "title": "Infertility",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "male-fertility",
+          "title": "Male fertility",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "prostate-enlargement",
+          "title": "Prostate enlargement",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "prostatitis",
+          "title": "Prostatitis",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "varicocele",
+          "title": "Varicocele",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hydrocele",
+          "title": "Hydrocele",
+          "category": "Sexual Health (Men)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "sexual-health-women",
+      "category": "Sexual Health (Women)",
+      "topics": [
+        {
+          "id": "menstrual-pain",
+          "title": "Menstrual pain",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heavy-periods",
+          "title": "Heavy periods",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "light-periods",
+          "title": "Light periods",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "irregular-periods",
+          "title": "Irregular periods",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "missed-period",
+          "title": "Missed period",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "late-period",
+          "title": "Late period",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pelvic-pain",
+          "title": "Pelvic pain",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-during-sex",
+          "title": "Pain during sex",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vaginal-discharge",
+          "title": "Vaginal discharge",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vaginal-itching",
+          "title": "Vaginal itching",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vaginal-odor",
+          "title": "Vaginal odor",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "menopause",
+          "title": "Menopause",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "perimenopause",
+          "title": "Perimenopause",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pcos",
+          "title": "PCOS",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "endometriosis",
+          "title": "Endometriosis",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ovarian-cyst",
+          "title": "Ovarian cyst",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pregnancy-symptoms",
+          "title": "Pregnancy symptoms",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "morning-sickness",
+          "title": "Morning sickness",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ovulation-pain",
+          "title": "Ovulation pain",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "breast-pain",
+          "title": "Breast pain",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "breast-lump",
+          "title": "Breast lump",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "postpartum-care",
+          "title": "Postpartum care",
+          "category": "Sexual Health (Women)",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "sexual-relationships",
+      "category": "Sexual Relationships",
+      "topics": [
+        {
+          "id": "low-sexual-desire",
+          "title": "Low sexual desire",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "loss-of-libido",
+          "title": "Loss of libido",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "high-libido",
+          "title": "High libido",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "no-desire-for-sex",
+          "title": "No desire for sex",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "different-sex-drives",
+          "title": "Different sex drives",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "partner-wants-more-sex",
+          "title": "Partner wants more sex",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "relationship-intimacy",
+          "title": "Relationship intimacy",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "communication-with-partner",
+          "title": "Communication with partner",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "stress-and-libido",
+          "title": "Stress and libido",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "depression-and-libido",
+          "title": "Depression and libido",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "anxiety-and-sex",
+          "title": "Anxiety and sex",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pornography-and-sexual-function",
+          "title": "Pornography and sexual function",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "masturbation",
+          "title": "Masturbation",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "safe-sex",
+          "title": "Safe sex",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "condom-use",
+          "title": "Condom use",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "birth-control",
+          "title": "Birth control",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "emergency-contraception",
+          "title": "Emergency contraception",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sti-prevention",
+          "title": "STI prevention",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "consent",
+          "title": "Consent",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pain-during-intercourse",
+          "title": "Pain during intercourse",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fear-of-sex",
+          "title": "Fear of sex",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sex-after-childbirth",
+          "title": "Sex after childbirth",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sex-during-pregnancy",
+          "title": "Sex during pregnancy",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sex-during-menstruation",
+          "title": "Sex during menstruation",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "how-often-is-sex-normal",
+          "title": "How often is sex normal?",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-sex-every-day-normal",
+          "title": "Is sex every day normal?",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-sex-once-a-week-normal",
+          "title": "Is sex once a week normal?",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-sex-three-times-a-week-normal",
+          "title": "Is sex three times a week normal?",
+          "category": "Sexual Relationships",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "urinary-system",
+      "category": "Urinary System",
+      "topics": [
+        {
+          "id": "painful-urination",
+          "title": "Painful urination",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "burning-urination",
+          "title": "Burning urination",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "frequent-urination",
+          "title": "Frequent urination",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "urgent-urination",
+          "title": "Urgent urination",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "blood-in-urine",
+          "title": "Blood in urine",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cloudy-urine",
+          "title": "Cloudy urine",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dark-urine",
+          "title": "Dark urine",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "urinary-tract-infection",
+          "title": "Urinary tract infection",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "kidney-stones",
+          "title": "Kidney stones",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "kidney-infection",
+          "title": "Kidney infection",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "overactive-bladder",
+          "title": "Overactive bladder",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "urinary-incontinence",
+          "title": "Urinary incontinence",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bedwetting",
+          "title": "Bedwetting",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "difficulty-urinating",
+          "title": "Difficulty urinating",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weak-urine-stream",
+          "title": "Weak urine stream",
+          "category": "Urinary System",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "category": "Mental Health",
+      "topics": [
+        {
+          "id": "stress",
+          "title": "Stress",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chronic-stress",
+          "title": "Chronic stress",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "anxiety",
+          "title": "Anxiety",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "generalized-anxiety",
+          "title": "Generalized anxiety",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "social-anxiety",
+          "title": "Social anxiety",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "panic-attack",
+          "title": "Panic attack",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "depression",
+          "title": "Depression",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "burnout",
+          "title": "Burnout",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "loneliness",
+          "title": "Loneliness",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "grief",
+          "title": "Grief",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "adhd",
+          "title": "ADHD",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "autism",
+          "title": "Autism",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ocd",
+          "title": "OCD",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ptsd",
+          "title": "PTSD",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "insomnia",
+          "title": "Insomnia",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "poor-sleep",
+          "title": "Poor sleep",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "nightmares",
+          "title": "Nightmares",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "excessive-sleeping",
+          "title": "Excessive sleeping",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "mood-swings",
+          "title": "Mood swings",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "memory-problems",
+          "title": "Memory problems",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "health-anxiety",
+          "title": "Health anxiety",
+          "category": "Mental Health",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "category": "Lifestyle",
+      "topics": [
+        {
+          "id": "healthy-diet",
+          "title": "Healthy diet",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "exercise",
+          "title": "Exercise",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "walking",
+          "title": "Walking",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "running",
+          "title": "Running",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "gym-training",
+          "title": "Gym training",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "stretching",
+          "title": "Stretching",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "smoking",
+          "title": "Smoking",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vaping",
+          "title": "Vaping",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "alcohol",
+          "title": "Alcohol",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "energy-drinks",
+          "title": "Energy drinks",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "coffee",
+          "title": "Coffee",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hydration",
+          "title": "Hydration",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "protein",
+          "title": "Protein",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vitamins",
+          "title": "Vitamins",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "minerals",
+          "title": "Minerals",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weight-loss",
+          "title": "Weight loss",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "weight-gain",
+          "title": "Weight gain",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "obesity",
+          "title": "Obesity",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "healthy-eating",
+          "title": "Healthy eating",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sleep-hygiene",
+          "title": "Sleep hygiene",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "work-life-balance",
+          "title": "Work-life balance",
+          "category": "Lifestyle",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "skin",
+      "category": "Skin",
+      "topics": [
+        {
+          "id": "acne",
+          "title": "Acne",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "eczema",
+          "title": "Eczema",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "psoriasis",
+          "title": "Psoriasis",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dry-skin",
+          "title": "Dry skin",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "oily-skin",
+          "title": "Oily skin",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sunburn",
+          "title": "Sunburn",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "skin-infection",
+          "title": "Skin infection",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fungal-infection",
+          "title": "Fungal infection",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ringworm",
+          "title": "Ringworm",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cellulitis",
+          "title": "Cellulitis",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hives",
+          "title": "Hives",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "warts",
+          "title": "Warts",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "moles",
+          "title": "Moles",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "skin-tags",
+          "title": "Skin tags",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "scabies",
+          "title": "Scabies",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "rosacea",
+          "title": "Rosacea",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cold-sores",
+          "title": "Cold sores",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "shingles",
+          "title": "Shingles",
+          "category": "Skin",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "heart-blood-pressure",
+      "category": "Heart & Blood Pressure",
+      "topics": [
+        {
+          "id": "high-blood-pressure",
+          "title": "High blood pressure",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "low-blood-pressure",
+          "title": "Low blood pressure",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "palpitations",
+          "title": "Palpitations",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fast-heart-rate",
+          "title": "Fast heart rate",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "slow-heart-rate",
+          "title": "Slow heart rate",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chest-pain",
+          "title": "Chest pain",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heart-attack-symptoms",
+          "title": "Heart attack symptoms",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "stroke-symptoms",
+          "title": "Stroke symptoms",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heart-failure",
+          "title": "Heart failure",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "high-cholesterol",
+          "title": "High cholesterol",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "poor-circulation",
+          "title": "Poor circulation",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "leg-swelling",
+          "title": "Leg swelling",
+          "category": "Heart & Blood Pressure",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "diabetes-hormones",
+      "category": "Diabetes & Hormones",
+      "topics": [
+        {
+          "id": "type-1-diabetes",
+          "title": "Type 1 diabetes",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "type-2-diabetes",
+          "title": "Type 2 diabetes",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "prediabetes",
+          "title": "Prediabetes",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hypoglycemia",
+          "title": "Hypoglycemia",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hyperglycemia",
+          "title": "Hyperglycemia",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "insulin-resistance",
+          "title": "Insulin resistance",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "thyroid-disease",
+          "title": "Thyroid disease",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hypothyroidism",
+          "title": "Hypothyroidism",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hyperthyroidism",
+          "title": "Hyperthyroidism",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "low-testosterone",
+          "title": "Low testosterone",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "high-testosterone",
+          "title": "High testosterone",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hormonal-imbalance",
+          "title": "Hormonal imbalance",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "adrenal-disorders",
+          "title": "Adrenal disorders",
+          "category": "Diabetes & Hormones",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "medicines",
+      "category": "Medicines",
+      "topics": [
+        {
+          "id": "paracetamol",
+          "title": "Paracetamol",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ibuprofen",
+          "title": "Ibuprofen",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "aspirin",
+          "title": "Aspirin",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "antibiotics",
+          "title": "Antibiotics",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "painkillers",
+          "title": "Painkillers",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "anti-inflammatory-medicines",
+          "title": "Anti-inflammatory medicines",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "allergy-medicines",
+          "title": "Allergy medicines",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cold-medicines",
+          "title": "Cold medicines",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "drug-interactions",
+          "title": "Drug interactions",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "side-effects",
+          "title": "Side effects",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "missed-dose",
+          "title": "Missed dose",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "medicine-overdose",
+          "title": "Medicine overdose",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "medicine-safety",
+          "title": "Medicine safety",
+          "category": "Medicines",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "pregnancy-children",
+      "category": "Pregnancy & Children",
+      "topics": [
+        {
+          "id": "pregnancy",
+          "title": "Pregnancy",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "pregnancy-nutrition",
+          "title": "Pregnancy nutrition",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "baby-fever",
+          "title": "Baby fever",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-fever",
+          "title": "Child fever",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-cough",
+          "title": "Child cough",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-diarrhea",
+          "title": "Child diarrhea",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-vomiting",
+          "title": "Child vomiting",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vaccinations",
+          "title": "Vaccinations",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "breastfeeding",
+          "title": "Breastfeeding",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bottle-feeding",
+          "title": "Bottle feeding",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "teething",
+          "title": "Teething",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "baby-rash",
+          "title": "Baby rash",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-constipation",
+          "title": "Child constipation",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "child-development",
+          "title": "Child development",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "newborn-care",
+          "title": "Newborn care",
+          "category": "Pregnancy & Children",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "first-aid-emergencies",
+      "category": "First Aid & Emergencies",
+      "topics": [
+        {
+          "id": "burns",
+          "title": "Burns",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cuts",
+          "title": "Cuts",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bleeding",
+          "title": "Bleeding",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "nosebleed",
+          "title": "Nosebleed",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "choking",
+          "title": "Choking",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "cpr",
+          "title": "CPR",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "poisoning",
+          "title": "Poisoning",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heat-stroke",
+          "title": "Heat stroke",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "heat-exhaustion",
+          "title": "Heat exhaustion",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hypothermia",
+          "title": "Hypothermia",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "animal-bites",
+          "title": "Animal bites",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "insect-bites",
+          "title": "Insect bites",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "snake-bites",
+          "title": "Snake bites",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "electric-shock",
+          "title": "Electric shock",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "head-injury",
+          "title": "Head injury",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "broken-bone",
+          "title": "Broken bone",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sprains",
+          "title": "Sprains",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "emergency-bleeding-control",
+          "title": "Emergency bleeding control",
+          "category": "First Aid & Emergencies",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "eye-ear-mouth",
+      "category": "Eye, Ear & Mouth",
+      "topics": [
+        {
+          "id": "eye-pain",
+          "title": "Eye pain",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "red-eye",
+          "title": "Red eye",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dry-eyes",
+          "title": "Dry eyes",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "blurred-vision",
+          "title": "Blurred vision",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vision-loss",
+          "title": "Vision loss",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ear-pain",
+          "title": "Ear pain",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ear-infection",
+          "title": "Ear infection",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hearing-loss",
+          "title": "Hearing loss",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "ringing-in-ears",
+          "title": "Ringing in ears",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "toothache",
+          "title": "Toothache",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bleeding-gums",
+          "title": "Bleeding gums",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "mouth-ulcers",
+          "title": "Mouth ulcers",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "bad-breath",
+          "title": "Bad breath",
+          "category": "Eye, Ear & Mouth",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "infectious-diseases",
+      "category": "Infectious Diseases",
+      "topics": [
+        {
+          "id": "strep-throat",
+          "title": "Strep throat",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "mononucleosis",
+          "title": "Mononucleosis",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "tuberculosis",
+          "title": "Tuberculosis",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chickenpox",
+          "title": "Chickenpox",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "measles",
+          "title": "Measles",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "mumps",
+          "title": "Mumps",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "rubella",
+          "title": "Rubella",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "malaria",
+          "title": "Malaria",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "dengue",
+          "title": "Dengue",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "lyme-disease",
+          "title": "Lyme disease",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hepatitis",
+          "title": "Hepatitis",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hiv",
+          "title": "HIV",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "aids",
+          "title": "AIDS",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "hpv",
+          "title": "HPV",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "herpes",
+          "title": "Herpes",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "syphilis",
+          "title": "Syphilis",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "gonorrhea",
+          "title": "Gonorrhea",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chlamydia",
+          "title": "Chlamydia",
+          "category": "Infectious Diseases",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "category": "Nutrition",
+      "topics": [
+        {
+          "id": "healthy-eating",
+          "title": "Healthy eating",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "mediterranean-diet",
+          "title": "Mediterranean diet",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vegetarian-diet",
+          "title": "Vegetarian diet",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vegan-diet",
+          "title": "Vegan diet",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "protein-intake",
+          "title": "Protein intake",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fiber-intake",
+          "title": "Fiber intake",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "sugar-intake",
+          "title": "Sugar intake",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "salt-intake",
+          "title": "Salt intake",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "water-intake",
+          "title": "Water intake",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vitamin-d",
+          "title": "Vitamin D",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "vitamin-b12",
+          "title": "Vitamin B12",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "iron-deficiency",
+          "title": "Iron deficiency",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "calcium",
+          "title": "Calcium",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "magnesium",
+          "title": "Magnesium",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "omega-3",
+          "title": "Omega-3",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "chocolate",
+          "title": "Chocolate",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "fast-food",
+          "title": "Fast food",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "supplements",
+          "title": "Supplements",
+          "category": "Nutrition",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    },
+    {
+      "id": "frequently-asked-questions",
+      "category": "Frequently Asked Questions",
+      "topics": [
+        {
+          "id": "can-stress-cause-fever",
+          "title": "Can stress cause fever?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-anxiety-cause-chest-pain",
+          "title": "Can anxiety cause chest pain?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-stress-reduce-sexual-desire",
+          "title": "Can stress reduce sexual desire?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "why-do-i-feel-tired-all-the-time",
+          "title": "Why do I feel tired all the time?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "why-am-i-always-sleepy",
+          "title": "Why am I always sleepy?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-chocolate-affect-my-period",
+          "title": "Can chocolate affect my period?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-i-exercise-with-a-fever",
+          "title": "Can I exercise with a fever?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-i-work-with-a-fever",
+          "title": "Can I work with a fever?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "should-i-go-to-work-when-sick",
+          "title": "Should I go to work when sick?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "how-much-water-should-i-drink",
+          "title": "How much water should I drink?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-i-have-sex-during-pregnancy",
+          "title": "Can I have sex during pregnancy?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-i-have-sex-during-my-period",
+          "title": "Can I have sex during my period?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "why-don-t-i-want-sex-anymore",
+          "title": "Why don't I want sex anymore?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-it-normal-to-have-sex-once-a-week",
+          "title": "Is it normal to have sex once a week?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-it-normal-to-have-sex-every-day",
+          "title": "Is it normal to have sex every day?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "is-it-normal-to-have-sex-three-times-a-week",
+          "title": "Is it normal to have sex three times a week?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-stress-cause-erectile-dysfunction",
+          "title": "Can stress cause erectile dysfunction?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "why-do-i-have-back-pain-after-work",
+          "title": "Why do I have back pain after work?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "can-lifting-heavy-objects-hurt-my-back",
+          "title": "Can lifting heavy objects hurt my back?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "when-should-i-see-a-doctor",
+          "title": "When should I see a doctor?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        },
+        {
+          "id": "when-should-i-go-to-the-emergency-department",
+          "title": "When should I go to the emergency department?",
+          "category": "Frequently Asked Questions",
+          "aliases": [],
+          "keywords": [],
+          "related_topics": [],
+          "related_medlineplus_topic": "",
+          "status": "unmapped"
+        }
+      ]
+    }
+  ]
+}

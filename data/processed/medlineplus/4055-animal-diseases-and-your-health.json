@@ -1,0 +1,84 @@
+{
+  "id": "4055",
+  "title": "Animal Diseases and Your Health",
+  "language": "English",
+  "date_created": "12/29/2004",
+  "meta_description": "You may know that some animal diseases can have an effect on humans. Find out more about animal diseases and your health.",
+  "summary": "Animal diseases that people can catch are called zoonoses. Many diseases affecting humans can be traced to animals or animal products. You can get a disease directly from an animal, or indirectly, through the environment. Farm animals can carry diseases. If you touch them or things they have touched, like fencing or buckets, wash your hands thoroughly. Adults should make sure children who visit farms or petting zoos wash up as well. Though they may be cute and cuddly, wild animals may carry germs, viruses, and parasites. Deer and deer mice carry ticks that cause Lyme disease . Some wild animals may carry rabies . Enjoy wildlife from a distance. Pets can also make you sick. Reptiles pose a particular risk. Turtles, snakes and iguanas can transmit Salmonella bacteria to their owners. You can get rabies from an infected dog or toxoplasmosis from handling kitty litter of an infected cat. The chance that your dog or cat will make you sick is small. You can reduce the risk by practicing good hygiene, keeping pet areas clean and keeping your pets' shots up to date.",
+  "synonyms": [
+    "Zoonoses"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Bird Flu",
+      "url": "https://medlineplus.gov/birdflu.html",
+      "id": "4198"
+    },
+    {
+      "title": "Cat Scratch Disease",
+      "url": "https://medlineplus.gov/catscratchdisease.html",
+      "id": "4320"
+    },
+    {
+      "title": "COVID-19 (Coronavirus Disease 2019)",
+      "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+      "id": "3181"
+    },
+    {
+      "title": "Creutzfeldt-Jakob Disease",
+      "url": "https://medlineplus.gov/creutzfeldtjakobdisease.html",
+      "id": "1242"
+    },
+    {
+      "title": "H1N1 Flu (Swine Flu)",
+      "url": "https://medlineplus.gov/h1n1fluswineflu.html",
+      "id": "5188"
+    },
+    {
+      "title": "Lyme Disease",
+      "url": "https://medlineplus.gov/lymedisease.html",
+      "id": "84"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/mpox.html",
+      "id": "3229"
+    },
+    {
+      "title": "Pet Health",
+      "url": "https://medlineplus.gov/pethealth.html",
+      "id": "1399"
+    },
+    {
+      "title": "Rabies",
+      "url": "https://medlineplus.gov/rabies.html",
+      "id": "523"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://medlineplus.gov/toxoplasmosis.html",
+      "id": "1214"
+    },
+    {
+      "title": "West Nile Virus",
+      "url": "https://medlineplus.gov/westnilevirus.html",
+      "id": "1377"
+    }
+  ],
+  "see_references": [
+    "Animal Health",
+    "Zoonoses"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Zoonoses",
+      "id": "D015047"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/animaldiseasesandyourhealth.html"
+}

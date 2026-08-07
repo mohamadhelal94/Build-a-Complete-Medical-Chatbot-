@@ -1,0 +1,53 @@
+{
+  "id": "1897",
+  "title": "Lesiones y enfermedades de la cara",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las lesiones de la cara pueden causar dolor y afectar la apariencia. Podrían afectar la vista, la respiración y la capacidad de tragar. Entérese aquí.",
+  "summary": "Las lesiones y las enfermedades en la cara pueden causar dolor y alterar su aspecto. En casos severos, pueden afectar la vista, el habla, la respiración y la capacidad de tragar. Las fracturas óseas, especialmente de los huesos de la nariz, las mejillas y la mandíbula son lesiones faciales comunes. Algunas enfermedades también conducen a enfermedades en la cara. Por ejemplo, las enfermedades de los nervios, como la neuralgia del trigémino o la parálisis de Bell a veces causan dolor facial, espasmos y problemas con los movimientos del ojo o faciales. Los defectos congénitos también pueden afectar la cara. Pueden causar su mal desarrollo y características raramente prominentes o falta de expresión facial. El labio leporino y el paladar hendido son defectos congénitos faciales comunes.",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios",
+    "Oído, nariz y garganta",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Cirugía plástica y cosmética",
+      "url": "https://medlineplus.gov/spanish/plasticandcosmeticsurgery.html",
+      "id": "2092"
+    },
+    {
+      "title": "Labio leporino y paladar hendido",
+      "url": "https://medlineplus.gov/spanish/cleftlipandpalate.html",
+      "id": "1825"
+    },
+    {
+      "title": "Lesiones y enfermedades de la nariz",
+      "url": "https://medlineplus.gov/spanish/noseinjuriesanddisorders.html",
+      "id": "2056"
+    },
+    {
+      "title": "Neuralgia del trigémino",
+      "url": "https://medlineplus.gov/spanish/trigeminalneuralgia.html",
+      "id": "2730"
+    },
+    {
+      "title": "Parálisis de Bell",
+      "url": "https://medlineplus.gov/spanish/bellspalsy.html",
+      "id": "1769"
+    }
+  ],
+  "see_references": [
+    "Cara, Lesiones de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación Dental y Craneofacial",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCR"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/facialinjuriesanddisorders.html"
+}

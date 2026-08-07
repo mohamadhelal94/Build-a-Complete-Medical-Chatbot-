@@ -1,0 +1,40 @@
+{
+  "id": "309",
+  "title": "Liver Cancer",
+  "language": "English",
+  "date_created": "10/07/1999",
+  "meta_description": "The most common form of liver cancer in adults is hepatocellular carcinoma. Learn about diagnosis, treatment and taking part in research studies.",
+  "summary": "Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Primary liver cancer starts in the liver. Metastatic liver cancer starts somewhere else and spreads to your liver. Risk factors for primary liver cancer include : Having hepatitis B or C Heavy alcohol use Having cirrhosis , or scarring of the liver Having hemochromatosis , an iron storage disease Obesity and diabetes Symptoms can include a lump or pain on the right side of your abdomen and yellowing of the skin. However, you may not have symptoms until the cancer is advanced. This makes it harder to treat. Doctors use tests that examine the liver and the blood to diagnose liver cancer. Treatment options include surgery, radiation, chemotherapy, or liver transplantation . NIH: National Cancer Institute",
+  "synonyms": [
+    "Hepatocellular carcinoma"
+  ],
+  "groups": [
+    "Cancers",
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Liver Diseases",
+      "url": "https://medlineplus.gov/liverdiseases.html",
+      "id": "310"
+    }
+  ],
+  "see_references": [
+    "Hepatoblastoma",
+    "Hepatocellular Carcinoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Liver Neoplasms",
+      "id": "D008113"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/livercancer.html"
+}

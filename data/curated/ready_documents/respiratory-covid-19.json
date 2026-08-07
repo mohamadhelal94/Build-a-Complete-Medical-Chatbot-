@@ -1,0 +1,17 @@
+{
+  "id": "covid-19",
+  "title": "COVID-19",
+  "category": "Respiratory",
+  "mapped_title": "COVID-19 (Coronavirus Disease 2019)",
+  "page_content": "User topic: COVID-19\nCategory: Respiratory\nTrusted medical topic: COVID-19 (Coronavirus Disease 2019)\nSearch phrases: COVID-19, COVID-19 (Coronavirus Disease 2019), Coronavirus\nMedical groups: Infections, Lungs and Breathing\n\nMedical information:\nCOVID-19 (coronavirus disease 2019) is an illness caused by a virus. This virus is a coronavirus called SARS-CoV-2. It spreads when a person who has the infection breathes out droplets and very small particles that contain the virus. On this page, you'll find links to resources on important issues such as symptoms, risks, and how you can protect yourself and your family. We also have pages on: COVID-19 testing COVID-19 vaccines Post-COVID conditions (long COVID)",
+  "search_phrases": [
+    "COVID-19",
+    "COVID-19 (Coronavirus Disease 2019)",
+    "Coronavirus"
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+  "medlineplus_id": "3181",
+  "mapping_type": "exact",
+  "mapping_score": 1.0
+}

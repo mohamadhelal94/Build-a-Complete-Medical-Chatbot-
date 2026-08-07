@@ -1,0 +1,77 @@
+{
+  "id": "302",
+  "title": "Kidney Failure",
+  "language": "English",
+  "date_created": "01/27/1999",
+  "meta_description": "Healthy kidneys clean your blood by removing excess from your body. But if kidneys are damaged, they won't work properly. Read about the treatments.",
+  "summary": "Healthy kidneys clean your blood by removing excess fluid, minerals, and wastes. They also make hormones that keep your bones strong and your blood healthy. But if the kidneys are damaged, they don't work properly. Harmful wastes can build up in your body. Your blood pressure may rise. Your body may retain excess fluid and not make enough red blood cells. This is called kidney failure. If your kidneys fail, you need treatment to replace the work they normally do. The treatment options are dialysis or a kidney transplant . Each treatment has benefits and drawbacks. No matter which treatment you choose, you'll need to make some changes in your life, including how you eat and plan your activities. But with the help of health care providers, family, and friends, most people with kidney failure can lead full and active lives. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "ESRD",
+    "End-stage renal disease",
+    "Renal failure"
+  ],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Chronic Kidney Disease",
+      "url": "https://medlineplus.gov/chronickidneydisease.html",
+      "id": "5987"
+    },
+    {
+      "title": "Diabetic Kidney Problems",
+      "url": "https://medlineplus.gov/diabetickidneyproblems.html",
+      "id": "1559"
+    },
+    {
+      "title": "Dialysis",
+      "url": "https://medlineplus.gov/dialysis.html",
+      "id": "3789"
+    },
+    {
+      "title": "Kidney Cancer",
+      "url": "https://medlineplus.gov/kidneycancer.html",
+      "id": "301"
+    },
+    {
+      "title": "Kidney Cysts",
+      "url": "https://medlineplus.gov/kidneycysts.html",
+      "id": "5808"
+    },
+    {
+      "title": "Kidney Diseases",
+      "url": "https://medlineplus.gov/kidneydiseases.html",
+      "id": "91"
+    },
+    {
+      "title": "Kidney Tests",
+      "url": "https://medlineplus.gov/kidneytests.html",
+      "id": "6382"
+    },
+    {
+      "title": "Kidney Transplantation",
+      "url": "https://medlineplus.gov/kidneytransplantation.html",
+      "id": "1299"
+    }
+  ],
+  "see_references": [
+    "ESRD",
+    "End-Stage Renal Disease",
+    "Renal Failure"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Kidney Failure, Chronic",
+      "id": "D007676"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/kidneyfailure.html"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1989",
+  "title": "Enfermedades de los riñones",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El buen funcionamiento de los riñones son importates para la salud. La diabetes, la presión arterial alta o los antecedentes familiares pueden aumentar el riesgo de enfermedad renal",
+  "summary": "Usted tiene dos riñones, cada uno cerca del tamaño de su puño. Se encuentran en la mitad de su espalda, justo debajo de sus costillas. Dentro de cada riñón hay un millón de estructuras pequeñas llamados nefrones. Ellos filtran los desechos y el exceso de agua de la sangre, lo que se vuelve orina. La orina fluye por tubos llamados uréteres, llegando a la vejiga, que almacena la orina hasta que usted va al baño. La mayoría de las enfermedades renales atacan los nefrones. Este daño causa que los riñones no puedan eliminar desechos. Las causas incluyen problemas genéticos, lesiones o medicamentos. Usted puede correr mayor riesgo de padecer una enfermedad renal si tiene diabetes , presión alta o un familiar cercano con algún problema de los riñones. La enfermedad renal crónica va dañando los nefrones de a poco con el transcurso del tiempo. Otras enfermedades de los riñones pueden incluir: Cáncer Quistes Piedras Infecciones Su médico puede hacerle pruebas de sangre y de orina para detectar si tiene enfermedad renal. Si los riñones fallan completamente, un trasplante renal o el tratamiento con diálisis puede reemplazar la función que normalmente desempeñan los riñones. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Enfermedades renales",
+    "Nefropatías"
+  ],
+  "groups": [
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneycancer.html",
+      "id": "1988"
+    },
+    {
+      "title": "Enfermedad renal crónica",
+      "url": "https://medlineplus.gov/spanish/chronickidneydisease.html",
+      "id": "5988"
+    },
+    {
+      "title": "Insuficiencia renal",
+      "url": "https://medlineplus.gov/spanish/kidneyfailure.html",
+      "id": "1990"
+    },
+    {
+      "title": "Orina y micción",
+      "url": "https://medlineplus.gov/spanish/urineandurination.html",
+      "id": "4890"
+    },
+    {
+      "title": "Piedras en los riñones",
+      "url": "https://medlineplus.gov/spanish/kidneystones.html",
+      "id": "1991"
+    },
+    {
+      "title": "Problemas de los riñones asociados con la diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetickidneyproblems.html",
+      "id": "1855"
+    },
+    {
+      "title": "Quistes renales",
+      "url": "https://medlineplus.gov/spanish/kidneycysts.html",
+      "id": "5809"
+    },
+    {
+      "title": "Trasplante de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneytransplantation.html",
+      "id": "1992"
+    }
+  ],
+  "see_references": [
+    "Glomerulonefritis",
+    "Glomerulosclerosis",
+    "Goodpasture",
+    "Nefritis",
+    "Nefropatía",
+    "Renales, Enfermedades",
+    "Riñón, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/kidneydiseases.html"
+}

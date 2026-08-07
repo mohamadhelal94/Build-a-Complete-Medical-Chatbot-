@@ -1,0 +1,41 @@
+{
+  "id": "1893",
+  "title": "Cáncer de ojo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cáncer de ojo es poco común. Entérese sobre síntomas y tipos, incluyendo el retinoblastoma. Pruebas, síntomas, tratamiento.",
+  "summary": "El cáncer de ojo es poco común. Puede afectar las partes externas del ojo, como los párpados, que están formados por músculos, piel y nervios. Si comienza en el interior del globo ocular se denomina cáncer intraocular. Los cánceres intraoculares más comunes en adultos son el melanoma y el linfoma. El cáncer de ojo más común en los niños es el retinoblastoma, que comienza en las células de la retina. El cáncer también puede diseminarse desde el ojo hasta otras partes del cuerpo. El tratamiento del cáncer de ojo varía según el tipo y el estado en el que se encuentre. Puede incluir cirugía, radioterapia, terapia con calor o frío o tratamiento con rayos láser.",
+  "synonyms": [
+    "Cáncer ocular"
+  ],
+  "groups": [
+    "Cánceres",
+    "Ojos y visión"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los ojos",
+      "url": "https://medlineplus.gov/spanish/eyediseases.html",
+      "id": "1894"
+    },
+    {
+      "title": "Enfermedades de los párpados",
+      "url": "https://medlineplus.gov/spanish/eyeliddisorders.html",
+      "id": "5405"
+    }
+  ],
+  "see_references": [
+    "Melanoma intraocular",
+    "Ojo, Cáncer de",
+    "Retinoblastoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/eyecancer.html"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "1990",
+  "title": "Insuficiencia renal",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Entérese sobre los síntomas y tratamientos para la insuficiencia renal (falla de riñones) aquí.",
+  "summary": "Los riñones sanos limpian la sangre eliminando el exceso de líquido, minerales y desechos. También producen hormonas que mantienen sus huesos fuertes y su sangre sana. Pero si los riñones están lesionados, no funcionan correctamente. Pueden acumularse desechos peligrosos en el organismo. Puede elevarse la presión arterial. Su cuerpo puede retener el exceso de líquidos y no producir suficientes glóbulos rojos. A esto se le llama insuficiencia renal. Si los riñones fallan, necesitará tratamiento para reemplazar las funciones que hacen normalmente. Las opciones de tratamiento son diálisis o un trasplante renal . Cada tratamiento tiene sus beneficios y desventajas. Independientemente del tratamiento que escoja, deberá hacerle algunos cambios a su estilo de vida, incluyendo el tipo de alimentación y planificar sus actividades. Pero, con la ayuda de los profesionales de la salud, la familia y los amigos, la mayoría de las personas con insuficiencia renal puede llevar una vida plena y activa. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Falla renal",
+    "Insuficiencia de los riñones"
+  ],
+  "groups": [
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneycancer.html",
+      "id": "1988"
+    },
+    {
+      "title": "Diálisis",
+      "url": "https://medlineplus.gov/spanish/dialysis.html",
+      "id": "3790"
+    },
+    {
+      "title": "Enfermedad renal crónica",
+      "url": "https://medlineplus.gov/spanish/chronickidneydisease.html",
+      "id": "5988"
+    },
+    {
+      "title": "Enfermedades de los riñones",
+      "url": "https://medlineplus.gov/spanish/kidneydiseases.html",
+      "id": "1989"
+    },
+    {
+      "title": "Problemas de los riñones asociados con la diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetickidneyproblems.html",
+      "id": "1855"
+    },
+    {
+      "title": "Quistes renales",
+      "url": "https://medlineplus.gov/spanish/kidneycysts.html",
+      "id": "5809"
+    },
+    {
+      "title": "Trasplante de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneytransplantation.html",
+      "id": "1992"
+    }
+  ],
+  "see_references": [
+    "Falla renal",
+    "Insuficiencia renal crónica",
+    "Nefropatía",
+    "Renal, Falla",
+    "Renal, Insuficiencia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/kidneyfailure.html"
+}

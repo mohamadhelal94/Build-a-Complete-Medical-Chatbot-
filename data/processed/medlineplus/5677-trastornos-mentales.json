@@ -1,0 +1,129 @@
+{
+  "id": "5677",
+  "title": "Trastornos mentales",
+  "language": "Spanish",
+  "date_created": "11/02/2010",
+  "meta_description": "Los trastornos mentales abarcan una amplia gama de problemas. Existen muchas causas de las enfermedades mentales. Infórmese aquí.",
+  "summary": "¿Qué son los trastornos mentales? Los trastornos mentales (o enfermedades mentales) son afecciones que impactan su pensamiento, sentimientos, estado de ánimo y comportamiento. Pueden ocurrir en un corto período de tiempo o aparecer y desaparecer. Algunos pueden ser crónicos (de larga duración). Pueden afectar su capacidad de relacionarse con los demás y funcionar cada día. ¿Cuáles son algunos tipos de trastornos mentales? Existen muchos tipos diferentes de trastornos mentales. Algunos comunes incluyen: Trastornos de ansiedad , incluyendo trastorno de pánico , trastorno obsesivo-compulsivo y fobias Depresión , trastorno bipolar y otros trastornos del estado de ánimo Trastornos de la alimentación Trastornos de la personalidad Trastorno de estrés post-traumático (TEPT) Trastornos psicóticos , incluyendo la esquizofrenia ¿Qué causa los trastornos mentales? No hay una sola causa para un trastorno mental. Varios factores pueden contribuir al riesgo de sufrirlo, por ejemplo: Sus genes y su historia familiar Su experiencia de vida, como el estrés o si ha sufrido de abuso, en especial durante la infancia Factores biológicos como desequilibrios químicos en el cerebro Una lesión cerebral traumática Exposición prenatal (antes de nacer) a algún virus o químicos tóxicos u otras sustancias como el alcohol y las drogas Consumo de alcohol o drogas Tener una enfermedad seria como el cáncer Tener pocos amigos y sentirse solo o aislado Los trastornos mentales no son causados por falta de carácter. No tienen nada que ver con ser flojo o débil. ¿Quién está en riesgo de tener trastornos mentales? Los trastornos mentales son comunes. Muchos estadounidenses serán diagnosticados con algún trastorno mental en algún momento de su vida. ¿Cómo se diagnostican los trastornos mentales? Los pasos para obtener un diagnóstico incluyen: Su historia clínica Un examen físico y posiblemente pruebas de laboratorio, si su profesional de salud piensa que otras afecciones médicas podrían estar causando sus síntomas Una evaluación psicológica en la cual responderá preguntas sobre sus pensamientos, sentimientos y conducta ¿Cuáles son los tratamientos de los trastornos mentales? El tratamiento depende del trastorno mental que usted tenga y qué tan grave sea. Junto a su profesional de la salud trabajarán en un plan de tratamiento solo para usted. Por lo general, implica algún tipo de terapia. También puede tomar medicamentos. Algunas personas también necesitan apoyo social y educación para manejar su afección. En algunos casos, es posible que necesite un tratamiento más intensivo. Si su trastorno mental es grave o tiene riesgo de hacerse daño a usted o a alguien más, es posible que deba ir a un hospital psiquiátrico. En el hospital, recibirá consejería, discusiones grupales y actividades con profesionales de salud mental y otros pacientes.",
+  "synonyms": [
+    "Enfermedades mentales"
+  ],
+  "groups": [
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Adicción a los juegos de azar",
+      "url": "https://medlineplus.gov/spanish/compulsivegambling.html",
+      "id": "4309"
+    },
+    {
+      "title": "Ansiedad",
+      "url": "https://medlineplus.gov/spanish/anxiety.html",
+      "id": "1752"
+    },
+    {
+      "title": "Autolesión",
+      "url": "https://medlineplus.gov/spanish/selfharm.html",
+      "id": "6092"
+    },
+    {
+      "title": "Delirio",
+      "url": "https://medlineplus.gov/spanish/delirium.html",
+      "id": "5563"
+    },
+    {
+      "title": "Depresión",
+      "url": "https://medlineplus.gov/spanish/depression.html",
+      "id": "1848"
+    },
+    {
+      "title": "Esquizofrenia",
+      "url": "https://medlineplus.gov/spanish/schizophrenia.html",
+      "id": "2136"
+    },
+    {
+      "title": "Fobias",
+      "url": "https://medlineplus.gov/spanish/phobias.html",
+      "id": "2089"
+    },
+    {
+      "title": "Salud mental",
+      "url": "https://medlineplus.gov/spanish/mentalhealth.html",
+      "id": "2034"
+    },
+    {
+      "title": "Salud mental de las personas mayores",
+      "url": "https://medlineplus.gov/spanish/olderadultmentalhealth.html",
+      "id": "7428"
+    },
+    {
+      "title": "Salud mental del adolescente",
+      "url": "https://medlineplus.gov/spanish/teenmentalhealth.html",
+      "id": "3638"
+    },
+    {
+      "title": "Salud mental del niño",
+      "url": "https://medlineplus.gov/spanish/childmentalhealth.html",
+      "id": "3163"
+    },
+    {
+      "title": "Suicidio",
+      "url": "https://medlineplus.gov/spanish/suicide.html",
+      "id": "2178"
+    },
+    {
+      "title": "Trastorno bipolar",
+      "url": "https://medlineplus.gov/spanish/bipolardisorder.html",
+      "id": "1772"
+    },
+    {
+      "title": "Trastorno de estrés postraumático",
+      "url": "https://medlineplus.gov/spanish/posttraumaticstressdisorder.html",
+      "id": "2099"
+    },
+    {
+      "title": "Trastorno de pánico",
+      "url": "https://medlineplus.gov/spanish/panicdisorder.html",
+      "id": "2076"
+    },
+    {
+      "title": "Trastorno obsesivo-compulsivo",
+      "url": "https://medlineplus.gov/spanish/obsessivecompulsivedisorder.html",
+      "id": "2060"
+    },
+    {
+      "title": "Trastornos de la alimentación",
+      "url": "https://medlineplus.gov/spanish/eatingdisorders.html",
+      "id": "1877"
+    },
+    {
+      "title": "Trastornos de la personalidad",
+      "url": "https://medlineplus.gov/spanish/personalitydisorders.html",
+      "id": "4118"
+    },
+    {
+      "title": "Trastornos del estado de ánimo",
+      "url": "https://medlineplus.gov/spanish/mooddisorders.html",
+      "id": "6064"
+    },
+    {
+      "title": "Trastornos psicóticos",
+      "url": "https://medlineplus.gov/spanish/psychoticdisorders.html",
+      "id": "4181"
+    }
+  ],
+  "see_references": [
+    "Mentales, Enfermedades",
+    "Tricotilomanía"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/mentaldisorders.html"
+}

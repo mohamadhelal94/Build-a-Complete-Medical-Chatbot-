@@ -1,0 +1,62 @@
+{
+  "id": "3538",
+  "title": "Dietary Supplements",
+  "language": "English",
+  "date_created": "08/05/2003",
+  "meta_description": "Dietary supplements include vitamins and minerals. Get the facts about dietary supplements and how to use them safely.",
+  "summary": "Dietary supplements are vitamins , minerals , herbs , and many other products. They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do. Some supplements can play an important role in health. For example, calcium and vitamin D are important for keeping bones strong. Pregnant women can take the vitamin folic acid to prevent certain birth defects in their babies. To take a supplement as safely as possible: Tell your health care provider about any dietary supplements you use Do not take a bigger dose than the label recommends Check with your health care provider about the supplements you take if you are going to have any type of surgery Read trustworthy information about the supplement NIH: National Institutes of Health Office of Dietary Supplements",
+  "synonyms": [],
+  "groups": [
+    "Food and Nutrition",
+    "Complementary and Alternative Therapies"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidants",
+      "url": "https://medlineplus.gov/antioxidants.html",
+      "id": "1590"
+    },
+    {
+      "title": "Calcium",
+      "url": "https://medlineplus.gov/calcium.html",
+      "id": "2780"
+    },
+    {
+      "title": "Complementary and Integrative Medicine",
+      "url": "https://medlineplus.gov/complementaryandintegrativemedicine.html",
+      "id": "132"
+    },
+    {
+      "title": "Folic Acid",
+      "url": "https://medlineplus.gov/folicacid.html",
+      "id": "1611"
+    },
+    {
+      "title": "Herbal Medicine",
+      "url": "https://medlineplus.gov/herbalmedicine.html",
+      "id": "1246"
+    },
+    {
+      "title": "Vitamins",
+      "url": "https://medlineplus.gov/vitamins.html",
+      "id": "456"
+    }
+  ],
+  "see_references": [
+    "Trace Elements"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Dietary Supplements",
+      "id": "D019587"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/dietarysupplements.html"
+}

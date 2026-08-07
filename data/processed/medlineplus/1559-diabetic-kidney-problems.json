@@ -1,0 +1,60 @@
+{
+  "id": "1559",
+  "title": "Diabetic Kidney Problems",
+  "language": "English",
+  "date_created": "10/04/2001",
+  "meta_description": "Diabetes is the most common cause of kidney failure in the U.S. Kidney damage from Diabetes is called Diabetic Nephropathy.",
+  "summary": "If you have diabetes , your blood glucose, or blood sugar , levels are too high. Over time, this can damage your kidneys. Your kidneys clean your blood. If they are damaged, waste and fluids build up in your blood instead of leaving your body. Kidney damage from diabetes is called diabetic nephropathy. It begins long before you have symptoms. People with diabetes should get regular screenings for kidney disease. Tests include a urine test to detect protein in your urine and a blood test to show how well your kidneys are working. If the damage continues, your kidneys could fail. In fact, diabetes is the most common cause of kidney failure in the United States. People with kidney failure need either dialysis or a kidney transplant . You can slow down kidney damage or keep it from getting worse. Controlling your blood sugar and blood pressure, taking your medicines and not eating too much protein can help. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Diabetic nephropathy"
+  ],
+  "groups": [
+    "Kidneys and Urinary System",
+    "Endocrine System",
+    "Diabetes Mellitus"
+  ],
+  "related_topics": [
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/diabetes.html",
+      "id": "4"
+    },
+    {
+      "title": "Diabetes Complications",
+      "url": "https://medlineplus.gov/diabetescomplications.html",
+      "id": "4567"
+    },
+    {
+      "title": "Kidney Failure",
+      "url": "https://medlineplus.gov/kidneyfailure.html",
+      "id": "302"
+    },
+    {
+      "title": "Kidney Tests",
+      "url": "https://medlineplus.gov/kidneytests.html",
+      "id": "6382"
+    },
+    {
+      "title": "Kidney Transplantation",
+      "url": "https://medlineplus.gov/kidneytransplantation.html",
+      "id": "1299"
+    }
+  ],
+  "see_references": [
+    "Diabetic Nephropathy"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Diabetic Nephropathies",
+      "id": "D003928"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/diabetickidneyproblems.html"
+}

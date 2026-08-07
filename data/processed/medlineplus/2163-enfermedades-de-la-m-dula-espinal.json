@@ -1,0 +1,64 @@
+{
+  "id": "2163",
+  "title": "Enfermedades de la médula espinal",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Entérese sobre condiciones que pueden afectar la médula espinal, la parte del sistema nervioso que transmite mensajes desde y hacia el cerebro.",
+  "summary": "La médula espinal es la parte del sistema nervioso que transmite mensajes desde y hasta el cerebro. Se encuentra dentro de las vértebras, que son los discos óseos que forman la columna vertebral. Normalmente, las vértebras protegen la médula espinal. Cuando eso no ocurre, puede ocurrir una lesión de la médula espinal . Además de las lesiones, en la médula espinal pueden aparecer: Tumores Infecciones como la meningitis y poliomielitis Enfermedades inflamatorias Enfermedades autoinmunes Enfermedades degenerativas, tales como la esclerosis lateral amiotrófica y atrofia muscular espinal Los síntomas varían pero pueden incluir dolor, entumecimiento, pérdida de la sensación y debilidad muscular. Estos síntomas pueden ocurrir alrededor de la médula espinal y también en otras áreas, como en los brazos y las piernas. Los tratamientos varían, pero con frecuencia incluyen medicinas y cirugía.",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Atrofia muscular espinal",
+      "url": "https://medlineplus.gov/spanish/spinalmuscularatrophy.html",
+      "id": "2274"
+    },
+    {
+      "title": "Esclerosis lateral amiotrófica",
+      "url": "https://medlineplus.gov/spanish/amyotrophiclateralsclerosis.html",
+      "id": "1739"
+    },
+    {
+      "title": "Espina bífida",
+      "url": "https://medlineplus.gov/spanish/spinabifida.html",
+      "id": "2162"
+    },
+    {
+      "title": "Estenosis espinal",
+      "url": "https://medlineplus.gov/spanish/spinalstenosis.html",
+      "id": "2166"
+    },
+    {
+      "title": "Siringomielia",
+      "url": "https://medlineplus.gov/spanish/syringomyelia.html",
+      "id": "2182"
+    },
+    {
+      "title": "Traumatismo de la médula espinal",
+      "url": "https://medlineplus.gov/spanish/spinalcordinjuries.html",
+      "id": "2164"
+    }
+  ],
+  "see_references": [
+    "Cavernosas, Malformaciones",
+    "Espinal, Tumor",
+    "Malformaciones cavernosos de la médula espinal",
+    "Mielitis transversa",
+    "Mielopatía cervical espondilótica",
+    "Mielopatía sifilítica",
+    "Médula espinal, Absceso",
+    "Médula espinal, Enfermedades de la",
+    "Médula espinal, Malformaciones cavernosos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/spinalcorddiseases.html"
+}

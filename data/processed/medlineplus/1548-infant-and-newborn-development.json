@@ -1,0 +1,43 @@
+{
+  "id": "1548",
+  "title": "Infant and Newborn Development",
+  "language": "English",
+  "date_created": "10/04/2001",
+  "meta_description": "Babies do not develop at the same rate. However, there are 5 growth areas that are crucial to infant and newborn development. Read about them.",
+  "summary": "When will my baby take his first step or say her first word? During their first year, babies start to develop skills they will use for the rest of their lives. The normal growth of babies can be broken down into the following areas: Gross motor - controlling the head, sitting, crawling, maybe even starting to walk Fine motor - holding a spoon, picking up a piece of cereal between thumb and finger Sensory - seeing, hearing, tasting, touching and smelling Language - starting to make sounds, learning some words, understanding what people say Social - the ability to play with family members and other children Babies do not develop at the same rate. There is a wide range of what is considered \"normal.\" Your baby may be ahead in some areas and slightly behind in others. If you are worried about possible delays, talk to your baby's health care provider.",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Development",
+      "url": "https://medlineplus.gov/childdevelopment.html",
+      "id": "185"
+    },
+    {
+      "title": "Toddler Development",
+      "url": "https://medlineplus.gov/toddlerdevelopment.html",
+      "id": "5424"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Infant Behavior",
+      "id": "D018730"
+    },
+    {
+      "name": "Child Development",
+      "id": "D002657"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/infantandnewborndevelopment.html"
+}

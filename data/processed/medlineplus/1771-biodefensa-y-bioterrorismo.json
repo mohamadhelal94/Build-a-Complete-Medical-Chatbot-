@@ -1,0 +1,83 @@
+{
+  "id": "1771",
+  "title": "Biodefensa y bioterrorismo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El bioterrorismo es un terrorismo que usa virus, bacterias y otros gérmenes para causar enfermedades o muertes. La biodefensa protege de estos ataques.",
+  "summary": "El terrorismo se refiere al uso o la amenaza de la fuerza o la violencia contra personas o propiedades. Un ataque bioterrorista lanza virus, bacterias u otros gérmenes para causar enfermedades o muertes. Estos gérmenes a menudo se encuentran en la naturaleza. Pero a veces pueden hacerse más peligrosos aumentando su capacidad para causar o diseminar enfermedades o para resistir el tratamiento médico. Los agentes biológicos se diseminan a través del aire, el agua o los alimentos. Algunos también pueden diseminarse de una persona a otra. Estos no causan enfermedad por varias horas o días. A los científicos les preocupa que el ántrax , el botulismo , otros virus de fiebre hemorrágica como el ébola , la peste o la viruela , puedan usarse como agentes biológicos. La biodefensa usa medidas médicas para proteger a las personas contra los agentes biológicos, incluyendo medicinas y vacunas. También incluye investigaciones y preparativos médicos para defenderse contra ataques bioterroristas. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Armas biológicas",
+    "Terrorismo biológico"
+  ],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental",
+    "Desastres"
+  ],
+  "related_topics": [
+    {
+      "title": "Botulismo",
+      "url": "https://medlineplus.gov/spanish/botulism.html",
+      "id": "1783"
+    },
+    {
+      "title": "Emergencias químicas",
+      "url": "https://medlineplus.gov/spanish/chemicalemergencies.html",
+      "id": "3175"
+    },
+    {
+      "title": "Enfermedades infecciosas",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html",
+      "id": "1977"
+    },
+    {
+      "title": "Enfrentarse con desastres",
+      "url": "https://medlineplus.gov/spanish/copingwithdisasters.html",
+      "id": "3798"
+    },
+    {
+      "title": "Fiebres hemorrágicas",
+      "url": "https://medlineplus.gov/spanish/hemorrhagicfevers.html",
+      "id": "2256"
+    },
+    {
+      "title": "Peste",
+      "url": "https://medlineplus.gov/spanish/plague.html",
+      "id": "2258"
+    },
+    {
+      "title": "Preparativos y recuperación ante un desastre",
+      "url": "https://medlineplus.gov/spanish/disasterpreparationandrecovery.html",
+      "id": "1862"
+    },
+    {
+      "title": "Vacunación",
+      "url": "https://medlineplus.gov/spanish/vaccines.html",
+      "id": "1970"
+    },
+    {
+      "title": "Viruela",
+      "url": "https://medlineplus.gov/spanish/smallpox.html",
+      "id": "2154"
+    },
+    {
+      "title": "Ántrax",
+      "url": "https://medlineplus.gov/spanish/anthrax.html",
+      "id": "1749"
+    }
+  ],
+  "see_references": [
+    "Ataques terroristas",
+    "Desastres causados por el hombre",
+    "Guerra bactereológica",
+    "Terrorismo"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/biodefenseandbioterrorism.html"
+}

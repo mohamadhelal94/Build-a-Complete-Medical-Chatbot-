@@ -1,0 +1,24 @@
+{
+  "id": "6095",
+  "title": "Barotrauma",
+  "language": "English",
+  "date_created": "01/07/2013",
+  "meta_description": "Changes in barometric or water pressure can cause injury to your body (Barotrauma). An example is how a change in altitude can make your ears hurt.",
+  "summary": "Barotrauma means injury to your body because of changes in barometric (air) or water pressure. One common type happens to your ear . A change in altitude may cause your ears to hurt. This can happen if you are flying in an airplane, driving in the mountains, or scuba diving. Divers can also get decompression sickness, which affects the whole body. Common symptoms of ear barotrauma include: Pain A feeling that your ears are stuffed Hearing loss Dizziness Treatments for ear barotrauma include chewing gum and yawning to relieve the pressure. Medications such as decongestants may also help.",
+  "synonyms": [],
+  "groups": [
+    "Ear, Nose and Throat",
+    "Safety Issues"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Barotrauma",
+      "id": "D001469"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/barotrauma.html"
+}

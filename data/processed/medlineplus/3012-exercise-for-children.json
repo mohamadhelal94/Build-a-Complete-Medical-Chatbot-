@@ -1,0 +1,47 @@
+{
+  "id": "3012",
+  "title": "Exercise for Children",
+  "language": "English",
+  "date_created": "11/12/2002",
+  "meta_description": "Your child needs plenty of exercise to be healthy. Find out about the right amount of exercise for your child, safe exercise, and more.",
+  "summary": "Like adults, kids need exercise. Most children need at least an hour of physical activity every day. Regular exercise has many benefits for children. It can help them: Feel less stressed Feel better about themselves Feel more ready to learn in school Keep a healthy weight Build and keep healthy bones, muscles and joints Sleep better at night As kids spend more time watching TV, they spend less time running and playing. Parents should limit TV, video game and computer time. Parents can set a good example by being active themselves. Exercising together can be fun for everyone. Competitive sports can help kids stay fit. Walking or biking to school, dancing, bowling and yoga are some other ways for kids to get exercise.",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Wellness and Lifestyle",
+    "Fitness and Exercise"
+  ],
+  "related_topics": [
+    {
+      "title": "Benefits of Exercise",
+      "url": "https://medlineplus.gov/benefitsofexercise.html",
+      "id": "6601"
+    },
+    {
+      "title": "Exercise and Physical Fitness",
+      "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+      "id": "490"
+    },
+    {
+      "title": "Sports Fitness",
+      "url": "https://medlineplus.gov/sportsfitness.html",
+      "id": "415"
+    }
+  ],
+  "see_references": [
+    "Fitness"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Youth Sports",
+      "id": "D000067009"
+    },
+    {
+      "name": "Exercise",
+      "id": "D015444"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/exerciseforchildren.html"
+}

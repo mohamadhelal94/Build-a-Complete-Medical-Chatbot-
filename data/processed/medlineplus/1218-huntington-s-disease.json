@@ -1,0 +1,43 @@
+{
+  "id": "1218",
+  "title": "Huntington's Disease",
+  "language": "English",
+  "date_created": "02/29/2000",
+  "meta_description": "Huntington's disease (HD) is an inherited disease that causes nerve cells in the brain to waste away. It causes disability that gets worse over time.",
+  "summary": "Huntington's disease (HD) is an inherited disease that causes certain nerve cells in the brain to waste away. People are born with the defective gene, but symptoms usually don't appear until middle age. Early symptoms of HD may include uncontrolled movements, clumsiness, and balance problems. Later, HD can take away the ability to walk, talk, and swallow. Some people stop recognizing family members. Others are aware of their environment and are able to express emotions. If one of your parents has Huntington's disease, you have a 50% chance of getting it. A blood test can tell you if have the HD gene and will develop the disease. Genetic counseling can help you weigh the risks and benefits of taking the test. There is no cure. Medicines can help manage some of the symptoms, but cannot slow down or stop the disease. NIH: National Institute of Neurological Disorders and Stroke",
+  "synonyms": [
+    "HD",
+    "Huntington's chorea"
+  ],
+  "groups": [
+    "Brain and Nerves",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Degenerative Nerve Diseases",
+      "url": "https://medlineplus.gov/degenerativenervediseases.html",
+      "id": "619"
+    },
+    {
+      "title": "Movement Disorders",
+      "url": "https://medlineplus.gov/movementdisorders.html",
+      "id": "520"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Huntington Disease",
+      "id": "D006816"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/huntingtonsdisease.html"
+}

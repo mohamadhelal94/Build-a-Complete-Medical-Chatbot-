@@ -1,0 +1,36 @@
+{
+  "id": "5283",
+  "title": "Pérdida de cabello",
+  "language": "Spanish",
+  "date_created": "09/02/2009",
+  "meta_description": "Existen muchas causas de la pérdida del cabello. La caída del pelo afecta más a los hombres, sobre todo durante el envejecimiento. Más aquí.",
+  "summary": "Usted pierde cerca de 100 pelos de su cabeza por día. Eso es normal y en la mayoría de las personas esos cabellos vuelven a crecer. Pero muchos hombres, y algunas mujeres, pierden pelo a medida que envejecen. También puede perderlo si sufre ciertas enfermedades, como problemas de la tiroides, diabetes o lupus. Si toma ciertas medicinas o está en tratamiento de quimioterapia por cáncer también puede perder pelo. Otras causas son el estrés, una dieta baja en proteínas, historia familiar o mala nutrición. El tratamiento para la pérdida del cabello depende de las causas. En algunos casos, tratar la causa puede solucionar el problema. Otros tratamientos incluyen medicinas o trasplante capilar.",
+  "synonyms": [
+    "Caída de pelo"
+  ],
+  "groups": [
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Problemas del cabello",
+      "url": "https://medlineplus.gov/spanish/hairproblems.html",
+      "id": "1929"
+    }
+  ],
+  "see_references": [
+    "Alopecia",
+    "Cabello, Pérdida",
+    "Caída de cabello",
+    "Pelo, Caída"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hairloss.html"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2150",
+  "title": "Enfermedades de la piel",
+  "language": "Spanish",
+  "date_created": "12/30/2002",
+  "meta_description": "Entérese sobre la función que cumple la piel en nuestro cuerpo, así como las condiciones que pueden desarrollarse, como manchas o celulitis. Más aquí.",
+  "summary": "¿Para qué sirve la piel? La piel es el órgano más grande del cuerpo, cubriendo todo su exterior. Hay muchas maneras en que la piel le protege y ayuda a mantenerse saludable. Por ejemplo: Retiene los fluidos corporales, lo que ayuda a evitar que se deshidrate Evita el ingreso de gérmenes dañinos, lo que ayuda a prevenir infecciones Le ayuda a sentir sensaciones como calor, frío y dolor Ayuda a controlar la temperatura del cuerpo Produce vitamina D cuando se expone al sol Protege su cuerpo contra el calor y la luz ¿Qué problemas y enfermedades pueden afectar la piel? Hay muchos problemas y enfermedades diferentes que pueden afectar su piel. Algunos de ellos pueden causar síntomas incómodos, como picazón , ardor, enrojecimiento y sarpullido . También pueden afectar su apariencia. Algunas de las afecciones de la piel más comunes incluyen: Acné : Causa granos cuando los folículos pilosos debajo de la piel se bloquean Quemaduras Cortes y raspaduras Caspa : Descamación de la piel del cuero cabelludo (la parte de arriba de la cabeza) Eccema (dermatitis atópica): Causa inflamación, enrojecimiento e irritación de la piel Urticaria : Protuberancias rojas que a veces pican en la piel Picaduras de insectos Psoriasis : Causa manchas rojas escamosas que pican Cáncer de piel Infecciones de la piel ¿Cómo mantener sana la piel? Dado que la piel protege su cuerpo de muchas maneras, es importante tratar de mantener su piel saludable. Por ejemplo, usted puede: Usar el equipo de protección adecuado, como guantes, mangas largas, rodilleras y coderas; o cascos para protegerse contra cortes, golpes y raspaduras Si se corta o se raspa, limpie de inmediato la herida con jabón y agua tibia. Póngase un vendaje para proteger la piel mientras sana Cuando pase tiempo al aire libre, use mangas y pantalones largos y use repelente de insectos para evitar picaduras de insectos Evitar las quemaduras solares cubriéndose y usando protector solar cuando esté al aire libre Lavarse las manos frecuentemente con agua y jabón Cuando se duche o se bañe, use agua tibia (no caliente). Use limpiadores suaves y lave suavemente (no se refriegue la piel) Usar humectantes como lociones, cremas o ungüentos, para prevenir la piel seca NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+  "synonyms": [
+    "Enfermedades cutáneas",
+    "Problemas dermatológicos"
+  ],
+  "groups": [
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de piel",
+      "url": "https://medlineplus.gov/spanish/skincancer.html",
+      "id": "2149"
+    },
+    {
+      "title": "Eccema",
+      "url": "https://medlineplus.gov/spanish/eczema.html",
+      "id": "1878"
+    },
+    {
+      "title": "Envejecimiento de la piel",
+      "url": "https://medlineplus.gov/spanish/skinaging.html",
+      "id": "3776"
+    },
+    {
+      "title": "Impétigo",
+      "url": "https://medlineplus.gov/spanish/impetigo.html",
+      "id": "1971"
+    },
+    {
+      "title": "Infecciones de la piel",
+      "url": "https://medlineplus.gov/spanish/skininfections.html",
+      "id": "5359"
+    },
+    {
+      "title": "Picazón",
+      "url": "https://medlineplus.gov/spanish/itching.html",
+      "id": "3068"
+    },
+    {
+      "title": "Psoriasis",
+      "url": "https://medlineplus.gov/spanish/psoriasis.html",
+      "id": "2112"
+    },
+    {
+      "title": "Sarpullido",
+      "url": "https://medlineplus.gov/spanish/rashes.html",
+      "id": "1849"
+    },
+    {
+      "title": "Trastornos de pigmentación de la piel",
+      "url": "https://medlineplus.gov/spanish/skinpigmentationdisorders.html",
+      "id": "2151"
+    }
+  ],
+  "see_references": [
+    "Celulitis (grasa)",
+    "Dermatitis seborreica",
+    "Intertrigo",
+    "Liquen escleroso",
+    "Liquen plano",
+    "Mastocitosis",
+    "Piel, Enfermedades de la",
+    "Pitiriasis rosada",
+    "Púrpura de Schönlein-Henoch"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/skinconditions.html"
+}

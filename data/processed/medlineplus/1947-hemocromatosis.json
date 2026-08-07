@@ -1,0 +1,33 @@
+{
+  "id": "1947",
+  "title": "Hemocromatosis",
+  "language": "Spanish",
+  "date_created": "02/17/2005",
+  "meta_description": "La hemocromatosis es una enfermedad en la que exceso de hierro se acumula en su cuerpo. Síntomas y control de la enfermedad.",
+  "summary": "La hemocromatosis es una enfermedad en la que exceso de hierro se acumula en su cuerpo. Su cuerpo necesita hierro, pero demasiado resulta tóxico. Si usted tiene hemocromatosis, absorbe más hierro de lo que necesita. Su cuerpo no tiene cómo deshacerse del hierro adicional en forma natural. Éste se almacena en los tejidos del cuerpo, especialmente el hígado, corazón y páncreas. El hierro adicional puede dañar sus órganos. Sin tratamiento, puede causar que sus órganos fallen. Hay dos tipos de hemocromatosis. La hemocromatosis primaria es una enfermedad hereditaria. Hemocromatosis secundaria es generalmente el resultado de algo más, como la anemia, la talasemia, enfermedad hepática o transfusiones de sangre. Muchos de los síntomas de la hemocromatosis se parecen a los de otras enfermedades. No todos muestran síntomas. Si lo hace, usted puede presentar dolor en las articulaciones, fatiga, debilidad general, pérdida de peso y dolor de estómago. Su médico diagnosticará la hemocromatosis tomando en cuenta sus antecedentes médicos y familiares, un examen físico y los resultados de pruebas y procedimientos. Los tratamientos incluyen la eliminación de la sangre (y el hierro) de su cuerpo, medicamentos y cambios en su dieta. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Sobrecarga de hierro"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Genética y defectos congénitos",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Hierro en la dieta",
+      "url": "https://medlineplus.gov/spanish/iron.html",
+      "id": "5543"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hemochromatosis.html"
+}

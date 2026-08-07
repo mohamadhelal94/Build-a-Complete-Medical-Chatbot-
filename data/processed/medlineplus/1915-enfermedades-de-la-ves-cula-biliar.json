@@ -1,0 +1,48 @@
+{
+  "id": "1915",
+  "title": "Enfermedades de la vesícula biliar",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Infórmese sobre las condiciones que pueden afectar a la vesícula como cálculos y colecistitis. Síntomas y tratamientos aquí.",
+  "summary": "La vesícula biliar es un órgano con forma de pera ubicada bajo el hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado. Es más probable que la vesícula cause problemas si algo obstruye el flujo de bilis por los conductos biliares . Eso suele ocurrir con los cálculos biliares . Los cálculos se forman cuando hay sustancias en la bilis que se endurecen. En forma menos común se puede desarrollar cáncer en la vesícula. Muchos de los problemas de la vesícula se solucionan al extirparla. Afortunadamente, la vesícula biliar no es un órgano imprescindible para la vida. La bilis tiene otras vías para llegar al intestino delgado.",
+  "synonyms": [
+    "Colecistopatía",
+    "Enfermedad biliar",
+    "Enfermedades vesiculares"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cálculos biliares",
+      "url": "https://medlineplus.gov/spanish/gallstones.html",
+      "id": "4644"
+    },
+    {
+      "title": "Cáncer de la vesícula biliar",
+      "url": "https://medlineplus.gov/spanish/gallbladdercancer.html",
+      "id": "4646"
+    },
+    {
+      "title": "Enfermedades de los ductos biliares",
+      "url": "https://medlineplus.gov/spanish/bileductdiseases.html",
+      "id": "3788"
+    }
+  ],
+  "see_references": [
+    "Colecistectomía",
+    "Colecistitis aguda",
+    "Colecistitis crónica",
+    "Vesícula biliar, Enfermedades de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/gallbladderdiseases.html"
+}

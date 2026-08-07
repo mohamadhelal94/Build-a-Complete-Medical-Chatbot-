@@ -1,0 +1,54 @@
+{
+  "id": "1299",
+  "title": "Kidney Transplantation",
+  "language": "English",
+  "date_created": "06/02/2000",
+  "meta_description": "Read more about the process and details of a kidney transplantation and how they may affect your body.",
+  "summary": "A kidney transplant is an operation that places a healthy kidney in your body. The transplanted kidney takes over the work of the two kidneys that failed , so you no longer need dialysis . During a transplant, the surgeon places the new kidney in your lower abdomen and connects the artery and vein of the new kidney to your artery and vein. Often, the new kidney will start making urine as soon as your blood starts flowing through it. But sometimes it takes a few weeks to start working. Many transplanted kidneys come from donors who have died. Some come from a living family member. The wait for a new kidney can be long. If you have a transplant, you must take drugs for the rest of your life, to keep your body from rejecting the new kidney. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Renal transplantation"
+  ],
+  "groups": [
+    "Kidneys and Urinary System",
+    "Transplantation and Donation"
+  ],
+  "related_topics": [
+    {
+      "title": "Kidney Cysts",
+      "url": "https://medlineplus.gov/kidneycysts.html",
+      "id": "5808"
+    },
+    {
+      "title": "Kidney Diseases",
+      "url": "https://medlineplus.gov/kidneydiseases.html",
+      "id": "91"
+    },
+    {
+      "title": "Kidney Failure",
+      "url": "https://medlineplus.gov/kidneyfailure.html",
+      "id": "302"
+    },
+    {
+      "title": "Organ Transplantation",
+      "url": "https://medlineplus.gov/organtransplantation.html",
+      "id": "1462"
+    }
+  ],
+  "see_references": [
+    "Renal Transplantation"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Kidney Transplantation",
+      "id": "D016030"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/kidneytransplantation.html"
+}

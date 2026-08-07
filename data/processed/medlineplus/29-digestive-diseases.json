@@ -1,0 +1,98 @@
+{
+  "id": "29",
+  "title": "Digestive Diseases",
+  "language": "English",
+  "date_created": "09/09/1999",
+  "meta_description": "Learn about digestive disorders and how your gastrointestinal (GI) system works. Find out what tests you need in case you sense a problem.",
+  "summary": "When you eat, your body breaks food down to a form it can use to build and nourish cells and provide energy. This process is called digestion. Your digestive system is a series of hollow organs joined in a long, twisting tube. It runs from your mouth to your anus and includes your esophagus, stomach, and small and large intestines. Your liver, gallbladder and pancreas are also involved. They produce juices to help digestion. There are many types of digestive disorders. The symptoms vary widely depending on the problem. In general, you should see your doctor if you have: Blood in your stool Changes in bowel habits Severe abdominal pain Unintentional weight loss Heartburn not relieved by antacids NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Gastrointestinal diseases"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Celiac Disease",
+      "url": "https://medlineplus.gov/celiacdisease.html",
+      "id": "897"
+    },
+    {
+      "title": "Colonic Diseases",
+      "url": "https://medlineplus.gov/colonicdiseases.html",
+      "id": "194"
+    },
+    {
+      "title": "Constipation",
+      "url": "https://medlineplus.gov/constipation.html",
+      "id": "200"
+    },
+    {
+      "title": "Diverticulosis and Diverticulitis",
+      "url": "https://medlineplus.gov/diverticulosisanddiverticulitis.html",
+      "id": "214"
+    },
+    {
+      "title": "Gas",
+      "url": "https://medlineplus.gov/gas.html",
+      "id": "4291"
+    },
+    {
+      "title": "Gastroenteritis",
+      "url": "https://medlineplus.gov/gastroenteritis.html",
+      "id": "3056"
+    },
+    {
+      "title": "GERD",
+      "url": "https://medlineplus.gov/gerd.html",
+      "id": "512"
+    },
+    {
+      "title": "Indigestion",
+      "url": "https://medlineplus.gov/indigestion.html",
+      "id": "4293"
+    },
+    {
+      "title": "Intestinal Obstruction",
+      "url": "https://medlineplus.gov/intestinalobstruction.html",
+      "id": "5275"
+    },
+    {
+      "title": "Liver Diseases",
+      "url": "https://medlineplus.gov/liverdiseases.html",
+      "id": "310"
+    },
+    {
+      "title": "Peptic Ulcer",
+      "url": "https://medlineplus.gov/pepticulcer.html",
+      "id": "357"
+    },
+    {
+      "title": "Small Intestine Disorders",
+      "url": "https://medlineplus.gov/smallintestinedisorders.html",
+      "id": "5446"
+    },
+    {
+      "title": "Stomach Disorders",
+      "url": "https://medlineplus.gov/stomachdisorders.html",
+      "id": "420"
+    }
+  ],
+  "see_references": [
+    "Gastrointestinal Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Digestive System Diseases",
+      "id": "D004066"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/digestivediseases.html"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "7648",
+  "title": "Vacunas contra el COVID-19",
+  "language": "Spanish",
+  "date_created": "11/09/2020",
+  "meta_description": "Infórmese sobre las vacunas aprobadas para el COVID-19 y el programa de vacunación.",
+  "summary": "La enfermedad del coronavirus 2019 ( COVID-19 ) es una afección causada por un virus. Este virus es un coronavirus llamado SARS-COV-2. La mayoría de las personas con COVID-19 tienen síntomas leves, pero algunas se enferman de gravedad. Usted puede protegerse vacunándose contra el COVID-19. Las vacunas podrían ayudar a prevenir que se enferme de COVID-19. Y si se enferma, estas pueden reducir su riesgo de: Necesitar ir a urgencias o a la sala de emergencias Desarrollar una enfermedad grave Ser hospitalizado Morir resentar COVID prolongado Es importante mantenerse al día con las vacunas contra el COVID-19. Comuníquese con su profesional de la salud si no sabe cuándo necesita otra vacuna o si tiene otras preguntas sobre las vacunas. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [],
+  "groups": [
+    "Infecciones",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Afecciones posteriores al COVID-19 (COVID-19 persistente)",
+      "url": "https://medlineplus.gov/spanish/postcovidconditionslongcovid.html",
+      "id": "7808"
+    },
+    {
+      "title": "Enfermedad del coronavirus 2019 (COVID-19)",
+      "url": "https://medlineplus.gov/spanish/covid19coronavirusdisease2019.html",
+      "id": "3182"
+    },
+    {
+      "title": "Pruebas para el COVID-19",
+      "url": "https://medlineplus.gov/spanish/covid19testing.html",
+      "id": "7628"
+    },
+    {
+      "title": "Vacunación",
+      "url": "https://medlineplus.gov/spanish/vaccines.html",
+      "id": "1970"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/covid19vaccines.html"
+}

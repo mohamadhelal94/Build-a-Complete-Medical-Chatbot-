@@ -1,0 +1,40 @@
+{
+  "id": "6383",
+  "title": "Pruebas y exámenes para los riñones",
+  "language": "Spanish",
+  "date_created": "09/06/2016",
+  "meta_description": "Las pruebas y exámenes renales miden qué tan bien los riñones están funcionando. Incluyen pruebas de sangre, orina y de imagen.",
+  "summary": "Usted tiene dos riñones, órganos del tamaño de un puño ubicados a cada lado de la columna vertebral un poco más arriba de su cintura. Sus riñones filtran y limpian su sangre, eliminando los productos de desecho y produciendo la orina. Las pruebas renales se usan para ver qué tan bien están funcionando sus riñones. Estas incluyen pruebas de sangre, orina y de imagen . Por lo general, la enfermedad renal en etapa temprana no muestra signos o síntomas. Las pruebas son la única forma de saber cómo están funcionando sus riñones. Es importante que se haga un chequeo por enfermedad renal si tiene los principales factores de riesgo: diabetes, presión arterial alta, enfermedades del corazón o una historia familiar de insuficiencia renal. Las pruebas renales específicas incluyen: Tasa de filtración glomerular : Uno de los análisis de sangre más comunes para la enfermedad renal crónica . Muestra qué tan bien filtran sus riñones Prueba de creatinina en sangre y orina : Chequea los niveles de creatinina, un producto de desecho que sus riñones eliminan de la sangre Análisis de albúmina en orina: Busca la presencia de albúmina, una proteína que puede aparecer en la orina si los riñones están dañados Pruebas de imagen como una ecografía : Proporciona imágenes de los riñones, las que ayudan al médico a visualizar el tamaño y forma de los riñones, y ver si hay algo inusual Biopsia de riñón: Consiste en tomar una pequeña muestra de tejido del riñón para analizarla en un microscopio. Comprueba la causa de la enfermedad renal y qué tan dañados están sus riñones. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Pruebas renales",
+    "Tests para los riñones"
+  ],
+  "groups": [
+    "Riñones y sistema urinario",
+    "Pruebas de diagnóstico"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneycancer.html",
+      "id": "1988"
+    },
+    {
+      "title": "Enfermedades de los riñones",
+      "url": "https://medlineplus.gov/spanish/kidneydiseases.html",
+      "id": "1989"
+    }
+  ],
+  "see_references": [
+    "Riñones, Pruebas y exámenes"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/kidneytests.html"
+}

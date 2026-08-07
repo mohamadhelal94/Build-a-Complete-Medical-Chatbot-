@@ -1,0 +1,42 @@
+{
+  "id": "5410",
+  "title": "Tears",
+  "language": "English",
+  "date_created": "04/12/2010",
+  "meta_description": "Your tears clean your eyes and keep them moist. Read about tears and what can go wrong, like too many tears, too few tears, or tear duct problems.",
+  "summary": "You may only think of tears as those salty drops that fall from your eyes when you cry. Actually, your tears clean your eyes every time you blink. Tears also keep your eyes moist, which is important for your vision. Tear glands produce tears, and tear ducts carry the tears from the glands to the surface of your eye. Problems with the tear system can include too many tears, too few tears, or problems with the tear ducts. Treatment of the problem depends on the cause.",
+  "synonyms": [
+    "Lacrimation"
+  ],
+  "groups": [
+    "Eyes and Vision"
+  ],
+  "related_topics": [
+    {
+      "title": "Sjogren's Syndrome",
+      "url": "https://medlineplus.gov/sjogrenssyndrome.html",
+      "id": "918"
+    }
+  ],
+  "see_references": [
+    "Dry Eye"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tears",
+      "id": "D013666"
+    },
+    {
+      "name": "Lacrimal Apparatus Diseases",
+      "id": "D007766"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/tears.html"
+}

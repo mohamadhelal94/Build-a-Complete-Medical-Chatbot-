@@ -1,0 +1,49 @@
+{
+  "id": "4557",
+  "title": "Steroids",
+  "language": "English",
+  "date_created": "12/10/2007",
+  "meta_description": "Anabolic steroids are often used illegally to build muscle. But corticosteroids are used to treat a variety of health problems. Learn more about steroids.",
+  "summary": "You may have heard of anabolic steroids , which can have harmful effects. But there's another type of steroid - sometimes called a corticosteroid - that treats a variety of problems. These steroids are similar to hormones that your adrenal glands make to fight stress associated with illnesses and injuries. They reduce inflammation and affect the immune system. You may need to take corticosteroids to treat: Arthritis Asthma Autoimmune diseases such as lupus and multiple sclerosis Skin conditions such as eczema and rashes Some kinds of cancer Steroids are strong medicines, and they can have side effects, including weakened bones and cataracts. Because of this, you usually take them for as short a time as possible.",
+  "synonyms": [
+    "Corticosteroids",
+    "Glucocorticoids"
+  ],
+  "groups": [
+    "Drug Therapy"
+  ],
+  "related_topics": [
+    {
+      "title": "Addison Disease",
+      "url": "https://medlineplus.gov/addisondisease.html",
+      "id": "1233"
+    },
+    {
+      "title": "Cushing's Syndrome",
+      "url": "https://medlineplus.gov/cushingssyndrome.html",
+      "id": "4318"
+    }
+  ],
+  "see_references": [
+    "Corticosteroids",
+    "Glucocorticoids",
+    "Prednisone"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Glucocorticoids",
+      "id": "D005938"
+    },
+    {
+      "name": "Adrenal Cortex Hormones",
+      "id": "D000305"
+    },
+    {
+      "name": "Prednisone",
+      "id": "D011241"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/steroids.html"
+}

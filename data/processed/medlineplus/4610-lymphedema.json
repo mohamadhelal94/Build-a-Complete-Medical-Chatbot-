@@ -1,0 +1,44 @@
+{
+  "id": "4610",
+  "title": "Lymphedema",
+  "language": "English",
+  "date_created": "05/06/2008",
+  "meta_description": "Lymphedema is the name of a type of swelling that happens when lymph builds up in your body's soft tissue. Discover causes and treatment options.",
+  "summary": "Lymphedema is the name of a type of swelling . It happens when lymph builds up in your body's soft tissues. Lymph is a fluid that contains white blood cells that defend against germs. It can build up when the lymph system is damaged or blocked. It usually happens in the arms or legs. Causes of lymphedema include: Infection Cancer Scar tissue from radiation therapy or surgical removal of lymph nodes Inherited conditions in which lymph nodes or vessels are absent or abnormal Treatment can help control symptoms. It includes exercise, compression devices, skin care, and massage. NIH: National Cancer Institute",
+  "synonyms": [
+    "Lymphatic obstruction"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation",
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Edema",
+      "url": "https://medlineplus.gov/edema.html",
+      "id": "1229"
+    },
+    {
+      "title": "Lymphatic Diseases",
+      "url": "https://medlineplus.gov/lymphaticdiseases.html",
+      "id": "591"
+    }
+  ],
+  "see_references": [
+    "Lymphatic Obstruction"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Lymphedema",
+      "id": "D008209"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/lymphedema.html"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3920",
+  "title": "Adhesions",
+  "language": "English",
+  "date_created": "09/14/2004",
+  "meta_description": "Abdominal surgery is the main cause of adhesions but not the only one. Learn about the signs, symptoms, and causes this type of scar tissue.",
+  "summary": "Adhesions are bands of scar-like tissue. Normally, internal tissues and organs have slippery surfaces so they can shift easily as the body moves. Adhesions cause tissues and organs to stick together. They might connect the loops of the intestines to each other, to nearby organs, or to the wall of the abdomen. They can pull sections of the intestines out of place. This may block food from passing through the intestine. Adhesions can occur anywhere in the body. But they often form after surgery on the abdomen. Almost everyone who has surgery on the abdomen gets adhesions. Some adhesions don't cause any problems. But when they partly or completely block the intestines , they cause symptoms such as: Severe abdominal pain or cramping Vomiting Bloating An inability to pass gas Constipation Adhesions can sometimes cause infertility in women by preventing fertilized eggs from reaching the uterus. No tests are available to detect adhesions. Doctors usually find them during surgery to diagnose other problems. Some adhesions go away by themselves. If they partly block your intestines, a diet low in fiber can allow food to move easily through the affected area. If you have a complete intestinal obstruction, it is life-threatening. You should get immediate medical attention and may need surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Abdominal adhesions"
+  ],
+  "groups": [
+    "Digestive System",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Intestinal Obstruction",
+      "url": "https://medlineplus.gov/intestinalobstruction.html",
+      "id": "5275"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tissue Adhesions",
+      "id": "D000267"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/adhesions.html"
+}

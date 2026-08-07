@@ -1,0 +1,45 @@
+{
+  "id": "5316",
+  "title": "Bowel Incontinence",
+  "language": "English",
+  "date_created": "12/23/2009",
+  "meta_description": "Learn about causes, treatment, and control of bowel incontinence. This condition is also called fecal incontinence.",
+  "summary": "Bowel incontinence is the inability to control your bowels. When you feel the urge to have a bowel movement , you may not be able to hold it until you get to a toilet. Millions of Americans have this problem. It affects people of all ages - children and adults. It is more common in women and older adults. It is not a normal part of aging. Causes include: Constipation Damage to muscles or nerves of the anus and rectum Diarrhea Pelvic floor disorders Treatments include changes in diet, medicines, bowel training, or surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Encopresis",
+    "Fecal incontinence",
+    "Stool soiling"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Anal Disorders",
+      "url": "https://medlineplus.gov/analdisorders.html",
+      "id": "137"
+    },
+    {
+      "title": "Bowel Movement",
+      "url": "https://medlineplus.gov/bowelmovement.html",
+      "id": "5262"
+    }
+  ],
+  "see_references": [
+    "Encopresis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Encopresis",
+      "id": "D004688"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bowelincontinence.html"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1702",
+  "title": "Sports Safety",
+  "language": "English",
+  "date_created": "07/31/2002",
+  "meta_description": "If you play sports, your safety should be a priority. Learn how to prevent related injuries by taking the following precautions",
+  "summary": "Playing sports can be fun, but it can also be dangerous if you are not careful. You can help prevent injuries by: Getting a physical to make sure you are healthy before you start playing your sport Wearing the right shoes, gear, and equipment Drinking lots of water Warming up and stretching If you have already hurt yourself playing a sport, make sure you recover completely before you start up again. If possible, protect the injured part of your body with padding, a brace, or special equipment. When you do start playing again, start slowly.",
+  "synonyms": [],
+  "groups": [
+    "Safety Issues",
+    "Fitness and Exercise"
+  ],
+  "related_topics": [
+    {
+      "title": "Sports Fitness",
+      "url": "https://medlineplus.gov/sportsfitness.html",
+      "id": "415"
+    },
+    {
+      "title": "Sports Injuries",
+      "url": "https://medlineplus.gov/sportsinjuries.html",
+      "id": "620"
+    },
+    {
+      "title": "Water Safety (Recreational)",
+      "url": "https://medlineplus.gov/watersafetyrecreational.html",
+      "id": "1714"
+    }
+  ],
+  "see_references": [
+    "Bicycle Safety",
+    "Recreational Safety"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Sports",
+      "id": "D013177"
+    },
+    {
+      "name": "Safety",
+      "id": "D012449"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sportssafety.html"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "3647",
+  "title": "Problemas de la sangre",
+  "language": "Spanish",
+  "date_created": "01/06/2005",
+  "meta_description": "Los problemas de la sangre afectan una o varias partes de ésta e impiden que cumpla su función. Infórmese",
+  "summary": "La sangre es tejido vivo formado por líquidos y sólidos. La parte líquida, llamada plasma, contiene agua, sales y proteínas. Más de la mitad del cuerpo es plasma. La parte sólida de la sangre contiene glóbulos rojos, glóbulos blancos y plaquetas. Los problemas de la sangre afectan una o varias partes de ésta e impiden que cumpla su función. Pueden ser crónicos o agudos. Muchos trastornos sanguíneos son hereditarios. Otras causas pueden ser otras enfermedades, efectos secundarios de algún medicamento y la falta de ciertos nutrientes en la dieta. Algunos tipos de problemas de la sangre son: Problemas plaquetarios , coagulación excesiva y otros coagulación excesiva , que afectan la coagulación Anemia , que ocurre cuando la sangre no lleva suficiente oxígeno a su cuerpo Cánceres sanguíneos como la leucemia , y el mieloma Desórdenes eosinofílicos , que son problemas con un tipo de glóbulos blancos",
+  "synonyms": [
+    "Problemas hematológicos"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Anemia",
+      "url": "https://medlineplus.gov/spanish/anemia.html",
+      "id": "1743"
+    },
+    {
+      "title": "Desórdenes eosinofílicos",
+      "url": "https://medlineplus.gov/spanish/eosinophilicdisorders.html",
+      "id": "4590"
+    },
+    {
+      "title": "Hemocromatosis",
+      "url": "https://medlineplus.gov/spanish/hemochromatosis.html",
+      "id": "1947"
+    },
+    {
+      "title": "Hemofilia",
+      "url": "https://medlineplus.gov/spanish/hemophilia.html",
+      "id": "3116"
+    },
+    {
+      "title": "Hemorragia",
+      "url": "https://medlineplus.gov/spanish/bleeding.html",
+      "id": "6040"
+    },
+    {
+      "title": "Incompatibilidad Rh",
+      "url": "https://medlineplus.gov/spanish/rhincompatibility.html",
+      "id": "5902"
+    },
+    {
+      "title": "Leucemia",
+      "url": "https://medlineplus.gov/spanish/leukemia.html",
+      "id": "5621"
+    },
+    {
+      "title": "Leucemia en niños",
+      "url": "https://medlineplus.gov/spanish/childhoodleukemia.html",
+      "id": "2006"
+    },
+    {
+      "title": "Problemas de coagulación",
+      "url": "https://medlineplus.gov/spanish/bleedingdisorders.html",
+      "id": "2231"
+    },
+    {
+      "title": "Problemas de la sangre",
+      "url": "https://medlineplus.gov/spanish/blooddisorders.html",
+      "id": "3647"
+    },
+    {
+      "title": "Sangre",
+      "url": "https://medlineplus.gov/spanish/blood.html",
+      "id": "6038"
+    },
+    {
+      "title": "Talasemia",
+      "url": "https://medlineplus.gov/spanish/thalassemia.html",
+      "id": "4240"
+    },
+    {
+      "title": "Transfusión y donación de sangre",
+      "url": "https://medlineplus.gov/spanish/bloodtransfusionanddonation.html",
+      "id": "1778"
+    }
+  ],
+  "see_references": [
+    "Sangre, Problemas"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/blooddisorders.html"
+}

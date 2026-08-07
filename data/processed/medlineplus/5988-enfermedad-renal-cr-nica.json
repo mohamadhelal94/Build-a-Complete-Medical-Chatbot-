@@ -1,0 +1,46 @@
+{
+  "id": "5988",
+  "title": "Enfermedad renal crónica",
+  "language": "Spanish",
+  "date_created": "02/29/2012",
+  "meta_description": "La insuficiencia renal crónica significa que sus riñones están afectados y no pueden filtrar la sangre como deberían. Entérese qué sucede entonces.",
+  "summary": "Usted tiene dos riñones, cada uno cerca del tamaño de su puño. Su función principal es filtrar su sangre. Ellos eliminan el desecho y el exceso de agua, lo que se vuelve orina. También mantienen el equilibrio químico del cuerpo, ayudan a controlar la presión arterial y a producir hormonas. La enfermedad renal crónica significa que sus riñones están dañados y no pueden filtrar la sangre como deberían. Este daño puede ocasionar que los desechos se acumulen en su cuerpo y causen otros problemas que podrían perjudicar su salud. La diabetes y la hipertensión arterial son las causas más comunes de enfermedad renal crónica. El daño renal se produce lentamente durante muchos años. Muchas personas no tienen ningún síntoma hasta que la enfermedad renal está muy avanzada. Los análisis de sangre y orina son la única manera de saber si usted tiene enfermedad renal. Los tratamientos no pueden curar la enfermedad renal, pero pueden retrasarla. Incluyen medicamentos para reducir la presión arterial , controlar el azúcar en la sangre y reducir el colesterol . La enfermedad renal crónica aún puede empeorar con el tiempo. A veces puede conducir a insuficiencia renal . Si sus riñones fallan, necesitará diálisis o un trasplante de riñón . Usted puede tomar estas medidas para mantener sus riñones sanos por más tiempo: Elija alimentos con menos sal (sodio) Controle su presión arterial . Su proveedor de salud puede decirle cuál debe ser su presión arterial Si tiene diabetes , mantenga su nivel de azúcar en la sangre bajo control Limite la cantidad de alcohol que bebe Elija alimentos que sean saludables para su corazón: Frutas, verduras, granos integrales y productos lácteos bajos en grasa Si tiene sobrepeso, baje de peso Manténgase físicamente activo No fume NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Falla crónica de los riñones",
+    "Falla renal crónica",
+    "Insuficiencia crónica del riñón",
+    "Insuficiencia renal de tipo crónico"
+  ],
+  "groups": [
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Diálisis",
+      "url": "https://medlineplus.gov/spanish/dialysis.html",
+      "id": "3790"
+    },
+    {
+      "title": "Enfermedades de los riñones",
+      "url": "https://medlineplus.gov/spanish/kidneydiseases.html",
+      "id": "1989"
+    },
+    {
+      "title": "Insuficiencia renal",
+      "url": "https://medlineplus.gov/spanish/kidneyfailure.html",
+      "id": "1990"
+    }
+  ],
+  "see_references": [
+    "Riñones, Enfermedad crónica"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/chronickidneydisease.html"
+}

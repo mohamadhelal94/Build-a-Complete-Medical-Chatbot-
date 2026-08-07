@@ -1,0 +1,84 @@
+{
+  "id": "2043",
+  "title": "Enfermedades musculares",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los músculos lo ayudan a moverse y forman parte del funcionamiento del cuerpo. Existen muchos problemas que pueden afectar a los músculos. Infórmese aquí.",
+  "summary": "Los músculos lo ayudan a moverse y forman parte del funcionamiento del cuerpo. Los distintos tipos de músculos tienen funciones diferentes. Existen muchos problemas que pueden afectar a los músculos. Las enfermedades musculares pueden causar debilidad, dolor o inclusive parálisis. Algunas causas conocidas son: Lesiones o exceso de uso, como en torceduras y distensiones , calambres o tendinitis Genéticas, como la distrofia muscular Cáncer Inflamación, como la miositis Enfermedades de los nervios que afectan a los músculos Infecciones Algunas medicinas En algunas ocasiones, no se conoce la causa de las enfermedades musculares.",
+  "synonyms": [
+    "Enfermedades de los músculos"
+  ],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Calambre muscular",
+      "url": "https://medlineplus.gov/spanish/musclecramps.html",
+      "id": "2279"
+    },
+    {
+      "title": "Distrofia muscular",
+      "url": "https://medlineplus.gov/spanish/musculardystrophy.html",
+      "id": "2044"
+    },
+    {
+      "title": "Enfermedades neuromusculares",
+      "url": "https://medlineplus.gov/spanish/neuromusculardisorders.html",
+      "id": "2054"
+    },
+    {
+      "title": "Esclerosis múltiple",
+      "url": "https://medlineplus.gov/spanish/multiplesclerosis.html",
+      "id": "2041"
+    },
+    {
+      "title": "Fibromialgia",
+      "url": "https://medlineplus.gov/spanish/fibromyalgia.html",
+      "id": "1903"
+    },
+    {
+      "title": "Miastenia grave",
+      "url": "https://medlineplus.gov/spanish/myastheniagravis.html",
+      "id": "2045"
+    },
+    {
+      "title": "Miositis",
+      "url": "https://medlineplus.gov/spanish/myositis.html",
+      "id": "2248"
+    },
+    {
+      "title": "Sarcoma del tejido blando",
+      "url": "https://medlineplus.gov/spanish/softtissuesarcoma.html",
+      "id": "2160"
+    },
+    {
+      "title": "Tendinitis",
+      "url": "https://medlineplus.gov/spanish/tendinitis.html",
+      "id": "2249"
+    },
+    {
+      "title": "Torceduras y distensiones",
+      "url": "https://medlineplus.gov/spanish/sprainsandstrains.html",
+      "id": "2235"
+    },
+    {
+      "title": "Trastornos del movimiento",
+      "url": "https://medlineplus.gov/spanish/movementdisorders.html",
+      "id": "2039"
+    }
+  ],
+  "see_references": [
+    "Miopatía",
+    "Musculares, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/muscledisorders.html"
+}

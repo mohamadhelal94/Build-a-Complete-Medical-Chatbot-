@@ -1,0 +1,32 @@
+{
+  "id": "4747",
+  "title": "Rinitis alérgica",
+  "language": "Spanish",
+  "date_created": "11/21/2008",
+  "meta_description": "La rinitis alérgica es un tipo de alergia provocada por el polen de los árboles, malezas y pasto. Síntomas y tratamientos para la fiebre del heno.",
+  "summary": "Cada primavera, verano y otoño, árboles, malezas y pasto liberan pequeños granos de polen al ambiente. Algunos de ellos terminan en su nariz y garganta. Esto puede provocar un tipo de alergia llamada rinitis alérgica. Los síntomas pueden incluir: Estornudos, a menudo con congestión o romadizo nasal Tos y goteo nasal posterior Picazón de ojos, nariz y garganta Ojeras Su proveedor de salud puede diagnosticar la rinitis alérgica con un examen físico y sus síntomas. A veces se utilizan pruebas de sangre o de piel. Algunas medicinas y sprays nasales pueden aliviar los síntomas. También puede hacerse enjuagues nasales, pero asegúrese de usar agua destilada o esterilizada con sal. Las inyecciones para la alergia pueden hacerlo menos sensible al polen y brindar alivio a largo plazo.",
+  "synonyms": [
+    "Fiebre de heno"
+  ],
+  "groups": [
+    "Oído, nariz y garganta",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia",
+      "url": "https://medlineplus.gov/spanish/allergy.html",
+      "id": "1734"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hayfever.html"
+}

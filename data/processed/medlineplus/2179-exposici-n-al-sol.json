@@ -1,0 +1,48 @@
+{
+  "id": "2179",
+  "title": "Exposición al sol",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cáncer de piel es el cáncer más común en los Estados Unidos. Reduzca su riesgo al permanecer en la sombra y al vestir ropa protectora, lentes de sol y protector solar todo el año.",
+  "summary": "Los rayos ultravioleta (UV) son una forma invisible de radiación. Pueden penetrar la piel y dañar las células. Las quemaduras de sol son un signo de daño en la piel. El bronceado tampoco es saludable. Aparece después que los rayos del sol ya mataron algunas células y dañaron otras. Los rayos UV pueden causar lesiones en la piel durante cualquier estación del año y a cualquier temperatura. También pueden causar problemas en los ojos, arrugas , manchas en la piel y cáncer de piel . Para protegerse: Manténgase alejado del sol cuando sus rayos son más fuertes (entre las 10 a.m. y las 2 p.m.) Use protector solar con un SPF de 15 o más Utilice ropa protectora Use anteojos de sol con buena cobertura que le brinden 100% de protección contra los rayos UV Evite las lámparas solares y las camas para broncearse Revise su piel con regularidad para detectar cambios en el tamaño, la forma, el color o la textura de sus marcas de nacimiento, lunares y manchas. Esos cambios pueden ser un signo de cáncer en la piel. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Exposición solar",
+    "Tomar sol"
+  ],
+  "groups": [
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de piel",
+      "url": "https://medlineplus.gov/spanish/skincancer.html",
+      "id": "2149"
+    },
+    {
+      "title": "Enfermedades causadas por el calor",
+      "url": "https://medlineplus.gov/spanish/heatillness.html",
+      "id": "1946"
+    },
+    {
+      "title": "Melanoma",
+      "url": "https://medlineplus.gov/spanish/melanoma.html",
+      "id": "2028"
+    }
+  ],
+  "see_references": [
+    "Broncearse",
+    "Quemadura del sol",
+    "Rayos ultravioleta",
+    "Sol, Exposición al",
+    "Sol, Quemadura"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/sunexposure.html"
+}

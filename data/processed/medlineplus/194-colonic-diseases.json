@@ -1,0 +1,73 @@
+{
+  "id": "194",
+  "title": "Colonic Diseases",
+  "language": "English",
+  "date_created": "01/01/1999",
+  "meta_description": "Diseases of the large intestine can affect your colon's ability to work properly. See how diet, medicines, and in some cases surgery can help.",
+  "summary": "Your colon, also known as the large intestine, is part of your digestive system. It's a long, hollow tube at the end of your digestive tract where your body makes and stores stool. Many disorders affect the colon's ability to work properly. Some of these include: Colorectal cancer Colonic polyps - extra tissue growing in the colon that can become cancerous Ulcerative colitis - ulcers of the colon and rectum Diverticulitis - inflammation or infection of pouches in the colon Irritable bowel syndrome - an uncomfortable condition causing abdominal cramping and other symptoms Treatment for colonic diseases varies greatly depending on the disease and its severity. Treatment may involve diet, medicines and in some cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Large intestine diseases"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Colonic Polyps",
+      "url": "https://medlineplus.gov/colonicpolyps.html",
+      "id": "3134"
+    },
+    {
+      "title": "Colonoscopy",
+      "url": "https://medlineplus.gov/colonoscopy.html",
+      "id": "4916"
+    },
+    {
+      "title": "Colorectal Cancer",
+      "url": "https://medlineplus.gov/colorectalcancer.html",
+      "id": "88"
+    },
+    {
+      "title": "Crohn's Disease",
+      "url": "https://medlineplus.gov/crohnsdisease.html",
+      "id": "119"
+    },
+    {
+      "title": "Diverticulosis and Diverticulitis",
+      "url": "https://medlineplus.gov/diverticulosisanddiverticulitis.html",
+      "id": "214"
+    },
+    {
+      "title": "Intestinal Obstruction",
+      "url": "https://medlineplus.gov/intestinalobstruction.html",
+      "id": "5275"
+    },
+    {
+      "title": "Irritable Bowel Syndrome",
+      "url": "https://medlineplus.gov/irritablebowelsyndrome.html",
+      "id": "614"
+    },
+    {
+      "title": "Ulcerative Colitis",
+      "url": "https://medlineplus.gov/ulcerativecolitis.html",
+      "id": "446"
+    }
+  ],
+  "see_references": [
+    "Intestinal Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Colonic Diseases",
+      "id": "D003108"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/colonicdiseases.html"
+}

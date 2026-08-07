@@ -1,0 +1,35 @@
+{
+  "id": "1879",
+  "title": "Edema",
+  "language": "Spanish",
+  "date_created": "10/26/2003",
+  "meta_description": "Edema es la hinchazón causada por acumulación de líquido en los tejidos. Suele ocurrir en los pies y en las piernas, pero puede afectar todo el cuerpo.",
+  "summary": "Edema significa hinchazón causada por la acumulación de líquido en los tejidos del cuerpo. Suele ocurrir en los pies, los tobillos y las piernas, pero puede afectar todo el cuerpo. Las causas de edema incluyen: Consumir demasiada sal Quemaduras de sol Insuficiencia cardíaca Enfermedades de los riñones Problemas hepáticos por cirrosis Embarazo Problemas con los ganglios linfáticos , especialmente después de una mastectomía Algunas medicinas Permanecer mucho tiempo de pie o sentado cuando hace calor Para disminuir el edema, el médico puede recomendarle mantener sus piernas elevadas cuando se siente, usar medias elásticas, limitar el consumo de sal o tomar medicamentos llamados diuréticos.",
+  "synonyms": [
+    "Hinchazón"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del sistema linfático",
+      "url": "https://medlineplus.gov/spanish/lymphaticdiseases.html",
+      "id": "2016"
+    }
+  ],
+  "see_references": [
+    "Hidropesía",
+    "Hinchazón"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/edema.html"
+}

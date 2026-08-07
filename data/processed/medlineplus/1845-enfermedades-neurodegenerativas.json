@@ -1,0 +1,83 @@
+{
+  "id": "1845",
+  "title": "Enfermedades neurodegenerativas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las enfermedades neurodegenerativas afectan  actividades que el cuerpo realiza, como el equilibrio, movimiento, hablar, respirar y funciones del corazón",
+  "summary": "Las enfermedades neurodegenerativas afectan varias actividades que el cuerpo realiza, como el equilibrio, movimiento, hablar, respirar y funciones del corazón. Muchas de estas enfermedades son genéticas. Las causas pueden ser alcoholismo, un tumor o un ataque cerebrovascular (ACV). Otras causas incluyen toxinas, químicos y virus. Otras veces, las causas se desconocen. Algunas enfermedades neurodegenerativas son: Enfermedad de Alzheimer Esclerosis lateral amiotrófica Ataxia de Friedreich Enfermedad de Huntington Demencia con cuerpos de Lewy Enfermedad de Parkinson Atrofia muscular espinal Las enfermedades neurodegenerativas pueden ser serias o poner la vida en peligro. Depende del tipo. La mayoría de ellas no tiene cura. El tratamiento puede ayudar a mejorar los síntomas, aliviar el dolor y aumentar la movilidad.",
+  "synonyms": [
+    "Enfermedades degenerativas del sistema nervioso"
+  ],
+  "groups": [
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Ataxia de Friedreich",
+      "url": "https://medlineplus.gov/spanish/friedreichataxia.html",
+      "id": "4360"
+    },
+    {
+      "title": "Enfermedad de Alzheimer",
+      "url": "https://medlineplus.gov/spanish/alzheimersdisease.html",
+      "id": "1736"
+    },
+    {
+      "title": "Enfermedad de Creutzfeldt-Jakob",
+      "url": "https://medlineplus.gov/spanish/creutzfeldtjakobdisease.html",
+      "id": "1840"
+    },
+    {
+      "title": "Enfermedad de Parkinson",
+      "url": "https://medlineplus.gov/spanish/parkinsonsdisease.html",
+      "id": "2081"
+    },
+    {
+      "title": "Enfermedades del cerebro",
+      "url": "https://medlineplus.gov/spanish/braindiseases.html",
+      "id": "1785"
+    },
+    {
+      "title": "Enfermedades del sistema nervioso periférico",
+      "url": "https://medlineplus.gov/spanish/peripheralnervedisorders.html",
+      "id": "2084"
+    },
+    {
+      "title": "Esclerosis lateral amiotrófica",
+      "url": "https://medlineplus.gov/spanish/amyotrophiclateralsclerosis.html",
+      "id": "1739"
+    },
+    {
+      "title": "Esclerosis múltiple",
+      "url": "https://medlineplus.gov/spanish/multiplesclerosis.html",
+      "id": "2041"
+    },
+    {
+      "title": "Polio y síndrome de post-polio",
+      "url": "https://medlineplus.gov/spanish/polioandpostpoliosyndrome.html",
+      "id": "2096"
+    },
+    {
+      "title": "Síndrome de Rett",
+      "url": "https://medlineplus.gov/spanish/rettsyndrome.html",
+      "id": "4273"
+    },
+    {
+      "title": "Trastornos cerebrales genéticos",
+      "url": "https://medlineplus.gov/spanish/geneticbraindisorders.html",
+      "id": "3118"
+    }
+  ],
+  "see_references": [
+    "Neurodegenerativas, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/degenerativenervediseases.html"
+}

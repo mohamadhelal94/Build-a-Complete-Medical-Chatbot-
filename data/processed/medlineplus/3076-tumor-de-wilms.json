@@ -1,0 +1,34 @@
+{
+  "id": "3076",
+  "title": "Tumor de Wilms",
+  "language": "Spanish",
+  "date_created": "02/07/2003",
+  "meta_description": "El tumor de Wilms o nefroblastoma es un tipo raro de cáncer de riñón que afecta a los niños. Entérese de diagnóstico, sintomas y tratamiento.",
+  "summary": "El tumor de Wilms es un tipo poco frecuente de cáncer renal . Causa un tumor en uno o ambos riñones. Usualmente afecta a los niños, pero puede ocurrir en adultos. Tener ciertos padecimientos genéticos o defectos de nacimiento puede aumentar el riesgo de desarrollarlo. Los niños que están en riesgo deben evaluarse cada tres meses hasta que cumplan ocho años. Los síntomas incluyen un bulto en el abdomen, sangre en la orina y fiebre sin causa aparente. Las pruebas de riñón y de sangre se utilizan para encontrar el tumor. Los médicos usualmente diagnostican y remueven el tumor con una cirugía. Otros tratamientos incluyen quimioterapia, radiación y terapia biológica. La terapia biológica, o inmunoterapia, estimula la capacidad del propio cuerpo para combatir el cáncer. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Nefroblastoma"
+  ],
+  "groups": [
+    "Cánceres",
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneycancer.html",
+      "id": "1988"
+    }
+  ],
+  "see_references": [
+    "Wilms, Tumor de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/wilmstumor.html"
+}

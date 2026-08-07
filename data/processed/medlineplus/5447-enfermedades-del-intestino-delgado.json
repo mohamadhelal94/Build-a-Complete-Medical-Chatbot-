@@ -1,0 +1,86 @@
+{
+  "id": "5447",
+  "title": "Enfermedades del intestino delgado",
+  "language": "Spanish",
+  "date_created": "04/26/2010",
+  "meta_description": "El intestino delgado es la parte más larga de su sistema digestivo: ¡casi 6 metros de largo! Entérese sobre el colon irritable, cáncer, divertículos y más.",
+  "summary": "El intestino delgado es la parte más larga de su sistema digestivo - ¡casi 20 pies (6 metros) de largo! Conecta el estómago al intestino grueso (colon) y se dobla muchas veces para entrar en el abdomen. El intestino delgado hace la mayor parte de la digestión de la comida que usted come. Tiene tres áreas: el duodeno, el íleon y el yeyuno. Los posibles problemas con el intestino delgado pueden ser: Sangrado Enfermedad celíaca Enfermedad de Crohn Infecciones Cáncer de intestino Obstrucción intestinal Síndrome del intestino irritable Ulceras, como la úlcera péptica El tratamiento de estos problemas depende de la causa.",
+  "synonyms": [],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de intestino",
+      "url": "https://medlineplus.gov/spanish/intestinalcancer.html",
+      "id": "3653"
+    },
+    {
+      "title": "Diarrea",
+      "url": "https://medlineplus.gov/spanish/diarrhea.html",
+      "id": "1858"
+    },
+    {
+      "title": "Enfermedad celíaca",
+      "url": "https://medlineplus.gov/spanish/celiacdisease.html",
+      "id": "1802"
+    },
+    {
+      "title": "Enfermedad de Crohn",
+      "url": "https://medlineplus.gov/spanish/crohnsdisease.html",
+      "id": "1842"
+    },
+    {
+      "title": "Enfermedades del sistema digestivo",
+      "url": "https://medlineplus.gov/spanish/digestivediseases.html",
+      "id": "1859"
+    },
+    {
+      "title": "Estomas",
+      "url": "https://medlineplus.gov/spanish/ostomy.html",
+      "id": "3039"
+    },
+    {
+      "title": "Gastroenteritis",
+      "url": "https://medlineplus.gov/spanish/gastroenteritis.html",
+      "id": "3057"
+    },
+    {
+      "title": "Hemorragia gastrointestinal",
+      "url": "https://medlineplus.gov/spanish/gastrointestinalbleeding.html",
+      "id": "1917"
+    },
+    {
+      "title": "Obstrucción intestinal",
+      "url": "https://medlineplus.gov/spanish/intestinalobstruction.html",
+      "id": "5276"
+    },
+    {
+      "title": "Síndrome del intestino irritable",
+      "url": "https://medlineplus.gov/spanish/irritablebowelsyndrome.html",
+      "id": "1983"
+    },
+    {
+      "title": "Síndromes de malabsorción",
+      "url": "https://medlineplus.gov/spanish/malabsorptionsyndromes.html",
+      "id": "5460"
+    },
+    {
+      "title": "Úlcera péptica",
+      "url": "https://medlineplus.gov/spanish/pepticulcer.html",
+      "id": "2083"
+    }
+  ],
+  "see_references": [
+    "Intestino delgado, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/smallintestinedisorders.html"
+}

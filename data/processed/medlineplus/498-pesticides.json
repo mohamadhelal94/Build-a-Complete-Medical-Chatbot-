@@ -1,0 +1,48 @@
+{
+  "id": "498",
+  "title": "Pesticides",
+  "language": "English",
+  "date_created": "11/23/1999",
+  "meta_description": "Pesticides can help get rid of pests. Pesticides can protect your health by killing germs, animals, or plants that could hurt you.",
+  "summary": "Pests live where they are not wanted or cause harm to crops, people, or animals. Pesticides can help get rid of them. Pesticides are not just insect killers. They also include chemicals to control weeds, rodents, mildew, germs, and more. Many household products contain pesticides. Pesticides can protect your health by killing germs, animals, or plants that could hurt you. However, they can also be harmful to people or pets. You might want to try non-chemical methods first. If you do need a pesticide, use it correctly. Be especially careful around children and pets. Proper disposal of pesticides is also important - it can help protect the environment. Biologically-based pesticides are becoming more popular. They often are safer than traditional pesticides. Environmental Protection Agency",
+  "synonyms": [
+    "Fungicides",
+    "Herbicides",
+    "Rodenticides"
+  ],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [
+    {
+      "title": "Food Safety",
+      "url": "https://medlineplus.gov/foodsafety.html",
+      "id": "1434"
+    },
+    {
+      "title": "Household Products",
+      "url": "https://medlineplus.gov/householdproducts.html",
+      "id": "1463"
+    }
+  ],
+  "see_references": [
+    "Fungicides",
+    "Herbicides",
+    "Insecticides",
+    "Rodenticides"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pesticides",
+      "id": "D010575"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pesticides.html"
+}

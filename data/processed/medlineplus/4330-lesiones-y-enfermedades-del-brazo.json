@@ -1,0 +1,47 @@
+{
+  "id": "4330",
+  "title": "Lesiones y enfermedades del brazo",
+  "language": "Spanish",
+  "date_created": "08/30/2006",
+  "meta_description": "Lesiones y trastornos del brazo incluyen problemas de los nervios, esguinces, luxaciones, tendinitis y enfermedades como la artritis. Más aquí.",
+  "summary": "De los 206 huesos en el cuerpo, tres de ellos se encuentran en el brazo: el húmero, el cúbito y el radio. Los brazos también están formados por músculos, articulaciones, tendones y otros tejidos conectivos. Pueden ocurrir lesiones en cualquiera de estas partes del brazo al practicar algún deporte, en caso de una caída o un accidente. Los tipos de lesiones en el brazo incluyen: Tendinitis y bursitis Torceduras Dislocaciones Fracturas (huesos rotos) Problemas de los nervios Osteoartritis También puede haber problemas o lesiones en partes específicas del brazo, tales como la mano , la muñeca , el codo o el hombro .",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Lesiones y enfermedades de la mano",
+      "url": "https://medlineplus.gov/spanish/handinjuriesanddisorders.html",
+      "id": "2239"
+    },
+    {
+      "title": "Lesiones y enfermedades de la muñeca",
+      "url": "https://medlineplus.gov/spanish/wristinjuriesanddisorders.html",
+      "id": "2259"
+    },
+    {
+      "title": "Lesiones y enfermedades del codo",
+      "url": "https://medlineplus.gov/spanish/elbowinjuriesanddisorders.html",
+      "id": "1881"
+    },
+    {
+      "title": "Lesiones y enfermedades del hombro",
+      "url": "https://medlineplus.gov/spanish/shoulderinjuriesanddisorders.html",
+      "id": "2145"
+    }
+  ],
+  "see_references": [
+    "Brazo, Lesiones y enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/arminjuriesanddisorders.html"
+}

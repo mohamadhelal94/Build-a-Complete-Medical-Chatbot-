@@ -1,0 +1,45 @@
+{
+  "id": "1520",
+  "title": "Twins, Triplets, Multiple Births",
+  "language": "English",
+  "date_created": "08/14/2001",
+  "meta_description": "Being pregnant with multiples raises your risk of pregnancy and childbirth problems. Learn how to stay healthy, prepare for birth, and plan for parenting.",
+  "summary": "If you are pregnant with more than one baby, you are far from alone. Multiple births are up in the United States. More women are having babies after age 30 and more are taking fertility drugs. Both boost the chance of carrying more than one baby. A family history of twins also makes multiples more likely. Years ago, most twins came as a surprise. Now, most women know about a multiple pregnancy early. Women with multiple pregnancies should see their health care providers more often than women who are expecting one baby. Multiple pregnancy babies have a much higher risk of being born prematurely and having a low birth weight . There is also more of a risk of disabilities. Some women have to go on bed rest to delay labor. Finally, they may deliver by C-section , especially if there are three babies or more. Parenting multiples can be a challenge. Volunteer help and support groups for parents of multiples can help. Dept. of Health and Human Services Office on Women's Health",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Pregnancy and Reproduction"
+  ],
+  "related_topics": [
+    {
+      "title": "Health Problems in Pregnancy",
+      "url": "https://medlineplus.gov/healthproblemsinpregnancy.html",
+      "id": "1105"
+    }
+  ],
+  "see_references": [
+    "Multiple Births",
+    "Triplets"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Pregnancy, Triplet",
+      "id": "D059286"
+    },
+    {
+      "name": "Pregnancy, Twin",
+      "id": "D059285"
+    },
+    {
+      "name": "Pregnancy, Quadruplet",
+      "id": "D059287"
+    },
+    {
+      "name": "Pregnancy, Quintuplet",
+      "id": "D059288"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/twinstripletsmultiplebirths.html"
+}

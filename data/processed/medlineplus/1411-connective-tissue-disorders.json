@@ -1,0 +1,67 @@
+{
+  "id": "1411",
+  "title": "Connective Tissue Disorders",
+  "language": "English",
+  "date_created": "12/28/2000",
+  "meta_description": "There are over 200 disorders that affect connective tissues. Examples include cellulitis, scars, and osteogenesis imperfecta. Learn more.",
+  "summary": "Your connective tissue supports many different parts of your body, such as your skin, eyes, and heart. It is like a \"cellular glue\" that gives your body parts their shape and helps keep them strong. It also helps some of your tissues do their work. It is made of many kinds of proteins. Cartilage and fat are types of connective tissue. Over 200 disorders that impact connective tissue. There are different types: Genetic disorders, such as Ehlers-Danlos syndrome , Marfan syndrome , and osteogenesis imperfecta Autoimmune disorders, such as lupus and scleroderma Cancers, like some types of soft tissue sarcoma Each disorder has its own symptoms and needs different treatment. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Cartilage Disorders",
+      "url": "https://medlineplus.gov/cartilagedisorders.html",
+      "id": "1412"
+    },
+    {
+      "title": "Ehlers-Danlos Syndrome",
+      "url": "https://medlineplus.gov/ehlersdanlossyndrome.html",
+      "id": "1594"
+    },
+    {
+      "title": "Lupus",
+      "url": "https://medlineplus.gov/lupus.html",
+      "id": "82"
+    },
+    {
+      "title": "Marfan Syndrome",
+      "url": "https://medlineplus.gov/marfansyndrome.html",
+      "id": "939"
+    },
+    {
+      "title": "Osteogenesis Imperfecta",
+      "url": "https://medlineplus.gov/osteogenesisimperfecta.html",
+      "id": "940"
+    },
+    {
+      "title": "Scleroderma",
+      "url": "https://medlineplus.gov/scleroderma.html",
+      "id": "394"
+    },
+    {
+      "title": "Soft Tissue Sarcoma",
+      "url": "https://medlineplus.gov/softtissuesarcoma.html",
+      "id": "495"
+    }
+  ],
+  "see_references": [
+    "Mixed Connective Tissue Disease",
+    "PXE"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Connective Tissue Diseases",
+      "id": "D003240"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/connectivetissuedisorders.html"
+}

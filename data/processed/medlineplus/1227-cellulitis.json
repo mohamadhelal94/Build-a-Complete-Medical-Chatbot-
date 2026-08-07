@@ -1,0 +1,40 @@
+{
+  "id": "1227",
+  "title": "Cellulitis",
+  "language": "English",
+  "date_created": "06/02/2000",
+  "meta_description": "Cellulitis is an infection of the skin and deep underlying tissues. The cause is usually a type of strep bacteria. Learn about symptoms and treatment.",
+  "summary": "Cellulitis is an infection of the skin and deep underlying tissues. Group A strep ( streptococcal ) bacteria are the most common cause. The bacteria enter your body when you get an injury such as a bruise, burn, surgical cut, or wound. Symptoms include: Fever and chills Swollen glands or lymph nodes A rash with painful, red, tender skin. The skin may blister and scab over. Your health care provider may take a sample or culture from your skin or do a blood test to identify the bacteria causing infection. Treatment is with antibiotics. They may be oral in mild cases, or intravenous (by IV) for more severe cases.",
+  "synonyms": [],
+  "groups": [
+    "Infections",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Staphylococcal Infections",
+      "url": "https://medlineplus.gov/staphylococcalinfections.html",
+      "id": "418"
+    },
+    {
+      "title": "Streptococcal Infections",
+      "url": "https://medlineplus.gov/streptococcalinfections.html",
+      "id": "421"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cellulitis",
+      "id": "D002481"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cellulitis.html"
+}

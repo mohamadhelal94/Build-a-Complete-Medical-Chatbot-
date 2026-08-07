@@ -1,0 +1,58 @@
+{
+  "id": "3078",
+  "title": "Problemas respiratorios",
+  "language": "Spanish",
+  "date_created": "02/07/2003",
+  "meta_description": "Cuando usted tiene problemas para respirar, al cuerpo le cuesta obtener el oxígeno que necesita. Esto puede ser señal de un problema grave. Entérese aquí.",
+  "summary": "Cuando usted tiene problemas para respirar, le cuesta o es incómodo obtener el oxígeno que necesita. Puede sentir que no está obteniendo el suficiente aire. A veces puede tener problemas respiratorios leves por una congestión nasal o hacer ejercicio muy intensamente. Pero la falta de aire también puede ser señal de una enfermedad seria. Muchas condiciones pueden hacer sentir que le falta el aire: Problemas de los pulmones como asma , enfisema o neumonía Problemas de su tráquea o en los bronquios , que son parte de su sistema respiratorio Las enfermedades cardíacas pueden provocar falta de aire si su corazón no puede bombear suficiente sangre para suministrarle oxígeno al cuerpo Ansiedad o ataque de pánico Alergias Si usted tiene problemas para respirar en forma frecuente, es importante encontrar la causa.",
+  "synonyms": [
+    "Disnea",
+    "Problemas para respirar"
+  ],
+  "groups": [
+    "Pulmón y vías respiratorias",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Apnea del sueño",
+      "url": "https://medlineplus.gov/spanish/sleepapnea.html",
+      "id": "2785"
+    },
+    {
+      "title": "Asma",
+      "url": "https://medlineplus.gov/spanish/asthma.html",
+      "id": "1760"
+    },
+    {
+      "title": "Enfermedad de obstrucción pulmonar crónica",
+      "url": "https://medlineplus.gov/spanish/copd.html",
+      "id": "1836"
+    },
+    {
+      "title": "Enfermedades de los pulmones",
+      "url": "https://medlineplus.gov/spanish/lungdiseases.html",
+      "id": "2125"
+    },
+    {
+      "title": "Fallo cardíaco",
+      "url": "https://medlineplus.gov/spanish/heartfailure.html",
+      "id": "1943"
+    }
+  ],
+  "see_references": [
+    "Dificultad respiratoria",
+    "Disnea",
+    "Respiración, Problemas de",
+    "Taquipnea"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/breathingproblems.html"
+}

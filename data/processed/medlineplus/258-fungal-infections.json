@@ -1,0 +1,76 @@
+{
+  "id": "258",
+  "title": "Fungal Infections",
+  "language": "English",
+  "date_created": "08/20/1999",
+  "meta_description": "Fungal infections, or mycoses, are caused by fungi. Many are mild and easy to treat, but others are very serious. Read about the types and treatments.",
+  "summary": "If you have ever had athlete's foot or a yeast infection , you can blame a fungus. A fungus is a primitive organism. Mushrooms, mold and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful. Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics. Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.",
+  "synonyms": [
+    "Mycoses"
+  ],
+  "groups": [
+    "Infections",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Aspergillosis",
+      "url": "https://medlineplus.gov/aspergillosis.html",
+      "id": "5628"
+    },
+    {
+      "title": "Athlete's Foot",
+      "url": "https://medlineplus.gov/athletesfoot.html",
+      "id": "151"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/histoplasmosis.html",
+      "id": "5632"
+    },
+    {
+      "title": "Molds",
+      "url": "https://medlineplus.gov/molds.html",
+      "id": "1538"
+    },
+    {
+      "title": "Pneumocystis Infections",
+      "url": "https://medlineplus.gov/pneumocystisinfections.html",
+      "id": "1510"
+    },
+    {
+      "title": "Tinea Infections",
+      "url": "https://medlineplus.gov/tineainfections.html",
+      "id": "1228"
+    },
+    {
+      "title": "Valley Fever",
+      "url": "https://medlineplus.gov/valleyfever.html",
+      "id": "5634"
+    },
+    {
+      "title": "Yeast Infections",
+      "url": "https://medlineplus.gov/yeastinfections.html",
+      "id": "1255"
+    }
+  ],
+  "see_references": [
+    "Cryptococcosis",
+    "Infections, Fungal",
+    "Mycoses"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Mycoses",
+      "id": "D009181"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/fungalinfections.html"
+}

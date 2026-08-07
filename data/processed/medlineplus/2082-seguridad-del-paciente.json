@@ -1,0 +1,34 @@
+{
+  "id": "2082",
+  "title": "Seguridad del paciente",
+  "language": "Spanish",
+  "date_created": "11/03/2005",
+  "meta_description": "Usted puede ayudar a prevenir errores médicos al ser un miembro activo de su equipo de atención médica. Entérese aquí cómo lograrlo.",
+  "summary": "Usted puede ayudar a prevenir los errores médicos al ser un miembro activo de su equipo de atención médica. Las investigaciones muestran que los pacientes que están más involucrados en su cuidado tienden a obtener mejores resultados. Para reducir el riesgo de errores médicos, usted puede: Hacer preguntas si tiene dudas o inquietudes. Vaya con un pariente o amigo a su cita médica para ayudarle a hacer preguntas y entender las respuestas Asegúrese de entender lo que sucederá si necesita cirugía Informar a sus proveedores de atención médica sobre todos los medicamentos que toma, incluyendo medicinas de venta libre y suplementos dietéticos. Incluya información sobre cualquier alergia o reacciones adversas a la anestesia. Asegúrese de saber cómo tomar sus medicamentos en forma correcta Obtener una segunda opinión sobre las opciones de tratamiento Guardar una copia de su propia historia clínica Agencia Para la Calidad e Investigación y Cuidado de la Salud",
+  "synonyms": [],
+  "groups": [
+    "Sistemas de salud",
+    "Asuntos personales de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Derechos del paciente",
+      "url": "https://medlineplus.gov/spanish/patientrights.html",
+      "id": "4254"
+    },
+    {
+      "title": "Errores en la administración de medicamentos",
+      "url": "https://medlineplus.gov/spanish/medicationerrors.html",
+      "id": "5720"
+    }
+  ],
+  "see_references": [
+    "Confidencialidad",
+    "Paciente, Seguridad del",
+    "Privacidad"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/patientsafety.html"
+}

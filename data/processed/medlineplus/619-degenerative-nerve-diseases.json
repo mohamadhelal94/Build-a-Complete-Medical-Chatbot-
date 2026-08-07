@@ -1,0 +1,95 @@
+{
+  "id": "619",
+  "title": "Degenerative Nerve Diseases",
+  "language": "English",
+  "date_created": "01/05/2000",
+  "meta_description": "Neurodegenerative (degenerative nerve) diseases are disorders that destroy motor neurons. Parkinson's is an examples. See a list of all the diseases.",
+  "summary": "Degenerative nerve diseases affect many of your body's activities, such as balance, movement, talking, breathing, and heart function. Many of these diseases are genetic. Sometimes the cause is a medical condition such as alcoholism, a tumor, or a stroke. Other causes may include toxins, chemicals, and viruses. Sometimes the cause is unknown. Degenerative nerve diseases include: Alzheimer's disease Amyotrophic lateral sclerosis Friedreich ataxia Huntington's disease Lewy body disease Parkinson's disease Spinal muscular atrophy Degenerative nerve diseases can be serious or life-threatening. It depends on the type. Most of them have no cure. Treatments may help improve symptoms, relieve pain, and increase mobility.",
+  "synonyms": [
+    "Neurodegenerative diseases"
+  ],
+  "groups": [
+    "Brain and Nerves"
+  ],
+  "related_topics": [
+    {
+      "title": "Alzheimer's Disease",
+      "url": "https://medlineplus.gov/alzheimersdisease.html",
+      "id": "22"
+    },
+    {
+      "title": "Amyotrophic Lateral Sclerosis",
+      "url": "https://medlineplus.gov/amyotrophiclateralsclerosis.html",
+      "id": "135"
+    },
+    {
+      "title": "Brain Diseases",
+      "url": "https://medlineplus.gov/braindiseases.html",
+      "id": "174"
+    },
+    {
+      "title": "Cerebellar Disorders",
+      "url": "https://medlineplus.gov/cerebellardisorders.html",
+      "id": "5919"
+    },
+    {
+      "title": "Creutzfeldt-Jakob Disease",
+      "url": "https://medlineplus.gov/creutzfeldtjakobdisease.html",
+      "id": "1242"
+    },
+    {
+      "title": "Friedreich Ataxia",
+      "url": "https://medlineplus.gov/friedreichataxia.html",
+      "id": "4359"
+    },
+    {
+      "title": "Genetic Brain Disorders",
+      "url": "https://medlineplus.gov/geneticbraindisorders.html",
+      "id": "3117"
+    },
+    {
+      "title": "Multiple Sclerosis",
+      "url": "https://medlineplus.gov/multiplesclerosis.html",
+      "id": "83"
+    },
+    {
+      "title": "Parkinson's Disease",
+      "url": "https://medlineplus.gov/parkinsonsdisease.html",
+      "id": "85"
+    },
+    {
+      "title": "Peripheral Nerve Disorders",
+      "url": "https://medlineplus.gov/peripheralnervedisorders.html",
+      "id": "1095"
+    },
+    {
+      "title": "Polio and Post-Polio Syndrome",
+      "url": "https://medlineplus.gov/polioandpostpoliosyndrome.html",
+      "id": "365"
+    },
+    {
+      "title": "Rett Syndrome",
+      "url": "https://medlineplus.gov/rettsyndrome.html",
+      "id": "4272"
+    }
+  ],
+  "see_references": [
+    "Ataxia",
+    "Neurodegenerative Diseases",
+    "Prion Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Neurodegenerative Diseases",
+      "id": "D019636"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/degenerativenervediseases.html"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1776",
+  "title": "Cáncer de vejiga",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cáncer de vejiga es el sexto más común en el país. Entérese sobre síntomas, factores de riesgo, tratamientos del cáncer de vejiga.",
+  "summary": "La vejiga es un órgano hueco en la parte inferior del abdomen donde se almacena la orina. El cáncer de vejiga ocurre en la membrana interna de la vejiga. Es el sexto tipo más común de cáncer en los Estados Unidos. Los síntomas incluyen: Sangre en la orina Urgencia frecuente de orinar Dolor al orinar Dolor en la parte baja de la espalda Los factores de riesgo incluyen fumar y la exposición a ciertas sustancias químicas en el ambiente de trabajo. Las personas que tienen antecedentes familiares de cáncer de vejiga y de edad madura, son de raza blanca o sexo masculino tienen un mayor riesgo. Los tratamientos contra el cáncer de vejiga incluyen la cirugía, radiación, quimioterapia y terapia biológica. La terapia biológica o inmunoterapia estimula la capacidad de su propio cuerpo para combatir el cáncer. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Carcinoma de células transicionales de la vejiga",
+    "Cáncer vesical"
+  ],
+  "groups": [
+    "Cánceres",
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de la vejiga",
+      "url": "https://medlineplus.gov/spanish/bladderdiseases.html",
+      "id": "1777"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bladdercancer.html"
+}

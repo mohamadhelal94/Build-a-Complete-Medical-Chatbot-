@@ -1,0 +1,40 @@
+{
+  "id": "1843",
+  "title": "Fibrosis quística",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La fibrosis quística es una enfermedad hereditaria de las glándulas mucosas y sudoríparas. Los síntomas y severidad pueden variar. Infórmese aquí.",
+  "summary": "La fibrosis quística es una enfermedad hereditaria de las glándulas mucosas y sudoríparas. Afecta principalmente los pulmones, el páncreas, el hígado, los intestinos, los senos paranasales y los órganos sexuales. La fibrosis quística hace que la mucosidad sea espesa y pegajosa. Esta mucosidad tapa los pulmones, causando problemas para respirar y facilitando el crecimiento de bacterias. Esto puede provocar infecciones pulmonares repetidas y daños pulmonares. Los síntomas y la severidad de la fibrosis quística pueden variar. Algunas personas tienen problemas serios desde el nacimiento. Otras pueden tener un tipo más leve de la enfermedad que no se manifiesta hasta la adolescencia o al inicio de la edad adulta. A veces se tienen pocos síntomas, pero más tarde es posible tener más. La fibrosis quística se diagnostica a través de varias pruebas, tales como genes, sangre y pruebas de sudor. No existe cura, pero los tratamientos han mejorado mucho en los últimos años. En el pasado, la mayoría de las muertes por fibrosis quística eran niños y adolescentes. Hoy en día, con la mejora de los tratamientos, algunas personas con fibrosis quística viven pasados los cuarenta, cincuenta años o más. Los tratamientos pueden incluir terapia física para el pecho, terapias nutricionales y respiratorias , medicinas y ejercicio. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [],
+  "groups": [
+    "Pulmón y vías respiratorias",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Rehabilitación pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryrehabilitation.html",
+      "id": "5981"
+    },
+    {
+      "title": "Terapia con oxígeno",
+      "url": "https://medlineplus.gov/spanish/oxygentherapy.html",
+      "id": "5335"
+    },
+    {
+      "title": "Trasplante de pulmón",
+      "url": "https://medlineplus.gov/spanish/lungtransplantation.html",
+      "id": "2013"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cysticfibrosis.html"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "412",
+  "title": "Spinal Stenosis",
+  "language": "English",
+  "date_created": "10/28/1999",
+  "meta_description": "Spinal stenosis causes narrowing in your spine which puts pressure on your nerves and spinal chord. It can cause pain, numbness, and foot problems.",
+  "summary": "Your spine, or backbone, protects your spinal cord and allows you to stand and bend. Spinal stenosis causes narrowing in your spine. The narrowing puts pressure on your nerves and spinal cord and can cause pain. Spinal stenosis occurs mostly in people older than 50. Younger people with a spine injury or a narrow spinal canal are also at risk. Diseases such as arthritis and scoliosis can cause spinal stenosis, too. Symptoms might appear gradually or not at all. They include: Pain in your neck or back Numbness, weakness, cramping, or pain in your arms or legs Pain going down the leg Foot problems Doctors diagnose spinal stenosis with a physical exam and imaging tests. Treatments include medications, physical therapy, braces, and surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Back Pain",
+      "url": "https://medlineplus.gov/backpain.html",
+      "id": "157"
+    },
+    {
+      "title": "Spine Injuries and Disorders",
+      "url": "https://medlineplus.gov/spineinjuriesanddisorders.html",
+      "id": "1505"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Spinal Stenosis",
+      "id": "D013130"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spinalstenosis.html"
+}

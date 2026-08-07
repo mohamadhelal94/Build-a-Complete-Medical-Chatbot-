@@ -1,0 +1,68 @@
+{
+  "id": "2002",
+  "title": "Lesiones y enfermedades de la pierna",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las lesiones y trastornos de las piernas pueden afectar a toda la pierna o sólo una parte. Lea sobre esguinces, torceduras y fracturas de la pierna.",
+  "summary": "Las piernas están formadas por huesos, vasos sanguíneos, músculos y otros tejidos conectivos. Son importantes para moverse y como soporte del cuerpo. La práctica deportiva, correr, las caídas o los accidentes pueden lesionar sus piernas. Las lesiones más comunes incluyen torceduras y distensiones , dislocaciones de una articulación y fracturas (huesos rotos). Estas lesiones pueden afectar toda la pierna o solamente el pie , el tobillo , la rodilla o la cadera . Algunas enfermedades también causan problemas en las piernas. Por ejemplo, la osteoartritis de la rodilla, común en personas mayores, puede causar dolor y limitarles sus movimientos. Los problemas en las venas de las piernas pueden causar várices o trombosis venosa profunda .",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Lesiones y enfermedades de la cadera",
+      "url": "https://medlineplus.gov/spanish/hipinjuriesanddisorders.html",
+      "id": "1957"
+    },
+    {
+      "title": "Lesiones y enfermedades de la rodilla",
+      "url": "https://medlineplus.gov/spanish/kneeinjuriesanddisorders.html",
+      "id": "1994"
+    },
+    {
+      "title": "Lesiones y enfermedades del pie",
+      "url": "https://medlineplus.gov/spanish/footinjuriesanddisorders.html",
+      "id": "1912"
+    },
+    {
+      "title": "Lesiones y enfermedades del tobillo",
+      "url": "https://medlineplus.gov/spanish/ankleinjuriesanddisorders.html",
+      "id": "1747"
+    },
+    {
+      "title": "Problemas circulatorios",
+      "url": "https://medlineplus.gov/spanish/vasculardiseases.html",
+      "id": "1822"
+    },
+    {
+      "title": "Problemas para caminar",
+      "url": "https://medlineplus.gov/spanish/walkingproblems.html",
+      "id": "5674"
+    },
+    {
+      "title": "Síndrome de las piernas inquietas",
+      "url": "https://medlineplus.gov/spanish/restlesslegs.html",
+      "id": "2126"
+    },
+    {
+      "title": "Trombosis venosa profunda",
+      "url": "https://medlineplus.gov/spanish/deepveinthrombosis.html",
+      "id": "2269"
+    },
+    {
+      "title": "Várices",
+      "url": "https://medlineplus.gov/spanish/varicoseveins.html",
+      "id": "2217"
+    }
+  ],
+  "see_references": [
+    "Pierna, Lesiones y enfermedades de la",
+    "Rengueo"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/leginjuriesanddisorders.html"
+}

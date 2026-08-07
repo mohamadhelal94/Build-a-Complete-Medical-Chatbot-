@@ -1,0 +1,43 @@
+{
+  "id": "2727",
+  "title": "Chiropractic",
+  "language": "English",
+  "date_created": "10/03/2002",
+  "meta_description": "Chiropractic is a health care profession. Chiropractors perform manipulations to the spine or other parts of the body. Read more.",
+  "summary": "Chiropractic is a health care profession. Chiropractors perform adjustments (manipulations) to the spine or other parts of the body. The goal is to correct alignment problems, ease pain, and support the body's natural ability to heal itself. They may also use other treatments including : Heat and ice Electrical stimulation Relaxation techniques Rehabilitative and general exercise Counseling about diet, weight loss, and other lifestyle factors Dietary supplements Many people visit chiropractors for treatment of low back pain , neck pain, and headaches . NIH: National Center for Complementary and Integrative Health",
+  "synonyms": [],
+  "groups": [
+    "Complementary and Alternative Therapies"
+  ],
+  "related_topics": [
+    {
+      "title": "Back Pain",
+      "url": "https://medlineplus.gov/backpain.html",
+      "id": "157"
+    },
+    {
+      "title": "Complementary and Integrative Medicine",
+      "url": "https://medlineplus.gov/complementaryandintegrativemedicine.html",
+      "id": "132"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Center for Complementary and Integrative Health",
+      "url": "https://nccih.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Chiropractic",
+      "id": "D002684"
+    },
+    {
+      "name": "Manipulation, Chiropractic",
+      "id": "D026882"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/chiropractic.html"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "2078",
+  "title": "Enfermedades parasitarias",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los parásitos son seres vivos que viven de otros seres vivos, como del cuerpo humano. Infórmese qué enfermedades causan y su tratamiento.",
+  "summary": "Los parásitos son seres vivos que viven de otros seres vivos, como del cuerpo humano, para alimentarse y tener un lugar donde vivir. Se pueden contraer por medio de los alimentos o el agua contaminada, la picadura de un insecto o por contacto sexual. Algunas enfermedades parasitarias son más fáciles de tratar que otras. Los parásitos varían en tamaño desde muy pequeños, organismos unicelulares llamados protozoarios, hasta gusanos, que pueden observarse a simple vista. En los Estados Unidos existen algunas enfermedades parasitarias. El suministro de agua contaminada puede causar infecciones por Giardias . Los gatos pueden transmitir toxoplasmosis , peligrosa para las mujeres embarazadas. Otras, como la malaria , son comunes en otras partes del mundo. Si va a viajar , es importante que beba solamente agua que usted sepa que es potable. La prevención es especialmente importante. No hay vacunas para las enfermedades parasitarias. Existen algunos medicamentos disponibles para el tratamiento de estas infecciones.",
+  "synonyms": [
+    "Enfermedades causadas por parásitos"
+  ],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Criptosporidiosis",
+      "url": "https://medlineplus.gov/spanish/cryptosporidiosis.html",
+      "id": "2236"
+    },
+    {
+      "title": "Enfermedad de Chagas",
+      "url": "https://medlineplus.gov/spanish/chagasdisease.html",
+      "id": "3661"
+    },
+    {
+      "title": "Enfermedades transmitidas por alimentos",
+      "url": "https://medlineplus.gov/spanish/foodborneillness.html",
+      "id": "1909"
+    },
+    {
+      "title": "Infecciones por Giardia",
+      "url": "https://medlineplus.gov/spanish/giardiainfections.html",
+      "id": "1923"
+    },
+    {
+      "title": "Leishmaniasis",
+      "url": "https://medlineplus.gov/spanish/leishmaniasis.html",
+      "id": "3749"
+    },
+    {
+      "title": "Malaria",
+      "url": "https://medlineplus.gov/spanish/malaria.html",
+      "id": "2019"
+    },
+    {
+      "title": "Oxiuros",
+      "url": "https://medlineplus.gov/spanish/pinworms.html",
+      "id": "3066"
+    },
+    {
+      "title": "Piojos de la cabeza",
+      "url": "https://medlineplus.gov/spanish/headlice.html",
+      "id": "1932"
+    },
+    {
+      "title": "Salud del viajero",
+      "url": "https://medlineplus.gov/spanish/travelershealth.html",
+      "id": "2204"
+    },
+    {
+      "title": "Sarna",
+      "url": "https://medlineplus.gov/spanish/scabies.html",
+      "id": "2135"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://medlineplus.gov/spanish/toxoplasmosis.html",
+      "id": "2202"
+    },
+    {
+      "title": "Tricomoniasis",
+      "url": "https://medlineplus.gov/spanish/trichomoniasis.html",
+      "id": "4326"
+    }
+  ],
+  "see_references": [
+    "Parasitarias, Enfermedades",
+    "Parásitos, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/parasiticdiseases.html"
+}

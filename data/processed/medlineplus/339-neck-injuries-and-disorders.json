@@ -1,0 +1,46 @@
+{
+  "id": "339",
+  "title": "Neck Injuries and Disorders",
+  "language": "English",
+  "date_created": "08/04/1999",
+  "meta_description": "Neck pain is very common and can happen for many reasons, such as overuse, muscle strain, or whiplash. Learn how to relieve neck pain.",
+  "summary": "Any part of your neck - muscles, bones, joints, tendons, ligaments, or nerves - can cause neck problems. Neck pain is very common. Pain may also come from your shoulder, jaw, head, or upper arms. Muscle strain or tension often causes neck pain. The problem is usually overuse, such as from sitting at a computer for too long. Sometimes you can strain your neck muscles from sleeping in an awkward position or overdoing it during exercise. Falls or accidents, including car accidents, are another common cause of neck pain. Whiplash, a soft tissue injury to the neck, is also called neck sprain or strain. Treatment depends on the cause, but may include applying ice, taking pain relievers, getting physical therapy or wearing a cervical collar. You rarely need surgery.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Head and Neck Cancer",
+      "url": "https://medlineplus.gov/headandneckcancer.html",
+      "id": "330"
+    },
+    {
+      "title": "Spine Injuries and Disorders",
+      "url": "https://medlineplus.gov/spineinjuriesanddisorders.html",
+      "id": "1505"
+    }
+  ],
+  "see_references": [
+    "Cervical Spine",
+    "Whiplash"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Neck Pain",
+      "id": "D019547"
+    },
+    {
+      "name": "Neck Injuries",
+      "id": "D019838"
+    },
+    {
+      "name": "Cervical Vertebrae",
+      "id": "D002574"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/neckinjuriesanddisorders.html"
+}

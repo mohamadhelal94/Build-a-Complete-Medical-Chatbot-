@@ -1,0 +1,121 @@
+{
+  "id": "2103",
+  "title": "Embarazo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Cuidar de su salud durante el embarazo ayuda al bebé a iniciar su vida de forma sana. Conozca más sobre cuidados prenatales, nutrición y cómo mantenerse en forma durante el embarazo.",
+  "summary": "¡Va a tener un bebé! Es un momento de emoción que también puede ser un poco intimidante. Puede que tenga muchas preguntas, incluyendo qué puede hacer para que su bebé inicie su vida saludablemente. Para que ambos se mantengan sanos durante el embarazo, es importante que usted: Visite periódicamente a su proveedor de salud: Estas visitas para su cuidado prenatal ayudan a que usted y su bebé estén sanos. Si hay algún problema, su proveedor puede detectarlos temprano. Obtener tratamiento de inmediato puede curar muchos problemas y prevenir otros Coma sano y tome suficiente agua: Una buena nutrición durante el embarazo incluye consumir una variedad de: Frutas Vegetales Granos integrales Carnes magras y otras proteínas Productos lácteos bajos en grasa Tome vitaminas prenatales: Durante el embarazo necesitará cantidades más altas de ciertas vitaminas y minerales, como ácido fólico y hierro Tenga cuidado con las medicinas : Siempre consulte con su proveedor de salud antes de empezar o dejar de tomar algún medicamento. Esto incluye medicinas de venta libre o suplementos herbales Haga ejercicio: La actividad física le ayudará a mantenerse en forma, dormir y sentirse bien y a preparar su cuerpo para el parto. Hable con su proveedor de salud sobre qué tipo de actividad física es la correcta para usted Evite sustancias que pueden dañar a su bebé : incluyendo alcohol, drogas o el tabaco Su cuerpo cambiará a medida que su bebé crece . Puede ser difícil saber cuándo un nuevo síntoma es algo normal o puede ser señal de algún problema . Hable con su proveedor de salud si algo le molesta o le preocupa.",
+  "synonyms": [],
+  "groups": [
+    "Mujeres",
+    "Embarazo y reproducción",
+    "Sistema reproductor femenino"
+  ],
+  "related_topics": [
+    {
+      "title": "Control de la natalidad y contracepción",
+      "url": "https://medlineplus.gov/spanish/birthcontrol.html",
+      "id": "1773"
+    },
+    {
+      "title": "Cuidado prenatal",
+      "url": "https://medlineplus.gov/spanish/prenatalcare.html",
+      "id": "2107"
+    },
+    {
+      "title": "Diabetes y el embarazo",
+      "url": "https://medlineplus.gov/spanish/diabetesandpregnancy.html",
+      "id": "1852"
+    },
+    {
+      "title": "Embarazo de adolescentes",
+      "url": "https://medlineplus.gov/spanish/teenagepregnancy.html",
+      "id": "2189"
+    },
+    {
+      "title": "Embarazo ectópico",
+      "url": "https://medlineplus.gov/spanish/ectopicpregnancy.html",
+      "id": "5812"
+    },
+    {
+      "title": "Embarazo y consumo de sustancias",
+      "url": "https://medlineplus.gov/spanish/pregnancyandsubstanceuse.html",
+      "id": "2104"
+    },
+    {
+      "title": "Infecciones durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/infectionsandpregnancy.html",
+      "id": "3155"
+    },
+    {
+      "title": "Medicinas durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancyandmedicines.html",
+      "id": "5579"
+    },
+    {
+      "title": "Nutrición durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancyandnutrition.html",
+      "id": "5985"
+    },
+    {
+      "title": "Parto",
+      "url": "https://medlineplus.gov/spanish/childbirth.html",
+      "id": "1995"
+    },
+    {
+      "title": "Presión arterial alta en el embarazo",
+      "url": "https://medlineplus.gov/spanish/highbloodpressureinpregnancy.html",
+      "id": "2102"
+    },
+    {
+      "title": "Problemas de salud durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/healthproblemsinpregnancy.html",
+      "id": "1956"
+    },
+    {
+      "title": "Problemas durante el parto",
+      "url": "https://medlineplus.gov/spanish/childbirthproblems.html",
+      "id": "5894"
+    },
+    {
+      "title": "Pruebas prenatales",
+      "url": "https://medlineplus.gov/spanish/prenataltesting.html",
+      "id": "3092"
+    },
+    {
+      "title": "Pérdida del embarazo",
+      "url": "https://medlineplus.gov/spanish/miscarriage.html",
+      "id": "2105"
+    },
+    {
+      "title": "Riesgos para el sistema reproductivo",
+      "url": "https://medlineplus.gov/spanish/reproductivehazards.html",
+      "id": "2124"
+    },
+    {
+      "title": "Salud y desarrollo fetal",
+      "url": "https://medlineplus.gov/spanish/fetalhealthanddevelopment.html",
+      "id": "6058"
+    },
+    {
+      "title": "Tumores durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/tumorsandpregnancy.html",
+      "id": "5535"
+    },
+    {
+      "title": "VIH y el embarazo",
+      "url": "https://medlineplus.gov/spanish/hivandpregnancy.html",
+      "id": "1728"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/pregnancy.html"
+}

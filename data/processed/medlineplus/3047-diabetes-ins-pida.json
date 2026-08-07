@@ -1,0 +1,33 @@
+{
+  "id": "3047",
+  "title": "Diabetes insípida",
+  "language": "Spanish",
+  "date_created": "03/04/2003",
+  "meta_description": "La diabetes insípida es distinta a la diabetes mellitus. Algunos síntomas son sed y orinar muy seguido. Entérese sobre los distintos tipos y síntomas",
+  "summary": "La diabetes insípida causa deseos de orinar muy seguido. Las personas con diabetes insípida tienen mucha sed. Entonces toman muchos líquidos. Esto es lo que causa que estas personas sientan deseos de ir al baño tan seguido. El ciclo puede impedirles dormir o inclusive hasta orinarse en la cama. El cuerpo produce una gran cantidad de orina que es casi pura agua. La diabetes insípida es distinta de la diabetes mellitus (DM), que implica problemas con la insulina y altos niveles de azúcar en la sangre. Los síntomas pueden ser similares. Sin embargo, la diabetes insípida se relaciona con la forma en la cual los riñones manejan los líquidos. Es mucho menos común que la mellitus. Los exámenes de orina y de sangre pueden revelar cuál es su caso. Por lo general, la diabetes insípida es causada por un problema con la glándula pituitaria o los riñones. El tratamiento varía dependiendo de la causa del problema. Las medicinas suelen ser de ayuda. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Diabetes del agua"
+  ],
+  "groups": [
+    "Riñones y sistema urinario",
+    "Sistema endocrino",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de la glándula pituitaria",
+      "url": "https://medlineplus.gov/spanish/pituitarydisorders.html",
+      "id": "2091"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/diabetesinsipidus.html"
+}

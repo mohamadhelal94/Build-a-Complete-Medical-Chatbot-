@@ -1,0 +1,81 @@
+{
+  "id": "3637",
+  "title": "Teen Mental Health",
+  "language": "English",
+  "date_created": "11/18/2003",
+  "meta_description": "Being a teenager can be stressful, and some teens will struggle with their mental health. But help is available. Learn the warning signs and when to get help.",
+  "summary": "Being a teenager is hard. You're under stress to be liked, do well in school, get along with your family, and make big decisions. You can't avoid most of these pressures, and worrying about them is normal. But feeling very sad, hopeless or worthless could be warning signs of a mental health problem. Mental health problems are real, painful, and sometimes severe. You might need help if you have the signs mentioned above, or if you: Often feel very angry or very worried Feel grief for a long time after a loss or death Think your mind is controlled or out of control Use alcohol or drugs Exercise, diet and/or binge-eat obsessively Hurt other people or destroy property Do reckless things that could harm you or others Feel depressed (sad and hopeless) Mental health problems can be treated. To find help, talk to your parents, school counselor, or health care provider.",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Mental Health and Behavior"
+  ],
+  "related_topics": [
+    {
+      "title": "Bullying and Cyberbullying",
+      "url": "https://medlineplus.gov/bullyingandcyberbullying.html",
+      "id": "4026"
+    },
+    {
+      "title": "Child Mental Health",
+      "url": "https://medlineplus.gov/childmentalhealth.html",
+      "id": "3162"
+    },
+    {
+      "title": "Drugs and Young People",
+      "url": "https://medlineplus.gov/drugsandyoungpeople.html",
+      "id": "4959"
+    },
+    {
+      "title": "Mental Disorders",
+      "url": "https://medlineplus.gov/mentaldisorders.html",
+      "id": "5676"
+    },
+    {
+      "title": "Mental Health",
+      "url": "https://medlineplus.gov/mentalhealth.html",
+      "id": "35"
+    },
+    {
+      "title": "Self-Harm",
+      "url": "https://medlineplus.gov/selfharm.html",
+      "id": "6091"
+    },
+    {
+      "title": "Teen Depression",
+      "url": "https://medlineplus.gov/teendepression.html",
+      "id": "6931"
+    },
+    {
+      "title": "Teen Violence",
+      "url": "https://medlineplus.gov/teenviolence.html",
+      "id": "1358"
+    },
+    {
+      "title": "Underage Drinking",
+      "url": "https://medlineplus.gov/underagedrinking.html",
+      "id": "1313"
+    }
+  ],
+  "see_references": [
+    "Mental Health, Teen"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Mental Health",
+      "url": "http://www.nimh.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Psychology, Adolescent",
+      "id": "D000297"
+    },
+    {
+      "name": "Adolescent Psychiatry",
+      "id": "D000296"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/teenmentalhealth.html"
+}

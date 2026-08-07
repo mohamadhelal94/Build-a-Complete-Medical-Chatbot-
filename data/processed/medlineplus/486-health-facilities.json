@@ -1,0 +1,47 @@
+{
+  "id": "486",
+  "title": "Health Facilities",
+  "language": "English",
+  "date_created": "12/29/1999",
+  "meta_description": "Health facilities are places that provide health care such as hospitals, clinics, outpatient care centers, and specialized care centers. Learn more.",
+  "summary": "Health facilities are places that provide health care. They include hospitals, clinics, outpatient care centers, and specialized care centers, such as birthing centers and psychiatric care centers. When you choose a health facility, you might want to consider: How close it is to where you live or work Whether your health insurance will pay for services there Whether your health care provider can treat you there The quality of the facility Quality is important. Some facilities do a better job than others. One way to learn about the quality of a facility is to look at report cards developed by federal, state, and consumer groups.",
+  "synonyms": [
+    "Health care facilities"
+  ],
+  "groups": [
+    "Health System"
+  ],
+  "related_topics": [
+    {
+      "title": "Hospice Care",
+      "url": "https://medlineplus.gov/hospicecare.html",
+      "id": "1355"
+    },
+    {
+      "title": "Nursing Homes",
+      "url": "https://medlineplus.gov/nursinghomes.html",
+      "id": "1354"
+    },
+    {
+      "title": "Patient Safety",
+      "url": "https://medlineplus.gov/patientsafety.html",
+      "id": "616"
+    }
+  ],
+  "see_references": [
+    "Hospitals"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Health Facilities",
+      "id": "D006268"
+    },
+    {
+      "name": "Hospitals",
+      "id": "D006761"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/healthfacilities.html"
+}

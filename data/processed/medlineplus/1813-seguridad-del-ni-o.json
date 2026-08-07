@@ -1,0 +1,38 @@
+{
+  "id": "1813",
+  "title": "Seguridad del niño",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "¿Qué medidas puede tomar para que su hijo esté seguro? Encuentre aquí información específica sobre la seguridad del niño.",
+  "summary": "Como padres, queremos que nuestros hijos estén alejados del peligro. Tome las medidas necesarias para mantener a su hijo seguro: Instale el asiento de seguridad adecuado para el niño en su automóvil Enseñe a los niños a cruzar las calles con seguridad Asegúrese de que usan la ropa y el equipamiento correcto para hacer deportes Instale y pruebe las alarmas de humo Guarde los medicamentos, los limpiadores y otras sustancias peligrosas en armarios cerrados con llave Haga que su casa sea segura para los bebés No deje a los niños pequeños sin vigilancia",
+  "synonyms": [],
+  "groups": [
+    "Niños y adolescentes",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidado del recién nacido y del bebé",
+      "url": "https://medlineplus.gov/spanish/infantandnewborncare.html",
+      "id": "1974"
+    },
+    {
+      "title": "Salud escolar",
+      "url": "https://medlineplus.gov/spanish/schoolhealth.html",
+      "id": "3613"
+    },
+    {
+      "title": "Seguridad al conducir",
+      "url": "https://medlineplus.gov/spanish/motorvehiclesafety.html",
+      "id": "2038"
+    }
+  ],
+  "see_references": [
+    "Chicos, Seguridad de los",
+    "Niños, Seguridad"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/childsafety.html"
+}

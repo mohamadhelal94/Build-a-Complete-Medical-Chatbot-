@@ -1,0 +1,60 @@
+{
+  "id": "6058",
+  "title": "Salud y desarrollo fetal",
+  "language": "Spanish",
+  "date_created": "01/03/2013",
+  "meta_description": "Un embarazo normal dura 9 meses. El feto crece y se desarrolla durante este tiempo, el que se divide en trimestres para evaluar su salud. Entérese aquí.",
+  "summary": "Un embarazo normal dura nueve meses. Cada período de tres meses del embarazo es llamado trimestre. Durante cada trimestre, el feto crece y se desarrolla. Los chequeos médicos y exámenes prenatales son muy importantes. Estos pueden: Ayudar a mantener saludables a usted y a su bebé Detectar problemas con su bebé , si hay alguno. En algunos casos, los profesionales de la salud pueden tratar el problema antes de que nazca su bebé. Pero incluso cuando no pueden, aún puede ser útil conocer el problema desde el principio. Eso le da tiempo para aprender sobre la condición de su bebé y prepararse para cualquier desafío que pueda enfrentar después de su nacimiento Prevenir problemas durante el parto . Por ejemplo, si su bebé tiene presentación de nalgas (la parte inferior o los pies primero, en lugar de la cabeza), es posible que necesite una cesárea para evitar complicaciones Además de obtener atención médica, hay otras cosas que puede hacer para mantener a su bebé lo más saludable posible. Es importante no beber ni fumar . Intente seguir una dieta saludable y asegúrese de ocuparse de cualquier problema de salud que tenga durante el embarazo .",
+  "synonyms": [
+    "Desarrollo fetal",
+    "Desarrollo y salud del feto",
+    "Salud fetal"
+  ],
+  "groups": [
+    "Embarazo y reproducción"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidado prenatal",
+      "url": "https://medlineplus.gov/spanish/prenatalcare.html",
+      "id": "2107"
+    },
+    {
+      "title": "Defectos congénitos",
+      "url": "https://medlineplus.gov/spanish/birthdefects.html",
+      "id": "1774"
+    },
+    {
+      "title": "Embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancy.html",
+      "id": "2103"
+    },
+    {
+      "title": "Problemas de salud durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/healthproblemsinpregnancy.html",
+      "id": "1956"
+    },
+    {
+      "title": "Problemas durante el parto",
+      "url": "https://medlineplus.gov/spanish/childbirthproblems.html",
+      "id": "5894"
+    },
+    {
+      "title": "Trastornos del espectro alcohólico fetal",
+      "url": "https://medlineplus.gov/spanish/fetalalcoholspectrumdisorders.html",
+      "id": "1901"
+    }
+  ],
+  "see_references": [
+    "Feto, Salud y Desarrollo"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/fetalhealthanddevelopment.html"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1834",
+  "title": "Enfermedades del tejido conectivo",
+  "language": "Spanish",
+  "date_created": "02/25/2004",
+  "meta_description": "Existen más de 200 trastornos conectivos. De algunos, se conocen las causas. Otros, como la esclerodermia, no.",
+  "summary": "Su tejido conectivo apoya a muchas partes diferentes de su cuerpo, como la piel, los ojos y el corazón. Es como un \"pegamento celular\" que entrega su forma a partes de su cuerpo y ayuda a mantenerlas fuertes. También ayuda a algunos de tus tejidos a hacer su trabajo. Está hecho de muchos tipos de proteínas. El cartílago y la grasa son tipos de tejido conectivo. Existen más de 200 trastornos que afectan el tejido conectivo. Hay de diferentes tipos: Trastornos genéticos, como el síndrome de Ehlers-Danlos , síndrome de Marfan y la osteogénesis imperfecta Enfermedades autoinmunes, como el lupus y la esclerodermia Cáncer, como algunos tipos de sarcoma del tejido blando Cada trastorno tiene sus propios síntomas y requiere diferentes tratamientos. NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del cartílago",
+      "url": "https://medlineplus.gov/spanish/cartilagedisorders.html",
+      "id": "1800"
+    },
+    {
+      "title": "Esclerodermia",
+      "url": "https://medlineplus.gov/spanish/scleroderma.html",
+      "id": "2138"
+    },
+    {
+      "title": "Lupus",
+      "url": "https://medlineplus.gov/spanish/lupus.html",
+      "id": "2014"
+    },
+    {
+      "title": "Osteogénesis imperfecta",
+      "url": "https://medlineplus.gov/spanish/osteogenesisimperfecta.html",
+      "id": "2066"
+    },
+    {
+      "title": "Sarcoma del tejido blando",
+      "url": "https://medlineplus.gov/spanish/softtissuesarcoma.html",
+      "id": "2160"
+    },
+    {
+      "title": "Síndrome de Ehlers-Danlos",
+      "url": "https://medlineplus.gov/spanish/ehlersdanlossyndrome.html",
+      "id": "1880"
+    },
+    {
+      "title": "Síndrome de Marfan",
+      "url": "https://medlineplus.gov/spanish/marfansyndrome.html",
+      "id": "2023"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/connectivetissuedisorders.html"
+}

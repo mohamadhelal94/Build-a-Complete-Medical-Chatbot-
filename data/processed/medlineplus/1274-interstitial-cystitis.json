@@ -1,0 +1,43 @@
+{
+  "id": "1274",
+  "title": "Interstitial Cystitis",
+  "language": "English",
+  "date_created": "04/18/2000",
+  "meta_description": "Do you suffer from discomfort or pain in the bladder? If yes, you may be dealing with Interstitial cystitis (IC). Read more about it",
+  "summary": "Interstitial cystitis (IC) is a condition that causes discomfort or pain in the bladder and a need to urinate frequently and urgently. It is far more common in women than in men. The symptoms vary from person to person. Some people may have pain without urgency or frequency. Others have urgency and frequency without pain. Women's symptoms often get worse during their periods. They may also have pain with sexual intercourse. The cause of IC isn't known. There is no one test to tell if you have it. Doctors often run tests to rule out other possible causes of symptoms. There is no cure for IC, but treatments can help most people feel better. They include: Distending, or inflating, the bladder Bathing the inside of the bladder with a drug solution Oral medicines Electrical nerve stimulation Physical therapy Lifestyle changes Bladder training In rare cases, surgery NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Bladder pain syndrome",
+    "IC",
+    "PBS",
+    "Painful bladder syndrome"
+  ],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    }
+  ],
+  "see_references": [
+    "Bladder Pain Syndrome",
+    "Cystitis",
+    "Painful Bladder Syndrome"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cystitis, Interstitial",
+      "id": "D018856"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/interstitialcystitis.html"
+}

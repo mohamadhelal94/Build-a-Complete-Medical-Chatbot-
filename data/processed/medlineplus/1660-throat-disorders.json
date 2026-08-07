@@ -1,0 +1,81 @@
+{
+  "id": "1660",
+  "title": "Throat Disorders",
+  "language": "English",
+  "date_created": "05/22/2002",
+  "meta_description": "Throat problems are common and are usually caused by a viral infection. Learn more about problems that affect the throat.",
+  "summary": "Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx. The technical name for your throat is the pharynx. Throat problems are common. You've probably had a sore throat . The cause is usually a viral infection, but other causes include allergies, infection with strep bacteria or the leaking of stomach acids back up into the esophagus, called GERD . Other problems that affect the throat include: Tonsillitis - inflammation of the tonsils Cancer Croup - inflammation, usually in small children, which causes a barking cough Laryngitis - swelling of the voice box, which can cause a hoarse voice or loss of voice Most throat problems are minor and go away on their own. Treatments, when needed, depend on the problem.",
+  "synonyms": [
+    "Pharyngeal disorders"
+  ],
+  "groups": [
+    "Lungs and Breathing",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Adenoids",
+      "url": "https://medlineplus.gov/adenoids.html",
+      "id": "1515"
+    },
+    {
+      "title": "Croup",
+      "url": "https://medlineplus.gov/croup.html",
+      "id": "6292"
+    },
+    {
+      "title": "Mouth Disorders",
+      "url": "https://medlineplus.gov/mouthdisorders.html",
+      "id": "594"
+    },
+    {
+      "title": "Sore Throat",
+      "url": "https://medlineplus.gov/sorethroat.html",
+      "id": "4748"
+    },
+    {
+      "title": "Speech and Communication Disorders",
+      "url": "https://medlineplus.gov/speechandcommunicationdisorders.html",
+      "id": "409"
+    },
+    {
+      "title": "Swallowing Disorders",
+      "url": "https://medlineplus.gov/swallowingdisorders.html",
+      "id": "1309"
+    },
+    {
+      "title": "Throat Cancer",
+      "url": "https://medlineplus.gov/throatcancer.html",
+      "id": "5841"
+    },
+    {
+      "title": "Tonsillitis",
+      "url": "https://medlineplus.gov/tonsillitis.html",
+      "id": "6440"
+    },
+    {
+      "title": "Voice Disorders",
+      "url": "https://medlineplus.gov/voicedisorders.html",
+      "id": "1650"
+    }
+  ],
+  "see_references": [
+    "Laryngitis",
+    "Pharynx Disorders",
+    "Voicebox Disorders"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pharyngeal Diseases",
+      "id": "D010608"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/throatdisorders.html"
+}

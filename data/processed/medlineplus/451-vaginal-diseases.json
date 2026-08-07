@@ -1,0 +1,62 @@
+{
+  "id": "451",
+  "title": "Vaginal Diseases",
+  "language": "English",
+  "date_created": "07/19/1999",
+  "meta_description": "Vaginal diseases can cause uncomfortable symptoms like itching, burning, and pain. Read about vaginitis (inflammation) and other common vaginal problems.",
+  "summary": "Vaginal problems are some of the most common reasons women go to the doctor. They may have symptoms such as: Itching Burning Pain Abnormal bleeding Discharge One common problem is vaginitis , an inflammation of the vagina. Other problems that affect the vagina include sexually transmitted infections (STIs), vaginal cancer , and vulvar cancer . Treatment of vaginal problems depends on the cause.",
+  "synonyms": [],
+  "groups": [
+    "Women",
+    "Female Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Sexually Transmitted Infections",
+      "url": "https://medlineplus.gov/sexuallytransmittedinfections.html",
+      "id": "400"
+    },
+    {
+      "title": "Vaginal Bleeding",
+      "url": "https://medlineplus.gov/vaginalbleeding.html",
+      "id": "4875"
+    },
+    {
+      "title": "Vaginal Cancer",
+      "url": "https://medlineplus.gov/vaginalcancer.html",
+      "id": "494"
+    },
+    {
+      "title": "Vaginitis",
+      "url": "https://medlineplus.gov/vaginitis.html",
+      "id": "6417"
+    },
+    {
+      "title": "Vulvar Cancer",
+      "url": "https://medlineplus.gov/vulvarcancer.html",
+      "id": "1701"
+    },
+    {
+      "title": "Vulvar Disorders",
+      "url": "https://medlineplus.gov/vulvardisorders.html",
+      "id": "4550"
+    },
+    {
+      "title": "Yeast Infections",
+      "url": "https://medlineplus.gov/yeastinfections.html",
+      "id": "1255"
+    }
+  ],
+  "see_references": [
+    "Vaginal Infections"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Vaginal Diseases",
+      "id": "D014623"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vaginaldiseases.html"
+}

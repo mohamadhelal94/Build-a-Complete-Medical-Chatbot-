@@ -1,0 +1,38 @@
+{
+  "id": "4483",
+  "title": "Exámenes médicos",
+  "language": "Spanish",
+  "date_created": "04/07/2008",
+  "meta_description": "Durante el chequeo médico se realizan exámenes que pueden ayudar a encontrar una enfermedad antes de que comiencen los síntomas. Entérese.",
+  "summary": "Durante el chequeo médico se realizan exámenes que pueden ayudar a encontrar una enfermedad antes de que comiencen los síntomas. Estas pruebas pueden ayudar a descubrir enfermedades o afecciones anticipadamente, cuando son más fáciles de tratar. Algunos exámenes se realizan en el consultorio del doctor. Otros, necesitan equipos especiales, entonces es posible que tenga que dirigirse a una oficina diferente o a una clínica. Entre los cuadros que los médicos buscan comúnmente se incluyen: Cáncer de seno y cáncer de cuello uterino en mujeres Cáncer colorrectal Diabetes Presión arterial alta Colesterol elevado Osteoporosis Obesidad y sobrepeso Cáncer de próstata en los hombres Las pruebas que usted necesite dependerán de la edad, el sexo, los antecedentes familiares y si tiene factores de riesgo para algunas enfermedades. Luego de que le realicen las pruebas, pregunte cuándo obtendrá los resultados y con quién debería hablar sobre ellos. Agencia para la Investigación y Calidad de la Atención Médica",
+  "synonyms": [
+    "Exámenes diagnósticos"
+  ],
+  "groups": [
+    "Bienestar y estilo de vida"
+  ],
+  "related_topics": [
+    {
+      "title": "Chequeo médico",
+      "url": "https://medlineplus.gov/spanish/healthcheckup.html",
+      "id": "4752"
+    },
+    {
+      "title": "Pruebas de laboratorio",
+      "url": "https://medlineplus.gov/spanish/laboratorytests.html",
+      "id": "1996"
+    },
+    {
+      "title": "Vivir saludablemente",
+      "url": "https://medlineplus.gov/spanish/healthyliving.html",
+      "id": "2109"
+    }
+  ],
+  "see_references": [
+    "Diagnóstico"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/healthscreening.html"
+}

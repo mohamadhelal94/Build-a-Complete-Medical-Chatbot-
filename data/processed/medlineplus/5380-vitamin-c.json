@@ -1,0 +1,43 @@
+{
+  "id": "5380",
+  "title": "Vitamin C",
+  "language": "English",
+  "date_created": "03/08/2010",
+  "meta_description": "Vitamin C is an antioxidant.  It is important for your skin, bones, and connective tissue. It promotes healing and helps the body absorb iron.",
+  "summary": "Vitamins are substances that your body needs to grow and develop normally. Vitamin C is an antioxidant . It is important for your skin, bones, and connective tissue. It promotes healing and helps the body absorb iron. Vitamin C comes from fruits and vegetables. Good sources include citrus, red and green peppers, tomatoes, broccoli, and greens. Some juices and cereals have added vitamin C. Some people may need extra vitamin C: Pregnant/breastfeeding women Smokers People recovering from surgery Burn victims",
+  "synonyms": [
+    "Ascorbic acid"
+  ],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidants",
+      "url": "https://medlineplus.gov/antioxidants.html",
+      "id": "1590"
+    },
+    {
+      "title": "Vitamins",
+      "url": "https://medlineplus.gov/vitamins.html",
+      "id": "456"
+    }
+  ],
+  "see_references": [
+    "Ascorbic Acid"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ascorbic Acid",
+      "id": "D001205"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vitaminc.html"
+}

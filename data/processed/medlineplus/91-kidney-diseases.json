@@ -1,0 +1,79 @@
+{
+  "id": "91",
+  "title": "Kidney Diseases",
+  "language": "English",
+  "date_created": "01/01/1999",
+  "meta_description": "Properly functioning kidneys are critical for maintaining good health. Diabetes, high blood pressure, or family history can increase risk of kidney disease.",
+  "summary": "You have two kidneys, each about the size of your fist. They are near the middle of your back, just below the rib cage. Inside each kidney there are about a million tiny structures called nephrons. They filter your blood. They remove wastes and extra water, which become urine. The urine flows through tubes called ureters. It goes to your bladder, which stores the urine until you go to the bathroom. Most kidney diseases attack the nephrons. This damage may leave kidneys unable to remove wastes. Causes can include genetic problems, injuries, or medicines. You have a higher risk of kidney disease if you have diabetes , high blood pressure , or a close family member with kidney disease. Chronic kidney disease damages the nephrons slowly over several years. Other kidney problems include: Cancer Cysts Stones Infections Your doctor can do blood and urine tests to check if you have kidney disease. If your kidneys fail , you will need dialysis or a kidney transplant . NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Renal diseases"
+  ],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Chronic Kidney Disease",
+      "url": "https://medlineplus.gov/chronickidneydisease.html",
+      "id": "5987"
+    },
+    {
+      "title": "Diabetic Kidney Problems",
+      "url": "https://medlineplus.gov/diabetickidneyproblems.html",
+      "id": "1559"
+    },
+    {
+      "title": "Kidney Cancer",
+      "url": "https://medlineplus.gov/kidneycancer.html",
+      "id": "301"
+    },
+    {
+      "title": "Kidney Cysts",
+      "url": "https://medlineplus.gov/kidneycysts.html",
+      "id": "5808"
+    },
+    {
+      "title": "Kidney Failure",
+      "url": "https://medlineplus.gov/kidneyfailure.html",
+      "id": "302"
+    },
+    {
+      "title": "Kidney Stones",
+      "url": "https://medlineplus.gov/kidneystones.html",
+      "id": "1224"
+    },
+    {
+      "title": "Kidney Tests",
+      "url": "https://medlineplus.gov/kidneytests.html",
+      "id": "6382"
+    },
+    {
+      "title": "Kidney Transplantation",
+      "url": "https://medlineplus.gov/kidneytransplantation.html",
+      "id": "1299"
+    },
+    {
+      "title": "Urine and Urination",
+      "url": "https://medlineplus.gov/urineandurination.html",
+      "id": "4889"
+    }
+  ],
+  "see_references": [
+    "Nephritis",
+    "Renal Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Kidney Diseases",
+      "id": "D007674"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/kidneydiseases.html"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1912",
+  "title": "Lesiones y enfermedades del pie",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cuidado de los pies es una parte importante de su cuidado de salud general. Aprenda sobre las lesiones y trastornos comunes de los pies.",
+  "summary": "Cada uno de sus pies tiene 26 huesos, 33 articulaciones y más de 100 tendones, músculos y ligamentos. Por ello pueden afectarle muchos problemas de salud. Entre los más comunes se encuentran: Juanetes : Masa dura y dolorosa en la articulación del dedo gordo del pie Callos y durezas : Engrosamiento de la piel por la fricción o la presión Verrugas plantares: Verrugas en la planta del pie Caída del arco: También conocido como pie plano El uso de zapatos inadecuados suele causar estos problemas. La edad y el sobrepeso también aumentan las posibilidades de tener problemas en los pies.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Lesiones y enfermedades de la pierna",
+      "url": "https://medlineplus.gov/spanish/leginjuriesanddisorders.html",
+      "id": "2002"
+    },
+    {
+      "title": "Lesiones y enfermedades de los dedos del pie",
+      "url": "https://medlineplus.gov/spanish/toeinjuriesanddisorders.html",
+      "id": "3649"
+    },
+    {
+      "title": "Lesiones y enfermedades del talón",
+      "url": "https://medlineplus.gov/spanish/heelinjuriesanddisorders.html",
+      "id": "3651"
+    },
+    {
+      "title": "Lesiones y enfermedades del tobillo",
+      "url": "https://medlineplus.gov/spanish/ankleinjuriesanddisorders.html",
+      "id": "1747"
+    },
+    {
+      "title": "Pie diabético",
+      "url": "https://medlineplus.gov/spanish/diabeticfoot.html",
+      "id": "1854"
+    },
+    {
+      "title": "Salud del pie",
+      "url": "https://medlineplus.gov/spanish/foothealth.html",
+      "id": "1911"
+    }
+  ],
+  "see_references": [
+    "Dedo",
+    "Fascitis plantar",
+    "Pie, Lesiones y enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/footinjuriesanddisorders.html"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1820",
+  "title": "Elección de un doctor o plan médico",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Todos queremos recibir atención de salud que sea de alta calidad. Infórmese sobre qué considerar a la hora de elegir un doctor o seguro de salud aquí.",
+  "summary": "Todos queremos recibir un servicio para el cuidado de la salud que sea de alta calidad, pero es difícil saber cómo elegir el plan de atención médica. Existen muchas cosas en las que deberá pensar, entre ellas: La cobertura del seguro Si el profesional y el plan de atención médica están acreditados La ubicación del servicio El horario en el que el servicio se encuentra disponible Si le agrada la personalidad del profesional de la atención médica En esta página, encontrará información que lo ayudará a elegir un profesional o un plan de atención médica.",
+  "synonyms": [
+    "Elección de un médico"
+  ],
+  "groups": [
+    "Sistemas de salud",
+    "Asuntos personales de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Centros de salud",
+      "url": "https://medlineplus.gov/spanish/healthfacilities.html",
+      "id": "1934"
+    },
+    {
+      "title": "Seguridad del paciente",
+      "url": "https://medlineplus.gov/spanish/patientsafety.html",
+      "id": "2082"
+    }
+  ],
+  "see_references": [
+    "Doctor, Elección",
+    "Médico, Elección"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional sobre el Envejecimiento",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIA"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/choosingadoctororhealthcareservice.html"
+}

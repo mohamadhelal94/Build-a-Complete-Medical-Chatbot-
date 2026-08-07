@@ -1,0 +1,48 @@
+{
+  "id": "1974",
+  "title": "Cuidado del recién nacido y del bebé",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los bebés recién nacidos tienen muchas necesidades, como alimentarlos y cambiarles frecuentemente el pañal. Entérese sobre los cuidados necesarios.",
+  "summary": "Irse a casa con un nuevo bebé es emocionante, pero también puede causarle ciertos temores. Los recién nacidos tienen muchas necesidades, como alimentarlos y cambiarles frecuentemente el pañal. Los bebés pueden tener problemas de salud distintos a los de los niños de más edad o los adultos, como irritación por los pañales sucios y la costra láctea. El bebé pasará por muchos cambios durante el primer año de vida. Es posible que al principio se sienta incómoda. Si la necesita, pídale ayuda a un profesional de la salud.",
+  "synonyms": [],
+  "groups": [
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Desarrollo del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewborndevelopment.html",
+      "id": "1975"
+    },
+    {
+      "title": "Lactancia",
+      "url": "https://medlineplus.gov/spanish/breastfeeding.html",
+      "id": "1788"
+    },
+    {
+      "title": "Nutrición del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewbornnutrition.html",
+      "id": "3751"
+    },
+    {
+      "title": "Salud del niño pequeño",
+      "url": "https://medlineplus.gov/spanish/toddlerhealth.html",
+      "id": "1976"
+    }
+  ],
+  "see_references": [
+    "Bebé, Cuidado del",
+    "Cuidado del bebé",
+    "Cólicos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/infantandnewborncare.html"
+}

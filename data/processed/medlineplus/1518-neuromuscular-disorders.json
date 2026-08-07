@@ -1,0 +1,77 @@
+{
+  "id": "1518",
+  "title": "Neuromuscular Disorders",
+  "language": "English",
+  "date_created": "08/16/2001",
+  "meta_description": "Neuromuscular disorders affect the nerves that control your voluntary muscles. Many are genetic. Read about different disorders and treatments.",
+  "summary": "Neuromuscular disorders affect your neuromuscular system. They can cause problems with: The nerves that control your muscles Your muscles Communication between your nerves and muscles These disorders can cause your muscles to become weak and waste away. You may also have symptoms such as spasms, twitching, and pain. Examples of neuromuscular disorders include: Amyotrophic lateral sclerosis Muscular dystrophy Myasthenia gravis Spinal muscular atrophy There can be different causes for these diseases. Many of them are genetic.This means they are inherited (run in families) or are caused by a new mutation in your genes. Some neuromuscular disorders are autoimmune diseases . Sometimes the cause is unknown. Many neuromuscular diseases have no cure. But treatments may improve symptoms, increase mobility, and lengthen life.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Brain and Nerves"
+  ],
+  "related_topics": [
+    {
+      "title": "Complex Regional Pain Syndrome",
+      "url": "https://medlineplus.gov/complexregionalpainsyndrome.html",
+      "id": "382"
+    },
+    {
+      "title": "Movement Disorders",
+      "url": "https://medlineplus.gov/movementdisorders.html",
+      "id": "520"
+    },
+    {
+      "title": "Multiple Sclerosis",
+      "url": "https://medlineplus.gov/multiplesclerosis.html",
+      "id": "83"
+    },
+    {
+      "title": "Muscle Disorders",
+      "url": "https://medlineplus.gov/muscledisorders.html",
+      "id": "510"
+    },
+    {
+      "title": "Muscular Dystrophy",
+      "url": "https://medlineplus.gov/musculardystrophy.html",
+      "id": "335"
+    },
+    {
+      "title": "Myasthenia Gravis",
+      "url": "https://medlineplus.gov/myastheniagravis.html",
+      "id": "336"
+    },
+    {
+      "title": "Neurologic Diseases",
+      "url": "https://medlineplus.gov/neurologicdiseases.html",
+      "id": "341"
+    },
+    {
+      "title": "Peripheral Nerve Disorders",
+      "url": "https://medlineplus.gov/peripheralnervedisorders.html",
+      "id": "1095"
+    },
+    {
+      "title": "Spinal Muscular Atrophy",
+      "url": "https://medlineplus.gov/spinalmuscularatrophy.html",
+      "id": "1694"
+    }
+  ],
+  "see_references": [
+    "Spasticity"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Neuromuscular Diseases",
+      "id": "D009468"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/neuromusculardisorders.html"
+}

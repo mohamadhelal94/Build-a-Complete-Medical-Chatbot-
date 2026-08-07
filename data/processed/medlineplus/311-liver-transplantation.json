@@ -1,0 +1,54 @@
+{
+  "id": "311",
+  "title": "Liver Transplantation",
+  "language": "English",
+  "date_created": "07/13/1999",
+  "meta_description": "Understand the facts about liver transplantation. Read about risks, outlook and the process for getting a liver transplant.",
+  "summary": "Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. You cannot live without a liver that works. If your liver fails, your doctor may put you on a waiting list for a liver transplant. Doctors do liver transplants when other treatment cannot keep a damaged liver working. During a liver transplantation, the surgeon removes the diseased liver and replaces it with a healthy one. Most transplant livers come from a donor who has died. Sometimes there is a living donor. This is when a healthy person donates part of his or her liver for a specific patient. The most common reason for a transplant in adults is cirrhosis . This is scarring of the liver, caused by injury or long-term disease. The most common reason in children is biliary atresia, a disease of the bile ducts . If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new liver. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Hepatic transplantation"
+  ],
+  "groups": [
+    "Digestive System",
+    "Transplantation and Donation"
+  ],
+  "related_topics": [
+    {
+      "title": "Cirrhosis",
+      "url": "https://medlineplus.gov/cirrhosis.html",
+      "id": "190"
+    },
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/hepatitis.html",
+      "id": "109"
+    },
+    {
+      "title": "Liver Diseases",
+      "url": "https://medlineplus.gov/liverdiseases.html",
+      "id": "310"
+    },
+    {
+      "title": "Organ Transplantation",
+      "url": "https://medlineplus.gov/organtransplantation.html",
+      "id": "1462"
+    }
+  ],
+  "see_references": [
+    "Hepatic Transplantation"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Liver Transplantation",
+      "id": "D016031"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/livertransplantation.html"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2162",
+  "title": "Espina bífida",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La espina bífida es un defecto del tubo neural. Tomar ácido fólico puede reducir el riesgo. Siga informándose aquí.",
+  "summary": "La espina bífida es un defecto del tubo neural , un tipo de defecto congénito del cerebro, la columna vertebral o de la médula espinal. Ocurre si la columna vertebral del feto no se cierra completamente durante el primer mes de embarazo. Esto puede dañar los nervios y la médula espinal. Pruebas de detección durante el embarazo pueden diagnosticar espina bífida. A veces se descubre sólo después del nacimiento del bebé. Los síntomas de la espina bífida varían de persona a persona. La mayoría de las personas con espina bífida poseen una inteligencia normal. Otras necesitan dispositivos de asistencia, como aparatos ortopédicos, muletas o sillas de ruedas. También pueden presentar dificultades de aprendizaje, problemas urinarios e intestinales o hidrocefalia , una acumulación de líquido en el cerebro. Se desconoce la causa exacta de la espina bífida, aunque parece presentarse en familias. Tomar ácido fólico puede reducir el riesgo de tener un bebé con espina bífida, y éste se encuentra en la mayoría de los suplementos multivitamínicos. Las mujeres que pueden quedar embarazadas deben tomarlo a diario. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Defectos del tubo neural",
+      "url": "https://medlineplus.gov/spanish/neuraltubedefects.html",
+      "id": "2050"
+    },
+    {
+      "title": "Malformaciones de Chiari",
+      "url": "https://medlineplus.gov/spanish/chiarimalformation.html",
+      "id": "6165"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/spinabifida.html"
+}

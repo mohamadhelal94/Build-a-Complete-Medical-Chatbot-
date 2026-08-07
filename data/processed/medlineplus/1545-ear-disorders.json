@@ -1,0 +1,54 @@
+{
+  "id": "1545",
+  "title": "Ear Disorders",
+  "language": "English",
+  "date_created": "10/15/2001",
+  "meta_description": "Some ear disorders can result in hearing problems and deafness. Find out which conditions can affect your hearing and balance.",
+  "summary": "Your ear has three main parts: outer, middle and inner. You use all of them in hearing. Sound waves come in through your outer ear. They reach your middle ear, where they make your eardrum vibrate. The vibrations are transmitted through three tiny bones, called ossicles, in your middle ear. The vibrations travel to your inner ear, a snail-shaped organ. The inner ear makes the nerve impulses that are sent to the brain. Your brain recognizes them as sounds. The inner ear also controls balance. A variety of conditions may affect your hearing or balance : Ear infections are the most common illness in infants and young children. Tinnitus , a roaring in your ears, can be the result of loud noises, medicines or a variety of other causes. Meniere's disease may be the result of fluid problems in your inner ear; its symptoms include tinnitus and dizziness. Ear barotrauma is an injury to your ear because of changes in barometric (air) or water pressure. Some ear disorders can result in hearing disorders and deafness .",
+  "synonyms": [],
+  "groups": [
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Acoustic Neuroma",
+      "url": "https://medlineplus.gov/acousticneuroma.html",
+      "id": "1624"
+    },
+    {
+      "title": "Barotrauma",
+      "url": "https://medlineplus.gov/barotrauma.html",
+      "id": "6095"
+    },
+    {
+      "title": "Ear Infections",
+      "url": "https://medlineplus.gov/earinfections.html",
+      "id": "115"
+    },
+    {
+      "title": "Hearing Disorders and Deafness",
+      "url": "https://medlineplus.gov/hearingdisordersanddeafness.html",
+      "id": "204"
+    },
+    {
+      "title": "Meniere's Disease",
+      "url": "https://medlineplus.gov/menieresdisease.html",
+      "id": "1674"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ear Diseases",
+      "id": "D004427"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/eardisorders.html"
+}

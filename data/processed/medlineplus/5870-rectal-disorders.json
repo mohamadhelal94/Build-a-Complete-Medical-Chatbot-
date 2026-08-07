@@ -1,0 +1,62 @@
+{
+  "id": "5870",
+  "title": "Rectal Disorders",
+  "language": "English",
+  "date_created": "08/29/2011",
+  "meta_description": "The rectum is the lower part of your large intestine. Common problems include hemorrhoids, abscesses, incontinence and cancer.",
+  "summary": "The rectum is the lower part of your large intestine where your body stores stool. Problems with the rectum are common. They include hemorrhoids , abscesses, incontinence and cancer . Many people are embarrassed to talk about rectal troubles. But seeing your doctor about problems in this area is important. This is especially true if you have pain or bleeding. Treatments vary depending on the particular problem. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Anal Disorders",
+      "url": "https://medlineplus.gov/analdisorders.html",
+      "id": "137"
+    },
+    {
+      "title": "Bowel Incontinence",
+      "url": "https://medlineplus.gov/bowelincontinence.html",
+      "id": "5316"
+    },
+    {
+      "title": "Bowel Movement",
+      "url": "https://medlineplus.gov/bowelmovement.html",
+      "id": "5262"
+    },
+    {
+      "title": "Colorectal Cancer",
+      "url": "https://medlineplus.gov/colorectalcancer.html",
+      "id": "88"
+    },
+    {
+      "title": "Digestive Diseases",
+      "url": "https://medlineplus.gov/digestivediseases.html",
+      "id": "29"
+    },
+    {
+      "title": "Hemorrhoids",
+      "url": "https://medlineplus.gov/hemorrhoids.html",
+      "id": "1226"
+    }
+  ],
+  "see_references": [
+    "Proctitis",
+    "Rectocele"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Rectal Diseases",
+      "id": "D012002"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/rectaldisorders.html"
+}

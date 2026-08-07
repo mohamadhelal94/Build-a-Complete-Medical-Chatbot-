@@ -1,0 +1,70 @@
+{
+  "id": "409",
+  "title": "Speech and Communication Disorders",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "Speech and communication disorders affect our ability to communicate. From saying sounds incorrectly to being unable to understand others talking.",
+  "summary": "Many disorders can affect our ability to speak and communicate. They range from saying sounds incorrectly to being completely unable to speak or understand speech. Causes include: Hearing disorders and deafness Voice problems , such as dysphonia or those caused by cleft lip or palate Speech problems like stuttering Developmental disabilities Learning disabilities Autism spectrum disorder Brain injury Stroke Some speech and communication problems may be genetic. Often, no one knows the causes. By first grade, about 5% of children have noticeable speech disorders. Speech and language therapy can help. NIH: National Institute on Deafness and Other Communication Disorders",
+  "synonyms": [
+    "Communication disorders"
+  ],
+  "groups": [
+    "Brain and Nerves",
+    "Mouth and Teeth",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Aphasia",
+      "url": "https://medlineplus.gov/aphasia.html",
+      "id": "1212"
+    },
+    {
+      "title": "Hearing Disorders and Deafness",
+      "url": "https://medlineplus.gov/hearingdisordersanddeafness.html",
+      "id": "204"
+    },
+    {
+      "title": "Learning Disabilities",
+      "url": "https://medlineplus.gov/learningdisabilities.html",
+      "id": "306"
+    },
+    {
+      "title": "Speech and Language Problems in Children",
+      "url": "https://medlineplus.gov/speechandlanguageproblemsinchildren.html",
+      "id": "5959"
+    },
+    {
+      "title": "Stuttering",
+      "url": "https://medlineplus.gov/stuttering.html",
+      "id": "3629"
+    },
+    {
+      "title": "Voice Disorders",
+      "url": "https://medlineplus.gov/voicedisorders.html",
+      "id": "1650"
+    }
+  ],
+  "see_references": [
+    "Communication Disorders",
+    "Language Problems"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Communication Disorders",
+      "id": "D003147"
+    },
+    {
+      "name": "Speech Disorders",
+      "id": "D013064"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/speechandcommunicationdisorders.html"
+}

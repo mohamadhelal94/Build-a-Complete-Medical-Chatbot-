@@ -1,0 +1,40 @@
+{
+  "id": "1920",
+  "title": "Genes y terapia genética",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La terapia genética es una técnica experimental que utiliza los genes para tratar o prevenir enfermedades. Infórmese.",
+  "summary": "¿Qué son los genes? Los genes son secciones de ADN en sus células que se transmiten (heredan) de sus padres. Usted hereda dos copias de cada gen, una de cada padre. Los genes contienen información que controla su apariencia y el funcionamiento de su cuerpo.. Existen alrededor de 20.000 genes que proporcionan instrucciones para la producción de proteínas, necesarias para que su cuerpo funcione correctamente. Algunos genes no producen proteínas por sí mismos, sino que ayudan a controlar el funcionamiento de otros genes. Actúan como interruptores, activando o desactivando otros genes. Esto significa que ayudan a decidir cuándo, dónde y cuánta proteína se produce en su cuerpo. ¿Qué sucede cuando los genes cambian? Los cambios en los genes también se llaman variantes o mutaciones genéticas. Estos cambios pueden ser hereditarios, ocurrir con la edad o ser resultado de factores ambientales como sustancias químicas o radiación. Normalmente, estos cambios no tienen ningún efecto, pero a veces, incluso un pequeño cambio en el ADN puede alterar las instrucciones para la producción de proteínas. Si los genes no producen las proteínas adecuadas, o no las producen correctamente, esto puede causar una enfermedad genética . ¿Qué es la terapia genética? La terapia genética (también conocida como terapia génica o genoterapia) usa genes para tratar o prevenir enfermedades al corregir problemas genéticos. Esta funciona al modificar el material genético, en lugar de depender de tratamientos tradicionales como medicamentos o cirugía. Se puede introducir nuevo material genético en las células de dos maneras principales: Tratamiento ex-vivo . Se extraen células del cuerpo, se modifican añadiendo material genético y luego se reintroducen en el organismo Tratamiento in-vivo . El material genético se introduce directamente en el cuerpo, por lo general mediante una inyección Una forma común de terapia genética consiste en insertar un gen normal para reemplazar un gen anormal. Otros enfoques incluyen: Reparación de un gen anormal Alteración del grado en el que se active o se desactive un genf Las técnicas más recientes ofrecen diferentes maneras de corregir problemas genéticos: Edición de genes (también llamada edición genética): En lugar de añadir nuevo material genético a las células, este enfoque modifica el ADN que ya se encuentra en ellas. Un ejemplo bien conocido es CRISPR-Cas9. Esta técnica prometedora aún se está estudiando y pronto podría utilizarse para tratar enfermedades genéticas Terapia genética celular: Combina la terapia genética y la terapia celular. Un ejemplo de esto sería la terapia con células CAR-T. Las células, que por lo general son células del sistema inmunitario , se modifican genéticamente para ayudar a tratar una enfermedad y luego se introducen en el organismo Actualmente, las terapias genéticas sólo están aprobadas para tratar un número reducido de enfermedades, como: Amaurosis congénita de Leber, un trastorno ocular hereditario Atrofia muscular espinal, un trastorno muscular genético ¿Cuáles son los riesgos y los desafíos de la terapia genética? Si bien la terapia genética es muy prometedora, conlleva riesgos y desafíos. Aún se están realizando estudios para garantizar la seguridad y eficacia de estos tratamientos. Algunos desafíos incluyen: Reacciones del sistema inmunitario: El cuerpo podría percibir el nuevo material como una amenaza y reaccionar ante él Efectos no deseados: Los cambios en el ADN podrían afectar a otros genes de forma perjudicial Altos costos: Las terapias genéticas suelen ser costosas y no son de fácil acceso",
+  "synonyms": [
+    "Genoterapia",
+    "Terapia génica"
+  ],
+  "groups": [
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades genéticas",
+      "url": "https://medlineplus.gov/spanish/geneticdisorders.html",
+      "id": "1921"
+    },
+    {
+      "title": "Pruebas genéticas",
+      "url": "https://medlineplus.gov/spanish/genetictesting.html",
+      "id": "1922"
+    }
+  ],
+  "see_references": [
+    "Herencia",
+    "Terapia genética"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación del Genoma Humano",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHGRI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/genesandgenetherapy.html"
+}

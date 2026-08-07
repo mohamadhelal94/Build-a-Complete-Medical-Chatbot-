@@ -1,0 +1,57 @@
+{
+  "id": "38",
+  "title": "Plastic and Cosmetic Surgery",
+  "language": "English",
+  "date_created": "11/17/1999",
+  "meta_description": "Cosmetic surgery is performed to reshape the appearance of body parts. Cosmetic surgery can create physical changes and changes in self-esteem.",
+  "summary": "Surgeons can reshape the appearance of body parts through cosmetic surgery. Some of the most common body parts people want to improve through surgery include: Breasts: Increase or reduce the size of breasts or reshape sagging breasts Ears: Reduce the size of large ears or set protruding ears back closer to the head Eyes: Correct drooping upper eyelids or remove puffy bags below the eyes Face: Remove facial wrinkles, creases or acne scars Hair: Fill in balding areas with one's own hair Nose: Change the shape of the nose Tummy: Flatten the abdomen",
+  "synonyms": [
+    "Cosmetic surgery"
+  ],
+  "groups": [
+    "Surgery and Rehabilitation"
+  ],
+  "related_topics": [
+    {
+      "title": "Botox",
+      "url": "https://medlineplus.gov/botox.html",
+      "id": "3015"
+    },
+    {
+      "title": "Breast Reconstruction",
+      "url": "https://medlineplus.gov/breastreconstruction.html",
+      "id": "1239"
+    },
+    {
+      "title": "Scars",
+      "url": "https://medlineplus.gov/scars.html",
+      "id": "3195"
+    },
+    {
+      "title": "Skin Aging",
+      "url": "https://medlineplus.gov/skinaging.html",
+      "id": "3775"
+    },
+    {
+      "title": "Varicose Veins",
+      "url": "https://medlineplus.gov/varicoseveins.html",
+      "id": "540"
+    }
+  ],
+  "see_references": [
+    "Body Contouring",
+    "Breast Implants",
+    "Breast Reduction",
+    "Cosmetic Surgery",
+    "Surgery, Plastic"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Plastic Surgery Procedures",
+      "id": "D019651"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/plasticandcosmeticsurgery.html"
+}

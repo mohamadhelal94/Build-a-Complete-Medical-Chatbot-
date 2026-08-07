@@ -1,0 +1,60 @@
+{
+  "id": "1211",
+  "title": "Blood Transfusion and Donation",
+  "language": "English",
+  "date_created": "03/13/2000",
+  "meta_description": "Get information on blood donation, the blood donation process, and blood transfusion.",
+  "summary": "Every year, millions of people in the United States receive life-saving blood transfusions. During a transfusion, you receive whole blood or parts of blood such as: Red blood cells - cells that carry oxygen to and from tissues and organs Platelets - cells that form clots to control bleeding Plasma - the liquid part of the blood that helps clotting. You may need it if you have been badly burned, have liver failure or a severe infection. Most blood transfusions go very smoothly. Some infectious agents, such as HIV, can survive in blood and infect the person receiving the blood transfusion. To keep blood safe, blood banks carefully screen donated blood. The risk of catching a virus from a blood transfusion is low. Sometimes it is possible to have a transfusion of your own blood. During surgery, you may need a blood transfusion because of blood loss. If you are having a surgery that you're able to schedule months in advance, your doctor may ask whether you would like to use your own blood, instead of donated blood. If so, you will need to have blood drawn one or more times before the surgery. A blood bank will store your blood for your use. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation",
+    "Transplantation and Donation"
+  ],
+  "related_topics": [
+    {
+      "title": "Blood Disorders",
+      "url": "https://medlineplus.gov/blooddisorders.html",
+      "id": "3646"
+    },
+    {
+      "title": "Organ Donation",
+      "url": "https://medlineplus.gov/organdonation.html",
+      "id": "615"
+    },
+    {
+      "title": "Stem Cells",
+      "url": "https://medlineplus.gov/stemcells.html",
+      "id": "1395"
+    }
+  ],
+  "see_references": [
+    "Blood Donation",
+    "Transfusion"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Blood Transfusion",
+      "id": "D001803"
+    },
+    {
+      "name": "Blood Safety",
+      "id": "D058731"
+    },
+    {
+      "name": "Blood Donors",
+      "id": "D001782"
+    },
+    {
+      "name": "Transfusion Reaction",
+      "id": "D065227"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bloodtransfusionanddonation.html"
+}

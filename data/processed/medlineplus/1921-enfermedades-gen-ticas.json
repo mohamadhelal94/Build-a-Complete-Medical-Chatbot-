@@ -1,0 +1,113 @@
+{
+  "id": "1921",
+  "title": "Enfermedades genéticas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los genes son los ladrillos de la herencia. Contienen el ADN. Infórmese sobre mutaciones, cómo se heredan y qué tipos de enfermedades genéticas existen.",
+  "summary": "¿Qué son las enfermedades genéticas? Las enfermedades genéticas son afecciones causadas por cambios (también llamados mutaciones o variantes) en los genes. Los genes son partes del ADN que se encuentran en las células y que contienen instrucciones sobre cómo el cuerpo crece, se desarrolla y funciona. Muchos genes le indican al cuerpo cómo producir proteínas, necesarias para que su cuerpo funcione correctamente. ¿Qué causa las enfermedades genéticas? Una enfermedad genética se produce cuando una variante genética altera la producción de una proteína. Esta variante puede provocar que la proteína funcione mal o que no se produzca. Si los genes no producen las proteínas adecuadas, o no las producen correctamente, puede producirse un trastorno genético. No todos los cambios genéticos causan enfermedades. Normalmente, estos cambios no tienen ningún efecto, pero, a veces, incluso un pequeño cambio en el ADN puede afectar la producción de proteínas. Las variantes genéticas se pueden agrupar en dos tipos principales: Variantes hereditarias (germinales): Se transmiten de padres a hijos. Provienen de óvulos o espermatozoides Variantes no hereditarias (somáticas): No se transmiten de padres a hijos. Se desarrollan durante la vida. Pueden estar causadas por factores como sustancias químicas nocivas o rayos ultravioleta (UV) del sol ¿Cuáles son los tipos de enfermedades genéticas? Las enfermedades genéticas pueden ser causadas por: Trastornos monogenéticos: Se deben a cambios en un solo gen. Algunos ejemplos incluyen la anemia de células falciformes , en la que un cambio en un solo gen puede causar la enfermedad, y la enfermedad de Charcot-Marie-Tooth , en la que una variante en uno de muchos genes diferentes puede causarla Trastornos cromosómicos: Se deben a la falta, exceso o alteración de cromosomas. Los cromosomas son estructuras que transportan genes. Estos trastornos implican cambios en el número de cromosomas que las personas tienen o cambios en la estructura de uno o más cromosomas. Un ejemplo es el síndrome de Down , causado por una copia adicional del cromosoma 21 Trastornos complejos (multifactoriales): Se deben a mutaciones en muchos genes. Cada cambio por sí solo puede no causar la enfermedad, pero juntos aumentan el riesgo. El estilo de vida y los factores ambientales, como el ejercicio, la dieta o la exposición a contaminantes, también influyen. El cáncer de colon es un ejemplo ¿Cuáles son las diferentes maneras en que se puede heredar una enfermedad genética? Algunas enfermedades genéticas se transmiten de padres a hijos (hereditarias) según varios patrones, dependiendo del gen específico involucrado. Los patrones de herencia pueden incluir: Dominante: Solo se necesita un gen modificado para causar la enfermedad Recesiva: Se necesitan dos copias modificadas del gen (una de cada progenitor) para que la enfermedad se presente Enfermedades ligadas al cromosoma X: Involucran genes ubicados en el cromosoma X. Estas enfermedades suelen afectar con mayor frecuencia a los hombres Enfermedades mitocondriales: Se transmiten por vía materna ¿Cómo se diagnostican las enfermedades genéticas? Su profesional de la salud podría detectar una enfermedad genética basándose en: Un examen físico Su historial médico personal Su historial médico familiar Pruebas de laboratorio, incluyendo pruebas genéticas NIH: Biblioteca Nacional de Medicina",
+  "synonyms": [],
+  "groups": [
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Asesoramiento genético",
+      "url": "https://medlineplus.gov/spanish/geneticcounseling.html",
+      "id": "3812"
+    },
+    {
+      "title": "Defectos congénitos",
+      "url": "https://medlineplus.gov/spanish/birthdefects.html",
+      "id": "1774"
+    },
+    {
+      "title": "Enanismo",
+      "url": "https://medlineplus.gov/spanish/dwarfism.html",
+      "id": "1871"
+    },
+    {
+      "title": "Enfermedad celíaca",
+      "url": "https://medlineplus.gov/spanish/celiacdisease.html",
+      "id": "1802"
+    },
+    {
+      "title": "Enfermedad de células falciformes",
+      "url": "https://medlineplus.gov/spanish/sicklecelldisease.html",
+      "id": "2146"
+    },
+    {
+      "title": "Enfermedades raras",
+      "url": "https://medlineplus.gov/spanish/rarediseases.html",
+      "id": "2119"
+    },
+    {
+      "title": "Fibrosis quística",
+      "url": "https://medlineplus.gov/spanish/cysticfibrosis.html",
+      "id": "1843"
+    },
+    {
+      "title": "Hemocromatosis",
+      "url": "https://medlineplus.gov/spanish/hemochromatosis.html",
+      "id": "1947"
+    },
+    {
+      "title": "Labio leporino y paladar hendido",
+      "url": "https://medlineplus.gov/spanish/cleftlipandpalate.html",
+      "id": "1825"
+    },
+    {
+      "title": "Leucodistrofias",
+      "url": "https://medlineplus.gov/spanish/leukodystrophies.html",
+      "id": "2282"
+    },
+    {
+      "title": "Malformaciones del cerebro",
+      "url": "https://medlineplus.gov/spanish/brainmalformations.html",
+      "id": "3023"
+    },
+    {
+      "title": "Osteogénesis imperfecta",
+      "url": "https://medlineplus.gov/spanish/osteogenesisimperfecta.html",
+      "id": "2066"
+    },
+    {
+      "title": "Pruebas genéticas",
+      "url": "https://medlineplus.gov/spanish/genetictesting.html",
+      "id": "1922"
+    },
+    {
+      "title": "Síndrome de Down",
+      "url": "https://medlineplus.gov/spanish/downsyndrome.html",
+      "id": "1866"
+    },
+    {
+      "title": "Síndrome de Prader-Willi",
+      "url": "https://medlineplus.gov/spanish/praderwillisyndrome.html",
+      "id": "2101"
+    },
+    {
+      "title": "Síndrome X frágil",
+      "url": "https://medlineplus.gov/spanish/fragilexsyndrome.html",
+      "id": "3691"
+    },
+    {
+      "title": "Trastornos cerebrales genéticos",
+      "url": "https://medlineplus.gov/spanish/geneticbraindisorders.html",
+      "id": "3118"
+    }
+  ],
+  "see_references": [
+    "Barth, Síndrome de",
+    "Batten, Enfermedad de",
+    "Genética, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/geneticdisorders.html"
+}

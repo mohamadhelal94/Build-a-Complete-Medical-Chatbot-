@@ -1,0 +1,90 @@
+{
+  "id": "1727",
+  "title": "VIH y las infecciones",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El VIH y el sida pueden hacer que cualquier infección sea más difícil de tratar. Es posible ayudar a prevenir las infecciones tomando medicinas para el VIH y el sida",
+  "summary": "El VIH/sida daña su sistema inmunitario al destruir los glóbulos blancos que combaten las infecciones. Esto lo pone en riesgo de sufrir infecciones oportunistas. Estas son infecciones serias que se aprovechan de su sistema inmunitario débil. Estas infecciones son menos comunes y menos severas en personas sanas. Existen muchos tipos de infecciones oportunistas: Infecciones bacterianas, incluyendo la tuberculosis y el complejo MAC (Mycobacterium avium complex) Infecciones virales, como el citomegalovirus y la hepatitis C Infecciones por hongos, como infecciones por levaduras ( candidiasis ), meningitis criptocóccica, neumonía por pneumocystis carinii e histoplasmosis Infecciones parasitarias, como criptosporidiosis y toxoplasmosis Tener VIH y sida puede hacer que las infecciones sean más difíciles de tratar. Las personas con VIH y el sida también tienen más posibilidades de sufrir complicaciones de enfermedades comunes, como la gripe. Usted puede prevenir las infecciones tomando medicinas para el VIH y sida . Otras cosas que pueden ayudar incluyen practicar sexo seguro, lavarse bien y con frecuencia las manos y comer alimentos bien cocidos.",
+  "synonyms": [
+    "Infecciones en las personas con VIH y sida",
+    "Infección oportunística asociada con el sida"
+  ],
+  "groups": [
+    "Infecciones",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Criptosporidiosis",
+      "url": "https://medlineplus.gov/spanish/cryptosporidiosis.html",
+      "id": "2236"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/spanish/hepatitisc.html",
+      "id": "1950"
+    },
+    {
+      "title": "Herpes genital",
+      "url": "https://medlineplus.gov/spanish/genitalherpes.html",
+      "id": "5864"
+    },
+    {
+      "title": "Herpes simple",
+      "url": "https://medlineplus.gov/spanish/herpessimplex.html",
+      "id": "1954"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/spanish/histoplasmosis.html",
+      "id": "5633"
+    },
+    {
+      "title": "Infecciones por hongos",
+      "url": "https://medlineplus.gov/spanish/fungalinfections.html",
+      "id": "1914"
+    },
+    {
+      "title": "Infecciones por Pneumocystis",
+      "url": "https://medlineplus.gov/spanish/pneumocystisinfections.html",
+      "id": "2093"
+    },
+    {
+      "title": "Medicinas para el VIH",
+      "url": "https://medlineplus.gov/spanish/hivmedicines.html",
+      "id": "4288"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://medlineplus.gov/spanish/toxoplasmosis.html",
+      "id": "2202"
+    },
+    {
+      "title": "Tuberculosis",
+      "url": "https://medlineplus.gov/spanish/tuberculosis.html",
+      "id": "2206"
+    },
+    {
+      "title": "VIH",
+      "url": "https://medlineplus.gov/spanish/hiv.html",
+      "id": "1726"
+    },
+    {
+      "title": "Viviendo con VIH",
+      "url": "https://medlineplus.gov/spanish/livingwithhiv.html",
+      "id": "1729"
+    }
+  ],
+  "see_references": [
+    "Sida y las infecciones"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hivandinfections.html"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2054",
+  "title": "Enfermedades neuromusculares",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las enfermedades neuromusculares afectan los nervios que controlan los músculos voluntarios. Infórmese sobre los diferentes tipos de enfermedades.",
+  "summary": "Las enfermedades neuromusculares afectan su sistema neuromuscular. Estas pueden causar problemas en: Los nervios que controlan sus músculos Sus músculos La comunicación entre sus nervios y sus músculos Estas enfermedades pueden causar debilidad y atrofia en sus músculos. También puede tener otros síntomas, como espasmos, contracciones y dolor muscular. Algunos ejemplos de trastornos neuromusculares incluyen: Esclerosis lateral amiotrófica Distrofia muscular Miastenia grave Atrofia muscular espinal Estas enfermedades pueden tener diferentes causas. Muchas son genéticas, lo que significa que son hereditarias (se presentan en familias, o son causadas por mutaciones en los genes. Algunas son enfermedades autoinmunes. En ocasiones, no se conoce la causa. Muchas de las enfermedades neuromusculares no tienen cura. Pero los tratamientos pueden mejorar los síntomas, aumentar la movilidad y el lapso de vida.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Atrofia muscular espinal",
+      "url": "https://medlineplus.gov/spanish/spinalmuscularatrophy.html",
+      "id": "2274"
+    },
+    {
+      "title": "Distrofia muscular",
+      "url": "https://medlineplus.gov/spanish/musculardystrophy.html",
+      "id": "2044"
+    },
+    {
+      "title": "Enfermedades del sistema nervioso periférico",
+      "url": "https://medlineplus.gov/spanish/peripheralnervedisorders.html",
+      "id": "2084"
+    },
+    {
+      "title": "Enfermedades musculares",
+      "url": "https://medlineplus.gov/spanish/muscledisorders.html",
+      "id": "2043"
+    },
+    {
+      "title": "Enfermedades neurológicas",
+      "url": "https://medlineplus.gov/spanish/neurologicdiseases.html",
+      "id": "2053"
+    },
+    {
+      "title": "Esclerosis múltiple",
+      "url": "https://medlineplus.gov/spanish/multiplesclerosis.html",
+      "id": "2041"
+    },
+    {
+      "title": "Miastenia grave",
+      "url": "https://medlineplus.gov/spanish/myastheniagravis.html",
+      "id": "2045"
+    },
+    {
+      "title": "Síndrome de dolor regional complejo",
+      "url": "https://medlineplus.gov/spanish/complexregionalpainsyndrome.html",
+      "id": "2121"
+    },
+    {
+      "title": "Trastornos del movimiento",
+      "url": "https://medlineplus.gov/spanish/movementdisorders.html",
+      "id": "2039"
+    }
+  ],
+  "see_references": [
+    "Espasticidad",
+    "Neuromuscular, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/neuromusculardisorders.html"
+}

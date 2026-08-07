@@ -1,0 +1,44 @@
+{
+  "id": "1404",
+  "title": "Laser Eye Surgery",
+  "language": "English",
+  "date_created": "12/18/2000",
+  "meta_description": "Laser eye surgery (LASIK) is surgery to improve your vision. You may no longer need glasses or contacts. Learn about the types and who can get it.",
+  "summary": "For many people, laser eye surgery can correct their vision so they no longer need glasses or contact lenses. Laser eye surgery reshapes the cornea, the clear front part of the eye. This changes its focusing power. There are different types of laser eye surgery. LASIK - laser-assisted in situ keratomileusis - is one of the most common. Many patients who have LASIK end up with 20/20 vision. But, like all medical procedures, it has both risks and benefits. Only your eye doctor can tell if you are a good candidate for laser eye surgery.",
+  "synonyms": [
+    "Keratectomy",
+    "LASIK",
+    "LTK",
+    "PRK"
+  ],
+  "groups": [
+    "Eyes and Vision",
+    "Surgery and Rehabilitation"
+  ],
+  "related_topics": [
+    {
+      "title": "Refractive Errors",
+      "url": "https://medlineplus.gov/refractiveerrors.html",
+      "id": "946"
+    }
+  ],
+  "see_references": [
+    "LASIK",
+    "LTK",
+    "PRK"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Corneal Surgery, Laser",
+      "id": "D048988"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/lasereyesurgery.html"
+}

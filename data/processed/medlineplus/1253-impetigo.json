@@ -1,0 +1,29 @@
+{
+  "id": "1253",
+  "title": "Impetigo",
+  "language": "English",
+  "date_created": "06/28/2001",
+  "meta_description": "Impetigo is a skin infection caused by staph or strep bacterias. It can spread by contact with an infected person. Treated with antibiotics.",
+  "summary": "Impetigo is a skin infection caused by bacteria. It is usually caused by staphylococcal (staph) bacteria, but it can also be caused by streptococcal (strep) bacteria. It is most common in children between the ages of two and six. It usually starts when bacteria get into a break in the skin, such as a cut, scratch, or insect bite. Symptoms start with red or pimple-like sores surrounded by red skin. These sores can be anywhere, but usually they occur on your face, arms and legs. The sores fill with pus, then break open after a few days and form a thick crust. They are often itchy, but scratching them can spread the sores. Impetigo can spread by contact with sores or nasal discharge from an infected person. You can treat impetigo with antibiotics.",
+  "synonyms": [],
+  "groups": [
+    "Infections",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Impetigo",
+      "id": "D007169"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/impetigo.html"
+}

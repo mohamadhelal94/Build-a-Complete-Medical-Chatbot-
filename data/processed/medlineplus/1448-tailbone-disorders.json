@@ -1,0 +1,37 @@
+{
+  "id": "1448",
+  "title": "Tailbone Disorders",
+  "language": "English",
+  "date_created": "03/21/2001",
+  "meta_description": "The tailbone, or coccyx, is at the bottom of your backbone, or spine. Learn about tailbone disorders and what problems cause pain in your coccyx.",
+  "summary": "The tailbone is the small bone at the bottom of your backbone, or spine. Tailbone disorders include tailbone injuries, pain, infections, cysts and tumors. You rarely break your tailbone. Instead, most injuries cause bruises or pulled ligaments. A backward fall onto a hard surface, such as slipping on ice, is the most common cause of such injuries. Symptoms of various tailbone disorders include pain in the tailbone area, pain upon sitting, pain or numbness in the arms or legs due to pressure on nerves in the tailbone area, and a mass or growth you can see or feel.",
+  "synonyms": [
+    "Coccyx disorders"
+  ],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Coccyx",
+    "Pilonidal Cyst"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Coccyx",
+      "id": "D003050"
+    },
+    {
+      "name": "Spinal Diseases",
+      "id": "D013122"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/tailbonedisorders.html"
+}

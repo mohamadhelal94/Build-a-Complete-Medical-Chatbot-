@@ -1,0 +1,51 @@
+{
+  "id": "1530",
+  "title": "Exercise for Older Adults",
+  "language": "English",
+  "date_created": "08/23/2001",
+  "meta_description": "As we age, exercise becomes more challenging. But it is important for older adults to get enough exercise. How much exercise do you need? Find out.",
+  "summary": "Exercise and physical activity are good for just about everyone, including older adults. There are four main types and each type is different. Doing them all will give you more benefits .: Endurance, or aerobic, activities increase your breathing and heart rate. Brisk walking or jogging, dancing, swimming, and biking are examples. Strength exercises make your muscles stronger. Lifting weights or using a resistance band can build strength. Balance exercises help prevent falls Flexibility exercises stretch your muscles and can help your body stay limber If you have not been active, you can start slowly and work up to your goal. How much exercise you need depends on your age and health. Check with your health care provider on what is right for you. NIH: National Institute on Aging",
+  "synonyms": [
+    "Seniors' fitness"
+  ],
+  "groups": [
+    "Older Adults",
+    "Wellness and Lifestyle",
+    "Fitness and Exercise"
+  ],
+  "related_topics": [
+    {
+      "title": "Exercise and Physical Fitness",
+      "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+      "id": "490"
+    },
+    {
+      "title": "Older Adult Health",
+      "url": "https://medlineplus.gov/olderadulthealth.html",
+      "id": "21"
+    },
+    {
+      "title": "Sports Fitness",
+      "url": "https://medlineplus.gov/sportsfitness.html",
+      "id": "415"
+    }
+  ],
+  "see_references": [
+    "Fitness",
+    "Seniors' Fitness"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Aging",
+      "url": "https://www.nia.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Exercise",
+      "id": "D015444"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/exerciseforolderadults.html"
+}

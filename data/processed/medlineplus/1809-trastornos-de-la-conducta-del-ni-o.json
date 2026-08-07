@@ -1,0 +1,60 @@
+{
+  "id": "1809",
+  "title": "Trastornos de la conducta del niño",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los trastornos de la conducta del niño abarcan un patrón de comportamiento hostil, agresivo o perturbador que no es apropiado para su edad. Síntomas aquí.",
+  "summary": "Todos los niños se comportan mal algunas veces. Y otros niños pueden tener problemas de comportamiento temporales debido al estrés. Por ejemplo, el nacimiento de un hermanito, divorcio o la muerte de un miembro de la familia puede hacer que el niño se comporte mal. Pero los trastornos de la conducta son más serios. Abarcan un patrón de conductas hostil, agresivo o perturbador que dura más de seis meses y que no es apropiado para la edad del niño. Los signos de advertencia pueden incluir: Dañar o amenazar a otras personas, mascotas o a sí mismos Dañar o destruir las pertenencias ajenas Mentir o robar No tener buen rendimiento escolar, faltar a la escuela Comenzar a fumar, beber o consumir drogas prematuramente Actividad sexual prematura Rabietas y discusiones frecuentes Hostilidad constante hacia las figuras de autoridad Si observa alguno de estos problemas, pida ayuda. Las malas elecciones pueden volverse un hábito. Los niños con problemas de conducta tienen más riesgo de fracasar en la escuela, tener problemas mentales y hasta suicidarse . Las clases o la terapia de familia pueden ayudar a los padres a aprender a establecer y hacer cumplir los límites. La psicoterapia y terapia del comportamiento para su hijo también pueden ayudar.",
+  "synonyms": [
+    "Problemas de comportamiento del niño"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Autolesión",
+      "url": "https://medlineplus.gov/spanish/selfharm.html",
+      "id": "6092"
+    },
+    {
+      "title": "Desarrollo del adolescente",
+      "url": "https://medlineplus.gov/spanish/teendevelopment.html",
+      "id": "2185"
+    },
+    {
+      "title": "Desarrollo del niño",
+      "url": "https://medlineplus.gov/spanish/childdevelopment.html",
+      "id": "1812"
+    },
+    {
+      "title": "Salud mental del adolescente",
+      "url": "https://medlineplus.gov/spanish/teenmentalhealth.html",
+      "id": "3638"
+    },
+    {
+      "title": "Salud mental del niño",
+      "url": "https://medlineplus.gov/spanish/childmentalhealth.html",
+      "id": "3163"
+    },
+    {
+      "title": "Trastorno de déficit de atención e hiperactividad",
+      "url": "https://medlineplus.gov/spanish/attentiondeficithyperactivitydisorder.html",
+      "id": "1762"
+    }
+  ],
+  "see_references": [
+    "Chicos, Conducta",
+    "Conducta del niño, Trastorno de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/childbehaviordisorders.html"
+}

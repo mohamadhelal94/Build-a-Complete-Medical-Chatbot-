@@ -1,0 +1,63 @@
+{
+  "id": "1360",
+  "title": "Penis Disorders",
+  "language": "English",
+  "date_created": "09/19/2000",
+  "meta_description": "Penis disorders can cause pain and affect a man's sexual function and fertility. Read about the types of problems, including symptoms and treatments.",
+  "summary": "Problems with the penis can cause pain and affect a man's sexual function and fertility. Penis disorders include: Erectile dysfunction - inability to get or keep an erection Priapism - a painful erection that does not go away Peyronie's disease - bending of the penis during an erection due to a hard lump called a plaque Balanitis - inflammation of the skin covering the head of the penis, most often in men and boys who have not been circumcised Penile cancer - a rare form of cancer, highly curable when caught early",
+  "synonyms": [
+    "Penile disorders"
+  ],
+  "groups": [
+    "Men",
+    "Sexual Health Issues",
+    "Male Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Circumcision",
+      "url": "https://medlineplus.gov/circumcision.html",
+      "id": "189"
+    },
+    {
+      "title": "Erectile Dysfunction",
+      "url": "https://medlineplus.gov/erectiledysfunction.html",
+      "id": "118"
+    },
+    {
+      "title": "Male Infertility",
+      "url": "https://medlineplus.gov/maleinfertility.html",
+      "id": "5656"
+    },
+    {
+      "title": "Sexually Transmitted Infections",
+      "url": "https://medlineplus.gov/sexuallytransmittedinfections.html",
+      "id": "400"
+    },
+    {
+      "title": "Testicular Disorders",
+      "url": "https://medlineplus.gov/testiculardisorders.html",
+      "id": "4280"
+    }
+  ],
+  "see_references": [
+    "Balanitis",
+    "Male Genital Disorders",
+    "Penile Disorders",
+    "Peyronie's Disease"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Penile Diseases",
+      "id": "D010409"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/penisdisorders.html"
+}

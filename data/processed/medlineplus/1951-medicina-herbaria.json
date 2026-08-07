@@ -1,0 +1,42 @@
+{
+  "id": "1951",
+  "title": "Medicina herbaria",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las hierbas medicinales son un tipo de suplemento dietético. Se venden en forma de tabletas, cápsulas, polvos, tés, extractos y plantas. Entérese aquí.",
+  "summary": "Una hierba es una planta o una parte de una planta que se usa por su aroma, sabor o propiedades terapéuticas. Los productos de la medicina herbolaria son suplementos dietéticos . Se venden como píldoras, cápsulas, polvos, tés, extractos o como plantas frescas o secas. Las personas las toman para mejorar su salud. Muchos creen que los productos etiquetados \"natural\" son siempre seguros y buenos para ellos. Esto no es necesariamente cierto. Las hierbas medicinales no pasan por el mismo control y pruebas que las medicinas convencionales. Ciertas hierbas, como la consuelda y efedra pueden causar daños severos. Algunas hierbas pueden interactuar con medicamentos de receta o de venta libre. Si usted está considerando usar hierbas medicinales, primero busque información de fuentes confiables. Asegúrese de avisarle a su médico sobre cualquier hierba que este tomando. NIH: Centro Nacional de Salud Complementaria e Integral",
+  "synonyms": [
+    "Suplementos de hierbas"
+  ],
+  "groups": [
+    "Bienestar y estilo de vida",
+    "Terapias complementarias y alternativas"
+  ],
+  "related_topics": [
+    {
+      "title": "Medicina complementaria e integral",
+      "url": "https://medlineplus.gov/spanish/complementaryandintegrativemedicine.html",
+      "id": "1735"
+    },
+    {
+      "title": "Suplementos en la dieta",
+      "url": "https://medlineplus.gov/spanish/dietarysupplements.html",
+      "id": "3539"
+    },
+    {
+      "title": "Terapia alternativa para el cáncer",
+      "url": "https://medlineplus.gov/spanish/canceralternativetherapies.html",
+      "id": "3193"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Centro Nacional de Salud Complementaria e Integral",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCCAM"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/herbalmedicine.html"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "341",
+  "title": "Neurologic Diseases",
+  "language": "English",
+  "date_created": "01/05/2000",
+  "meta_description": "Your nervous system includes your brain, spinal cord, and nerves. Learn about neurologic diseases, including their symptoms, causes, and treatments.",
+  "summary": "The brain, spinal cord, and nerves make up the nervous system. Together they control all the workings of the body. When something goes wrong with a part of your nervous system, you can have trouble moving, speaking, swallowing, breathing, or learning. You can also have problems with your memory, senses, or mood. There are more than 600 neurologic diseases. Major types include: Diseases caused by faulty genes, such as Huntington's disease and muscular dystrophy Problems with the way the nervous system develops, such as spina bifida Degenerative diseases , where nerve cells are damaged or die, such as Parkinson's disease and Alzheimer's disease Diseases of the blood vessels that supply the brain, such as stroke Injuries to the spinal cord and brain Seizure disorders, such as epilepsy Cancer, such as brain tumors infections, such as meningitis",
+  "synonyms": [
+    "Nervous system diseases"
+  ],
+  "groups": [
+    "Brain and Nerves"
+  ],
+  "related_topics": [
+    {
+      "title": "Acute Flaccid Myelitis",
+      "url": "https://medlineplus.gov/acuteflaccidmyelitis.html",
+      "id": "7207"
+    },
+    {
+      "title": "Autonomic Nervous System Disorders",
+      "url": "https://medlineplus.gov/autonomicnervoussystemdisorders.html",
+      "id": "4242"
+    },
+    {
+      "title": "Brain Diseases",
+      "url": "https://medlineplus.gov/braindiseases.html",
+      "id": "174"
+    },
+    {
+      "title": "Complex Regional Pain Syndrome",
+      "url": "https://medlineplus.gov/complexregionalpainsyndrome.html",
+      "id": "382"
+    },
+    {
+      "title": "Degenerative Nerve Diseases",
+      "url": "https://medlineplus.gov/degenerativenervediseases.html",
+      "id": "619"
+    },
+    {
+      "title": "Epilepsy",
+      "url": "https://medlineplus.gov/epilepsy.html",
+      "id": "244"
+    },
+    {
+      "title": "Meningitis",
+      "url": "https://medlineplus.gov/meningitis.html",
+      "id": "324"
+    },
+    {
+      "title": "Movement Disorders",
+      "url": "https://medlineplus.gov/movementdisorders.html",
+      "id": "520"
+    },
+    {
+      "title": "Neuromuscular Disorders",
+      "url": "https://medlineplus.gov/neuromusculardisorders.html",
+      "id": "1518"
+    },
+    {
+      "title": "Parkinson's Disease",
+      "url": "https://medlineplus.gov/parkinsonsdisease.html",
+      "id": "85"
+    },
+    {
+      "title": "Peripheral Nerve Disorders",
+      "url": "https://medlineplus.gov/peripheralnervedisorders.html",
+      "id": "1095"
+    },
+    {
+      "title": "Spinal Cord Diseases",
+      "url": "https://medlineplus.gov/spinalcorddiseases.html",
+      "id": "410"
+    },
+    {
+      "title": "Tourette Syndrome",
+      "url": "https://medlineplus.gov/tourettesyndrome.html",
+      "id": "442"
+    },
+    {
+      "title": "Trigeminal Neuralgia",
+      "url": "https://medlineplus.gov/trigeminalneuralgia.html",
+      "id": "2729"
+    },
+    {
+      "title": "Von Hippel-Lindau Disease",
+      "url": "https://medlineplus.gov/vonhippellindaudisease.html",
+      "id": "4361"
+    }
+  ],
+  "see_references": [
+    "Nerve Diseases",
+    "Nervous System Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Nervous System Diseases",
+      "id": "D009422"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/neurologicdiseases.html"
+}

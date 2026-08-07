@@ -1,0 +1,50 @@
+{
+  "id": "3040",
+  "title": "Infection Control",
+  "language": "English",
+  "date_created": "01/13/2003",
+  "meta_description": "Every year, lives are lost because of the spread of hospital infections. Read about the preventive steps you can take, such as proper handwashing",
+  "summary": "Every year, lives are lost because of the spread of infections in hospitals. Health care workers can take steps to prevent the spread of infectious diseases . These steps are part of infection control. Proper hand washing is the most effective way to prevent the spread of infections in hospitals. If you are a patient, don't be afraid to remind friends, family and health care providers to wash their hands before getting close to you. Other steps health care workers can take include: Covering coughs and sneezes Staying up to date with vaccinations Using gloves, masks and protective clothing Making tissues and hand cleaners available Following hospital guidelines when dealing with blood or contaminated items",
+  "synonyms": [],
+  "groups": [
+    "Infections",
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/hepatitis.html",
+      "id": "109"
+    },
+    {
+      "title": "HIV",
+      "url": "https://medlineplus.gov/hiv.html",
+      "id": "1"
+    },
+    {
+      "title": "MRSA",
+      "url": "https://medlineplus.gov/mrsa.html",
+      "id": "4539"
+    }
+  ],
+  "see_references": [
+    "Blood-Borne Pathogens",
+    "Cross Infection",
+    "Healthcare-Associated Infections",
+    "Universal Precautions"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Infection Control",
+      "id": "D017053"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/infectioncontrol.html"
+}

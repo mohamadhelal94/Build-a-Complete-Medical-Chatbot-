@@ -1,0 +1,72 @@
+{
+  "id": "6037",
+  "title": "Blood",
+  "language": "English",
+  "date_created": "07/17/2012",
+  "meta_description": "Blood has many functions in your body. Blood tests help doctors check for certain diseases and conditions. Learn about blood types and blood tests.",
+  "summary": "Your blood is made up of liquid and solids. The liquid part, called plasma, is made of water, salts, and protein. Over half of your blood is plasma. The solid part of your blood contains red blood cells, white blood cells, and platelets. Red blood cells (RBC) deliver oxygen from your lungs to your tissues and organs. White blood cells (WBC) fight infection and are part of your immune system. Platelets help blood to clot when you have a cut or wound. Bone marrow, the spongy material inside your bones, makes new blood cells. Blood cells constantly die and your body makes new ones. Red blood cells live about 120 days, and platelets live about 6 days. Some white blood cells live less than a day, but others live much longer. There are four blood types: A, B, AB, or O. Also, blood is either Rh-positive or Rh-negative. So if you have type A blood, it's either A positive or A negative. Which type you are is important if you need a blood transfusion . And your Rh factor could be important if you become pregnant - an incompatibility between your type and the baby's could create problems. Blood tests such as blood count tests help doctors check for certain diseases and conditions. They also help check the function of your organs and show how well treatments are working. Problems with your blood may include bleeding disorders , excessive clotting and platelet disorders . If you lose too much blood, you may need a transfusion. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Bleeding",
+      "url": "https://medlineplus.gov/bleeding.html",
+      "id": "6039"
+    },
+    {
+      "title": "Bleeding Disorders",
+      "url": "https://medlineplus.gov/bleedingdisorders.html",
+      "id": "166"
+    },
+    {
+      "title": "Blood Clots",
+      "url": "https://medlineplus.gov/bloodclots.html",
+      "id": "6076"
+    },
+    {
+      "title": "Blood Count Tests",
+      "url": "https://medlineplus.gov/bloodcounttests.html",
+      "id": "6351"
+    },
+    {
+      "title": "Blood Disorders",
+      "url": "https://medlineplus.gov/blooddisorders.html",
+      "id": "3646"
+    },
+    {
+      "title": "Blood Transfusion and Donation",
+      "url": "https://medlineplus.gov/bloodtransfusionanddonation.html",
+      "id": "1211"
+    },
+    {
+      "title": "Platelet Disorders",
+      "url": "https://medlineplus.gov/plateletdisorders.html",
+      "id": "5218"
+    },
+    {
+      "title": "Rh Incompatibility",
+      "url": "https://medlineplus.gov/rhincompatibility.html",
+      "id": "5901"
+    }
+  ],
+  "see_references": [
+    "ABO Blood Groups",
+    "Blood Cells"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Blood",
+      "id": "D001769"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/blood.html"
+}

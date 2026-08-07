@@ -1,0 +1,76 @@
+{
+  "id": "526",
+  "title": "Insect Bites and Stings",
+  "language": "English",
+  "date_created": "06/15/1999",
+  "meta_description": "You swat a bug off, but now you have an itchy bump. Was it a mosquito, a flea, a tick? Learn how to prevent, identify, and treat bug bites and stings.",
+  "summary": "Most insect bites are harmless, though they sometimes cause discomfort. Bee, wasp, and hornet stings and fire ant bites usually hurt. Mosquito and flea bites usually itch. Insects can also spread diseases. In the United States, some mosquitoes spread West Nile virus . Travelers outside the United States may be at risk for malaria and other infections. To prevent insect bites and their complications: Don't bother insects Use insect repellant Wear protective clothing Be careful when you eat outside because food attracts insects If you know you have severe allergic reactions to insect bites and stings (such as anaphylaxis ), carry an emergency epinephrine kit",
+  "synonyms": [
+    "Bug bites"
+  ],
+  "groups": [
+    "Skin, Hair and Nails",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Anaphylaxis",
+      "url": "https://medlineplus.gov/anaphylaxis.html",
+      "id": "6257"
+    },
+    {
+      "title": "Animal Bites",
+      "url": "https://medlineplus.gov/animalbites.html",
+      "id": "161"
+    },
+    {
+      "title": "Bed Bugs",
+      "url": "https://medlineplus.gov/bedbugs.html",
+      "id": "5649"
+    },
+    {
+      "title": "Lyme Disease",
+      "url": "https://medlineplus.gov/lymedisease.html",
+      "id": "84"
+    },
+    {
+      "title": "Mosquito Bites",
+      "url": "https://medlineplus.gov/mosquitobites.html",
+      "id": "6545"
+    },
+    {
+      "title": "Plague",
+      "url": "https://medlineplus.gov/plague.html",
+      "id": "1656"
+    },
+    {
+      "title": "Spider Bites",
+      "url": "https://medlineplus.gov/spiderbites.html",
+      "id": "5249"
+    },
+    {
+      "title": "Tick Bites",
+      "url": "https://medlineplus.gov/tickbites.html",
+      "id": "1645"
+    }
+  ],
+  "see_references": [
+    "Bee Stings",
+    "Flea Bites",
+    "Insect Repellents"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Insect Bites and Stings",
+      "id": "D007299"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/insectbitesandstings.html"
+}

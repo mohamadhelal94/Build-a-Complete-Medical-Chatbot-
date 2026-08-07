@@ -1,0 +1,26 @@
+{
+  "id": "122",
+  "title": "Abortion",
+  "language": "English",
+  "date_created": "03/19/2002",
+  "meta_description": "An abortion is a medical procedure to end a pregnancy. It uses medicine or surgery to remove the embryo or fetus and placenta from the uterus.",
+  "summary": "An induced abortion is a procedure to end a pregnancy. It can be done two different ways: Medication abortion (also called medical abortion) Procedural abortion An induced abortion is different from a spontaneous abortion. That is the loss of a pregnancy before the 20th week of pregnancy. It is more commonly known as a miscarriage . If you are thinking of having an induced abortion, talk with your health care provider. Your provider can explain how the procedures are done, as well as the risks and benefits of each.",
+  "synonyms": [
+    "Induced Abortion"
+  ],
+  "groups": [
+    "Pregnancy and Reproduction",
+    "Female Reproductive System"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Abortion, Induced",
+      "id": "D000028"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/abortion.html"
+}

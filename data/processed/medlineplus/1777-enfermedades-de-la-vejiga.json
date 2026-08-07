@@ -1,0 +1,75 @@
+{
+  "id": "1777",
+  "title": "Enfermedades de la vejiga",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Infórmese sobre las condiciones que pueden afectar a la vejiga como la cistitis, incontinencia, cáncer, cálculos, etc. Síntomas y tratamientos aquí.",
+  "summary": "La vejiga es un órgano hueco en la parte inferior del abdomen donde se almacena la orina. Hay muchas afecciones que pueden afectar la función de la vejiga. Entre los más comunes se encuentran: Cistitis: una inflamación de la vejiga, en general, causada por una infección Incontinencia urinaria : pérdida del control de la vejiga Vejiga hiperactiva : una afección que causa que la vejiga expulse orina cuando no tiene que hacerlo Cistitis intersticial : un problema crónico que causa dolor en la vejiga y urgencia de orinar Cáncer de vejiga Los médicos diagnostican las enfermedades de la vejiga mediante distintas pruebas. Estas incluyen análisis de orina , radiografías y exámenes de la pared de la vejiga con un instrumento llamado cistoscopio. El tratamiento depende de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Enfermedades vesicales"
+  ],
+  "groups": [
+    "Riñones y sistema urinario"
+  ],
+  "related_topics": [
+    {
+      "title": "Cistitis intersticial",
+      "url": "https://medlineplus.gov/spanish/interstitialcystitis.html",
+      "id": "1982"
+    },
+    {
+      "title": "Cáncer de vejiga",
+      "url": "https://medlineplus.gov/spanish/bladdercancer.html",
+      "id": "1776"
+    },
+    {
+      "title": "Incontinencia urinaria",
+      "url": "https://medlineplus.gov/spanish/urinaryincontinence.html",
+      "id": "2211"
+    },
+    {
+      "title": "Infecciones de las vías urinarias",
+      "url": "https://medlineplus.gov/spanish/urinarytractinfections.html",
+      "id": "2212"
+    },
+    {
+      "title": "Orina y micción",
+      "url": "https://medlineplus.gov/spanish/urineandurination.html",
+      "id": "4890"
+    },
+    {
+      "title": "Problemas del piso pélvico",
+      "url": "https://medlineplus.gov/spanish/pelvicfloordisorders.html",
+      "id": "2264"
+    },
+    {
+      "title": "Trastornos de la uretra",
+      "url": "https://medlineplus.gov/spanish/urethraldisorders.html",
+      "id": "5353"
+    },
+    {
+      "title": "Trastornos del uréter",
+      "url": "https://medlineplus.gov/spanish/ureteraldisorders.html",
+      "id": "5351"
+    },
+    {
+      "title": "Vejiga hiperactiva",
+      "url": "https://medlineplus.gov/spanish/overactivebladder.html",
+      "id": "6133"
+    }
+  ],
+  "see_references": [
+    "Cálculos en la vejiga",
+    "Vejiga neurogénica",
+    "Vejiga, Enfermedades de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bladderdiseases.html"
+}

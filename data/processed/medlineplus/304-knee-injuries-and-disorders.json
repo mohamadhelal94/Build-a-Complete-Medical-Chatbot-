@@ -1,0 +1,51 @@
+{
+  "id": "304",
+  "title": "Knee Injuries and Disorders",
+  "language": "English",
+  "date_created": "06/28/1999",
+  "meta_description": "Knee injuries and knee disorders can cause pain, swelling and stiffness. Knee problems can be affected by rheumatic diseases and cartilage damage.",
+  "summary": "Your knee joint is made up of bone, cartilage, ligaments and fluid. Muscles and tendons help the knee joint move. When any of these structures is hurt or diseased, you have knee problems. Knee problems can cause pain and difficulty walking. Knee problems are very common, and they occur in people of all ages. Knee problems can interfere with many things, from participation in sports to simply getting up from a chair and walking. This can have a big impact on your life. The most common disease affecting the knee is osteoarthritis . The cartilage in the knee gradually wears away, causing pain and swelling. Injuries to ligaments and tendons also cause knee problems. A common injury is to the anterior cruciate ligament (ACL). You usually injure your ACL by a sudden twisting motion. ACL and other knee injuries are common sports injuries . Treatment of knee problems depends on the cause. In some cases your doctor may recommend knee replacement . NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Knee Replacement",
+      "url": "https://medlineplus.gov/kneereplacement.html",
+      "id": "3924"
+    },
+    {
+      "title": "Leg Injuries and Disorders",
+      "url": "https://medlineplus.gov/leginjuriesanddisorders.html",
+      "id": "509"
+    }
+  ],
+  "see_references": [
+    "ACL Injuries",
+    "Anterior Cruciate Ligament Injury",
+    "Baker's Cyst",
+    "Chondromalacia Patellae",
+    "Meniscus",
+    "Patella"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Anterior Cruciate Ligament Reconstruction",
+      "id": "D059549"
+    },
+    {
+      "name": "Knee Injuries",
+      "id": "D007718"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/kneeinjuriesanddisorders.html"
+}

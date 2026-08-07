@@ -1,0 +1,45 @@
+{
+  "id": "4484",
+  "title": "Family History",
+  "language": "English",
+  "date_created": "06/14/2007",
+  "meta_description": "Your family history should be more than making a family tree. It also includes learning about your family's health. Learn more.",
+  "summary": "Your family history includes health information about you and your close relatives. Families have many factors in common, including their genes, environment, and lifestyle. Looking at these factors can help you figure out whether you have a higher risk for certain health problems, such as heart disease, stroke, and cancer. Having a family member with a disease raises your risk, but it does not mean that you will definitely get it. Knowing that you are at risk gives you a chance to reduce that risk by following a healthier lifestyle and getting tested as needed. You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical records and death certificates is also helpful. Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Genetics/Birth Defects",
+    "Wellness and Lifestyle"
+  ],
+  "related_topics": [
+    {
+      "title": "Genetic Counseling",
+      "url": "https://medlineplus.gov/geneticcounseling.html",
+      "id": "3811"
+    },
+    {
+      "title": "Genetic Testing",
+      "url": "https://medlineplus.gov/genetictesting.html",
+      "id": "262"
+    },
+    {
+      "title": "Healthy Living",
+      "url": "https://medlineplus.gov/healthyliving.html",
+      "id": "1597"
+    },
+    {
+      "title": "Personal Health Records",
+      "url": "https://medlineplus.gov/personalhealthrecords.html",
+      "id": "3892"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Medical History Taking",
+      "id": "D008487"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/familyhistory.html"
+}

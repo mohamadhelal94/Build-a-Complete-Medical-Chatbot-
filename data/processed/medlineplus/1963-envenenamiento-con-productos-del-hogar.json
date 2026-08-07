@@ -1,0 +1,57 @@
+{
+  "id": "1963",
+  "title": "Envenenamiento con productos del hogar",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los productos que se encuentran en el hogar para muchos usos domésticos pueden contener ingredientes que pueden dañar su salud y la del medio ambiente.",
+  "summary": "Los productos que utiliza para la limpieza, carpintería, reparación de automóviles, jardinería y muchos otros usos domésticos pueden contener ingredientes que pueden dañar su salud, la de su familia y el medio ambiente. Éstos incluyen: Limpiadores de hornos y de drenaje Productos de limpieza y desinfección , incluyendo cloro y limpiadores antibacterianos Detergente en polvo Ceras para el piso Disolventes, decapantes y removedores de pintura Pesticidas Removedores de grasa y óxido Aceite de motor y aditivos de combustible Materiales para el arte y manualidades Las sustancias tóxicas en estos productos pueden causar daño si se inhalan, se ingieren o absorben a través de la piel. La gente es afectada por sustancias tóxicas en diferentes maneras. Altas dosis de una sustancia tóxica pueden causar defectos de nacimiento u otros problemas graves, como daño cerebral o la muerte. Para evitar problemas, mantenga los productos en sus contenedores originales y utilícelos como lo indica la etiqueta. Siga las instrucciones de la etiqueta o busque ayuda médica si usted los traga, inhala o su piel absorbe estos productos. Agencia de Protección Ambiental",
+  "synonyms": [
+    "Intoxicación con productos en el hogar",
+    "Venenos en el hogar"
+  ],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Contaminación de interiores",
+      "url": "https://medlineplus.gov/spanish/indoorairpollution.html",
+      "id": "1973"
+    },
+    {
+      "title": "Envenenamiento",
+      "url": "https://medlineplus.gov/spanish/poisoning.html",
+      "id": "2095"
+    },
+    {
+      "title": "Limpieza, sanitización y desinfección",
+      "url": "https://medlineplus.gov/spanish/cleaningdisinfectingandsanitizing.html",
+      "id": "7608"
+    },
+    {
+      "title": "Pesticidas",
+      "url": "https://medlineplus.gov/spanish/pesticides.html",
+      "id": "2085"
+    },
+    {
+      "title": "Seguridad del niño",
+      "url": "https://medlineplus.gov/spanish/childsafety.html",
+      "id": "1813"
+    }
+  ],
+  "see_references": [
+    "Productos en el hogar",
+    "Productos para la limpieza",
+    "Venenos en el hogar"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de las Ciencias de Salud Ambiental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIEHS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/householdproducts.html"
+}

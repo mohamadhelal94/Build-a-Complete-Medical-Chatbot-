@@ -1,0 +1,30 @@
+{
+  "id": "4453",
+  "title": "Ictericia",
+  "language": "Spanish",
+  "date_created": "05/10/2007",
+  "meta_description": "La ictericia es una coloración amarillenta de la piel o de los ojos causada por un exceso de bilirrubina en el cuerpo. Síntomas y tratamientos aquí.",
+  "summary": "La ictericia hace que la piel y las partes blancas de los ojos se pongan amarillas. El exceso de bilirrubina causa la ictericia. La bilirrubina es una sustancia química color amarillo que contiene la hemoglobina, sustancia que transporta el oxígeno en los glóbulos rojos. A medida que los glóbulos rojos se degradan, el cuerpo desarrolla nuevas células para sustituirlos. Las células degradadas se procesan en el hígado. Si el hígado no puede manejar las células sanguíneas a medida que se degradan, se acumula bilirrubina en el organismo y la piel puede verse amarilla. Muchos bebés sanos tienen un poco de ictericia en la primera semana de vida. Por lo general, desaparece espontáneamente. Sin embargo, la ictericia puede ocurrir a cualquier edad y ser un signo de que existe un problema. La ictericia puede presentarse por varios motivos, tales como: Enfermedades de la sangre Síndromes genéticos Enfermedades hepáticas, tales como la hepatitis o la cirrosis Obstrucción de los conductos biliares Infecciones Medicamentos",
+  "synonyms": [],
+  "groups": [
+    "Sistema digestivo",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del hígado",
+      "url": "https://medlineplus.gov/spanish/liverdiseases.html",
+      "id": "2009"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/jaundice.html"
+}

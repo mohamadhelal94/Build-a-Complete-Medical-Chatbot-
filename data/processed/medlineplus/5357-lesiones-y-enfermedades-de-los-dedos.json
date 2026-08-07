@@ -1,0 +1,42 @@
+{
+  "id": "5357",
+  "title": "Lesiones y enfermedades de los dedos",
+  "language": "Spanish",
+  "date_created": "04/21/2010",
+  "meta_description": "¿Se machucó el dedo por accidente? Es difícil regresar a sus quehaceres diarios. Entérese sobre las lesiones y trastornos de los dedos aquí.",
+  "summary": "Usted utiliza sus dedos y pulgares para hacer de todo, desde tomar objetos y tocar instrumentos hasta escribir en la computadora. Cuando no funcionan bien, puede hacerle la vida difícil. Los problemas más comunes incluyen: Lesiones que producen fracturas ruptura de ligamentos y luxaciones Osteoartritis : desgaste que también puede causar deformidad Tendinitis : irritación de los tendones Contractura de Dupuytren: una afección hereditaria que produce un engrosamiento del tejido por debajo de la piel de su mano, lo que causa contractura y curvatura en sus dedos Dedo en gatillo: una irritación del revestimiento de los tendones flexores, lo que a veces causa que el tendón se flexione en forma de gatillo",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de las uñas",
+      "url": "https://medlineplus.gov/spanish/naildiseases.html",
+      "id": "2046"
+    },
+    {
+      "title": "Fenómeno de Raynaud",
+      "url": "https://medlineplus.gov/spanish/raynaudphenomenon.html",
+      "id": "2120"
+    },
+    {
+      "title": "Lesiones y enfermedades de la mano",
+      "url": "https://medlineplus.gov/spanish/handinjuriesanddisorders.html",
+      "id": "2239"
+    }
+  ],
+  "see_references": [
+    "Dedos, Lesiones y enfermedades de los"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/fingerinjuriesanddisorders.html"
+}

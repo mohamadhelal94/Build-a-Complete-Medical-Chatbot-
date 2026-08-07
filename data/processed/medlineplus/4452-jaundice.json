@@ -1,0 +1,40 @@
+{
+  "id": "4452",
+  "title": "Jaundice",
+  "language": "English",
+  "date_created": "10/16/2006",
+  "meta_description": "Jaundice is a yellow coloring of the skin or eyes caused by too much bilirubin in the body. Jaundice can happen for many reasons. Learn about it here.",
+  "summary": "Jaundice causes your skin and the whites of your eyes to turn yellow. Too much bilirubin causes jaundice. Bilirubin is a yellow chemical in hemoglobin, the substance that carries oxygen in your red blood cells. As red blood cells break down, your body builds new cells to replace them. The old ones are processed by the liver. If the liver cannot handle the blood cells as they break down, bilirubin builds up in the body and your skin may look yellow. Many healthy babies have some jaundice during the first week of life. It usually goes away. However, jaundice can happen at any age and may be a sign of a problem. Jaundice can happen for many reasons, such as: Blood diseases Genetic syndromes Liver diseases, such as hepatitis or cirrhosis Blockage of bile ducts Infections Medicines",
+  "synonyms": [
+    "Icterus"
+  ],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Liver Diseases",
+      "url": "https://medlineplus.gov/liverdiseases.html",
+      "id": "310"
+    }
+  ],
+  "see_references": [
+    "Icterus",
+    "Kernicterus"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hyperbilirubinemia",
+      "id": "D006932"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/jaundice.html"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3186",
+  "title": "Financial Assistance",
+  "language": "English",
+  "date_created": "03/31/2003",
+  "meta_description": "Sometimes we may need help with our medical bills or health insurance premiums. Find out about financial assistance available to you.",
+  "summary": "Health care can be costly. If you have health insurance , it usually pays at least part of your medical costs. If you don't have insurance or need help with costs that aren't covered, financial assistance might be available. Certain government programs and nonprofit organizations can help. You can also discuss concerns about paying your medical bills with your health care provider, social worker or the business office of your clinic or hospital.",
+  "synonyms": [],
+  "groups": [
+    "Social/Family Issues",
+    "Health System"
+  ],
+  "related_topics": [
+    {
+      "title": "Health Insurance",
+      "url": "https://medlineplus.gov/healthinsurance.html",
+      "id": "274"
+    },
+    {
+      "title": "Medicaid",
+      "url": "https://medlineplus.gov/medicaid.html",
+      "id": "1453"
+    },
+    {
+      "title": "Medicare",
+      "url": "https://medlineplus.gov/medicare.html",
+      "id": "1257"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Medical Assistance",
+      "id": "D008483"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/financialassistance.html"
+}

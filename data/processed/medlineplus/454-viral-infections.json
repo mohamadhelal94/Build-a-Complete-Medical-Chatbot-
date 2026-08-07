@@ -1,0 +1,207 @@
+{
+  "id": "454",
+  "title": "Viral Infections",
+  "language": "English",
+  "date_created": "10/01/1999",
+  "meta_description": "Viruses cause familiar infections such as the common cold, but they also cause severe illnesses. Learn more about viral infections and their symptoms.",
+  "summary": "What are viruses? Viruses are very tiny germs. They are made of genetic material (either DNA or RNA) inside of a protein coating. There are a huge number of viruses on earth. Only a small number of them can infect humans. Those viruses can infect our cells, which may cause disease. Some of the diseases that viruses can cause include the common cold , the flu , COVID-19 , and HIV . How are viruses spread? Viruses can be spread in different ways: Through droplets and particles that are breathed out by someone who has the infection. You might breathe in the droplets or particles, or they could land on your mouth, nose, or eyes. By touching surfaces or objects that have the virus on them and then touching your mouth, nose, or eyes. From the pregnant parent to the baby during pregnancy . Through contaminated food or water . By being bitten by an infected insect or animal. Through sexual contact (usually vaginal, anal and oral sex) with someone who has the infection. How do viruses cause disease? Viruses are like hijackers. They invade living, normal cells. They then use those cells to multiply (make copies of themselves). This process is also called replication. The process can kill, damage, or change the infected cells. Sometimes this can make you sick. The symptoms can range from mild to very severe. Other times, your immune system may be able to fight it off and you may not have any symptoms. Each different virus usually only infects one type of cell in your body. For example, hepatitis viruses affect the cells in the liver. HIV infects a certain type of immune system cell. What are the treatments for viral infections? For most viral infections, treatments can only help with symptoms while you wait for your immune system to fight off the virus. There are antiviral medicines to treat some viral infections. Antibiotics do not work for viral infections. Can viral infections be prevented? Vaccines can help prevent you from getting many viral diseases. You may be able to prevent some viral infections by: Proper hand washing . Paying attention to food safety . Cleaning surfaces that may be infected with germs. Avoiding contact with wild animals. Preventing insect bites by using insect repellent when you go outdoors. If you travel to an area that has a high risk of diseases from insect bites, also wear long pants, shirts, and socks. Practicing safe sex (using a condom every time you have anal, vaginal, or oral sex). Avoiding close contact with people who are sick.",
+  "synonyms": [],
+  "groups": [
+    "Infections",
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Acute Flaccid Myelitis",
+      "url": "https://medlineplus.gov/acuteflaccidmyelitis.html",
+      "id": "7207"
+    },
+    {
+      "title": "Chickenpox",
+      "url": "https://medlineplus.gov/chickenpox.html",
+      "id": "182"
+    },
+    {
+      "title": "Chikungunya",
+      "url": "https://medlineplus.gov/chikungunya.html",
+      "id": "6345"
+    },
+    {
+      "title": "Common Cold",
+      "url": "https://medlineplus.gov/commoncold.html",
+      "id": "196"
+    },
+    {
+      "title": "COVID-19 (Coronavirus Disease 2019)",
+      "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+      "id": "3181"
+    },
+    {
+      "title": "Croup",
+      "url": "https://medlineplus.gov/croup.html",
+      "id": "6292"
+    },
+    {
+      "title": "Cytomegalovirus Infections",
+      "url": "https://medlineplus.gov/cytomegalovirusinfections.html",
+      "id": "3980"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/dengue.html",
+      "id": "3104"
+    },
+    {
+      "title": "Ebola",
+      "url": "https://medlineplus.gov/ebola.html",
+      "id": "6202"
+    },
+    {
+      "title": "Fifth Disease",
+      "url": "https://medlineplus.gov/fifthdisease.html",
+      "id": "1609"
+    },
+    {
+      "title": "Flu",
+      "url": "https://medlineplus.gov/flu.html",
+      "id": "299"
+    },
+    {
+      "title": "Hantavirus Infections",
+      "url": "https://medlineplus.gov/hantavirusinfections.html",
+      "id": "3217"
+    },
+    {
+      "title": "Hemorrhagic Fevers",
+      "url": "https://medlineplus.gov/hemorrhagicfevers.html",
+      "id": "1652"
+    },
+    {
+      "title": "Hepatitis A",
+      "url": "https://medlineplus.gov/hepatitisa.html",
+      "id": "1686"
+    },
+    {
+      "title": "Hepatitis B",
+      "url": "https://medlineplus.gov/hepatitisb.html",
+      "id": "1687"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/hepatitisc.html",
+      "id": "1286"
+    },
+    {
+      "title": "Herpes Simplex",
+      "url": "https://medlineplus.gov/herpessimplex.html",
+      "id": "286"
+    },
+    {
+      "title": "HIV",
+      "url": "https://medlineplus.gov/hiv.html",
+      "id": "1"
+    },
+    {
+      "title": "HPV",
+      "url": "https://medlineplus.gov/hpv.html",
+      "id": "1715"
+    },
+    {
+      "title": "Infectious Mononucleosis",
+      "url": "https://medlineplus.gov/infectiousmononucleosis.html",
+      "id": "298"
+    },
+    {
+      "title": "Measles",
+      "url": "https://medlineplus.gov/measles.html",
+      "id": "318"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/mpox.html",
+      "id": "3229"
+    },
+    {
+      "title": "Mumps",
+      "url": "https://medlineplus.gov/mumps.html",
+      "id": "334"
+    },
+    {
+      "title": "Norovirus Infections",
+      "url": "https://medlineplus.gov/norovirusinfections.html",
+      "id": "6103"
+    },
+    {
+      "title": "Polio and Post-Polio Syndrome",
+      "url": "https://medlineplus.gov/polioandpostpoliosyndrome.html",
+      "id": "365"
+    },
+    {
+      "title": "Rabies",
+      "url": "https://medlineplus.gov/rabies.html",
+      "id": "523"
+    },
+    {
+      "title": "Respiratory Syncytial Virus Infections",
+      "url": "https://medlineplus.gov/respiratorysyncytialvirusinfections.html",
+      "id": "3101"
+    },
+    {
+      "title": "Rotavirus Infections",
+      "url": "https://medlineplus.gov/rotavirusinfections.html",
+      "id": "3215"
+    },
+    {
+      "title": "Rubella",
+      "url": "https://medlineplus.gov/rubella.html",
+      "id": "387"
+    },
+    {
+      "title": "Shingles",
+      "url": "https://medlineplus.gov/shingles.html",
+      "id": "90"
+    },
+    {
+      "title": "Vaccines",
+      "url": "https://medlineplus.gov/vaccines.html",
+      "id": "294"
+    },
+    {
+      "title": "Warts",
+      "url": "https://medlineplus.gov/warts.html",
+      "id": "459"
+    },
+    {
+      "title": "West Nile Virus",
+      "url": "https://medlineplus.gov/westnilevirus.html",
+      "id": "1377"
+    },
+    {
+      "title": "Zika Virus",
+      "url": "https://medlineplus.gov/zikavirus.html",
+      "id": "6342"
+    }
+  ],
+  "see_references": [
+    "Adenovirus Infections",
+    "Coxsackievirus Infections",
+    "Enterovirus",
+    "Hand, Foot, and Mouth Disease",
+    "Infections, Viral",
+    "Roseola"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Virus Diseases",
+      "id": "D014777"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/viralinfections.html"
+}

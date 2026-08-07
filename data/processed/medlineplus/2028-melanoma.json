@@ -1,0 +1,32 @@
+{
+  "id": "2028",
+  "title": "Melanoma",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El melanoma es el tipo más grave de cáncer de piel. Entérese sobre los signos de advertencia de los cambios en la piel y las opciones de tratamiento.",
+  "summary": "El melanoma es el tipo más serio de cáncer de piel . Con frecuencia el primer signo de un melanoma es un cambio de tamaño, forma, color o textura de un lunar. La mayoría de los melanomas tienen un área negra o negra azulada. El melanoma también puede aparecer como un lunar nuevo. Puede ser negro, anormal o \"de aspecto desagradable.\" Pensar en el \"ABCDE\" puede ayudarlo a recordar lo que debe vigilar: Asimetría: el contorno de una mitad no es igual al otro Bordes: los bordes son desiguales, borrosos o irregulares Color: el color es disparejo y puede incluir tonalidades negras, cafés y canela Diámetro: hay cambios en el tamaño, generalmente se vuelven más grandes. Evolución: cualquier cambio en el lunar en las últimas semanas o meses La cirugía es el primer tratamiento para todos los diferentes estadios del melanoma. Otros tratamientos incluyen quimioterapia y radiación, terapia biológica y terapia dirigida. La terapia biológica aumenta la propia capacidad del cuerpo para combatir el cáncer. La terapia dirigida usa medicamentos u otras sustancias para combatir células cancerosas específicas y que causan menos daños a las células normales. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [],
+  "groups": [
+    "Cánceres",
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de piel",
+      "url": "https://medlineplus.gov/spanish/skincancer.html",
+      "id": "2149"
+    }
+  ],
+  "see_references": [
+    "Melanoma intraocular"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/melanoma.html"
+}

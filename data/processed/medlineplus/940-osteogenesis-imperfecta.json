@@ -1,0 +1,43 @@
+{
+  "id": "940",
+  "title": "Osteogenesis Imperfecta",
+  "language": "English",
+  "date_created": "11/17/1999",
+  "meta_description": "Osteogenesis imperfecta (OI) is a genetic disorder in which bones break easily. Find out diagnosis, treatments, and living with OI.",
+  "summary": "Osteogenesis imperfecta (OI) is a genetic disorder in which bones fracture (break) easily. Sometimes the fractures happen for no known reason. OI can also cause weak muscles, brittle teeth, a curved spine, and hearing loss. OI is caused by one of several genes that aren't working properly. When these genes don't work, it affects how you make collagen, a protein that helps make bones strong. OI can range from mild to severe, and symptoms vary from person to person. A person may have just a few or as many as several hundred fractures in a lifetime. There is no specific test for OI. Your doctor uses your medical and family history, physical exam, and imaging and lab tests to diagnose it. Your doctor may also test your collagen (from skin) or genes (from blood). There is no cure, but you can manage symptoms. Treatments include exercise, pain medicine, physical therapy, wheelchairs, braces, and surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [
+    "Brittle bone disease",
+    "OI"
+  ],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Bone Diseases",
+      "url": "https://medlineplus.gov/bonediseases.html",
+      "id": "170"
+    },
+    {
+      "title": "Connective Tissue Disorders",
+      "url": "https://medlineplus.gov/connectivetissuedisorders.html",
+      "id": "1411"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Osteogenesis Imperfecta",
+      "id": "D010013"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/osteogenesisimperfecta.html"
+}

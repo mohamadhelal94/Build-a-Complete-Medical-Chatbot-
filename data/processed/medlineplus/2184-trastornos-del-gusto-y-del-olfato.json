@@ -1,0 +1,41 @@
+{
+  "id": "2184",
+  "title": "Trastornos del gusto y del olfato",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las personas con trastornos del gusto o del olfato tienen problemas con ambos sentidos. Pueden tener muchas causas, como resfríos o lesiones en la cabeza.",
+  "summary": "Los sentidos del gusto y el olfato nos brindan gran placer. El gusto nos ayuda a disfrutar de las comidas y las bebidas. El olfato nos permite disfrutar las esencias y fragancias, como las rosas o el café. El gusto y el olfato también nos protegen, informándonos cuando una comida está en mal estado o cuando hay una fuga de gas. Nos hacen desear comer, asegurándonos que obtengamos la nutrición necesaria. Las personas con trastornos del gusto pueden sentir sabores que no existen, no diferenciar los sabores o no percibir ningún sabor. Las personas con trastornos del olfato pueden perder el sentido del olfato o sentir olores distintos en algunas cosas. Un olor que antes resultaba agradable puede convertirse en desagradable. Muchas enfermedades y lesiones pueden provocar trastornos del gusto y del olfato, inclusive los resfríos y los traumatismos en la cabeza. Algunos medicamentos también pueden afectar el gusto y el olfato. La mayoría de las personas pierde parte de su capacidad de oler y saborear a medida que envejece. El tratamiento varía, dependiendo del problema y su causa. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [
+    "Problemas para degustar y oler"
+  ],
+  "groups": [
+    "Personas mayores",
+    "Oído, nariz y garganta",
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de la boca",
+      "url": "https://medlineplus.gov/spanish/mouthdisorders.html",
+      "id": "2240"
+    },
+    {
+      "title": "Lesiones y enfermedades de la nariz",
+      "url": "https://medlineplus.gov/spanish/noseinjuriesanddisorders.html",
+      "id": "2056"
+    }
+  ],
+  "see_references": [
+    "Gusto, Trastornos",
+    "Olfato, Trastornos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/tasteandsmelldisorders.html"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "1849",
+  "title": "Sarpullido",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Un sarpullido es un área en la piel que está irritada o inflamada. Muchos sarpullidos son rojos, dolorosos y pican. Tipos, causas y tratamientos.",
+  "summary": "Un sarpullido es un área en la piel que está irritada o inflamada. Muchos sarpullidos son rojos, dolorosos, irritados y pican. Algunos sarpullidos también pueden conducir a ampollas o partes de piel en carne viva. El sarpullido es un síntoma de muchos cuadros clínicos diferentes. Otras causas incluyen sustancias irritantes y alergias. Ciertos genes pueden hacer a las personas más propensas a estas erupciones. La dermatitis por contacto es un tipo común de sarpullido. Causa enrojecimiento, picazón y en ocasiones pequeñas protuberancias. Usted presenta la erupción tras haber tocado un irritante, como un producto químico, o algo a lo que usted es alérgico, como la hiedra venenosa . Algunos sarpullidos se desarrollan inmediatamente. Otros se forman en el transcurso de varios días. Aunque la mayoría de los sarpullidos desaparecen en forma rápida, otros toman tiempo y necesitan tratamiento de largo plazo. Debido a que los sarpullidos tienen muchas causas, es importante averiguar el tipo que usted tiene antes de tratarlo. Si es un sarpullido serio, si no mejora o si presenta otros síntomas, debe ver a su proveedor de salud. Los tratamientos incluyen humectantes, lociones, baños, cremas con cortisona que alivian la inflamación y antihistamínicos, los cuales alivian la picazón.",
+  "synonyms": [
+    "Dermatitis",
+    "Erupción en la piel"
+  ],
+  "groups": [
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia",
+      "url": "https://medlineplus.gov/spanish/allergy.html",
+      "id": "1734"
+    },
+    {
+      "title": "Alergia al látex",
+      "url": "https://medlineplus.gov/spanish/latexallergy.html",
+      "id": "1999"
+    },
+    {
+      "title": "Eccema",
+      "url": "https://medlineplus.gov/spanish/eczema.html",
+      "id": "1878"
+    },
+    {
+      "title": "Enfermedades de la piel",
+      "url": "https://medlineplus.gov/spanish/skinconditions.html",
+      "id": "2150"
+    },
+    {
+      "title": "Hiedra, roble y zumaque venenosos",
+      "url": "https://medlineplus.gov/spanish/poisonivyoakandsumac.html",
+      "id": "3879"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/rashes.html"
+}

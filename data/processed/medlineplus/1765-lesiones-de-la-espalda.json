@@ -1,0 +1,37 @@
+{
+  "id": "1765",
+  "title": "Lesiones de la espalda",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las lesiones de la espalda más comunes son distenciones y torceduras, discos herniados y fractura de vértebras. Entérese sobre tratamientos y más aquí.",
+  "summary": "La espalda está compuesta de huesos, músculos y otros tejidos que se extienden desde el cuello hasta la pelvis. Las lesiones en la espalda pueden ser provocadas por el deporte, trabajos en la casa o en el jardín o una sacudida repentina, como en un accidente de tránsito. La parte baja de la espalda es el sitio donde más comúnmente ocurren las lesiones y el dolor de espalda . Algunas de las lesiones de espalda más comunes son: Torceduras y distensiones o esguinces Hernias de disco Vértebras fracturadas (rotas) Estas lesiones pueden causar dolor y limitar los movimientos. Los tratamientos varían, pero pueden incluir medicamentos, frío, reposo en cama, fisioterapia o cirugía. Se pueden evitar algunas lesiones de espalda manteniendo un peso saludable, utilizando el apoyo de las piernas cuando levanta objetos y usando un soporte para la parte baja de la espalda al sentarse.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Dolor de espalda",
+      "url": "https://medlineplus.gov/spanish/backpain.html",
+      "id": "1766"
+    },
+    {
+      "title": "Hernia de disco",
+      "url": "https://medlineplus.gov/spanish/herniateddisk.html",
+      "id": "2153"
+    }
+  ],
+  "see_references": [
+    "Espalda, Lesiones de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/backinjuries.html"
+}

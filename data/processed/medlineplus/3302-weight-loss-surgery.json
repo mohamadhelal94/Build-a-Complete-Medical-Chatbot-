@@ -1,0 +1,60 @@
+{
+  "id": "3302",
+  "title": "Weight Loss Surgery",
+  "language": "English",
+  "date_created": "06/26/2003",
+  "meta_description": "Is weight loss surgery for you? Learn about types of surgery including bariatric surgery, bypass surgery, gastric banding, and more.",
+  "summary": "Weight loss surgery helps people with extreme obesity to lose weight. It may be an option if you cannot lose weight through diet and exercise or have serious health problems caused by obesity. There are different types of weight loss surgery. They often limit the amount of food you can take in. Some types of surgery also affect how you digest food and absorb nutrients. All types have risks and complications, such as infections, hernias, and blood clots. Many people who have the surgery lose weight quickly, but regain some weight later on. If you follow diet and exercise recommendations, you can keep most of the weight off. You will also need medical follow-up for the rest of your life. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Bariatric surgery",
+    "Bypass surgery",
+    "Gastric banding",
+    "Obesity surgery"
+  ],
+  "groups": [
+    "Digestive System",
+    "Surgery and Rehabilitation",
+    "Metabolic Problems"
+  ],
+  "related_topics": [
+    {
+      "title": "Obesity",
+      "url": "https://medlineplus.gov/obesity.html",
+      "id": "61"
+    },
+    {
+      "title": "Weight Control",
+      "url": "https://medlineplus.gov/weightcontrol.html",
+      "id": "480"
+    }
+  ],
+  "see_references": [
+    "Bariatric Surgery",
+    "Gastric Bypass",
+    "Gastroplasty",
+    "Obesity Surgery",
+    "Stomach Stapling"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Bariatric Surgery",
+      "id": "D050110"
+    },
+    {
+      "name": "Obesity",
+      "id": "D009765"
+    },
+    {
+      "name": "Obesity, Morbid",
+      "id": "D009767"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/weightlosssurgery.html"
+}

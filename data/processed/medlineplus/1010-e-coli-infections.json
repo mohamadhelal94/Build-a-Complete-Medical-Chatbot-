@@ -1,0 +1,51 @@
+{
+  "id": "1010",
+  "title": "E. coli Infections",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "E. Coli infections are caused by a bacteria. An E. Coli infection can make you feel sick. Learn about E. Coli symptoms, treatment, and more.",
+  "summary": "E. coli is the name of a type of bacteria that lives in your intestines. Most types of E. coli are harmless. However, some types can make you sick and cause diarrhea . One type causes travelers' diarrhea. The worst type of E. coli causes bloody diarrhea, and can sometimes cause kidney failure and even death. These problems are most likely to occur in children and in adults with weak immune systems. You can get E. coli infections by eating foods containing the bacteria. Symptoms of infection include: Nausea or vomiting Severe abdominal cramps Watery or very bloody diarrhea Fatigue Fever To help avoid food poisoning and prevent infection, handle food safely . Cook meat well, wash fruits and vegetables before eating or cooking them, and avoid unpasteurized milk and juices. You can also get the infection by swallowing water in a swimming pool contaminated with human waste. Most cases of E. coli infection get better without treatment in 5 to 10 days.",
+  "synonyms": [
+    "Escherichia coli"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Bacterial Infections",
+      "url": "https://medlineplus.gov/bacterialinfections.html",
+      "id": "158"
+    },
+    {
+      "title": "Diarrhea",
+      "url": "https://medlineplus.gov/diarrhea.html",
+      "id": "211"
+    },
+    {
+      "title": "Food Safety",
+      "url": "https://medlineplus.gov/foodsafety.html",
+      "id": "1434"
+    },
+    {
+      "title": "Foodborne Illness",
+      "url": "https://medlineplus.gov/foodborneillness.html",
+      "id": "254"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Escherichia coli Infections",
+      "id": "D004927"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/ecoliinfections.html"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "3061",
+  "title": "Abdominal Pain",
+  "language": "English",
+  "date_created": "01/07/2003",
+  "meta_description": "Stomach aches can be painful. Find out what might be the cause of your abdominal pain.",
+  "summary": "Your abdomen extends from below your chest to your groin. Some people call it the stomach, but your abdomen contains many other important organs. Pain in the abdomen can come from any one of them. The pain may start somewhere else, such as your chest. Severe pain doesn't always mean a serious problem. Nor does mild pain mean a problem is not serious. Call your health care provider if mild pain lasts a week or more or if you have pain with other symptoms. Get medical help immediately if: You have abdominal pain that is sudden and sharp You also have pain in your chest, neck or shoulder You're vomiting blood or have blood in your stool Your abdomen is stiff, hard and tender to touch You can't move your bowels, especially if you're also vomiting",
+  "synonyms": [
+    "Bellyache"
+  ],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Indigestion",
+      "url": "https://medlineplus.gov/indigestion.html",
+      "id": "4293"
+    },
+    {
+      "title": "Pain",
+      "url": "https://medlineplus.gov/pain.html",
+      "id": "351"
+    },
+    {
+      "title": "Pelvic Pain",
+      "url": "https://medlineplus.gov/pelvicpain.html",
+      "id": "4486"
+    }
+  ],
+  "see_references": [
+    "Bellyache",
+    "Pain, Abdominal",
+    "Stomach Ache"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Abdominal Pain",
+      "id": "D015746"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/abdominalpain.html"
+}

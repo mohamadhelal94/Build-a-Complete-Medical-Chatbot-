@@ -1,0 +1,44 @@
+{
+  "id": "1944",
+  "title": "Trasplante de corazón",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El trasplante de corazón es una cirugía para reemplazar un corazón dañado por uno sano de un donante. Entérese sobre el procedimiento y sus riesgos.",
+  "summary": "Durante el trasplante de corazón se extrae un corazón lesionado o enfermo y se reemplaza con uno sano. El corazón sano proviene de un donante que falleció. Es el último recurso de las personas con insuficiencia cardíaca cuando todos los otros tratamientos han fracasado. La insuficiencia cardíaca pudo haber sido causada por la enfermedad coronaria, válvulas o músculos cardíacos dañados, defectos congénitos (de nacimiento) o infecciones virales del corazón. Aunque la cirugía de trasplante es un procedimiento que puede salvar vidas, tiene muchos riesgos. La observación, tratamiento y cuidado médico regular pueden prevenir o manejar estos riesgos. Luego de la cirugía, la mayoría de pacientes trasplantados pueden volver a sus actividades normales. Sin embargo, por diversas razones, menos del 30% de ellos vuelve a trabajar. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Trasplante cardíaco"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación",
+    "Transplantes y donaciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Fallo cardíaco",
+      "url": "https://medlineplus.gov/spanish/heartfailure.html",
+      "id": "1943"
+    },
+    {
+      "title": "Rehabilitación cardíaca",
+      "url": "https://medlineplus.gov/spanish/cardiacrehabilitation.html",
+      "id": "5618"
+    },
+    {
+      "title": "Trasplante de órganos",
+      "url": "https://medlineplus.gov/spanish/organtransplantation.html",
+      "id": "2064"
+    }
+  ],
+  "see_references": [
+    "Corazón, Trasplante de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hearttransplantation.html"
+}

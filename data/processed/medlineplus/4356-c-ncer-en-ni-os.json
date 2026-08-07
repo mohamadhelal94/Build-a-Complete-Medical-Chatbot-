@@ -1,0 +1,50 @@
+{
+  "id": "4356",
+  "title": "Cáncer en niños",
+  "language": "Spanish",
+  "date_created": "11/06/2006",
+  "meta_description": "Los niños pueden tener cáncer en las mismas partes del cuerpo que los adultos, pero existen diferencias. Entérese sobre el cáncer infantil.",
+  "summary": "El cáncer es un grupo de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo comienzan a dividirse sin detenerse, extendiéndose a los tejidos cercanos. En general, se forman nuevas células a medida que se necesitan, reemplazando las células viejas que mueren. A veces, este proceso no resulta como se espera. Se forman nuevas células cuando no las necesita, y las células viejas no mueren cuando deberían. Las células adicionales pueden formar un tumor. Los tumores pueden ser benignos o malignos. Los tumores benignos no son cancerosos. Los tumores malignos son cáncer, y las células cancerosas pueden invadir tejidos cercanos. También pueden separarse y extenderse a otras partes del cuerpo. Los niños pueden tener cáncer en las mismas partes del cuerpo que los adultos, pero hay diferencias. El cáncer infantil puede ocurrir repentinamente, sin síntomas tempranos. Frecuentemente, algunos tipos se pueden curar. El cáncer infantil más común es la leucemia . Algunos de los otros tipos comunes de cáncer en niños incluyen tumores cerebrales , linfoma y sarcoma del tejido blando . Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzado que esté. Los tratamientos pueden incluir: Cirugía Radioterapia Quimioterapia Trasplante de células madre Terapia dirigida: Esta usa medicamentos u otras sustancias para combatir células cancerosas específicas con menor daño a las células normales NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Cáncer en la niñez",
+    "Cáncer pediátrico"
+  ],
+  "groups": [
+    "Cánceres",
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Leucemia en niños",
+      "url": "https://medlineplus.gov/spanish/childhoodleukemia.html",
+      "id": "2006"
+    },
+    {
+      "title": "Neuroblastoma",
+      "url": "https://medlineplus.gov/spanish/neuroblastoma.html",
+      "id": "2051"
+    },
+    {
+      "title": "Tumor de Wilms",
+      "url": "https://medlineplus.gov/spanish/wilmstumor.html",
+      "id": "3076"
+    },
+    {
+      "title": "Tumores cerebrales en niños",
+      "url": "https://medlineplus.gov/spanish/childhoodbraintumors.html",
+      "id": "4178"
+    }
+  ],
+  "see_references": [
+    "Chicos, Cáncer en"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cancerinchildren.html"
+}

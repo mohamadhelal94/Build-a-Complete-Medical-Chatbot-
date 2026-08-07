@@ -1,0 +1,34 @@
+{
+  "id": "5758",
+  "title": "Anomalías craneofaciales",
+  "language": "Spanish",
+  "date_created": "01/24/2011",
+  "meta_description": "Las anomalías craneofaciales son defectos de nacimiento de la cara o cabeza, como el labio y paladar leporino.",
+  "summary": "La palabra craneofacial es un término médico que está relacionado con los huesos del cráneo y de la cara. Las anomalías craneofaciales son defectos de nacimiento de la cara o de la cabeza. Algunos defectos, como el labio y paladar leporino , son los más comunes de todos los defectos congénitos. Otros son muy raros. La mayoría de estas anomalías afectan el aspecto de la cara o de la cabeza. Estos problemas pueden afectar otras partes del cuerpo. El tratamiento depende del tipo de problema. La cirugía plástica y reconstructiva puede cambiar la apariencia de una persona.",
+  "synonyms": [
+    "Deformidades de la cara y la cabeza",
+    "Deformidades dentofaciales",
+    "Deformidades faciales"
+  ],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Cerebro y nervios",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Labio leporino y paladar hendido",
+      "url": "https://medlineplus.gov/spanish/cleftlipandpalate.html",
+      "id": "1825"
+    }
+  ],
+  "see_references": [
+    "Deformidades de la cara y la cabeza",
+    "Deformidades dentofaciales",
+    "Deformidades faciales"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/craniofacialabnormalities.html"
+}

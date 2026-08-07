@@ -1,0 +1,68 @@
+{
+  "id": "139",
+  "title": "Anemia",
+  "language": "English",
+  "date_created": "09/02/1999",
+  "meta_description": "Anemia occurs when your blood doesn't carry enough oxygen to the rest of your body. Read about conditions that lead to it and treatments available.",
+  "summary": "If you have anemia, your blood does not carry enough oxygen to the rest of your body. The most common cause of anemia is not having enough iron . Your body needs iron to make hemoglobin. Hemoglobin is an iron-rich protein that gives the red color to blood. It carries oxygen from the lungs to the rest of the body. Anemia has three main causes: blood loss, lack of red blood cell production, and high rates of red blood cell destruction. Conditions that may lead to anemia include: Heavy periods Pregnancy Ulcers Colon polyps or colon cancer Inherited disorders A diet that does not have enough iron, folic acid or vitamin B12 Blood disorders such as sickle cell anemia and thalassemia , or cancer Aplastic anemia , a condition that can be inherited or acquired G6PD deficiency , a metabolic disorder Anemia can make you feel tired, cold, dizzy, and irritable. You may be short of breath or have a headache. Your doctor will diagnose anemia with a physical exam and blood tests. Treatment depends on the kind of anemia you have. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "Iron poor blood"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Aplastic Anemia",
+      "url": "https://medlineplus.gov/aplasticanemia.html",
+      "id": "5955"
+    },
+    {
+      "title": "B Vitamins",
+      "url": "https://medlineplus.gov/bvitamins.html",
+      "id": "5376"
+    },
+    {
+      "title": "Folic Acid",
+      "url": "https://medlineplus.gov/folicacid.html",
+      "id": "1611"
+    },
+    {
+      "title": "G6PD Deficiency",
+      "url": "https://medlineplus.gov/g6pddeficiency.html",
+      "id": "6155"
+    },
+    {
+      "title": "Iron",
+      "url": "https://medlineplus.gov/iron.html",
+      "id": "5542"
+    },
+    {
+      "title": "Sickle Cell Disease",
+      "url": "https://medlineplus.gov/sicklecelldisease.html",
+      "id": "402"
+    },
+    {
+      "title": "Thalassemia",
+      "url": "https://medlineplus.gov/thalassemia.html",
+      "id": "4239"
+    }
+  ],
+  "see_references": [
+    "Iron Deficiency Anemia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Anemia",
+      "id": "D000740"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/anemia.html"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "5432",
+  "title": "Problemas poco comunes de los recién nacidos",
+  "language": "Spanish",
+  "date_created": "05/27/2010",
+  "meta_description": "Entérese sobre los problemas poco comunes de los recién nacidos, como tipos, cuidados en el hogar y tratamientos, entre otras cosas.",
+  "summary": "Asusta ver a su hijo enfermo, sobre todo si no es un problema común como un resfrío o fiebre. Usted quizás no sepa si el problema es serio o cómo tratarlo. Si le preocupa la salud de su bebé, llame a su proveedor de cuidados médicos inmediatamente. Aprender sobre la enfermedad de su bebé puede ayudarlo con su preocupación. No tenga miedo en preguntar sobre el cuidado de su bebé. Al trabajar en conjunto con su médico, usted asegura que su bebé está recibiendo el mejor cuidado posible.",
+  "synonyms": [
+    "Enfermedades no comunes de los bebés",
+    "Problemas de salud poco comunes de los bebés"
+  ],
+  "groups": [
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Chequeo médico del bebé",
+      "url": "https://medlineplus.gov/spanish/babyhealthcheckup.html",
+      "id": "5436"
+    },
+    {
+      "title": "Cuidado del recién nacido y del bebé",
+      "url": "https://medlineplus.gov/spanish/infantandnewborncare.html",
+      "id": "1974"
+    },
+    {
+      "title": "Desarrollo del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewborndevelopment.html",
+      "id": "1975"
+    },
+    {
+      "title": "Nutrición del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewbornnutrition.html",
+      "id": "3751"
+    },
+    {
+      "title": "Problemas comunes de los recién nacidos",
+      "url": "https://medlineplus.gov/spanish/commoninfantandnewbornproblems.html",
+      "id": "5429"
+    },
+    {
+      "title": "Síndrome de muerte infantil súbita",
+      "url": "https://medlineplus.gov/spanish/suddeninfantdeathsyndrome.html",
+      "id": "2177"
+    }
+  ],
+  "see_references": [
+    "Bebés, Problemas de salud poco comunes",
+    "Recién nacido, Problemas poco comunes"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/uncommoninfantandnewbornproblems.html"
+}

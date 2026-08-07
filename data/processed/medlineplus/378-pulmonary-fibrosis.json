@@ -1,0 +1,42 @@
+{
+  "id": "378",
+  "title": "Pulmonary Fibrosis",
+  "language": "English",
+  "date_created": "12/13/1999",
+  "meta_description": "Pulmonary fibrosis (Idiopathic pulmonary fibrosis or IPF) is a condition where the tissue deep in the lungs becomes scarred over time. Find symptoms.",
+  "summary": "Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time. This tissue gets thick and stiff. That makes it hard for you to catch your breath, and your blood may not get enough oxygen. Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease. Interstitial lung disease is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found. This is called idiopathic pulmonary fibrosis. Symptoms include: Shortness of breath A dry, hacking cough that doesn't get better Fatigue Weight loss for no known reason Aching muscles and joints Clubbing, which is the widening and rounding of the tips of the fingers or toes Your doctor may use your medical history, imaging tests, a biopsy, and lung function tests to diagnose pulmonary fibrosis. There is no cure. Treatments can help with symptoms and improve your quality of life. They include medicines, oxygen therapy, pulmonary rehabilitation, or a lung transplant. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "IPF",
+    "Idiopathic pulmonary fibrosis"
+  ],
+  "groups": [
+    "Lungs and Breathing"
+  ],
+  "related_topics": [
+    {
+      "title": "Interstitial Lung Diseases",
+      "url": "https://medlineplus.gov/interstitiallungdiseases.html",
+      "id": "5597"
+    },
+    {
+      "title": "Pulmonary Rehabilitation",
+      "url": "https://medlineplus.gov/pulmonaryrehabilitation.html",
+      "id": "5980"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pulmonary Fibrosis",
+      "id": "D011658"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pulmonaryfibrosis.html"
+}

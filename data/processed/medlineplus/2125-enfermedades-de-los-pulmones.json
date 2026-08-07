@@ -1,0 +1,90 @@
+{
+  "id": "2125",
+  "title": "Enfermedades de los pulmones",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Algunas enfermedades pulmonares son el asma, el EPOC, gripe, neumonía, tuberculosis, cáncer de pulmón y muchos otros. Entérese sobre éstas y más.",
+  "summary": "¿Qué son los pulmones? Los pulmones son un par de órganos ubicados en el pecho. Son los órganos principales del sistema respiratorio y permiten respirar. Los pulmones suministran oxígeno al cuerpo para que las células obtengan el oxígeno que necesitan para vivir y funcionar. También eliminan el dióxido de carbono, un producto de desecho, del cuerpo. ¿Qué son las enfermedades pulmonares? Las enfermedades pulmonares afectan los pulmones e impiden su funcionamiento normal. Estas afecciones pueden alterar su: Función respiratoria (capacidad para respirar) Función pulmonar (qué tan bien funcionan los pulmones) Algunas enfermedades pulmonares son agudas (de corta duración), mientras que otras son crónicas (de larga duración). Las enfermedades pulmonares crónicas suelen desarrollarse lentamente y pueden empeorar con el tiempo. Existen muchos tipos diferentes de enfermedades pulmonares, como: Asma Bronquitis, que puede ser aguda o crónica EPOC Gripe Cáncer de pulmón Neumonía Fibrosis pulmonar Sarcoidosis ¿Qué causa las enfermedades pulmonares? Algunas de las causas de las enfermedades pulmonares incluyen: Infecciones bacterianas , virales y por hongos Fumar tabaco Respirar humo de segunda mano , radón , asbesto y otras formas de contaminación del aire Genética En ocasiones, no se conoce la causa de una enfermedad pulmonar. ¿Cuáles son los síntomas de las enfermedades pulmonares? Los primeros signos de una enfermedad pulmonar pueden pasar desapercibidos fácilmente. A menudo, un signo temprano de enfermedad pulmonar es no tener el nivel de energía habitual. Diferentes enfermedades pulmonares pueden causar síntomas distintos, pero algunos de los síntomas más comunes incluyen: Tos que no desaparece Tos con sangre o mucosidad Problemas para respirar (sensación de que no se está obteniendo suficiente aire) Menor capacidad para hacer ejercicio Dolor o malestar al inhalar o exhalar Sibilancia ¿Cómo se diagnostican las enfermedades pulmonares? Existen muchos tipos de pruebas para diagnosticar diferentes tipos de enfermedades pulmonares, como: Pruebas de diagnóstico por imágenes , como radiografías de tórax, tomografías computarizadas o resonancias magnéticas Broncoscopia : Procedimiento que permite a su profesional de la salud observar sus pulmones. Implica insertar un tubo flexible a través de su nariz o boca hasta llegar a sus pulmones Pruebas de función pulmonar : Pueden ayudar a su proveedor de atención médica a ver qué tan bien están funcionando sus pulmones. Muchas de ellas implican respirar a través de una boquilla. Otras son pruebas de ejercicio Pruebas que miden su nivel de oxígeno en sangre, como la oximetría de pulso y una gasometría arterial (que también mide sus niveles de dióxido de carbono) Biopsia Las pruebas que le realicen dependerán de sus síntomas y de la enfermedad pulmonar que su profesional de la salud piense que podría tener. ¿Cuáles son los tratamientos para las enfermedades pulmonares? Su tratamiento dependerá de la enfermedad pulmonar que tenga. Algunos de los diferentes tipos de tratamientos para enfermedades pulmonares incluyen medicamentos, cirugía, oxigenoterapia y rehabilitación pulmonar . Para algunas afecciones pulmonares muy graves, puede ser necesario un trasplante de pulmón . ¿Se pueden prevenir las enfermedades pulmonares? No todas las enfermedades pulmonares se pueden prevenir. Pero puede reducir el riesgo de padecer algunas enfermedades pulmonares al: Dejar de fumar (si no fuma, no comience) Evitar el humo de segunda mano Reducir su exposición a sustancias peligrosas como el radón y el asbesto Limitar su exposición a la contaminación del aire exterior Vacunarse contra la gripe y la neumonía Tener un estilo de vida saludable con actividad física regular y una dieta sana Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU",
+  "synonyms": [
+    "Enfermedades pulmonares"
+  ],
+  "groups": [
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Embolia pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryembolism.html",
+      "id": "2113"
+    },
+    {
+      "title": "Enfermedad de obstrucción pulmonar crónica",
+      "url": "https://medlineplus.gov/spanish/copd.html",
+      "id": "1836"
+    },
+    {
+      "title": "Enfermedad pulmonar intersticial",
+      "url": "https://medlineplus.gov/spanish/interstitiallungdiseases.html",
+      "id": "5598"
+    },
+    {
+      "title": "Fibrosis pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryfibrosis.html",
+      "id": "2114"
+    },
+    {
+      "title": "Hipertensión pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryhypertension.html",
+      "id": "3635"
+    },
+    {
+      "title": "Insuficiencia respiratoria",
+      "url": "https://medlineplus.gov/spanish/respiratoryfailure.html",
+      "id": "6017"
+    },
+    {
+      "title": "Neumonía",
+      "url": "https://medlineplus.gov/spanish/pneumonia.html",
+      "id": "2094"
+    },
+    {
+      "title": "Problemas respiratorios",
+      "url": "https://medlineplus.gov/spanish/breathingproblems.html",
+      "id": "3078"
+    },
+    {
+      "title": "Terapia con oxígeno",
+      "url": "https://medlineplus.gov/spanish/oxygentherapy.html",
+      "id": "5335"
+    },
+    {
+      "title": "Trastornos de los bronquios",
+      "url": "https://medlineplus.gov/spanish/bronchialdisorders.html",
+      "id": "5978"
+    },
+    {
+      "title": "Trastornos pleurales",
+      "url": "https://medlineplus.gov/spanish/pleuraldisorders.html",
+      "id": "4628"
+    },
+    {
+      "title": "Virus respiratorio sincitial",
+      "url": "https://medlineplus.gov/spanish/respiratorysyncytialvirusinfections.html",
+      "id": "3102"
+    }
+  ],
+  "see_references": [
+    "Linfangioleiomiomatosis",
+    "Pulmones, Enfermedades",
+    "Silicosis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/lungdiseases.html"
+}

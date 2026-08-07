@@ -1,0 +1,45 @@
+{
+  "id": "3182",
+  "title": "Enfermedad del coronavirus 2019 (COVID-19)",
+  "language": "Spanish",
+  "date_created": "08/18/2020",
+  "meta_description": "COVID-19 (enfermedad por coronavirus 2019) es una enfermedad respiratoria causada por un virus. Puede ser muy contagioso. Obtenga información sobre los síntomas, la prevención y el tratamiento.",
+  "summary": "La enfermedad del coronavirus 2019 (COVID-19) es causada por un virus. Este virus es un coronavirus llamado SARS-COV-2. Se propaga cuando una persona con la infección expulsa gotitas y partículas muy pequeñas que contienen el virus. En esta página encontrará enlaces con información importante sobre síntomas, riesgos y cómo puede protegerse usted y su familia. También tenemos temas de salud sobre: Pruebas para el COVID-19 Vacunas contra el COVID-19 Afecciones posteriores al COVID-19 (COVID-19 persistente)",
+  "synonyms": [],
+  "groups": [
+    "Infecciones",
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Afecciones posteriores al COVID-19 (COVID-19 persistente)",
+      "url": "https://medlineplus.gov/spanish/postcovidconditionslongcovid.html",
+      "id": "7808"
+    },
+    {
+      "title": "Pruebas para el COVID-19",
+      "url": "https://medlineplus.gov/spanish/covid19testing.html",
+      "id": "7628"
+    },
+    {
+      "title": "Vacunas contra el COVID-19",
+      "url": "https://medlineplus.gov/spanish/covid19vaccines.html",
+      "id": "7648"
+    }
+  ],
+  "see_references": [
+    "Respiratorio agudo severo, Síndrome",
+    "SARS",
+    "SRAG",
+    "Síndrome respiratorio agudo y grave"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/covid19coronavirusdisease2019.html"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "2142",
+  "title": "Salud de las personas mayores",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los adultos mayores tienen problemas de salud propios del envejecimiento. Un estilo de vida sano puede ayudar a enfrentar los cambios del envejecimiento.",
+  "summary": "Las personas en Estados Unidos están viviendo más años que antes. Muchas personas mayores viven saludablemente y tienen vidas activas. Pero no hay manera de evitarlo: cuando envejecemos, nuestros cuerpos y mentes cambian. Es importante saber qué esperar. Algunos cambios son normales al envejecer, mientras que otros pueden ser una señal de un problema de salud. Es importante reconocer la diferencia y hablar con su proveedor de cuidados de salud si usted tiene alguna inquietud. Un estilo de vida sano puede ayudarlo a enfrentar los cambios normales del envejecimiento y disfrutar de su vida a pleno. Esto incluye alimentarse sanamente , hacer actividad física regular y hacer de la salud mental una prioridad.",
+  "synonyms": [
+    "Cuestiones de salud al envejecer",
+    "Problemas de salud de las personas mayores"
+  ],
+  "groups": [
+    "Personas mayores",
+    "Grupos especiales"
+  ],
+  "related_topics": [
+    {
+      "title": "Asuntos que enfrenta el enfermo terminal",
+      "url": "https://medlineplus.gov/spanish/endoflifeissues.html",
+      "id": "1844"
+    },
+    {
+      "title": "Directivas médicas por adelantado",
+      "url": "https://medlineplus.gov/spanish/advancedirectives.html",
+      "id": "4152"
+    },
+    {
+      "title": "Ejercicio para personas mayores",
+      "url": "https://medlineplus.gov/spanish/exerciseforolderadults.html",
+      "id": "1891"
+    },
+    {
+      "title": "Envejecer saludablemente",
+      "url": "https://medlineplus.gov/spanish/healthyaging.html",
+      "id": "5705"
+    },
+    {
+      "title": "Medicare",
+      "url": "https://medlineplus.gov/spanish/medicare.html",
+      "id": "2027"
+    },
+    {
+      "title": "Nutrición para personas mayores",
+      "url": "https://medlineplus.gov/spanish/nutritionforolderadults.html",
+      "id": "2247"
+    },
+    {
+      "title": "Proveedor de atención al paciente",
+      "url": "https://medlineplus.gov/spanish/caregivers.html",
+      "id": "2232"
+    },
+    {
+      "title": "Residencias con atención personalizada",
+      "url": "https://medlineplus.gov/spanish/assistedliving.html",
+      "id": "2265"
+    },
+    {
+      "title": "Residencias para personas mayores",
+      "url": "https://medlineplus.gov/spanish/nursinghomes.html",
+      "id": "2057"
+    },
+    {
+      "title": "Servicios de atención médica a domicilio",
+      "url": "https://medlineplus.gov/spanish/homecareservices.html",
+      "id": "2260"
+    }
+  ],
+  "see_references": [
+    "Ancianos, Problemas de salud",
+    "Envejecimiento",
+    "Personas mayores, Salud",
+    "Vejez"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional sobre el Envejecimiento",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIA"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/olderadulthealth.html"
+}

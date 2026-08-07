@@ -1,0 +1,85 @@
+{
+  "id": "615",
+  "title": "Organ Donation",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "Experts say that the organs from one donor can save or help as many as 50 people. Read about the how to become an organ donor.",
+  "summary": "Organ donation takes healthy organs and tissues from one person for transplantation into another. Experts say that the organs from one donor can save or help as many as 50 people. Organs you can donate include: Internal organs: Kidneys, heart, liver, pancreas, intestines, lungs Skin Bone and bone marrow Cornea Most organ and tissue donations occur after the donor has died. But some organs and tissues can be donated while the donor is alive. People of all ages and background can be organ donors. If you are under age 18, your parent or guardian must give you permission to become a donor. If you are 18 or older you can show you want to be a donor by signing a donor card. You should also let your family know your wishes. Health Resources and Services Administration",
+  "synonyms": [],
+  "groups": [
+    "Transplantation and Donation"
+  ],
+  "related_topics": [
+    {
+      "title": "Blood Transfusion and Donation",
+      "url": "https://medlineplus.gov/bloodtransfusionanddonation.html",
+      "id": "1211"
+    },
+    {
+      "title": "Bone Marrow Transplantation",
+      "url": "https://medlineplus.gov/bonemarrowtransplantation.html",
+      "id": "1457"
+    },
+    {
+      "title": "Heart Transplantation",
+      "url": "https://medlineplus.gov/hearttransplantation.html",
+      "id": "278"
+    },
+    {
+      "title": "Islet Cell Transplantation",
+      "url": "https://medlineplus.gov/isletcelltransplantation.html",
+      "id": "1511"
+    },
+    {
+      "title": "Kidney Transplantation",
+      "url": "https://medlineplus.gov/kidneytransplantation.html",
+      "id": "1299"
+    },
+    {
+      "title": "Liver Transplantation",
+      "url": "https://medlineplus.gov/livertransplantation.html",
+      "id": "311"
+    },
+    {
+      "title": "Lung Transplantation",
+      "url": "https://medlineplus.gov/lungtransplantation.html",
+      "id": "312"
+    },
+    {
+      "title": "Organ Transplantation",
+      "url": "https://medlineplus.gov/organtransplantation.html",
+      "id": "1462"
+    },
+    {
+      "title": "Pancreas Transplantation",
+      "url": "https://medlineplus.gov/pancreastransplantation.html",
+      "id": "352"
+    },
+    {
+      "title": "Stem Cells",
+      "url": "https://medlineplus.gov/stemcells.html",
+      "id": "1395"
+    }
+  ],
+  "see_references": [
+    "Donors",
+    "Tissue Donation"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Unrelated Donors",
+      "id": "D061349"
+    },
+    {
+      "name": "Living Donors",
+      "id": "D019520"
+    },
+    {
+      "name": "Tissue Donors",
+      "id": "D014019"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/organdonation.html"
+}

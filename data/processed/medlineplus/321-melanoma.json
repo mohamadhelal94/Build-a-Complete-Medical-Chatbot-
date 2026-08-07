@@ -1,0 +1,47 @@
+{
+  "id": "321",
+  "title": "Melanoma",
+  "language": "English",
+  "date_created": "06/03/1999",
+  "meta_description": "Melanoma is the most serious type of skin cancer. Most have a black or black-blue area. Learn the 'ABCDE' of what to watch for and treatment options.",
+  "summary": "Melanoma is the most serious type of skin cancer . Often the first sign of melanoma is a change in the size, shape, color, or feel of a mole. Most melanomas have a black or black-blue area. Melanoma may also appear as a new mole. It may be black, abnormal, or \"ugly looking.\" Thinking of \"ABCDE\" can help you remember what to watch for: Asymmetry - the shape of one half does not match the other Border - the edges are ragged, blurred or irregular Color - the color is uneven and may include shades of black, brown and tan Diameter - there is a change in size, usually an increase Evolving - the mole has changed over the past few weeks or months Surgery is the first treatment of all stages of melanoma. Other treatments include chemotherapy and radiation, biologic, and targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells. NIH: National Cancer Institute",
+  "synonyms": [],
+  "groups": [
+    "Cancers",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Skin Cancer",
+      "url": "https://medlineplus.gov/skincancer.html",
+      "id": "405"
+    },
+    {
+      "title": "Sun Exposure",
+      "url": "https://medlineplus.gov/sunexposure.html",
+      "id": "1419"
+    },
+    {
+      "title": "Tanning",
+      "url": "https://medlineplus.gov/tanning.html",
+      "id": "6541"
+    }
+  ],
+  "see_references": [
+    "Intraocular Melanoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Melanoma",
+      "id": "D008545"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/melanoma.html"
+}

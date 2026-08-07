@@ -1,0 +1,62 @@
+{
+  "id": "2261",
+  "title": "Enfermedades de la garganta",
+  "language": "Spanish",
+  "date_created": "12/30/2002",
+  "meta_description": "Las enfermedades de la garganta incluyen, dolor de garganta, cáncer, infecciones y más. Infórmese aquí.",
+  "summary": "La garganta es un tubo que lleva la comida hacia el esófago y el aire a la tráquea y la laringe. El nombre técnico de su garganta es faringe. Los problemas en la garganta son comunes. Probablemente, alguna vez tuvo un dolor de garganta . La causa suele ser una infección viral, pero otras causas incluyen alergias, infecciones por la bacteria estreptococo o ácidos del estómago que regresan al esófago, llamado reflujo gástroesofágico , o ERGE. Otros problemas que afectan la garganta incluyen: Amigdalitis Cáncer Crup : Inflamación, usualmente en niños pequeños, que causa una tos seca Faringitis: Inflamación de la faringe, lo que puede causar ronquera o pérdida de la voz La mayoría de los problemas de la garganta son menores y desaparecen por si solos. Cuando es necesario un tratamiento, depende del problema.",
+  "synonyms": [],
+  "groups": [
+    "Pulmón y vías respiratorias",
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Adenoides",
+      "url": "https://medlineplus.gov/spanish/adenoids.html",
+      "id": "2200"
+    },
+    {
+      "title": "Cáncer de cabeza y cuello",
+      "url": "https://medlineplus.gov/spanish/headandneckcancer.html",
+      "id": "1931"
+    },
+    {
+      "title": "Dolor de garganta",
+      "url": "https://medlineplus.gov/spanish/sorethroat.html",
+      "id": "4749"
+    },
+    {
+      "title": "Enfermedades de la boca",
+      "url": "https://medlineplus.gov/spanish/mouthdisorders.html",
+      "id": "2240"
+    },
+    {
+      "title": "Problemas del habla y de la comunicación",
+      "url": "https://medlineplus.gov/spanish/speechandcommunicationdisorders.html",
+      "id": "2161"
+    },
+    {
+      "title": "Problemas para tragar",
+      "url": "https://medlineplus.gov/spanish/swallowingdisorders.html",
+      "id": "1872"
+    },
+    {
+      "title": "Trastornos de la voz",
+      "url": "https://medlineplus.gov/spanish/voicedisorders.html",
+      "id": "2255"
+    }
+  ],
+  "see_references": [
+    "Garganta, Enfermedades de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/throatdisorders.html"
+}

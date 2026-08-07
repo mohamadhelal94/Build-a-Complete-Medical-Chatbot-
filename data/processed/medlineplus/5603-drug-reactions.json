@@ -1,0 +1,80 @@
+{
+  "id": "5603",
+  "title": "Drug Reactions",
+  "language": "English",
+  "date_created": "08/24/2010",
+  "meta_description": "If you take prescription or over the counter medicines, be aware of possible drug reactions. Learn about drug interactions, side effects, and more.",
+  "summary": "Most of the time, medicines make our lives better. They reduce aches and pains, fight infections, and control problems such as high blood pressure or diabetes. But medicines can also cause unwanted reactions, such as drug interactions, side effects, and allergies. What is a drug interaction? A drug interaction is a change in the way a drug acts in the body when taken with certain other drugs, foods, or supplements or when taken while you have certain medical conditions. Examples include: Two drugs, such as aspirin and blood thinners Drugs and food, such as statins and grapefruit Drugs and supplements, such as gingko and blood thinners Drugs and medical conditions, such as aspirin and peptic ulcers Interactions could cause a drug to be more or less effective, cause side effects, or change the way one or both drugs work. What are side effects? Side effects are unwanted, usually unpleasant, effects caused by medicines. Most are mild, such as a stomachache, dry mouth , or drowsiness, and go away after you stop taking the medicine. Others can be more serious. Sometimes a drug can interact with a disease that you have and cause a side effect. For example, if you have a heart condition, certain decongestants can cause you to have a rapid heartbeat. What are drug allergies? Drug allergies are another type of reaction. They can range from mild to life-threatening. Skin reactions, such as hives and rashes , are the most common type. Anaphylaxis , a serious allergic reaction, is less common. How can I stay safe when taking medicines? When you start a new prescription or over-the-counter medicine, make sure you understand how to take it correctly . Know which other medicines, foods, and supplements you need to avoid. Always talk to your health care provider or pharmacist if you have questions about your medicines.",
+  "synonyms": [
+    "Side effects"
+  ],
+  "groups": [
+    "Drug Therapy"
+  ],
+  "related_topics": [
+    {
+      "title": "Allergy",
+      "url": "https://medlineplus.gov/allergy.html",
+      "id": "24"
+    },
+    {
+      "title": "Anaphylaxis",
+      "url": "https://medlineplus.gov/anaphylaxis.html",
+      "id": "6257"
+    },
+    {
+      "title": "Drug Safety",
+      "url": "https://medlineplus.gov/drugsafety.html",
+      "id": "1445"
+    },
+    {
+      "title": "Hives",
+      "url": "https://medlineplus.gov/hives.html",
+      "id": "289"
+    },
+    {
+      "title": "Medication Errors",
+      "url": "https://medlineplus.gov/medicationerrors.html",
+      "id": "5719"
+    },
+    {
+      "title": "Medicines",
+      "url": "https://medlineplus.gov/medicines.html",
+      "id": "31"
+    },
+    {
+      "title": "Over-the-Counter Medicines",
+      "url": "https://medlineplus.gov/overthecountermedicines.html",
+      "id": "3799"
+    }
+  ],
+  "see_references": [
+    "Drug Allergies",
+    "Drug Interactions"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Drug-Related Side Effects and Adverse Reactions",
+      "id": "D064420"
+    },
+    {
+      "name": "Drug Hypersensitivity",
+      "id": "D004342"
+    },
+    {
+      "name": "Metabolic Side Effects of Drugs and Substances",
+      "id": "D065606"
+    },
+    {
+      "name": "Chemical and Drug Induced Liver Injury",
+      "id": "D056486"
+    },
+    {
+      "name": "Drug Interactions",
+      "id": "D004347"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/drugreactions.html"
+}

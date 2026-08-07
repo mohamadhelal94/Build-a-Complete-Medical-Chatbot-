@@ -1,0 +1,46 @@
+{
+  "id": "2255",
+  "title": "Trastornos de la voz",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los trastornos de la voz tienen varias causas, como hablar demasiado, gritar, despejar la garganta o fumar Entérese de síntomas, tratamiento.",
+  "summary": "La voz es el sonido que se produce cuando el aire pasa desde los pulmones a través de la laringe. En la laringe se encuentran las cuerdas vocales, dos bandas musculares que vibran para emitir los sonidos. Para la mayoría de nosotros, la voz juega un papel importante sobre quiénes somos, lo que hacemos y cómo nos comunicamos. Como las huellas digitales, la voz de cada persona es única. Muchas cosas que hacemos pueden lastimar nuestras cuerdas vocales. Hablar demasiado, gritar, despejar la garganta constantemente o fumar pueden provocar ronquera. También pueden causar problemas como nódulos, pólipos y llagas en las cuerdas vocales. Otras causas de trastornos de la voz incluyen infecciones, subida de los ácidos gástricos hacia la garganta, crecimientos por un virus, cáncer y enfermedades que paralizan las cuerdas vocales. Las señales que la voz no está saludable incluyen: Su voz se ha vuelto ronca o rasgada Ha perdido la habilidad de lograr algunas notas altas cuando canta Su voz de repente suena más profunda Su garganta se siente a menudo irritada, con dolor o cansada Debe esforzarse para hablar El tratamiento de los trastornos de la voz varía dependiendo de la causa. La mayoría de los problemas de la voz pueden ser tratados con éxito si se diagnostican temprano. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [],
+  "groups": [
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de cabeza y cuello",
+      "url": "https://medlineplus.gov/spanish/headandneckcancer.html",
+      "id": "1931"
+    },
+    {
+      "title": "Enfermedades de la boca",
+      "url": "https://medlineplus.gov/spanish/mouthdisorders.html",
+      "id": "2240"
+    },
+    {
+      "title": "Enfermedades de la garganta",
+      "url": "https://medlineplus.gov/spanish/throatdisorders.html",
+      "id": "2261"
+    },
+    {
+      "title": "Problemas del habla y de la comunicación",
+      "url": "https://medlineplus.gov/spanish/speechandcommunicationdisorders.html",
+      "id": "2161"
+    }
+  ],
+  "see_references": [
+    "Voz, Trastornos de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/voicedisorders.html"
+}

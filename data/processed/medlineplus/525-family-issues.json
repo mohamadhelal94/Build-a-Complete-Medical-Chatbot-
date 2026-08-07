@@ -1,0 +1,35 @@
+{
+  "id": "525",
+  "title": "Family Issues",
+  "language": "English",
+  "date_created": "11/23/1999",
+  "meta_description": "There is no such thing as a typical family. Learning about family issues might help you and your family resolve conflicts and communicate better.",
+  "summary": "There are many kinds of families. Some have two parents, while others have a single parent. Sometimes there is no parent and grandparents raise grandchildren. Some children live in foster families, adoptive families, or in stepfamilies. Families are much more than groups of people who share the same genes or the same address. They should be a source of love and support. This does not mean that everyone gets along all the time. Conflicts are a part of family life. Many things can lead to conflict, such as illness, disability, addiction, job loss, school problems, and marital issues. Listening to each other and working to resolve conflicts are important in strengthening the family.",
+  "synonyms": [],
+  "groups": [
+    "Social/Family Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Parenting",
+      "url": "https://medlineplus.gov/parenting.html",
+      "id": "1495"
+    }
+  ],
+  "see_references": [
+    "Stepfamilies"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Family",
+      "id": "D005190"
+    },
+    {
+      "name": "Interpersonal Relations",
+      "id": "D007398"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/familyissues.html"
+}

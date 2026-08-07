@@ -1,0 +1,68 @@
+{
+  "id": "1677",
+  "title": "Pelvic Floor Disorders",
+  "language": "English",
+  "date_created": "06/06/2002",
+  "meta_description": "Pelvic floor disorders happen when your pelvic floor muscles get weak or injured. Common causes are pregnancy and childbirth. Learn about treatments.",
+  "summary": "The pelvic floor is a group of muscles and other tissues that form a sling or hammock across the pelvis. In women, it holds the uterus, bladder, bowel, and other pelvic organs in place so that they can work properly. The pelvic floor can become weak or be injured. The main causes are pregnancy and childbirth. Other causes include being overweight, radiation treatment, surgery, and getting older. Common symptoms include: Feeling heaviness, fullness, pulling, or aching in the vagina. It gets worse by the end of the day or during a bowel movement. Seeing or feeling a \"bulge\" or \"something coming out\" of the vagina Having a hard time starting to urinate or emptying the bladder completely Having frequent urinary tract infections Leaking urine when you cough, laugh, or exercise Feeling an urgent or frequent need to urinate Feeling pain while urinating Leaking stool or having a hard time controlling gas Being constipated Having a hard time making it to the bathroom in time Your health care provider diagnoses the problem with a physical exam, a pelvic exam, or special tests. Treatments include special pelvic muscle exercises called Kegel exercises. A mechanical support device called a pessary helps some women. Surgery and medicines are other treatments. NIH: National Institute of Child Health and Human Development",
+  "synonyms": [
+    "Cystocele",
+    "Enterocele",
+    "Pelvic prolapse",
+    "Rectocele"
+  ],
+  "groups": [
+    "Women",
+    "Female Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Urinary Incontinence",
+      "url": "https://medlineplus.gov/urinaryincontinence.html",
+      "id": "114"
+    },
+    {
+      "title": "Uterine Diseases",
+      "url": "https://medlineplus.gov/uterinediseases.html",
+      "id": "477"
+    }
+  ],
+  "see_references": [
+    "Cystocele",
+    "Uterine Prolapse"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pelvic Floor Disorders",
+      "id": "D059952"
+    },
+    {
+      "name": "Pelvic Organ Prolapse",
+      "id": "D056887"
+    },
+    {
+      "name": "Rectal Prolapse",
+      "id": "D012005"
+    },
+    {
+      "name": "Rectocele",
+      "id": "D020047"
+    },
+    {
+      "name": "Urinary Incontinence, Stress",
+      "id": "D014550"
+    },
+    {
+      "name": "Uterine Prolapse",
+      "id": "D014596"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pelvicfloordisorders.html"
+}

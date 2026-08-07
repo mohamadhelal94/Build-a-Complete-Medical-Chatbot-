@@ -1,0 +1,38 @@
+{
+  "id": "1247",
+  "title": "Rosacea",
+  "language": "English",
+  "date_created": "06/29/2000",
+  "meta_description": "Rosacea can range from redness in the face to acne and thickened skin and inflammation that may extend into the eyes. Learn what treatments can help.",
+  "summary": "Rosacea is a long-term disease that affects your skin and sometimes your eyes. It causes redness and pimples. Rosacea is most common in women and people with fair skin. It most often affects middle-aged and older adults. In most cases, rosacea only affects the face. Symptoms can include: Frequent redness of the face, or flushing Small, red lines under the skin Acne A swollen nose Thick skin, usually on the forehead, chin, and cheeks Red, dry, itchy eyes and sometimes vision problems No one knows what causes rosacea. You may be more likely to have it if you blush a lot or if rosacea runs in your family. Rosacea is not dangerous. There is no cure, but treatments can help. They include medicines and sometimes surgery. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [
+    "Acne rosacea"
+  ],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Acne",
+      "url": "https://medlineplus.gov/acne.html",
+      "id": "124"
+    }
+  ],
+  "see_references": [
+    "Acne Rosacea"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Rosacea",
+      "id": "D012393"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/rosacea.html"
+}

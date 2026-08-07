@@ -1,0 +1,54 @@
+{
+  "id": "1358",
+  "title": "Teen Violence",
+  "language": "English",
+  "date_created": "09/06/2000",
+  "meta_description": "Teen violence refers to harmful behaviors that can start early and continue into young adulthood. Read about violent behavior and what to do about it.",
+  "summary": "Teen violence refers to harmful behaviors that can start early and continue into young adulthood. The young person can be a victim, an offender, or a witness to the violence. Violent acts can include: Bullying Fighting, including punching, kicking, slapping, or hitting Use of weapons such as guns or knives Some violent acts can cause more emotional harm than physical harm. Others can lead to serious injury or even death. An important risk factor for violence in teens is the behavior of their friends and classmates. You should know who your kids hang out with and encourage healthy behavior and relationships. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Youth violence"
+  ],
+  "groups": [
+    "Children and Teenagers",
+    "Social/Family Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Bullying and Cyberbullying",
+      "url": "https://medlineplus.gov/bullyingandcyberbullying.html",
+      "id": "4026"
+    },
+    {
+      "title": "Child Behavior Disorders",
+      "url": "https://medlineplus.gov/childbehaviordisorders.html",
+      "id": "184"
+    },
+    {
+      "title": "Intimate Partner Violence",
+      "url": "https://medlineplus.gov/intimatepartnerviolence.html",
+      "id": "514"
+    },
+    {
+      "title": "Teen Health",
+      "url": "https://medlineplus.gov/teenhealth.html",
+      "id": "609"
+    }
+  ],
+  "see_references": [
+    "Violence",
+    "Youth Violence"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Adolescent Behavior",
+      "id": "D000294"
+    },
+    {
+      "name": "Violence",
+      "id": "D014754"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/teenviolence.html"
+}

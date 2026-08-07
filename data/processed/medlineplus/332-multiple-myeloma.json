@@ -1,0 +1,50 @@
+{
+  "id": "332",
+  "title": "Multiple Myeloma",
+  "language": "English",
+  "date_created": "06/28/1999",
+  "meta_description": "Multiple myeloma is a cancer that begins in plasma cells, a type of white blood cell. Discover symptoms, diagnostic tests, and treatments for myeloma.",
+  "summary": "Multiple myeloma is a cancer that begins in plasma cells, a type of white blood cell. These cells are part of your immune system, which helps protect the body from germs and other harmful substances. In time, myeloma cells collect in the bone marrow and in the solid parts of bones. No one knows the exact causes of multiple myeloma, but it is more common in older people and African Americans. It can run in families. Common symptoms may include: Bone pain, often in the back or ribs Fractures (broken bones) Weakness or fatigue Weight loss Frequent infections and fevers Feeling very thirsty Frequent urination Doctors diagnose multiple myeloma using lab tests, imaging tests, and a bone marrow biopsy. Your treatment depends on how advanced the disease is and whether you have symptoms. If you have no symptoms, you may not need treatment right away. If you have symptoms, you may have chemotherapy, stem cell transplantation, radiation, or targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells. NIH: National Cancer Institute",
+  "synonyms": [
+    "Plasma-cell myeloma"
+  ],
+  "groups": [
+    "Cancers",
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bone Marrow Diseases",
+      "url": "https://medlineplus.gov/bonemarrowdiseases.html",
+      "id": "171"
+    },
+    {
+      "title": "Bone Marrow Transplantation",
+      "url": "https://medlineplus.gov/bonemarrowtransplantation.html",
+      "id": "1457"
+    },
+    {
+      "title": "Lymphoma",
+      "url": "https://medlineplus.gov/lymphoma.html",
+      "id": "117"
+    }
+  ],
+  "see_references": [
+    "Plasma-cell Myeloma",
+    "Plasmacytoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Multiple Myeloma",
+      "id": "D009101"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/multiplemyeloma.html"
+}

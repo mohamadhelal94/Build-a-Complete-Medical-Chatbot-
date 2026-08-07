@@ -1,0 +1,33 @@
+{
+  "id": "1959",
+  "title": "Urticaria",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La urticaria son ronchas rojizas que pueden producir  picazón en la piel. Suele ser causada por una reacción alérgica. Causas, síntomas, tratamientos.",
+  "summary": "La urticaria son ronchas rojizas que a veces producen picazón en la piel. Suele ser causada por una reacción alérgica a un medicamento o una comida. Las reacciones alérgicas provocan en el cuerpo la liberación de sustancias químicas que hacen que la piel se inflame y se formen las ronchas. Las personas que tienen otras alergias son más propensas a tener urticaria. Entre otras posibles causas se encuentran las infecciones y el estrés. La urticaria es muy común. Suele desaparecer por sí sola, pero si el caso es serio, es posible que se necesiten medicinas o una inyección. En raras ocasiones, la urticaria puede causar una inflamación peligrosa en las vías respiratorias y dificultar la respiración. Esto es una emergencia médica.",
+  "synonyms": [
+    "Ronchas"
+  ],
+  "groups": [
+    "Piel, cabello y uñas",
+    "Sistema inmunitario",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia",
+      "url": "https://medlineplus.gov/spanish/allergy.html",
+      "id": "1734"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hives.html"
+}

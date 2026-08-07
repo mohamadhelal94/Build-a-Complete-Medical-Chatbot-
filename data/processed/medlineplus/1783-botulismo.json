@@ -1,0 +1,46 @@
+{
+  "id": "1783",
+  "title": "Botulismo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El botulismo es causado por una bacteria y puede causar serios problemas. Síntomas, tratamiento, prevención.",
+  "summary": "El botulismo es una enfermedad rara pero seria causada por una toxina (veneno) producida por una bacteria llamada Clostridium botulinum. Esta toxina se encuentra naturalmente en la tierra. Existen varios tipos de botulismo. El botulismo transmitido por alimentos se produce al ingerir alimentos contaminados con la toxina. El botulismo de la herida ocurre cuando una herida se infecta con la bacteria; es más común en quienes abusan de heroína. El botulismo infantil ocurre cuando un bebé consume las esporas de la bacteria que se encuentran en la tierra o en la miel. Todos estos tipos de botulismo pueden ser mortales y se consideran urgencias médicas. Los síntomas incluyen ver doble, vista borrosa, caída de los párpados, dificultad para hablar, dificultad para tragar, boca seca y debilidad muscular. El tratamiento puede incluir antitoxinas, terapia intensiva o cirugía de las heridas infectadas. Para evitar el botulismo: Sea cuidadoso al enlatar alimentos en casa No deje que los bebés consuman miel Busque rápidamente ayuda médica para las heridas infectadas Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Biodefensa y bioterrorismo",
+      "url": "https://medlineplus.gov/spanish/biodefenseandbioterrorism.html",
+      "id": "1771"
+    },
+    {
+      "title": "Botox",
+      "url": "https://medlineplus.gov/spanish/botox.html",
+      "id": "3016"
+    },
+    {
+      "title": "Enfermedades transmitidas por alimentos",
+      "url": "https://medlineplus.gov/spanish/foodborneillness.html",
+      "id": "1909"
+    },
+    {
+      "title": "Seguridad con los alimentos",
+      "url": "https://medlineplus.gov/spanish/foodsafety.html",
+      "id": "1910"
+    }
+  ],
+  "see_references": [
+    "Toxina botulínica"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/botulism.html"
+}

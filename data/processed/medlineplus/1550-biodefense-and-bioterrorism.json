@@ -1,0 +1,103 @@
+{
+  "id": "1550",
+  "title": "Biodefense and Bioterrorism",
+  "language": "English",
+  "date_created": "10/02/2001",
+  "meta_description": "Learn about and prepare for bioterrorism.  Biodefense  includes vaccines and other methods to protect against bioterrorism.",
+  "summary": "A bioterrorism attack is the deliberate release of viruses, bacteria, or other germs to cause illness or death. These germs are often found in nature. But they can sometimes be made more harmful by increasing their ability to cause disease, spread, or resist medical treatment. Biological agents spread through the air, water, or in food. Some can also spread from person to person. They can be very hard to detect. They don't cause illness for several hours or days. Scientists worry that anthrax , botulism , Ebola and other hemorrhagic fever viruses, plague , or smallpox could be used as biological agents. Biodefense uses medical measures to protect people against bioterrorism. This includes medicines and vaccinations. It also includes medical research and preparations to defend against bioterrorist attacks. Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health",
+    "Disasters"
+  ],
+  "related_topics": [
+    {
+      "title": "Anthrax",
+      "url": "https://medlineplus.gov/anthrax.html",
+      "id": "1565"
+    },
+    {
+      "title": "Botulism",
+      "url": "https://medlineplus.gov/botulism.html",
+      "id": "1557"
+    },
+    {
+      "title": "Chemical Emergencies",
+      "url": "https://medlineplus.gov/chemicalemergencies.html",
+      "id": "3174"
+    },
+    {
+      "title": "Coping with Disasters",
+      "url": "https://medlineplus.gov/copingwithdisasters.html",
+      "id": "3797"
+    },
+    {
+      "title": "Disaster Preparation and Recovery",
+      "url": "https://medlineplus.gov/disasterpreparationandrecovery.html",
+      "id": "530"
+    },
+    {
+      "title": "Ebola",
+      "url": "https://medlineplus.gov/ebola.html",
+      "id": "6202"
+    },
+    {
+      "title": "Hemorrhagic Fevers",
+      "url": "https://medlineplus.gov/hemorrhagicfevers.html",
+      "id": "1652"
+    },
+    {
+      "title": "Infectious Diseases",
+      "url": "https://medlineplus.gov/infectiousdiseases.html",
+      "id": "513"
+    },
+    {
+      "title": "Plague",
+      "url": "https://medlineplus.gov/plague.html",
+      "id": "1656"
+    },
+    {
+      "title": "Smallpox",
+      "url": "https://medlineplus.gov/smallpox.html",
+      "id": "1567"
+    },
+    {
+      "title": "Vaccines",
+      "url": "https://medlineplus.gov/vaccines.html",
+      "id": "294"
+    }
+  ],
+  "see_references": [
+    "Biological Weapons",
+    "Bioterrorism",
+    "Germ Warfare",
+    "Man-Made Disasters",
+    "Terrorist Attacks"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Bioterrorism",
+      "id": "D023482"
+    },
+    {
+      "name": "Biological Warfare",
+      "id": "D001694"
+    },
+    {
+      "name": "Chemical Warfare Agents",
+      "id": "D002619"
+    },
+    {
+      "name": "Chemical Warfare",
+      "id": "D002618"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/biodefenseandbioterrorism.html"
+}

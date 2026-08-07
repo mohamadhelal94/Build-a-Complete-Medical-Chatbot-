@@ -1,0 +1,43 @@
+{
+  "id": "5618",
+  "title": "Rehabilitación cardíaca",
+  "language": "Spanish",
+  "date_created": "09/02/2010",
+  "meta_description": "La rehabilitación cardiaca se utiliza para ayudar a personas con problemas al corazón, como falla cardiaca o ataque cardiaco, entre otros.",
+  "summary": "La rehabilitación cardíaca es un programa médico supervisado para ayudar a las personas que tienen: Un ataque al corazón Una angioplastía o injerto de derivación de la arteria coronaria debido a enfermedad coronaria Una reparación o reemplazo de válvulas del corazón Un trasplante de corazón o de pulmón Angina de pecho Falla cardíaca El objetivo es ayudarlo a volver a llevar una vida activa y reducir el riesgo de tener otros problemas del corazón. Un equipo de especialistas creará un plan para usted que incluye entrenamiento físico, educación para una vida cardíaca sana y asesoramiento para reducir el estrés. Usted aprenderá cómo reducir sus factores de riesgo como presión alta, colesterol alto, depresión y diabetes. Otros factores de riesgo son tener sobrepeso u obesidad, fumar y no hacer ejercicio. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Rehabilitación cardiovascular",
+    "Rehablilitación del corazón"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación",
+    "Cirugía y rehabilitación"
+  ],
+  "related_topics": [
+    {
+      "title": "Ataque al corazón",
+      "url": "https://medlineplus.gov/spanish/heartattack.html",
+      "id": "1940"
+    },
+    {
+      "title": "Cómo prevenir las enfermedades del corazón",
+      "url": "https://medlineplus.gov/spanish/howtopreventheartdisease.html",
+      "id": "1942"
+    },
+    {
+      "title": "Enfermedades del corazón",
+      "url": "https://medlineplus.gov/spanish/heartdiseases.html",
+      "id": "1941"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cardiacrehabilitation.html"
+}

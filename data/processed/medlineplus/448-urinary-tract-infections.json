@@ -1,0 +1,48 @@
+{
+  "id": "448",
+  "title": "Urinary Tract Infections",
+  "language": "English",
+  "date_created": "07/01/1999",
+  "meta_description": "You may have a urinary tract infection (UTI) if you feel a burn while urinating or suffer from lower body pressure. Uncover a list of UTI symptoms",
+  "summary": "The urinary system is the body's drainage system for removing wastes and extra water. It includes two kidneys, two ureters, a bladder, and a urethra. Urinary tract infections (UTIs) are the second most common type of infection in the body. You may have a UTI if you notice: Pain or burning when you urinate Fever, tiredness, or shakiness An urge to urinate often Pressure in your lower belly Urine that smells bad or looks cloudy or reddish Pain in your back or side below the ribs People of any age or sex can get UTIs. But about four times as many women get UTIs as men. You're also at higher risk if you have diabetes, need a tube to drain your bladder, or have a spinal cord injury. If you think you have a UTI it is important to see your doctor. Your doctor can tell if you have a UTI with a urine test . Treatment is with antibiotics. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "UTI"
+  ],
+  "groups": [
+    "Kidneys and Urinary System",
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    },
+    {
+      "title": "Urinalysis",
+      "url": "https://medlineplus.gov/urinalysis.html",
+      "id": "6355"
+    }
+  ],
+  "see_references": [
+    "Bladder Infections",
+    "Infections, Bladder",
+    "Kidney Infections",
+    "Pyelonephritis",
+    "UTI"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urinary Tract Infections",
+      "id": "D014552"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/urinarytractinfections.html"
+}

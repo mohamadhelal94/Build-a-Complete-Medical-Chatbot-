@@ -1,0 +1,101 @@
+{
+  "id": "1503",
+  "title": "HIV and Infections",
+  "language": "English",
+  "date_created": "07/02/2001",
+  "meta_description": "Having HIV weakens your body's immune system. This can lead to serious infections that are called opportunistic infections (OIs). Read more.",
+  "summary": "Having HIV/AIDS weakens your body's immune system. It destroys the white blood cells that fight infection. This puts you at risk for opportunistic infections (OIs). OIs are serious infections that take advantage of your weak immune system. These infections are less common and less severe in healthy people. There are many types of OIs: Bacterial infections, including tuberculosis and a serious related disease, Mycobacterium avium complex (MAC) Viral infections, such as cytomegalovirus (CMV) and hepatitis C Fungal infections, like yeast infections , cryptococcal meningitis, pneumocystis carinii pneumonia (PCP) and histoplasmosis Parasitic infections, such as crypto ( cryptosporidiosis ) and toxo ( toxoplasmosis ) Having HIV/AIDS can make infections harder to treat. People with HIV/AIDS are also more likely to have complications from common illnesses such as the flu. You can help prevent infections by taking your HIV/AIDS medicines . Other things that can help include practicing safe sex, washing your hands well and often, and cooking your food thoroughly.",
+  "synonyms": [
+    "AIDS-related opportunistic infections",
+    "OIs"
+  ],
+  "groups": [
+    "Infections",
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Cryptosporidiosis",
+      "url": "https://medlineplus.gov/cryptosporidiosis.html",
+      "id": "1591"
+    },
+    {
+      "title": "Fungal Infections",
+      "url": "https://medlineplus.gov/fungalinfections.html",
+      "id": "258"
+    },
+    {
+      "title": "Genital Herpes",
+      "url": "https://medlineplus.gov/genitalherpes.html",
+      "id": "5863"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/hepatitisc.html",
+      "id": "1286"
+    },
+    {
+      "title": "Herpes Simplex",
+      "url": "https://medlineplus.gov/herpessimplex.html",
+      "id": "286"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/histoplasmosis.html",
+      "id": "5632"
+    },
+    {
+      "title": "HIV",
+      "url": "https://medlineplus.gov/hiv.html",
+      "id": "1"
+    },
+    {
+      "title": "HIV Medicines",
+      "url": "https://medlineplus.gov/hivmedicines.html",
+      "id": "4287"
+    },
+    {
+      "title": "HIV: PrEP and PEP",
+      "url": "https://medlineplus.gov/hivprepandpep.html",
+      "id": "7347"
+    },
+    {
+      "title": "Living with HIV",
+      "url": "https://medlineplus.gov/livingwithhiv.html",
+      "id": "1502"
+    },
+    {
+      "title": "Pneumocystis Infections",
+      "url": "https://medlineplus.gov/pneumocystisinfections.html",
+      "id": "1510"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://medlineplus.gov/toxoplasmosis.html",
+      "id": "1214"
+    },
+    {
+      "title": "Tuberculosis",
+      "url": "https://medlineplus.gov/tuberculosis.html",
+      "id": "41"
+    }
+  ],
+  "see_references": [
+    "AIDS and Infections",
+    "Opportunistic Infections in AIDS"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "AIDS-Related Opportunistic Infections",
+      "id": "D017088"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hivandinfections.html"
+}

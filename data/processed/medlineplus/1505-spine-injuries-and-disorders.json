@@ -1,0 +1,76 @@
+{
+  "id": "1505",
+  "title": "Spine Injuries and Disorders",
+  "language": "English",
+  "date_created": "06/28/2001",
+  "meta_description": "Spine injuries and spine disorders such as infection, scoliosis, and herniated disk can cause pain and other issues. Read about problems of the spine.",
+  "summary": "Your backbone, or spine, is made up of 26 bone discs called vertebrae. The vertebrae protect your spinal cord and allow you to stand and bend. A number of problems can change the structure of the spine or damage the vertebrae and surrounding tissue. They include: Infections Injuries Tumors Conditions, such as ankylosing spondylitis and scoliosis Bone changes that come with age, such as spinal stenosis and herniated disks Spinal diseases often cause pain when bone changes put pressure on the spinal cord or nerves. They can also limit movement. Treatments differ by disease, but sometimes they include back braces and surgery.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Ankylosing Spondylitis",
+      "url": "https://medlineplus.gov/ankylosingspondylitis.html",
+      "id": "143"
+    },
+    {
+      "title": "Back Pain",
+      "url": "https://medlineplus.gov/backpain.html",
+      "id": "157"
+    },
+    {
+      "title": "Herniated Disk",
+      "url": "https://medlineplus.gov/herniateddisk.html",
+      "id": "284"
+    },
+    {
+      "title": "Neck Injuries and Disorders",
+      "url": "https://medlineplus.gov/neckinjuriesanddisorders.html",
+      "id": "339"
+    },
+    {
+      "title": "Scoliosis",
+      "url": "https://medlineplus.gov/scoliosis.html",
+      "id": "395"
+    },
+    {
+      "title": "Spinal Stenosis",
+      "url": "https://medlineplus.gov/spinalstenosis.html",
+      "id": "412"
+    },
+    {
+      "title": "Tailbone Disorders",
+      "url": "https://medlineplus.gov/tailbonedisorders.html",
+      "id": "1448"
+    }
+  ],
+  "see_references": [
+    "Compression Fracture",
+    "Kyphosis",
+    "Spondylolisthesis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Spinal Fractures",
+      "id": "D016103"
+    },
+    {
+      "name": "Spinal Injuries",
+      "id": "D013124"
+    },
+    {
+      "name": "Spinal Diseases",
+      "id": "D013122"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spineinjuriesanddisorders.html"
+}

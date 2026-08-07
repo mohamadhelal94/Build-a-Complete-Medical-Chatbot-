@@ -1,0 +1,40 @@
+{
+  "id": "2149",
+  "title": "Cáncer de piel",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cáncer de piel es el más común en EE. UU. Pueden haber varios tipos, incluyendo el melanoma. Entérese sobre causas, prevención y tratamiento.",
+  "summary": "El cáncer de piel es la forma de cáncer más común en los Estados Unidos. Los dos tipos más comunes son el cáncer de células basales y el cáncer de células escamosas. Por lo general, se forman en la cabeza, la cara, el cuello, las manos y los brazos. Otro tipo de cáncer de piel, el melanoma , es más peligroso pero menos común. Cualquier persona puede desarrollar cáncer de piel, pero es más común entre quienes: Pasan mucho tiempo bajo el sol o sufrieron quemaduras por el sol Tienen piel, cabello y ojos claros Tienen un familiar con cáncer de piel Tienen más de 50 años de edad Debe hacer que un médico revise cualquier indicio sospechoso en la piel y cualquier cambio en el aspecto de su piel. El tratamiento tiene más probabilidades de surtir mejor efecto cuando el cáncer se detecta con anticipación. Cuando no se tratan, ciertos tipos de cáncer de piel pueden diseminarse a otros tejidos y órganos. Los tratamientos incluyen cirugía, radioterapia, quimioterapia, terapia fotodinámica (PDT, por sus siglas en inglés) y terapia biológica. La terapia fotodinámica utiliza un medicamento y un tipo de luz láser para eliminar las células cancerosas. La terapia biológica aumenta la propia capacidad del cuerpo para combatir el cáncer. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [],
+  "groups": [
+    "Cánceres",
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Exposición al sol",
+      "url": "https://medlineplus.gov/spanish/sunexposure.html",
+      "id": "2179"
+    },
+    {
+      "title": "Melanoma",
+      "url": "https://medlineplus.gov/spanish/melanoma.html",
+      "id": "2028"
+    }
+  ],
+  "see_references": [
+    "Carcinoma basocelular",
+    "Carcinoma de células de Merkel",
+    "Merkel, Carcinoma de las células de",
+    "Piel, Cáncer de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/skincancer.html"
+}

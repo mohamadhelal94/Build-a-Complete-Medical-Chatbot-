@@ -1,0 +1,57 @@
+{
+  "id": "1979",
+  "title": "Infertilidad",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Existen exámenes para determinar problemas de infertilidad. Tratamientos incluyen medicamentos, cirugía o tecnologías de reproducción asistida.",
+  "summary": "La infertilidad significa no poder quedar embarazada después de intentarlo por un año. Si una mujer puede quedar embarazada pero sigue teniendo pérdida del embarazo o mortinatos (parto de feto muerto), también se considera como infertilidad. La infertilidad es muy común. Después de un año de tener relaciones sexuales sin protección, alrededor del 15 % de las parejas no pueden quedar embarazadas. Cerca de un tercio de las veces, la infertilidad se debe a la mujer . En otro tercio de los casos, es por el hombre . El resto del tiempo ocurre por ambas personas o no se encuentra ninguna causa. Hay tratamientos que son específicos para hombres o mujeres. Algunos involucran a la pareja. Los medicamentos, la tecnología de reproducción asistida y la cirugía son tratamientos comunes. Afortunadamente, muchas parejas tratadas por infertilidad terminan teniendo bebés. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [
+    "Esterilidad",
+    "Problemas para concebir"
+  ],
+  "groups": [
+    "Mujeres",
+    "Embarazo y reproducción",
+    "Hombres",
+    "Sistema reproductor femenino",
+    "Sistema reproductor masculino"
+  ],
+  "related_topics": [
+    {
+      "title": "Infertilidad en el hombre",
+      "url": "https://medlineplus.gov/spanish/maleinfertility.html",
+      "id": "5657"
+    },
+    {
+      "title": "Infertilidad en la mujer",
+      "url": "https://medlineplus.gov/spanish/femaleinfertility.html",
+      "id": "5655"
+    },
+    {
+      "title": "Pérdida del embarazo",
+      "url": "https://medlineplus.gov/spanish/miscarriage.html",
+      "id": "2105"
+    },
+    {
+      "title": "Riesgos para el sistema reproductivo",
+      "url": "https://medlineplus.gov/spanish/reproductivehazards.html",
+      "id": "2124"
+    }
+  ],
+  "see_references": [
+    "Esterilidad",
+    "Fertilidad",
+    "Fertilización in vitro",
+    "Infecundidad",
+    "Inseminación artificial"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/infertility.html"
+}

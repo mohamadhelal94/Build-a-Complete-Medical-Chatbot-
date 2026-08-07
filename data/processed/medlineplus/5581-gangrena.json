@@ -1,0 +1,34 @@
+{
+  "id": "5581",
+  "title": "Gangrena",
+  "language": "Spanish",
+  "date_created": "08/04/2010",
+  "meta_description": "La gangrena es la muerte de los tejidos del cuerpo. Existen varios tipos, entre ellos la gangrena gaseosa, necrosis y más. Infórmese.",
+  "summary": "La gangrena es la muerte de los tejidos en su cuerpo. Ocurre cuando el suministro de sangre no llega a una parte de su cuerpo. La gangrena puede ocurrir en la superficie del cuerpo, como la piel o al interior del cuerpo, como en los músculos o los órganos. Las causas incluyen: Lesiones graves Problemas con la circulación de la sangre, como la aterosclerosis y la enfermedad arterial periférica Diabetes Los síntomas en la piel pueden incluir manchas de un color azul o negro, dolor, entumecimiento y úlceras que producen una secreción con mal olor. Si la gangrena es interna, es posible que tenga fiebre, malestar y la zona pueda estar hinchada y ser dolorosa. La gangrena es un problema serio. Necesita atención de urgencia. El tratamiento incluye cirugía, antibióticos y terapia de oxígeno. En los casos graves, una amputación puede ser necesaria.",
+  "synonyms": [],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad arterial periférica",
+      "url": "https://medlineplus.gov/spanish/peripheralarterialdisease.html",
+      "id": "4084"
+    },
+    {
+      "title": "Infecciones de la piel",
+      "url": "https://medlineplus.gov/spanish/skininfections.html",
+      "id": "5359"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/gangrene.html"
+}

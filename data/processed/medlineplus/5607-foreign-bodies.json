@@ -1,0 +1,51 @@
+{
+  "id": "5607",
+  "title": "Foreign Bodies",
+  "language": "English",
+  "date_created": "08/24/2010",
+  "meta_description": "If you've ever gotten a splinter or had sand in your eye, you've had experience with a foreign body. Many do not cause serious harm. Learn more.",
+  "summary": "If you've ever gotten a splinter or had sand in your eye, you've had experience with a foreign body. A foreign body is something that is stuck inside you but isn't supposed to be there. You may inhale or swallow a foreign body, or you may get one from an injury to almost any part of your body. Foreign bodies are more common in small children, who sometimes stick things in their mouths, ears, and noses. Some foreign bodies, like a small splinter, do not cause serious harm. Inhaled or swallowed foreign bodies may cause choking or bowel obstruction and may require medical care.",
+  "synonyms": [],
+  "groups": [
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Safety",
+      "url": "https://medlineplus.gov/childsafety.html",
+      "id": "535"
+    },
+    {
+      "title": "Choking",
+      "url": "https://medlineplus.gov/choking.html",
+      "id": "1544"
+    },
+    {
+      "title": "First Aid",
+      "url": "https://medlineplus.gov/firstaid.html",
+      "id": "240"
+    },
+    {
+      "title": "Safety",
+      "url": "https://medlineplus.gov/safety.html",
+      "id": "485"
+    },
+    {
+      "title": "Wounds and Injuries",
+      "url": "https://medlineplus.gov/woundsandinjuries.html",
+      "id": "3858"
+    }
+  ],
+  "see_references": [
+    "Splinters"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Foreign Bodies",
+      "id": "D005547"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/foreignbodies.html"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3739",
+  "title": "Salud global",
+  "language": "Spanish",
+  "date_created": "01/17/2006",
+  "meta_description": "La diseminación de una enfermedad no se detiene en las fronteras de los países y ocurre muy fácilmente. Entérese de las enfermedades con alcance global.",
+  "summary": "La propagación de una enfermedad no se detiene en las fronteras de un país. Con más personas viviendo en ciudades sobrepobladas y viajando a otros países, es más fácil que los gérmenes se propaguen. Las enfermedades infecciosas que comienzan en una parte del mundo pueden llegar rápidamente a otra zona del globo. Algunas de las principales enfermedades que afectan actualmente a países de todo el mundo incluyen VIH , malaria , COVID-19 y tuberculosis . Además de la propagación de enfermedades, existen otros desafíos de salud global. La resistencia a medicamentos como los antibióticos va en aumento. Esto hace que sea más difícil tratar ciertas enfermedades. Los desastres naturales y provocados por el hombre crean poblaciones de refugiados con problemas de salud inmediatos y a largo plazo. El cambio climático y el insuficiente acceso a alimentos y agua potable también son problemas globales que pueden afectar la salud de las personas. Muchos países y organizaciones de salud están trabajando juntos y compartiendo información sobre estos y otros problemas sanitarios.",
+  "synonyms": [
+    "Salud en el mundo",
+    "Salud internacional"
+  ],
+  "groups": [
+    "Sistemas de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/spanish/dengue.html",
+      "id": "3105"
+    },
+    {
+      "title": "Fiebres hemorrágicas",
+      "url": "https://medlineplus.gov/spanish/hemorrhagicfevers.html",
+      "id": "2256"
+    },
+    {
+      "title": "Salud del viajero",
+      "url": "https://medlineplus.gov/spanish/travelershealth.html",
+      "id": "2204"
+    }
+  ],
+  "see_references": [
+    "Internacional, Salud",
+    "Mundo, Salud"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/globalhealth.html"
+}

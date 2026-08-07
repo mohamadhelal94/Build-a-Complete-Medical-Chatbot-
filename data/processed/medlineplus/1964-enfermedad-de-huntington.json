@@ -1,0 +1,37 @@
+{
+  "id": "1964",
+  "title": "Enfermedad de Huntington",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La enfermedad de Huntington es una enfermedad hereditaria. Afecta las células nerviosas del cerebro. El primer síntoma puede ser movimientos involuntarios.",
+  "summary": "La enfermedad de Huntington es una enfermedad hereditaria que provoca el desgaste de algunas células nerviosas del cerebro. Las personas nacen con el gen defectuoso pero los síntomas no aparecen hasta después de los 30 o 40 años. Los síntomas iniciales de esta enfermedad pueden incluir movimientos descontrolados, torpeza y problemas de equilibrio. Más adelante, puede impedir caminar, hablar y tragar. Algunas personas dejan de reconocer a sus familiares. Otros están concientes de lo que los rodea y pueden expresar sus emociones. Si uno de sus padres tiene la enfermedad de Huntington, usted tiene un 50% de posibilidades de tenerla. Un análisis de sangre puede indicar si tiene el gen de la enfermedad y si la desarrollará. La consejería genética puede ayudarlo a evaluar los riesgos y los beneficios de someterse al análisis. No existe una cura. Hay medicinas que pueden ayudarlo a controlar algunos síntomas, pero no pueden retrasar ni detener la enfermedad. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades neurodegenerativas",
+      "url": "https://medlineplus.gov/spanish/degenerativenervediseases.html",
+      "id": "1845"
+    },
+    {
+      "title": "Trastornos del movimiento",
+      "url": "https://medlineplus.gov/spanish/movementdisorders.html",
+      "id": "2039"
+    }
+  ],
+  "see_references": [
+    "Huntington, Enfermedad de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/huntingtonsdisease.html"
+}

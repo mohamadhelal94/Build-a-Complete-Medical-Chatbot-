@@ -1,0 +1,28 @@
+{
+  "id": "385",
+  "title": "Reye Syndrome",
+  "language": "English",
+  "date_created": "07/01/1999",
+  "meta_description": "Learn about Reye syndrome, which affects the liver, brain, and other organs. It is rare, and is often in children who have just had a viral infection.",
+  "summary": "Reye syndrome is a rare illness that can affect the blood, liver, and brain of someone who has recently had a viral infection. It always follows another illness. Although it mostly affects children and teens, anyone can get it. It can develop quickly and without warning. It is most common during flu season. Symptoms include: Nausea and vomiting Listlessness Personality change - such as irritability, combativeness or confusion Delirium Convulsions Loss of consciousness If these symptoms occur soon after a viral illness, seek medical attention immediately. Reye syndrome can lead to a coma and brain death, so quick diagnosis and treatment are critical. Treatment focuses on preventing brain damage. There is no cure. The cause of Reye syndrome is unknown. Studies have shown that taking aspirin increases the risk of getting it. Because of that, health care professionals now recommend other pain relievers for young patients. NIH: National Institute of Neurological Disorders and Stroke",
+  "synonyms": [],
+  "groups": [
+    "Brain and Nerves"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Reye Syndrome",
+      "id": "D012202"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/reyesyndrome.html"
+}

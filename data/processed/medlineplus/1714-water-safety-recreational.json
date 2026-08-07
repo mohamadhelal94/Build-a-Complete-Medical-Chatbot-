@@ -1,0 +1,49 @@
+{
+  "id": "1714",
+  "title": "Water Safety (Recreational)",
+  "language": "English",
+  "date_created": "08/09/2002",
+  "meta_description": "Playing in the water can be fun, but it can also be dangerous. Water safety can help prevent injuries and drowning. Learn how to stay safe.",
+  "summary": "Playing in the water - whether swimming, boating or diving - can be fun. It can also be dangerous, especially for children. Being safe can help prevent injuries and drowning . To stay safe in the water: Avoid alcohol when swimming or boating Wear a life jacket whenever you're in a boat Don't swim alone, or in bad weather Learn CPR Learn to swim and teach your children to swim Supervise your children when they are in the water Prevent sunburns - use plenty of sunscreen",
+  "synonyms": [],
+  "groups": [
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Barotrauma",
+      "url": "https://medlineplus.gov/barotrauma.html",
+      "id": "6095"
+    },
+    {
+      "title": "Drowning",
+      "url": "https://medlineplus.gov/drowning.html",
+      "id": "218"
+    },
+    {
+      "title": "Safety",
+      "url": "https://medlineplus.gov/safety.html",
+      "id": "485"
+    }
+  ],
+  "see_references": [
+    "Recreational Safety"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Recreation",
+      "id": "D011998"
+    },
+    {
+      "name": "Water Sports",
+      "id": "D000073678"
+    },
+    {
+      "name": "Safety",
+      "id": "D012449"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/watersafetyrecreational.html"
+}

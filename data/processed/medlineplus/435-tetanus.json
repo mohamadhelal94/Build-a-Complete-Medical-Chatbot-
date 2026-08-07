@@ -1,0 +1,41 @@
+{
+  "id": "435",
+  "title": "Tetanus",
+  "language": "English",
+  "date_created": "08/26/1999",
+  "meta_description": "A vaccine can prevent tetanus. It is given as a part of routine childhood immunization. Adults should get a tetanus shot, or booster, every 10 years.",
+  "summary": "Tetanus is a serious illness caused by Clostridium bacteria. The bacteria live in soil, saliva, dust, and manure. The bacteria can enter the body through a deep cut, like those you might get from stepping on a nail, or through a burn. The infection causes painful tightening of the muscles, usually all over the body. It can lead to \"locking\" of the jaw. This makes it impossible to open your mouth or swallow. Tetanus is a medical emergency. You need to get treatment in a hospital. A vaccine can prevent tetanus. It is given as a part of routine childhood vaccination. Adults should get a tetanus shot, or booster, every 10 years. If you get a bad cut or burn, see your doctor - you may need a booster. Immediate and proper wound care can prevent tetanus infection.",
+  "synonyms": [],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Tetanus, Diphtheria, and Pertussis Vaccines",
+      "url": "https://medlineplus.gov/tetanusdiphtheriaandpertussisvaccines.html",
+      "id": "6322"
+    },
+    {
+      "title": "Vaccines",
+      "url": "https://medlineplus.gov/vaccines.html",
+      "id": "294"
+    }
+  ],
+  "see_references": [
+    "Lockjaw"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tetanus",
+      "id": "D013742"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/tetanus.html"
+}

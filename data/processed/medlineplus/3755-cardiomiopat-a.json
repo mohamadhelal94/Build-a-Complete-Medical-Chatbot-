@@ -1,0 +1,31 @@
+{
+  "id": "3755",
+  "title": "Cardiomiopatía",
+  "language": "Spanish",
+  "date_created": "02/11/2004",
+  "meta_description": "La cardiomiopatía causa que el corazón aumente su tamaño. Puede causar complicaciones serias, como insuficiencia cardiaca, arritmia y paro cardiaco.",
+  "summary": "Cardiomiopatía es el nombre que se usa para llamar a las enfermedades del músculo cardíaco. Estas enfermedades aumentan el tamaño del corazón o lo hacen más grueso y rígido que lo normal. En raros casos, el tejido cicatrizante reemplaza el tejido muscular. Algunas personas con cardiomiopatía tienen vidas largas y sanas. Muchas de ellas no se dan cuenta de que la tienen. Sin embargo, en otros casos puede hacer que el corazón sea menos capaz de bombear sangre a todo el cuerpo. Esto puede causar complicaciones serias, entre ellas: Insuficiencia cardiaca Ritmos cardíacos anormales Paro cardíaco Los infartos , la hipertensión arterial , algunas infecciones y otras enfermedades también pueden causar cardiomiopatía. Algunos tipos de cardiomiopatía son hereditarios. A pesar de eso, en muchas personas se desconoce la causa. El tratamiento puede incluir medicinas, cirugía, otros procedimientos médicos y cambios en el estilo de vida. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Miocardiopatía"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Defectos cardíacos congénitos",
+      "url": "https://medlineplus.gov/spanish/congenitalheartdefects.html",
+      "id": "1833"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cardiomyopathy.html"
+}

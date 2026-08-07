@@ -1,0 +1,44 @@
+{
+  "id": "1962",
+  "title": "Cuidados de hospicio",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cuidado de hospicio busca ayudar a las personas que están cerca de la muerte a controlar el dolor y otros síntomas. Lo ofrece un equipo profesional.",
+  "summary": "El cuidado de hospicio es el cuidado para el final de la vida . Un equipo de profesionales de la salud y voluntarios lo proveen. Ellos brindan apoyo médico, psicológico y espiritual. El objetivo de estos cuidados es ayudar a las personas que están cerca de la muerte a tener paz, comodidades y dignidad. Las personas que prestan estos cuidados tratan de controlar el dolor y otros síntomas para que el paciente permanezca lo más alerta y cómodo posible. Los programas de cuidados de hospicio también ofrecen apoyo a la familia del paciente. Generalmente, se espera que los pacientes en cuidados de hospicio vivan 6 meses o menos. Los cuidados de hospicio pueden prestarse en: El domicilio del paciente Un centro de cuidados de hospicio Un hospital Instalaciones de cuidados especializados NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Cuidado del paciente en estado terminal"
+  ],
+  "groups": [
+    "Sistemas de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Asuntos que enfrenta el enfermo terminal",
+      "url": "https://medlineplus.gov/spanish/endoflifeissues.html",
+      "id": "1844"
+    },
+    {
+      "title": "Cuidado paliativo",
+      "url": "https://medlineplus.gov/spanish/palliativecare.html",
+      "id": "4824"
+    },
+    {
+      "title": "Servicios de atención médica a domicilio",
+      "url": "https://medlineplus.gov/spanish/homecareservices.html",
+      "id": "2260"
+    }
+  ],
+  "see_references": [
+    "Crónicos o terminales, Cuidado de enfermos",
+    "Residencia de enfermos crónicos o terminales, Cuidado en"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hospicecare.html"
+}

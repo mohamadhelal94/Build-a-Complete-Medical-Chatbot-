@@ -1,0 +1,42 @@
+{
+  "id": "3748",
+  "title": "Leishmaniasis",
+  "language": "English",
+  "date_created": "02/17/2004",
+  "meta_description": "Leishmaniasis or leishmania, also known as Kala-azar is a parasitic disease spread by the bite of infected sand flies.",
+  "summary": "Leishmaniasis is a parasitic disease spread by the bite of infected sand flies. There are several different forms of leishmaniasis. The most common are cutaneous and visceral. The cutaneous type causes skin sores. The visceral type affects internal organs such as the spleen, liver, and bone marrow. People with this form usually have fever, weight loss, and an enlarged spleen and liver. Leishmaniasis is found in parts of about 88 countries. Most of these countries are in the tropics and subtropics. It is possible but very unlikely that you would get this disease in the United States. But you should be aware of it if you are traveling to the Middle East or parts of Central America, South America, Asia, Africa or southern Europe. Treatment is with medicines that contain antimony, a type of metal, or with strong antibiotics. The best way to prevent the disease is to protect yourself from sand fly bites: Stay indoors from dusk to dawn, when sand flies are the most active Wear long pants and long-sleeved shirts when outside Use insect repellent and bed nets as needed Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Kala-azar"
+  ],
+  "groups": [
+    "Infections",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Parasitic Diseases",
+      "url": "https://medlineplus.gov/parasiticdiseases.html",
+      "id": "482"
+    },
+    {
+      "title": "Traveler's Health",
+      "url": "https://medlineplus.gov/travelershealth.html",
+      "id": "444"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Leishmaniasis",
+      "id": "D007896"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/leishmaniasis.html"
+}

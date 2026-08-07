@@ -1,0 +1,41 @@
+{
+  "id": "5352",
+  "title": "Urethral Disorders",
+  "language": "English",
+  "date_created": "01/06/2010",
+  "meta_description": "Urethral disorders may cause pain or your ability to urinate. Urethral problems may happen due to aging, illness, or injury. Learn more.",
+  "summary": "The urethra is the tube that allows urine to pass out of the body. In men, it's a long tube that runs through the penis. It also carries semen in men. In women, it's short and is just above the vagina. Urethral problems may happen due to aging, illness, or injury. They include: Urethral cancer - a rare cancer that happens more often in men Urethral stricture - a narrowing of the opening of the urethra Urethritis - inflammation of the urethra, sometimes caused by infection Urethral problems may cause pain or difficulty passing urine. You may also have bleeding or discharge from the urethra. Doctors diagnose urethral problems using different tests. These include urine tests, x-rays and an examination of the urethra with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.",
+  "synonyms": [],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    },
+    {
+      "title": "Urine and Urination",
+      "url": "https://medlineplus.gov/urineandurination.html",
+      "id": "4889"
+    }
+  ],
+  "see_references": [
+    "Urethral Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urethral Diseases",
+      "id": "D014522"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/urethraldisorders.html"
+}

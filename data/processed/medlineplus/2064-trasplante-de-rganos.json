@@ -1,0 +1,51 @@
+{
+  "id": "2064",
+  "title": "Trasplante de órganos",
+  "language": "Spanish",
+  "date_created": "01/23/2012",
+  "meta_description": "Cuando se realiza un trasplante de órganos, los médicos reemplazan un órgano dañado por uno sano de un donante. Tipos de trasplante de órganos.",
+  "summary": "Usted puede necesitar un trasplante de órganos si uno de sus órganos no cumple con sus funciones. Esto puede ocurrir a causa de una enfermedad o lesión. Cuando se le realiza un trasplante de órganos, los médicos extirpan un órgano de otra persona y lo colocan en su cuerpo. El órgano puede provenir de un donante vivo o muerto. : Corazón Intestino Riñón Hígado Pulmón Páncreas Las personas que necesitan un trasplante de órganos suelen tener que esperar el órgano durante un largo tiempo. Los médicos deben hacer coincidir a los donantes con los beneficiarios para reducir el riesgo de rechazo del trasplante. Eso ocurre cuando el cuerpo de quien recibe el órgano (beneficiario) niega el órgano nuevo, provocando que no funcione correctamente. Las personas a quienes se les realizó algún trasplante deben tomar medicamentos por el resto de sus vidas para ayudar a impedir que sus cuerpos rechacen el órgano nuevo.",
+  "synonyms": [],
+  "groups": [
+    "Transplantes y donaciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Donación de órganos",
+      "url": "https://medlineplus.gov/spanish/organdonation.html",
+      "id": "2063"
+    },
+    {
+      "title": "Trasplante de corazón",
+      "url": "https://medlineplus.gov/spanish/hearttransplantation.html",
+      "id": "1944"
+    },
+    {
+      "title": "Trasplante de hígado",
+      "url": "https://medlineplus.gov/spanish/livertransplantation.html",
+      "id": "2010"
+    },
+    {
+      "title": "Trasplante de pulmón",
+      "url": "https://medlineplus.gov/spanish/lungtransplantation.html",
+      "id": "2013"
+    },
+    {
+      "title": "Trasplante de páncreas",
+      "url": "https://medlineplus.gov/spanish/pancreastransplantation.html",
+      "id": "2073"
+    },
+    {
+      "title": "Trasplante de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneytransplantation.html",
+      "id": "1992"
+    }
+  ],
+  "see_references": [
+    "Trasplante"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/organtransplantation.html"
+}

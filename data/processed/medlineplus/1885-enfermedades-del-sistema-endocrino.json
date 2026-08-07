@@ -1,0 +1,76 @@
+{
+  "id": "1885",
+  "title": "Enfermedades del sistema endocrino",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Su sistema endocrino incluye ocho glándulas principales distribuidas por todo el cuerpo. Estas producen hormonas. Aquí sobre condiciones y procesos.",
+  "summary": "Su sistema endocrino incluye ocho glándulas principales distribuidas por todo el cuerpo. Estas glándulas producen hormonas . Las hormonas son mensajeros químicos. Viajan a través del torrente sanguíneo hacia los tejidos y órganos. Las hormonas trabajan lentamente y afectan los procesos corporales desde la cabeza hasta los pies. Entre esos procesos se encuentran: Crecimiento y desarrollo Metabolismo: digestión, eliminación, respiración, circulación sanguínea y mantenimiento de la temperatura corporal Función sexual Reproducción Estado de ánimo Si los niveles hormonales están demasiado elevados o disminuidos, es posible que tenga un trastorno hormonal. Las enfermedades hormonales también ocurren si el cuerpo no responde a las hormonas como debería hacerlo. El estrés, las infecciones y los cambios en el equilibrio de líquidos y electrolitos de la sangre también pueden afectar los niveles hormonales. En los Estados Unidos, la enfermedad endocrina más común es la diabetes . Existen muchas otras. El tratamiento suele consistir en controlar la cantidad de hormonas que produce el organismo. Si el problema es la falta de niveles suficientes de hormonas, los suplementos hormonales pueden ayudar.",
+  "synonyms": [
+    "Enfermedades endocrinas",
+    "Trastornos endocrinos"
+  ],
+  "groups": [
+    "Sistema endocrino"
+  ],
+  "related_topics": [
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetes.html",
+      "id": "1851"
+    },
+    {
+      "title": "Enfermedad de Addison",
+      "url": "https://medlineplus.gov/spanish/addisondisease.html",
+      "id": "1722"
+    },
+    {
+      "title": "Enfermedades de la glándula pituitaria",
+      "url": "https://medlineplus.gov/spanish/pituitarydisorders.html",
+      "id": "2091"
+    },
+    {
+      "title": "Enfermedades de la paratiroides",
+      "url": "https://medlineplus.gov/spanish/parathyroiddisorders.html",
+      "id": "2079"
+    },
+    {
+      "title": "Enfermedades de la tiroides",
+      "url": "https://medlineplus.gov/spanish/thyroiddiseases.html",
+      "id": "2196"
+    },
+    {
+      "title": "Enfermedades de las glándulas suprarrenales",
+      "url": "https://medlineplus.gov/spanish/adrenalglanddisorders.html",
+      "id": "1724"
+    },
+    {
+      "title": "Enfermedades del páncreas",
+      "url": "https://medlineplus.gov/spanish/pancreaticdiseases.html",
+      "id": "2075"
+    },
+    {
+      "title": "Hormonas",
+      "url": "https://medlineplus.gov/spanish/hormones.html",
+      "id": "1961"
+    },
+    {
+      "title": "Trastornos de crecimiento",
+      "url": "https://medlineplus.gov/spanish/growthdisorders.html",
+      "id": "1926"
+    }
+  ],
+  "see_references": [
+    "Neoplasia endocrina múltiple",
+    "Pubertad precoz",
+    "Sistema endocrino, Enfermedades del (General)"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/endocrinediseases.html"
+}

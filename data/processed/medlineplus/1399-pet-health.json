@@ -1,0 +1,43 @@
+{
+  "id": "1399",
+  "title": "Pet Health",
+  "language": "English",
+  "date_created": "12/13/2000",
+  "meta_description": "Keeping your pet healthy is your responsibility as a pet owner. Know the signs of medical problems and what to look out for.",
+  "summary": "Pets can add fun, companionship and a feeling of safety to your life. Before getting a pet, think carefully about which animal is best for your family. What is each family member looking for in a pet? Who will take care of it? Does anyone have pet allergies? What type of animal suits your lifestyle and budget? Once you own a pet, keep it healthy. Know the signs of medical problems. Take your pet to the veterinarian if you notice: Loss of appetite Drinking a lot of water Gaining or losing a lot of weight quickly Strange behavior Being sluggish and tired Trouble getting up or down Strange lumps",
+  "synonyms": [],
+  "groups": [
+    "Wellness and Lifestyle"
+  ],
+  "related_topics": [
+    {
+      "title": "Animal Diseases and Your Health",
+      "url": "https://medlineplus.gov/animaldiseasesandyourhealth.html",
+      "id": "4055"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/mpox.html",
+      "id": "3229"
+    },
+    {
+      "title": "Rabies",
+      "url": "https://medlineplus.gov/rabies.html",
+      "id": "523"
+    }
+  ],
+  "see_references": [
+    "Animal Health",
+    "Pets",
+    "Veterinary Medicine"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Animals, Domestic",
+      "id": "D000829"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pethealth.html"
+}

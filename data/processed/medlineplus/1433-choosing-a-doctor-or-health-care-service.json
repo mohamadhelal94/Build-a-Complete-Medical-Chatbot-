@@ -1,0 +1,44 @@
+{
+  "id": "1433",
+  "title": "Choosing a Doctor or Health Care Service",
+  "language": "English",
+  "date_created": "03/09/2001",
+  "meta_description": "We all want high-quality health care, but it's hard to know how to choose. Learn about specific things to consider when finding a doctor.",
+  "summary": "We all want high-quality health care, but it's hard to know how to choose. There are many things to consider, including: What your insurance covers Whether a health care provider or service is accredited The location of a service Hours that the service is available Whether you like a health care provider's personality On this page you'll find information to help you choose a health care provider or service.",
+  "synonyms": [],
+  "groups": [
+    "Health System",
+    "Personal Health Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Health Facilities",
+      "url": "https://medlineplus.gov/healthfacilities.html",
+      "id": "486"
+    },
+    {
+      "title": "Patient Safety",
+      "url": "https://medlineplus.gov/patientsafety.html",
+      "id": "616"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Aging",
+      "url": "https://www.nia.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Delivery of Health Care",
+      "id": "D003695"
+    },
+    {
+      "name": "Physician-Patient Relations",
+      "id": "D010817"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/choosingadoctororhealthcareservice.html"
+}

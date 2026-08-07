@@ -1,0 +1,92 @@
+{
+  "id": "1785",
+  "title": "Enfermedades del cerebro",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los problemas en el cerebro pueden incluir tumores, derrames, inflamación, hematomas, etc. Infórmese sobre estos y muchos más aquí.",
+  "summary": "El cerebro es el centro de control del cuerpo. Controla sus pensamientos, memoria, habla y movimiento. Regula la función de muchos órganos. Es parte del sistema nervioso, que también incluye la médula espinal y los nervios periféricos. El sistema nervioso envía señales entre el cerebro y el resto del cuerpo. Sus nervios registran información de sus sentidos y la envían a su cerebro para ser procesada. Su cerebro y sus nervios también se comunican para ayudarle a moverse y controlar las funciones del cuerpo. Cuando el cerebro está sano, funciona de forma rápida y automática. Pero cuando tiene una enfermedad cerebral, puede afectar qué tan bien puede funcionar y realizar sus actividades diarias. Algunas enfermedades cerebrales comunes incluyen: Tumores cerebrales : Pueden ejercer presión sobre los nervios y afectar la función cerebral Enfermedades neurodegenerativas : Pueden afectar muchas de las actividades del cuerpo, como el equilibrio , el movimiento , el habla , la respiración y la función del corazón. Los tipos incluyen la enfermedad de Alzheimer y el Parkinson Encefalitis (inflamación del cerebro): Puede provocar problemas como pérdida de la visión , debilidad y parálisis Trastornos cerebrales genéticos : Son causados por cambios en los genes (también llamados variantes o mutaciones). Estos trastornos pueden afectar el desarrollo y la función del cerebro Accidentes cerebrovasculares : Pueden provocar la pérdida de células cerebrales y afectar la capacidad para pensar con claridad Lesiones cerebrales traumáticas : Pueden afectar la función cerebral. Pueden variar de leves a graves. Los efectos de una lesión cerebral traumática pueden ser temporales o permanentes Los síntomas de las enfermedades cerebrales varían ampliamente, dependiendo del problema específico. En algunos casos, el daño es permanente. En otros casos, tratamientos como cirugía, medicamentos o terapias como terapia física, ocupacional y del habla pueden curar la enfermedad o mejorar los síntomas.",
+  "synonyms": [
+    "Enfermedades cerebrales"
+  ],
+  "groups": [
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Accidente cerebrovascular",
+      "url": "https://medlineplus.gov/spanish/stroke.html",
+      "id": "2176"
+    },
+    {
+      "title": "Demencia",
+      "url": "https://medlineplus.gov/spanish/dementia.html",
+      "id": "1846"
+    },
+    {
+      "title": "Encefalitis",
+      "url": "https://medlineplus.gov/spanish/encephalitis.html",
+      "id": "1884"
+    },
+    {
+      "title": "Enfermedad de Alzheimer",
+      "url": "https://medlineplus.gov/spanish/alzheimersdisease.html",
+      "id": "1736"
+    },
+    {
+      "title": "Enfermedad de Creutzfeldt-Jakob",
+      "url": "https://medlineplus.gov/spanish/creutzfeldtjakobdisease.html",
+      "id": "1840"
+    },
+    {
+      "title": "Enfermedades del cerebelo",
+      "url": "https://medlineplus.gov/spanish/cerebellardisorders.html",
+      "id": "5920"
+    },
+    {
+      "title": "Enfermedades neurodegenerativas",
+      "url": "https://medlineplus.gov/spanish/degenerativenervediseases.html",
+      "id": "1845"
+    },
+    {
+      "title": "Epilepsia",
+      "url": "https://medlineplus.gov/spanish/epilepsy.html",
+      "id": "1888"
+    },
+    {
+      "title": "Hidrocefalia",
+      "url": "https://medlineplus.gov/spanish/hydrocephalus.html",
+      "id": "1965"
+    },
+    {
+      "title": "Malformaciones del cerebro",
+      "url": "https://medlineplus.gov/spanish/brainmalformations.html",
+      "id": "3023"
+    },
+    {
+      "title": "Trastornos cerebrales genéticos",
+      "url": "https://medlineplus.gov/spanish/geneticbraindisorders.html",
+      "id": "3118"
+    },
+    {
+      "title": "Tumores cerebrales",
+      "url": "https://medlineplus.gov/spanish/braintumors.html",
+      "id": "1784"
+    }
+  ],
+  "see_references": [
+    "Cerebro, Enfermedades del",
+    "Cerebro, Tumores",
+    "Kuru",
+    "Leucoencefalopatía multifocal progresiva",
+    "Tronco cerebral, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/braindiseases.html"
+}

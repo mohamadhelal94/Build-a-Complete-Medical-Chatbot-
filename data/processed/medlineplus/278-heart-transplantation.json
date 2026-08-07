@@ -1,0 +1,45 @@
+{
+  "id": "278",
+  "title": "Heart Transplantation",
+  "language": "English",
+  "date_created": "06/28/1999",
+  "meta_description": "A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. Read about the surgery, risks, and living with a transplant.",
+  "summary": "A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. The healthy heart comes from a donor who has died. It is the last resort for people with heart failure when all other treatments have failed. The heart failure might have been caused by coronary heart disease, damaged heart valves or heart muscles, congenital heart defects, or viral infections of the heart. Although heart transplant surgery is a life-saving measure, it has many risks. Careful monitoring, treatment, and regular medical care can prevent or help manage some of these risks. After the surgery, most heart transplant patients can return to their normal levels of activity. However, fewer than 30% return to work for many different reasons. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation",
+    "Transplantation and Donation"
+  ],
+  "related_topics": [
+    {
+      "title": "Cardiac Rehabilitation",
+      "url": "https://medlineplus.gov/cardiacrehabilitation.html",
+      "id": "5617"
+    },
+    {
+      "title": "Heart Failure",
+      "url": "https://medlineplus.gov/heartfailure.html",
+      "id": "199"
+    },
+    {
+      "title": "Organ Transplantation",
+      "url": "https://medlineplus.gov/organtransplantation.html",
+      "id": "1462"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Heart Transplantation",
+      "id": "D016027"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hearttransplantation.html"
+}

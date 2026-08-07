@@ -1,0 +1,45 @@
+{
+  "id": "531",
+  "title": "Hair Problems",
+  "language": "English",
+  "date_created": "08/26/1999",
+  "meta_description": "You have hair all over your body, not just on your head. Find out about what's normal, how to care for hair, and common hair problems.",
+  "summary": "The average person has 5 million hairs. Hair grows all over your body except on your lips, palms, and the soles of your feet. It takes about a month for healthy hair to grow half an inch. Most hairs grow for up to six years and then fall out. New hairs grow in their place. Hair helps keep you warm. It also protects your eyes, ears and nose from small particles in the air. Common problem with the hair and scalp include hair loss , infections, and flaking .",
+  "synonyms": [],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Dandruff, Cradle Cap, and Other Scalp Conditions",
+      "url": "https://medlineplus.gov/dandruffcradlecapandotherscalpconditions.html",
+      "id": "6410"
+    },
+    {
+      "title": "Hair Loss",
+      "url": "https://medlineplus.gov/hairloss.html",
+      "id": "5282"
+    }
+  ],
+  "see_references": [
+    "Folliculitis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hair Diseases",
+      "id": "D006201"
+    },
+    {
+      "name": "Dandruff",
+      "id": "D063807"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hairproblems.html"
+}

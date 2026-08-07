@@ -1,0 +1,46 @@
+{
+  "id": "3092",
+  "title": "Pruebas prenatales",
+  "language": "Spanish",
+  "date_created": "02/20/2003",
+  "meta_description": "Entérese cómo las pruebas prenatales evalúan su salud y la de su bebé durante el embarazo. Algunas son de rutina, otras para mujeres en riesgo.",
+  "summary": "¿Qué son las pruebas prenatales? Las pruebas prenatales proporcionan información acerca de la salud de su feto antes de nacer . Algunos exámenes rutinarios que se realizan durante el embarazo también evalúan su salud . La prueba prenatal puede utilizar una muestra de sangre, orina o líquido de la vagina, el cérvix o el recto. Dado que algunas afecciones pueden tratarse antes del nacimiento del feto, es importante detectarlas a tiempo. Pero incluso si no se pueden tratar, puede ser útil conocer el problema a tiempo. Esto le da tiempo para aprender sobre la afección y prepararse para cualquier desafío que pueda enfrentar después del nacimiento del feto. ¿Para qué se utilizan las pruebas prenatales? En su primera visita prenatal , su proveedor de cuidados de salud analizará varias cosas, incluyendo problemas con su sangre, signos de infecciones y si usted es inmune a la rubéola y a la varicela . En el transcurso de su embarazo, su proveedor de cuidados médicos puede sugerirle otros exámenes. Algunas de estas pruebas son comunes para todas las mujeres, como exámenes para detectar diabetes gestacional , síndrome de Down y VIH . Otras pruebas pueden ser ofrecidas basadas en su: Your provider might offer other tests based on your: Edad Historia clínica o familiar Raza Resultados de exámenes rutinarios ¿Cuáles son los dos tipos de pruebas prenatales? Existen dos tipos de pruebas: Exámenes de detección: Buscan posibles problemas de salud en usted o en su feto. Evalúan riesgos, pero no diagnostican problemas. Si su examen de detección tiene un resultado anormal, no significa que hay un problema. Quiere decir que es necesaria más información. Su proveedor de salud puede explicarle el significado de sus resultados y los posibles próximos pasos a tomar. Puede que necesite someterse a pruebas de diagnóstico. Pruebas de diagnóstico: Estas confirman o descartan ciertos problemas de salud en usted o en su feto. Usted decide si desea o no hacerse pruebas prenatales. Usted y su proveedor de salud pueden hablar sobre los riesgos y beneficios de estos exámenes y qué tipo de información pueden brindarle. De ahí, puede decidir cuáles son los adecuados para usted. Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU.",
+  "synonyms": [
+    "Pruebas durante el embarazo"
+  ],
+  "groups": [
+    "Embarazo y reproducción",
+    "Genética y defectos congénitos",
+    "Pruebas de diagnóstico",
+    "Sistema reproductor femenino"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidado prenatal",
+      "url": "https://medlineplus.gov/spanish/prenatalcare.html",
+      "id": "2107"
+    },
+    {
+      "title": "Salud y desarrollo fetal",
+      "url": "https://medlineplus.gov/spanish/fetalhealthanddevelopment.html",
+      "id": "6058"
+    }
+  ],
+  "see_references": [
+    "Amniocentesis",
+    "Análisis de la sangre materna",
+    "Exploración triple",
+    "Muestra del villus coriónico (CVS)",
+    "Prueba de glucosa",
+    "Ultrasonido"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/prenataltesting.html"
+}

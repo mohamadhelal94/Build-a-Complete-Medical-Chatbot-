@@ -1,0 +1,48 @@
+{
+  "id": "5571",
+  "title": "Sexual Problems in Men",
+  "language": "English",
+  "date_created": "07/28/2010",
+  "meta_description": "Learn about the causes of sexual problems in men and how to treat them. Causes may be physical, hormonal, psychological, or due to medicines.",
+  "summary": "Many men have sexual problems. They become more common as men age. Problems can include: Erectile dysfunction Reduced or lost interest in sex Problems with ejaculation Low testosterone Stress, illness, medicines, or emotional problems may also be factors. Occasional problems with sexual function are common. If problems last more than a few months or cause distress for you or your partner, you should see your health care provider.",
+  "synonyms": [],
+  "groups": [
+    "Men",
+    "Sexual Health Issues",
+    "Male Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Erectile Dysfunction",
+      "url": "https://medlineplus.gov/erectiledysfunction.html",
+      "id": "118"
+    },
+    {
+      "title": "Penis Disorders",
+      "url": "https://medlineplus.gov/penisdisorders.html",
+      "id": "1360"
+    },
+    {
+      "title": "Prostate Diseases",
+      "url": "https://medlineplus.gov/prostatediseases.html",
+      "id": "7"
+    },
+    {
+      "title": "Testicular Disorders",
+      "url": "https://medlineplus.gov/testiculardisorders.html",
+      "id": "4280"
+    }
+  ],
+  "see_references": [
+    "Premature Ejaculation"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Sexual Dysfunction, Physiological",
+      "id": "D012735"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sexualproblemsinmen.html"
+}

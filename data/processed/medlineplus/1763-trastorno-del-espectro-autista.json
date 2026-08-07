@@ -1,0 +1,46 @@
+{
+  "id": "1763",
+  "title": "Trastorno del espectro autista",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El trastorno del espectro autista afecta cómo una persona se comporta, interactúa con otros, se comunica y aprende. Tipos, síntomas, tratamiento.",
+  "summary": "El trastorno del espectro autista (TEA) es una afección neurológica y de desarrollo que comienza en la niñez y dura toda la vida. Afecta cómo una persona se comporta, interactúa con otros, se comunica y aprende. Este trastorno incluye lo que se conocía como síndrome de Asperger y el trastorno generalizado del desarrollo no especificado. Se lo llama \"trastorno de espectro\" porque diferentes personas con TEA pueden tener una gran variedad de síntomas distintos. Estas pueden tener problemas para hablar con usted y es posible que no lo miren a los ojos cuando usted les habla. Además, pueden tener intereses limitados y comportamientos repetitivos. Es posible que pasen mucho tiempo ordenando cosas o repitiendo una frase una y otra vez. Parecieran estar en su \"propio mundo\". Durante los chequeos regulares, el doctor debería examinar el desarrollo de su niño. Si existen signos de TEA, su niño tendrá una evaluación completa y exhaustiva. Esta puede incluir un equipo de especialistas que realizarán varios exámenes y evaluaciones para llegar a un diagnóstico. No se conocen las causas del trastorno del espectro autista. Las investigaciones sugieren que tanto los genes como los factores ambientales juegan un rol importante. Actualmente, no existe un tratamiento estándar para el TEA. Hay muchas maneras de maximizar la capacidad del niño para crecer y aprender nuevas habilidades. Cuanto antes se comience, mayores son las probabilidades de tener más efectos positivos en los síntomas y las aptitudes. Los tratamientos incluyen terapias de comportamiento y de comunicación, desarrollo de habilidades y/o medicamentos para controlar los síntomas. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [
+    "Autismo"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Desarrollo del niño",
+      "url": "https://medlineplus.gov/spanish/childdevelopment.html",
+      "id": "1812"
+    },
+    {
+      "title": "Salud mental",
+      "url": "https://medlineplus.gov/spanish/mentalhealth.html",
+      "id": "2034"
+    },
+    {
+      "title": "Trastornos de la conducta del niño",
+      "url": "https://medlineplus.gov/spanish/childbehaviordisorders.html",
+      "id": "1809"
+    }
+  ],
+  "see_references": [
+    "Asperger, Síndrome",
+    "Autismo",
+    "Trastornos generalizados del desarrollo"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/autismspectrumdisorder.html"
+}

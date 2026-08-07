@@ -1,0 +1,74 @@
+{
+  "id": "415",
+  "title": "Sports Fitness",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "Sports are a great way to get or stay in shape. Find tips on what you can do before and after your sports fitness session to maintain your health",
+  "summary": "Sports can be a great way to get in shape or stay that way. Having a specific goal can be a great motivator. Physically, you need strength and endurance. Your training will vary with your sport. You would not train the same way for pole vaulting as for swimming. You might, however, cross train. Cross training simply means that you include a variety of fitness activities in your program. Research shows that cross training builds stronger bones. Remember to listen to your body. If you frequently feel exhausted or you are in pain, you may be overdoing it. Injuries can be the result. And be sure that you use your body and your equipment safely . What you eat and drink is also important. Water is the most important nutrient for active people. Drink it before, during and after workouts.",
+  "synonyms": [],
+  "groups": [
+    "Wellness and Lifestyle",
+    "Fitness and Exercise"
+  ],
+  "related_topics": [
+    {
+      "title": "Anabolic Steroids",
+      "url": "https://medlineplus.gov/anabolicsteroids.html",
+      "id": "136"
+    },
+    {
+      "title": "Benefits of Exercise",
+      "url": "https://medlineplus.gov/benefitsofexercise.html",
+      "id": "6601"
+    },
+    {
+      "title": "Exercise and Physical Fitness",
+      "url": "https://medlineplus.gov/exerciseandphysicalfitness.html",
+      "id": "490"
+    },
+    {
+      "title": "Exercise for Children",
+      "url": "https://medlineplus.gov/exerciseforchildren.html",
+      "id": "3012"
+    },
+    {
+      "title": "Exercise for Older Adults",
+      "url": "https://medlineplus.gov/exerciseforolderadults.html",
+      "id": "1530"
+    },
+    {
+      "title": "How Much Exercise Do I Need?",
+      "url": "https://medlineplus.gov/howmuchexercisedoineed.html",
+      "id": "6603"
+    },
+    {
+      "title": "Sports Injuries",
+      "url": "https://medlineplus.gov/sportsinjuries.html",
+      "id": "620"
+    },
+    {
+      "title": "Sports Safety",
+      "url": "https://medlineplus.gov/sportssafety.html",
+      "id": "1702"
+    }
+  ],
+  "see_references": [
+    "Fitness",
+    "Performance-Enhancing Drugs",
+    "Weight Training"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Sports Medicine",
+      "id": "D013178"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sportsfitness.html"
+}

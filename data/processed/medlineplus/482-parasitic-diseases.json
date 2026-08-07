@@ -1,0 +1,99 @@
+{
+  "id": "482",
+  "title": "Parasitic Diseases",
+  "language": "English",
+  "date_created": "07/19/1999",
+  "meta_description": "Parasitic diseases are diseases transmitted by parasites, usually found in contaminated food, water or bug bites. Protect yourself with these tips.",
+  "summary": "Parasites are living things that use other living things - like your body - for food and a place to live. You can get them from contaminated food or water, a bug bite, or sexual contact. Some parasitic diseases are easily treated and some are not. Parasites range in size from tiny, one-celled organisms called protozoa to worms that can be seen with the naked eye. Some parasitic diseases occur in the United States. Contaminated water supplies can lead to Giardia infections . Cats can transmit toxoplasmosis , which is dangerous for pregnant women. Others, like malaria , are common in other parts of the world. If you are traveling , it's important to drink only water you know is safe. Prevention is especially important. There are no vaccines for parasitic diseases. Some medicines are available to treat parasitic infections.",
+  "synonyms": [],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Body Lice",
+      "url": "https://medlineplus.gov/bodylice.html",
+      "id": "6071"
+    },
+    {
+      "title": "Chagas Disease",
+      "url": "https://medlineplus.gov/chagasdisease.html",
+      "id": "3660"
+    },
+    {
+      "title": "Cryptosporidiosis",
+      "url": "https://medlineplus.gov/cryptosporidiosis.html",
+      "id": "1591"
+    },
+    {
+      "title": "Foodborne Illness",
+      "url": "https://medlineplus.gov/foodborneillness.html",
+      "id": "254"
+    },
+    {
+      "title": "Giardia Infections",
+      "url": "https://medlineplus.gov/giardiainfections.html",
+      "id": "1258"
+    },
+    {
+      "title": "Head Lice",
+      "url": "https://medlineplus.gov/headlice.html",
+      "id": "272"
+    },
+    {
+      "title": "Leishmaniasis",
+      "url": "https://medlineplus.gov/leishmaniasis.html",
+      "id": "3748"
+    },
+    {
+      "title": "Malaria",
+      "url": "https://medlineplus.gov/malaria.html",
+      "id": "315"
+    },
+    {
+      "title": "Pinworms",
+      "url": "https://medlineplus.gov/pinworms.html",
+      "id": "3065"
+    },
+    {
+      "title": "Pubic Lice",
+      "url": "https://medlineplus.gov/pubiclice.html",
+      "id": "6947"
+    },
+    {
+      "title": "Scabies",
+      "url": "https://medlineplus.gov/scabies.html",
+      "id": "1254"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://medlineplus.gov/toxoplasmosis.html",
+      "id": "1214"
+    },
+    {
+      "title": "Traveler's Health",
+      "url": "https://medlineplus.gov/travelershealth.html",
+      "id": "444"
+    },
+    {
+      "title": "Trichomoniasis",
+      "url": "https://medlineplus.gov/trichomoniasis.html",
+      "id": "4325"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Parasitic Diseases",
+      "id": "D010272"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/parasiticdiseases.html"
+}

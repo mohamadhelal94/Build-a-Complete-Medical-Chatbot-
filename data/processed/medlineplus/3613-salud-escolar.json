@@ -1,0 +1,39 @@
+{
+  "id": "3613",
+  "title": "Salud escolar",
+  "language": "Spanish",
+  "date_created": "02/02/2004",
+  "meta_description": "Su hijo pasa más tiempo en la escuela que en cualquier otro lugar, excepto en casa. Las escuelas pueden afectar la salud de los niños. Entérese aquí.",
+  "summary": "Su hijo pasa más tiempo en la escuela que en cualquier otro lugar, excepto en casa. Las escuelas pueden tener un efecto importante en la salud de los niños. La escuela puede enseñarles sobre salud y promover hábitos saludables. Las clases de educación física proveen a los niños oportunidades para hacer ejercicio. Las escuelas trabajan para: Prevenir comportamientos riesgosos como el consumo del alcohol y el tabaco o la intimidación y ciberacoso Promover hábitos saludables como el ejercicio y el comer sano Lidiar con problemas de salud específicos de los estudiantes, tales como el asma , la obesidad y las enfermedades infecciosas. El edificio y el ambiente escolar deben ser seguros y sanos para el niño.",
+  "synonyms": [
+    "Salud en el colegio",
+    "Salud en la escuela"
+  ],
+  "groups": [
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Intimidación y ciberacoso",
+      "url": "https://medlineplus.gov/spanish/bullyingandcyberbullying.html",
+      "id": "4027"
+    },
+    {
+      "title": "Salud en la universidad",
+      "url": "https://medlineplus.gov/spanish/collegehealth.html",
+      "id": "5418"
+    },
+    {
+      "title": "Seguridad del niño",
+      "url": "https://medlineplus.gov/spanish/childsafety.html",
+      "id": "1813"
+    }
+  ],
+  "see_references": [
+    "Escuela, Salud de los niños en la"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/schoolhealth.html"
+}

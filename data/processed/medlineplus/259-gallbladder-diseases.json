@@ -1,0 +1,47 @@
+{
+  "id": "259",
+  "title": "Gallbladder Diseases",
+  "language": "English",
+  "date_created": "01/22/1999",
+  "meta_description": "Gallbladder diseases begin when something blocks the flow of bile through the bile ducts. Uncover more facts about Gallbladder and its associated conditions.",
+  "summary": "Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine. Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the bile ducts . That is usually a gallstone . Gallstones form when substances in bile harden. Rarely, you can also get cancer in your gallbladder. Many gallbladder problems get better with removal of the gallbladder. Fortunately, you can live without a gallbladder. Bile has other ways of reaching your small intestine.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bile Duct Diseases",
+      "url": "https://medlineplus.gov/bileductdiseases.html",
+      "id": "3787"
+    },
+    {
+      "title": "Gallbladder Cancer",
+      "url": "https://medlineplus.gov/gallbladdercancer.html",
+      "id": "4645"
+    },
+    {
+      "title": "Gallstones",
+      "url": "https://medlineplus.gov/gallstones.html",
+      "id": "4643"
+    }
+  ],
+  "see_references": [
+    "Biliary Tract Diseases",
+    "Cholecystectomy"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Gallbladder Diseases",
+      "id": "D005705"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/gallbladderdiseases.html"
+}

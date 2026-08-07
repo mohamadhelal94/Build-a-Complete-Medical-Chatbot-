@@ -1,0 +1,74 @@
+{
+  "id": "1973",
+  "title": "Contaminación de interiores",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La contaminación de interiores tiene los mismos efectos negativos en la salud que la contaminación ambiental. Las fuentes son el moho, pesticidas y más.",
+  "summary": "Solemos pensar que la contaminación del aire ocurre en exteriores, pero el aire dentro de su casa u oficina también puede estar contaminado. Las fuentes de contaminación de interiores incluyen: Moho y el polen Humo del tabaco Productos del hogar y pesticidas Gases como el radón y el monóxido de carbono Materiales usados en la construcción, como asbesto , formaldehído y plomo A veces un grupo de personas tiene los mismos síntomas que parecen estar relacionados con haber estado un tiempo en un mismo edificio. Puede haber una causa específica, como en la enfermedad del legionario. A veces la causa no se puede encontrar. A esto se conoce como síndrome del edificio enfermo. En general, los problemas con la calidad del aire en interiores solamente causan molestias y la mayoría de las personas se siente mejor al eliminar la fuente de contaminación. Sin embargo, algunos contaminantes pueden causar cuadros que se presentan mucho más tarde, como enfermedades respiratorias o cáncer. Asegurarse de que su edificio está bien ventilado y eliminar los contaminantes puede mejorar la calidad del aire en interiores. Agencia de Protección Ambiental",
+  "synonyms": [
+    "Calidad del aire interior en su hogar",
+    "Polución en casa"
+  ],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental"
+  ],
+  "related_topics": [
+    {
+      "title": "Asbesto",
+      "url": "https://medlineplus.gov/spanish/asbestos.html",
+      "id": "1758"
+    },
+    {
+      "title": "Asma",
+      "url": "https://medlineplus.gov/spanish/asthma.html",
+      "id": "1760"
+    },
+    {
+      "title": "Contaminación del aire",
+      "url": "https://medlineplus.gov/spanish/airpollution.html",
+      "id": "1730"
+    },
+    {
+      "title": "Envenenamiento con monóxido de carbono",
+      "url": "https://medlineplus.gov/spanish/carbonmonoxidepoisoning.html",
+      "id": "1797"
+    },
+    {
+      "title": "Envenenamiento con plomo",
+      "url": "https://medlineplus.gov/spanish/leadpoisoning.html",
+      "id": "2000"
+    },
+    {
+      "title": "Inhalación pasiva de humo",
+      "url": "https://medlineplus.gov/spanish/secondhandsmoke.html",
+      "id": "2140"
+    },
+    {
+      "title": "Moho",
+      "url": "https://medlineplus.gov/spanish/molds.html",
+      "id": "2037"
+    },
+    {
+      "title": "Pesticidas",
+      "url": "https://medlineplus.gov/spanish/pesticides.html",
+      "id": "2085"
+    },
+    {
+      "title": "Radón",
+      "url": "https://medlineplus.gov/spanish/radon.html",
+      "id": "2117"
+    }
+  ],
+  "see_references": [
+    "Casa, Contaminación"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de las Ciencias de Salud Ambiental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIEHS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/indoorairpollution.html"
+}

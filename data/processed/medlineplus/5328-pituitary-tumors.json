@@ -1,0 +1,37 @@
+{
+  "id": "5328",
+  "title": "Pituitary Tumors",
+  "language": "English",
+  "date_created": "12/22/2009",
+  "meta_description": "Pituitary tumors are common. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body.",
+  "summary": "Your pituitary gland is a pea-sized gland at the base of your brain. The pituitary is the \"master control gland\" - it makes hormones that affect growth and the functions of other glands in the body. Pituitary tumors are common, but often they don't cause health problems. Most people with pituitary tumors never even know they have them. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body. This can cause endocrine diseases such as Cushing's syndrome and hyperthyroidism . Symptoms of pituitary tumors include: Headaches Vision problems Nausea and vomiting Problems caused by the production of too many hormones Pituitary tumors are usually curable. Treatment is often surgery to remove the tumor. Other options include medicines, radiation therapy, and chemotherapy.",
+  "synonyms": [],
+  "groups": [
+    "Cancers",
+    "Endocrine System"
+  ],
+  "related_topics": [
+    {
+      "title": "Pituitary Disorders",
+      "url": "https://medlineplus.gov/pituitarydisorders.html",
+      "id": "362"
+    }
+  ],
+  "see_references": [
+    "Prolactinoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pituitary Neoplasms",
+      "id": "D010911"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pituitarytumors.html"
+}

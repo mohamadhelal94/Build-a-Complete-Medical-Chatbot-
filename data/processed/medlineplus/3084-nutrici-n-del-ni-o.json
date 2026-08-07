@@ -1,0 +1,42 @@
+{
+  "id": "3084",
+  "title": "Nutrición del niño",
+  "language": "Spanish",
+  "date_created": "02/20/2003",
+  "meta_description": "Una dieta saludable ayuda a los niños a crecer y aprender mejor. Aquí información sobre nutrición para niños y cómo introducir comidas sanas en su dieta.",
+  "summary": "Una dieta saludable ayuda a los niños a crecer y a aprender. También ayuda a prevenir la obesidad y las enfermedades relacionadas con el peso, como la diabetes. Para darle a su hijo una dieta nutritiva: Prepare la mitad de lo que le da de comer con frutas y verduras Prefiera las fuentes saludables de proteínas, como carnes magras, nueces y huevos Sirva panes integrales y cereales porque son ricos en fibras. Reduzca los granos refinados Hornee, ase o cocine al vapor los alimentos en lugar de freírlos Limite la comida rápida y chatarra Ofrézcale agua y leche en lugar de jugos de frutas con azúcar y gaseosas Averigüe sobre las necesidades nutricionales de sus hijos. Algunas de ellas, como las necesidades de hierro y calcio, cambian a medida que su hijo crece. Fuente: NIH: Instituto Nacional de la Diabetes y Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Alimentación del niño"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Nutrición",
+      "url": "https://medlineplus.gov/spanish/nutrition.html",
+      "id": "2058"
+    },
+    {
+      "title": "Nutrición del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewbornnutrition.html",
+      "id": "3751"
+    },
+    {
+      "title": "Nutrición del niño pequeño",
+      "url": "https://medlineplus.gov/spanish/toddlernutrition.html",
+      "id": "5423"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/childnutrition.html"
+}

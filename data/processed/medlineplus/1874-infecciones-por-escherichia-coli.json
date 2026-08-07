@@ -1,0 +1,49 @@
+{
+  "id": "1874",
+  "title": "Infecciones por Escherichia coli",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Infecciones por E. coli son causadas por una bacteria. Puede hacer que se sienta enfermo. Conozca los síntomas de E. coli, tratamientos, y más.",
+  "summary": "E. coli es el nombre de un tipo de bacteria que vive en el intestino. La mayoría de las E. coli no causan problemas. Pero, algunos tipos pueden producir enfermedades y causar diarrea . Uno de ellos causa la diarrea del viajero. El peor tipo de E. coli causa una diarrea hemorrágica y a veces puede causar insuficiencia renal y hasta la muerte. Esto, en general, ocurre en niños y en adultos con sistemas inmunitarios debilitados. Se pueden adquirir infecciones por E. coli al consumir alimentos que contienen la bacteria. Los síntomas pueden incluir: Náuseas o vómitos Fuertes cólicos abdominales Diarrea líquida o con mucha sangre Cansancio Fiebre Para evitar la intoxicación por alimentos y prevenir infecciones, manipule la comida con seguridad . Cocine bien las carnes, lave las frutas y verduras antes de comerlas o cocinarlas y evite la leche y los jugos sin pasteurizar. La infección también se puede adquirir al tragar agua en una piscina contaminada con desechos humanos. La mayoría de los casos de infección por E. coli mejoran sin tratamiento en cinco a 10 días.",
+  "synonyms": [
+    "E. Coli"
+  ],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Diarrea",
+      "url": "https://medlineplus.gov/spanish/diarrhea.html",
+      "id": "1858"
+    },
+    {
+      "title": "Enfermedades transmitidas por alimentos",
+      "url": "https://medlineplus.gov/spanish/foodborneillness.html",
+      "id": "1909"
+    },
+    {
+      "title": "Infecciones bacterianas",
+      "url": "https://medlineplus.gov/spanish/bacterialinfections.html",
+      "id": "1767"
+    },
+    {
+      "title": "Seguridad con los alimentos",
+      "url": "https://medlineplus.gov/spanish/foodsafety.html",
+      "id": "1910"
+    }
+  ],
+  "see_references": [
+    "E. coli (Escherichia coli), Infecciones por",
+    "Escherichia coli"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ecoliinfections.html"
+}

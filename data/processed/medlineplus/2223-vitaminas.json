@@ -1,0 +1,89 @@
+{
+  "id": "2223",
+  "title": "Vitaminas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las vitaminas son sustancias que el cuerpo necesita para crecer y desarrollarse en forma normal. Cada vitamina tiene funciones específicas.",
+  "summary": "Las vitaminas son sustancias que el cuerpo necesita para crecer y desarrollarse normalmente. Su cuerpo necesita 13 vitaminas. Estas son: Vitamina A Vitaminas B (tiamina, riboflavina, niacina, ácido pantoténico, biotina, vitamina B-6, vitamina B-12 y folato o ácido fólico ) Vitamina C Vitamina D Vitamina E Vitamina K Por lo general, las vitaminas provienen de los alimentos que consume. El cuerpo también puede producir vitaminas D y K. Las personas que llevan una dieta vegetariana pueden necesitar un suplemento de vitamina B12. Cada vitamina tiene funciones específicas. Si tiene bajos niveles de determinadas vitaminas, puede tener problemas de salud. Por ejemplo, si no recibe suficiente vitamina C, podría desarrollar anemia. Algunas vitaminas pueden ayudar a prevenir los problemas médicos. La vitamina A previene la ceguera nocturna. La mejor manera de obtener suficientes vitaminas es mantener una dieta balanceada con alimentos variados. En algunos casos, es posible que se necesite un multivitamínico diario. Es una buena idea hablar con su proveedor de salud al respecto. Altas dosis de algunas vitaminas pueden ocasionar problemas.",
+  "synonyms": [],
+  "groups": [
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidantes",
+      "url": "https://medlineplus.gov/spanish/antioxidants.html",
+      "id": "1751"
+    },
+    {
+      "title": "Calcio",
+      "url": "https://medlineplus.gov/spanish/calcium.html",
+      "id": "2781"
+    },
+    {
+      "title": "Medicina herbaria",
+      "url": "https://medlineplus.gov/spanish/herbalmedicine.html",
+      "id": "1951"
+    },
+    {
+      "title": "Minerales en la dieta",
+      "url": "https://medlineplus.gov/spanish/minerals.html",
+      "id": "4299"
+    },
+    {
+      "title": "Nutrición",
+      "url": "https://medlineplus.gov/spanish/nutrition.html",
+      "id": "2058"
+    },
+    {
+      "title": "Suplementos en la dieta",
+      "url": "https://medlineplus.gov/spanish/dietarysupplements.html",
+      "id": "3539"
+    },
+    {
+      "title": "Vitamina A",
+      "url": "https://medlineplus.gov/spanish/vitamina.html",
+      "id": "5374"
+    },
+    {
+      "title": "Vitamina C",
+      "url": "https://medlineplus.gov/spanish/vitaminc.html",
+      "id": "5381"
+    },
+    {
+      "title": "Vitamina D",
+      "url": "https://medlineplus.gov/spanish/vitamind.html",
+      "id": "5384"
+    },
+    {
+      "title": "Vitamina E",
+      "url": "https://medlineplus.gov/spanish/vitamine.html",
+      "id": "5386"
+    },
+    {
+      "title": "Vitamina K",
+      "url": "https://medlineplus.gov/spanish/vitamink.html",
+      "id": "5389"
+    },
+    {
+      "title": "Vitaminas B",
+      "url": "https://medlineplus.gov/spanish/bvitamins.html",
+      "id": "5377"
+    },
+    {
+      "title": "Ácido fólico",
+      "url": "https://medlineplus.gov/spanish/folicacid.html",
+      "id": "1907"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Oficina de Suplementos Dietéticos",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#ODS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/vitamins.html"
+}

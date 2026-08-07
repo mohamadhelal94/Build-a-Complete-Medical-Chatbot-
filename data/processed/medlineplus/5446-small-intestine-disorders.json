@@ -1,0 +1,99 @@
+{
+  "id": "5446",
+  "title": "Small Intestine Disorders",
+  "language": "English",
+  "date_created": "04/12/2010",
+  "meta_description": "Your small intestine connects your stomach to your large intestine (or colon). Find out about different diseases and disorders of the small intestine.",
+  "summary": "Your small intestine is the longest part of your digestive system - about twenty feet long! It connects your stomach to your large intestine (or colon) and folds many times to fit inside your abdomen. Your small intestine does most of the digesting of the foods you eat. It has three areas called the duodenum, the ileum, and the jejunum. Problems with the small intestine can include: Bleeding Celiac disease Crohn's disease Infections Intestinal cancer Intestinal obstruction Irritable bowel syndrome Ulcers, such as peptic ulcer Treatment of disorders of the small intestine depends on the cause.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Celiac Disease",
+      "url": "https://medlineplus.gov/celiacdisease.html",
+      "id": "897"
+    },
+    {
+      "title": "Crohn's Disease",
+      "url": "https://medlineplus.gov/crohnsdisease.html",
+      "id": "119"
+    },
+    {
+      "title": "Diarrhea",
+      "url": "https://medlineplus.gov/diarrhea.html",
+      "id": "211"
+    },
+    {
+      "title": "Digestive Diseases",
+      "url": "https://medlineplus.gov/digestivediseases.html",
+      "id": "29"
+    },
+    {
+      "title": "Gastroenteritis",
+      "url": "https://medlineplus.gov/gastroenteritis.html",
+      "id": "3056"
+    },
+    {
+      "title": "Gastrointestinal Bleeding",
+      "url": "https://medlineplus.gov/gastrointestinalbleeding.html",
+      "id": "1308"
+    },
+    {
+      "title": "Intestinal Cancer",
+      "url": "https://medlineplus.gov/intestinalcancer.html",
+      "id": "3652"
+    },
+    {
+      "title": "Intestinal Obstruction",
+      "url": "https://medlineplus.gov/intestinalobstruction.html",
+      "id": "5275"
+    },
+    {
+      "title": "Irritable Bowel Syndrome",
+      "url": "https://medlineplus.gov/irritablebowelsyndrome.html",
+      "id": "614"
+    },
+    {
+      "title": "Malabsorption Syndromes",
+      "url": "https://medlineplus.gov/malabsorptionsyndromes.html",
+      "id": "5459"
+    },
+    {
+      "title": "Ostomy",
+      "url": "https://medlineplus.gov/ostomy.html",
+      "id": "3038"
+    },
+    {
+      "title": "Peptic Ulcer",
+      "url": "https://medlineplus.gov/pepticulcer.html",
+      "id": "357"
+    }
+  ],
+  "see_references": [
+    "Intestinal Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Jejunal Diseases",
+      "id": "D007579"
+    },
+    {
+      "name": "Duodenal Diseases",
+      "id": "D004378"
+    },
+    {
+      "name": "Ileal Diseases",
+      "id": "D007077"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/smallintestinedisorders.html"
+}

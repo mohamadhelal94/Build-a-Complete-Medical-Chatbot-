@@ -1,0 +1,46 @@
+{
+  "id": "313",
+  "title": "Macular Degeneration",
+  "language": "English",
+  "date_created": "03/05/1999",
+  "meta_description": "Macular degeneration, or age-related macular degeneration (AMD), causes vision loss in older adults. Learn about the types and what can help.",
+  "summary": "Macular degeneration, or age-related macular degeneration (AMD), is a leading cause of vision loss in Americans 60 and older. It is a disease that destroys your sharp, central vision. You need central vision to see objects clearly and to do tasks such as reading and driving. AMD affects the macula, the part of the eye that allows you to see fine detail. It does not hurt, but it causes cells in the macula to die. There are two types: wet and dry. Wet AMD happens when abnormal blood vessels grow under the macula. These new blood vessels often leak blood and fluid. Wet AMD damages the macula quickly. Blurred vision is a common early symptom. Dry AMD happens when the light-sensitive cells in the macula slowly break down. You gradually lose your central vision. A common early symptom is that straight lines appear crooked. Regular comprehensive eye exams can detect macular degeneration before the disease causes vision loss. Treatment can slow vision loss. It does not restore vision. NIH: National Eye Institute",
+  "synonyms": [
+    "AMD",
+    "Age-related macular degeneration"
+  ],
+  "groups": [
+    "Older Adults",
+    "Eyes and Vision"
+  ],
+  "related_topics": [
+    {
+      "title": "Eye Diseases",
+      "url": "https://medlineplus.gov/eyediseases.html",
+      "id": "247"
+    },
+    {
+      "title": "Vision Impairment and Blindness",
+      "url": "https://medlineplus.gov/visionimpairmentandblindness.html",
+      "id": "165"
+    }
+  ],
+  "see_references": [
+    "AMD",
+    "Age-Related Macular Degeneration"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Macular Degeneration",
+      "id": "D008268"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/maculardegeneration.html"
+}

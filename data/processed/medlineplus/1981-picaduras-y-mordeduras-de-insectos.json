@@ -1,0 +1,86 @@
+{
+  "id": "1981",
+  "title": "Picaduras y mordeduras de insectos",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La mayoría de las picaduras de insectos son inofensivas, aunque pueden causar molestias. Sin embargo, otras pueden causar enfermedades. Cómo prevenirlas.",
+  "summary": "La mayoría de las picaduras de insectos son inofensivas, aunque a veces causen molestias. Las picaduras de los aguijones de las abejas, las avispas, los avispones y mordeduras de las hormigas rojas suelen ser dolorosas. Las picaduras de mosquitos y las pulgas causan picazón. Los insectos también transmiten enfermedades. En Estados Unidos, algunos mosquitos trasmiten el virus del Nilo occidental . Las personas que viajan fuera de los Estados Unidos pueden estar en riesgo de contraer malaria y otras infecciones. Para prevenir las picaduras de insectos y sus complicaciones: No moleste a los insectos Use repelente contra insectos Use ropa protectora Sea cuidadoso si come afuera porque la comida atrae a los insectos Si sabe que tiene reacciones alérgicas a picaduras o mordeduras de insectos (como anafilaxia ), lleve consigo un botiquín de emergencia con epinefrina",
+  "synonyms": [
+    "Picaduras de bichos"
+  ],
+  "groups": [
+    "Piel, cabello y uñas",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Anafilaxia",
+      "url": "https://medlineplus.gov/spanish/anaphylaxis.html",
+      "id": "6258"
+    },
+    {
+      "title": "Chinches de cama",
+      "url": "https://medlineplus.gov/spanish/bedbugs.html",
+      "id": "5650"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/spanish/dengue.html",
+      "id": "3105"
+    },
+    {
+      "title": "Enfermedad de Lyme",
+      "url": "https://medlineplus.gov/spanish/lymedisease.html",
+      "id": "2015"
+    },
+    {
+      "title": "Malaria",
+      "url": "https://medlineplus.gov/spanish/malaria.html",
+      "id": "2019"
+    },
+    {
+      "title": "Mordeduras de animales",
+      "url": "https://medlineplus.gov/spanish/animalbites.html",
+      "id": "1775"
+    },
+    {
+      "title": "Peste",
+      "url": "https://medlineplus.gov/spanish/plague.html",
+      "id": "2258"
+    },
+    {
+      "title": "Picaduras de arañas",
+      "url": "https://medlineplus.gov/spanish/spiderbites.html",
+      "id": "5250"
+    },
+    {
+      "title": "Picaduras de garrapatas",
+      "url": "https://medlineplus.gov/spanish/tickbites.html",
+      "id": "2253"
+    },
+    {
+      "title": "Virus del Nilo Occidental",
+      "url": "https://medlineplus.gov/spanish/westnilevirus.html",
+      "id": "2228"
+    }
+  ],
+  "see_references": [
+    "Abejas, Picadura",
+    "Avispa, Picadura",
+    "Chinches, Picaduras",
+    "Ciempiés, Picadura",
+    "Escorpiones, Picaduras",
+    "Insectos, Mordeduras y picaduras",
+    "Mosquito, Picadura de",
+    "Repelentes de insectos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/insectbitesandstings.html"
+}

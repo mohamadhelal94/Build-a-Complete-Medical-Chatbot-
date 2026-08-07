@@ -1,0 +1,31 @@
+{
+  "id": "2258",
+  "title": "Peste",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La peste es una infección causada por la bacteria Yersinia pestis. Existen varios tipos, como la peste bubónica, septicémica y neumónica. Más aquí.",
+  "summary": "La peste es una infección causada por la bacteria Yersinia pestis. Las bacterias se encuentran principalmente entre ratas y en las moscas que se alimentan de ellas. Las personas y otros animales pueden adquirir la peste a través de mordeduras de estos animales. En el pasado, la peste destruyó civilizaciones enteras. En la actualidad, la peste es poco común gracias a las mejores condiciones de vida y a los antibióticos. Existen tres tipos de pestes: Peste bubónica, que causa inflamación de las amígdalas, las adenoides, el bazo y el timo. Los síntomas incluyen fiebre, dolores, escalofríos y sensibilidad en los ganglios linfáticos Peste septicémica, en la que las bacterias se multiplican en la sangre. Causa fiebre, escalofríos, shock y hemorragias debajo de la piel o en otros órganos Peste neumónica, en la que las bacterias alcanzan los pulmones y causan neumonía. Las personas infectadas pueden contagiar este tipo de peste a otras personas. Esta es la más grave y puede ser usada como un agente bioterrorista El diagnóstico se hace a través de pruebas de laboratorio. El tratamiento es un antibiótico fuerte. No existe una vacuna.",
+  "synonyms": [
+    "Plaga"
+  ],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Biodefensa y bioterrorismo",
+      "url": "https://medlineplus.gov/spanish/biodefenseandbioterrorism.html",
+      "id": "1771"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/plague.html"
+}

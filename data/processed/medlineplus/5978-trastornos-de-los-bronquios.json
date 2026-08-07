@@ -1,0 +1,43 @@
+{
+  "id": "5978",
+  "title": "Trastornos de los bronquios",
+  "language": "Spanish",
+  "date_created": "03/01/2012",
+  "meta_description": "Los bronquios son tubos que se ramifican desde la tráquea y llevan aire a los pulmones. Su problema más común es la bronquitis. Síntomas, tratamiento aquí.",
+  "summary": "Los bronquios son dos tubos que se ramifican desde la tráquea y llevan aire a los pulmones. El trastorno bronquial más común es la bronquitis, una inflamación de los tubos. La bronquitis puede ser aguda o crónica . Otros problemas incluyen: Bronquiectasia, una afección en la cual el daño a las vías respiratorias hace que se ensanchen, se vuelvan flácidas y con cicatrices Broncoespasmo inducido por ejercicio, ocurre cuando las vías respiratorias se contraen mientras usted está haciendo ejercicio Bronquiolitis, una inflamación de las vías aéreas pequeñas que se ramifican desde los bronquios Displasia broncopulmonar, una afección que afecta a los bebés El tratamiento de los trastornos bronquiales depende de la causa.",
+  "synonyms": [
+    "Problemas bronquiales"
+  ],
+  "groups": [
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Asma",
+      "url": "https://medlineplus.gov/spanish/asthma.html",
+      "id": "1760"
+    },
+    {
+      "title": "Bronquitis aguda",
+      "url": "https://medlineplus.gov/spanish/acutebronchitis.html",
+      "id": "5756"
+    },
+    {
+      "title": "Bronquitis crónica",
+      "url": "https://medlineplus.gov/spanish/chronicbronchitis.html",
+      "id": "1790"
+    }
+  ],
+  "see_references": [
+    "Bronquios, Trastornos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bronchialdisorders.html"
+}

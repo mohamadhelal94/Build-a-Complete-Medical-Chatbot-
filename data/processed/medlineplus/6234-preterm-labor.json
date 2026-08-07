@@ -1,0 +1,36 @@
+{
+  "id": "6234",
+  "title": "Preterm Labor",
+  "language": "English",
+  "date_created": "07/06/2015",
+  "meta_description": "Preterm labor is labor that begins before the 37th week of pregnancy. Learn what signs to look for in a preterm labor such as cramps or bleeding.",
+  "summary": "Preterm labor is labor that starts before 37 completed weeks of pregnancy. It can lead to premature birth. Premature babies may face serious health risks. Symptoms of preterm labor include: Contractions every 10 minutes or more often Leaking fluid or bleeding from the vagina Feeling of pressure in the pelvis Low, dull backache Cramps that feel like menstrual cramps Abdominal cramps with or without diarrhea If you think you might be having preterm labor, contact your health care provider. NIH: National Institute of Child Health and Human Development",
+  "synonyms": [
+    "Early Labor",
+    "Premature Birth",
+    "Premature Labor",
+    "Preterm Birth"
+  ],
+  "groups": [
+    "Female Reproductive System"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Premature Birth",
+    "Premature Labor"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Obstetric Labor, Premature",
+      "id": "D007752"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pretermlabor.html"
+}

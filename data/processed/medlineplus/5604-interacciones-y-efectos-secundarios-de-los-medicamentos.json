@@ -1,0 +1,57 @@
+{
+  "id": "5604",
+  "title": "Interacciones y efectos secundarios de los medicamentos",
+  "language": "Spanish",
+  "date_created": "08/25/2010",
+  "meta_description": "Si toma medicamentos con o sin receta, debería prestar atencion a reacciones no deseadas. Lea sobre las interacciones entre medicamentos y mucho más.",
+  "summary": "La mayoría de las veces, los medicamentos hacen que nuestras vidas sean mejores. Reducen dolores y molestias, combaten infecciones y controlan problemas como la presión arterial alta o la diabetes. Pero también pueden causar reacciones no deseadas, como interacciones entre medicamentos, efectos secundarios y alergias. ¿Qué es una interacción de medicamentos? Una interacción de medicamentos es un cambio en la forma en que un medicamento actúa en el cuerpo cuando se toma con otras medicinas, alimentos o suplementos; o cuando se toma mientras tiene ciertas afecciones médicas. Por ejemplo, entre: Dos medicamentos, como aspirina y anticoagulantes Medicamentos y alimentos, como estatinas y pomelo Medicamentos y suplementos, como ginkgo y anticoagulantes Medicamentos y afecciones médicas, como aspirina y úlceras pépticas Las interacciones podrían hacer que un medicamento sea más o menos efectivo, causar efectos secundarios o cambiar la forma en que funcionan uno o ambos medicamentos. ¿Qué son los efectos secundarios? Los efectos secundarios son efectos no deseados, generalmente desagradables, causados por medicamentos. La mayoría son leves, como dolor de estómago, boca seca o somnolencia, y desaparecen al dejar de tomar el medicamento. Otros pueden ser más graves. En ocasiones, un medicamento puede interactuar con una enfermedad que tiene y causar un efecto secundario. Por ejemplo, si tiene una afección cardíaca, ciertos descongestionantes pueden hacer que tenga latidos cardíacos rápidos. ¿Qué son las alergias a medicamentos? Las alergias a medicamentos son otro tipo de reacción. Pueden variar de leves a potencialmente mortales. Las reacciones cutáneas, como urticaria y sarpullido , son el tipo más común. La anafilaxia , una reacción alérgica grave, es menos común. ¿Cómo mantenerme seguro cuando tomo medicamentos? Cuando empiece a tomar un nuevo medicamento recetado o de venta libre, asegúrese de entender cómo tomarlo correctamente . Sepa qué otros medicamentos, alimentos y suplementos debe evitar. Siempre hable con su profesional de la salud o farmacéutico si tiene preguntas sobre sus medicamentos.",
+  "synonyms": [],
+  "groups": [
+    "Tratamiento con medicamentos"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia",
+      "url": "https://medlineplus.gov/spanish/allergy.html",
+      "id": "1734"
+    },
+    {
+      "title": "Anafilaxia",
+      "url": "https://medlineplus.gov/spanish/anaphylaxis.html",
+      "id": "6258"
+    },
+    {
+      "title": "Errores en la administración de medicamentos",
+      "url": "https://medlineplus.gov/spanish/medicationerrors.html",
+      "id": "5720"
+    },
+    {
+      "title": "Medicamentos",
+      "url": "https://medlineplus.gov/spanish/medicines.html",
+      "id": "1719"
+    },
+    {
+      "title": "Medicamentos sin receta médica",
+      "url": "https://medlineplus.gov/spanish/overthecountermedicines.html",
+      "id": "3800"
+    },
+    {
+      "title": "Seguridad de los medicamentos",
+      "url": "https://medlineplus.gov/spanish/drugsafety.html",
+      "id": "1870"
+    },
+    {
+      "title": "Urticaria",
+      "url": "https://medlineplus.gov/spanish/hives.html",
+      "id": "1959"
+    }
+  ],
+  "see_references": [
+    "Medicinas, Efectos adversos",
+    "Medicinas, Interacciones"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/drugreactions.html"
+}

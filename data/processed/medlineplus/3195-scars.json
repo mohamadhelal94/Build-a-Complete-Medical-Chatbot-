@@ -1,0 +1,41 @@
+{
+  "id": "3195",
+  "title": "Scars",
+  "language": "English",
+  "date_created": "04/28/2003",
+  "meta_description": "A scar is a permanent patch of skin that grows over a wound. It forms as your body heals itself. Learn about types, including keloids, and treatments.",
+  "summary": "A scar is a permanent patch of skin that grows over a wound . It forms when your body heals itself after a cut, scrape, burn, or sore. You can also get scars from surgery that cuts through the skin, infections like chickenpox, or skin conditions like acne . Scars are often thicker, as well as pinker, redder, or shinier, than the rest of your skin. How your scar looks depends on: How big and deep your wound is Where it is How long it takes to heal Your age Your inherited tendency to scar Scars usually fade over time but never go away completely. If the way a scar looks bothers you, various treatments might minimize it. These include surgical revision, dermabrasion, laser treatments, injections, chemical peels, and creams.",
+  "synonyms": [
+    "Cicatrix",
+    "Keloid scar"
+  ],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Plastic and Cosmetic Surgery",
+      "url": "https://medlineplus.gov/plasticandcosmeticsurgery.html",
+      "id": "38"
+    }
+  ],
+  "see_references": [
+    "Cicatrix",
+    "Hypertrophic Scar",
+    "Keloids"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cicatrix",
+      "id": "D002921"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/scars.html"
+}

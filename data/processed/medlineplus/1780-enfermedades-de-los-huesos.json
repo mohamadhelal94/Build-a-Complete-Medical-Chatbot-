@@ -1,0 +1,72 @@
+{
+  "id": "1780",
+  "title": "Enfermedades de los huesos",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las enfermedades de los huesos pueden facilitar las fracturas. Entérese cómo pueden afectarlo aquí.",
+  "summary": "Los huesos lo ayudan a moverse, le dan forma y apoyan a su cuerpo. Son tejidos vivos que se regeneran constantemente durante su vida. Durante la infancia y la adolescencia, el cuerpo agrega huesos nuevos más rápido de lo que elimina los antiguos. Después de los 20 años de edad, puede perder huesos más rápido de los que produce. Para tener huesos fuertes cuando se es joven, y prevenir la pérdida ósea en edades avanzadas, debe consumir suficiente calcio y vitamina D , así como ejercitarse. Además debe evitar fumar y tomar mucho alcohol. Las enfermedades de los huesos pueden facilitar las fracturas . Estas enfermedades incluyen: Baja densidad ósea y osteoporosis : Debilita los huesos y aumenta las probabilidades de fracturas Osteogénesis imperfecta : Hace que sus huesos sean frágiles y quebradizos Enfermedad de Paget en el hueso : Debilita los huesos Los huesos también pueden desarrollar cáncer e infecciones Otras enfermedades de los huesos: Producidas por una mala nutrición, factores genéticos o problemas con la velocidad de crecimiento o regeneración ósea NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Enfermedades óseas"
+  ],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de hueso",
+      "url": "https://medlineplus.gov/spanish/bonecancer.html",
+      "id": "1779"
+    },
+    {
+      "title": "Densidad ósea",
+      "url": "https://medlineplus.gov/spanish/bonedensity.html",
+      "id": "5936"
+    },
+    {
+      "title": "Enfermedad de Paget en el hueso",
+      "url": "https://medlineplus.gov/spanish/pagetsdiseaseofbone.html",
+      "id": "2071"
+    },
+    {
+      "title": "Infecciones de los huesos",
+      "url": "https://medlineplus.gov/spanish/boneinfections.html",
+      "id": "5740"
+    },
+    {
+      "title": "Osteogénesis imperfecta",
+      "url": "https://medlineplus.gov/spanish/osteogenesisimperfecta.html",
+      "id": "2066"
+    },
+    {
+      "title": "Osteonecrosis",
+      "url": "https://medlineplus.gov/spanish/osteonecrosis.html",
+      "id": "2254"
+    },
+    {
+      "title": "Osteoporosis",
+      "url": "https://medlineplus.gov/spanish/osteoporosis.html",
+      "id": "2067"
+    },
+    {
+      "title": "Raquitismo",
+      "url": "https://medlineplus.gov/spanish/rickets.html",
+      "id": "3899"
+    }
+  ],
+  "see_references": [
+    "Fibrodisplasia",
+    "Huesos, Enfermedades de",
+    "Legg-Calve-Perthes, Enfermedad de",
+    "Osteocondritis disecante",
+    "Tumores óseos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bonediseases.html"
+}

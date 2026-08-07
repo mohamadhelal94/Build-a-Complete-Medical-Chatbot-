@@ -1,0 +1,32 @@
+{
+  "id": "1539",
+  "title": "Ozone",
+  "language": "English",
+  "date_created": "09/21/2001",
+  "meta_description": "Ozone is a gas that can be good or bad. Good ozone is 10-30 miles above Earth's surface while bad ozone is at ground level. Read more about both.",
+  "summary": "Ozone is a gas. It can be good or bad, depending on where it is. \"Good\" ozone occurs naturally about 10 to 30 miles above the Earth's surface. It shields us from the sun's ultraviolet rays. Part of the good ozone layer is gone. Man-made chemicals have destroyed it. Without enough good ozone, people may get too much ultraviolet radiation. This may increase the risk of skin cancer, cataracts, and immune system problems. \"Bad\" ozone is at ground level. It forms when pollutants from cars, factories, and other sources react chemically with sunlight. It is the main ingredient in smog . It is usually worst in the summer. Breathing bad ozone can be harmful. It can cause coughing, throat irritation, worsening of asthma , bronchitis, and emphysema . It can lead to permanent lung damage, if you are regularly exposed to it. Environmental Protection Agency",
+  "synonyms": [],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ozone",
+      "id": "D010126"
+    },
+    {
+      "name": "Stratospheric Ozone",
+      "id": "D062952"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/ozone.html"
+}

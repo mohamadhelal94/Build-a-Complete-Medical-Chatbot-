@@ -1,0 +1,57 @@
+{
+  "id": "3586",
+  "title": "Tumores benignos",
+  "language": "Spanish",
+  "date_created": "10/06/2003",
+  "meta_description": "Los tumores son crecimientos anormales en el cuerpo. Pueden ser benignos o malignos. Los benignos no son cáncer y solo crecen en una parte del cuerpo.",
+  "summary": "Los tumores son crecimientos anormales en el cuerpo. Pueden ser benignos o malignos. Los tumores benignos no son cáncer, pero los malignos sí. Los tumores benignos solo crecen en una parte del cuerpo. No pueden aparecer ni invadir otras partes del cuerpo. Aún así, pueden ser peligrosos si presionan órganos importantes, tales como el cerebro. Los tumores están formados por células extras. En general, las células crecen y se dividen en otras células cuando el cuerpo las necesita. Cuando las células envejecen, se mueren y otras células nuevas toman su lugar. Algunas veces, este proceso no resulta como se espera: se forman células nuevas, aún cuando no son necesarias y las células viejas no mueren cuando deberían. Cuando estas células adicionales forman una masa, se les conoce como un tumor. Con frecuencia, el tratamiento incluye cirugía. Los tumores benignos no suelen crecer nuevamente. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Tumor no canceroso"
+  ],
+  "groups": [
+    "Cánceres"
+  ],
+  "related_topics": [
+    {
+      "title": "Esclerosis tuberosa",
+      "url": "https://medlineplus.gov/spanish/tuberoussclerosis.html",
+      "id": "2207"
+    },
+    {
+      "title": "Fibroides uterinos",
+      "url": "https://medlineplus.gov/spanish/uterinefibroids.html",
+      "id": "2215"
+    },
+    {
+      "title": "Neurofibromatosis",
+      "url": "https://medlineplus.gov/spanish/neurofibromatosis.html",
+      "id": "2052"
+    },
+    {
+      "title": "Neuroma acústico",
+      "url": "https://medlineplus.gov/spanish/acousticneuroma.html",
+      "id": "2251"
+    },
+    {
+      "title": "Pólipos del colon",
+      "url": "https://medlineplus.gov/spanish/colonicpolyps.html",
+      "id": "3135"
+    }
+  ],
+  "see_references": [
+    "Cáncer benigno",
+    "Lipomas",
+    "Nódulos tiroideos",
+    "Tumor benigno",
+    "Tumores pituitarios"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/benigntumors.html"
+}

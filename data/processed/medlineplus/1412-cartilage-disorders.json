@@ -1,0 +1,52 @@
+{
+  "id": "1412",
+  "title": "Cartilage Disorders",
+  "language": "English",
+  "date_created": "12/28/2000",
+  "meta_description": "Cartilage covers the ends of your bones. Sports injuries and other disorders can cause cartilage problems. Learn how to take care of your cartilage.",
+  "summary": "Cartilage is the tough but flexible tissue that covers the ends of your bones at a joint. It also gives shape and support to other parts of your body, such as your ears, nose and windpipe. Healthy cartilage helps you move by allowing your bones to glide over each other. It also protects bones by preventing them from rubbing against each other. Injured, inflamed, or damaged cartilage can cause symptoms such as pain and limited movement. It can also lead to joint damage and deformity. Causes of cartilage problems include : Tears and injuries, such as sports injuries Genetic factors Other disorders, such as some types of arthritis Osteoarthritis results from breakdown of cartilage. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Connective Tissue Disorders",
+      "url": "https://medlineplus.gov/connectivetissuedisorders.html",
+      "id": "1411"
+    },
+    {
+      "title": "Elbow Injuries and Disorders",
+      "url": "https://medlineplus.gov/elbowinjuriesanddisorders.html",
+      "id": "506"
+    },
+    {
+      "title": "Joint Disorders",
+      "url": "https://medlineplus.gov/jointdisorders.html",
+      "id": "4621"
+    },
+    {
+      "title": "Knee Injuries and Disorders",
+      "url": "https://medlineplus.gov/kneeinjuriesanddisorders.html",
+      "id": "304"
+    }
+  ],
+  "see_references": [
+    "Costochondritis",
+    "Polychondritis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cartilage Diseases",
+      "id": "D002357"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cartilagedisorders.html"
+}

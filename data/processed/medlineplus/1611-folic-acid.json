@@ -1,0 +1,45 @@
+{
+  "id": "1611",
+  "title": "Folic Acid",
+  "language": "English",
+  "date_created": "03/27/2002",
+  "meta_description": "If you are pregnant, your doctor has probably talked to you about folic acid. This important B vitamin is also important for everyone. Learn more.",
+  "summary": "Folic acid is a B vitamin . It helps the body make healthy new cells. Everyone needs folic acid. For women who may get pregnant, it is really important. Getting enough folic acid before and during pregnancy can prevent major birth defects of her baby's brain or spine. Foods with folic acid in them include: Leafy green vegetables Fruits Dried beans, peas, and nuts Enriched breads, cereals and other grain products If you don't get enough folic acid from the foods you eat, you can also take it as a dietary supplement . NIH: National Institutes of Health Office of Dietary Supplements",
+  "synonyms": [
+    "Folacin",
+    "Folate",
+    "Pteroylglutamic acid",
+    "Vitamin B9"
+  ],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Vitamins",
+      "url": "https://medlineplus.gov/vitamins.html",
+      "id": "456"
+    }
+  ],
+  "see_references": [
+    "Folate"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Folic Acid Deficiency",
+      "id": "D005494"
+    },
+    {
+      "name": "Folic Acid",
+      "id": "D005492"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/folicacid.html"
+}

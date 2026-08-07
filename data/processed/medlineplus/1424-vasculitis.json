@@ -1,0 +1,58 @@
+{
+  "id": "1424",
+  "title": "Vasculitis",
+  "language": "English",
+  "date_created": "02/20/2001",
+  "meta_description": "Vasculitis, also called Angiitis, is an inflammation of the blood vessels. Learn about symptoms and treatment.",
+  "summary": "Vasculitis is an inflammation of the blood vessels. It happens when the body's immune system attacks the blood vessel by mistake. It can happen because of an infection, a medicine, or another disease. The cause is often unknown. Vasculitis can affect arteries, veins and capillaries. Arteries are vessels that carry blood from the heart to the body's organs. Veins are the vessels that carry blood back to the heart. Capillaries are tiny blood vessels that connect the small arteries and veins. When a blood vessel becomes inflamed, it can: Narrow, making it more difficult for blood to get through. Close off completely so that blood can't get through. Stretch and weaken so much that it bulges. The bulge is called an aneurysm . If it bursts, it can cause dangerous bleeding inside the body. Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "Angiitis"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Behcet's Syndrome",
+      "url": "https://medlineplus.gov/behcetssyndrome.html",
+      "id": "1084"
+    },
+    {
+      "title": "Giant Cell Arteritis",
+      "url": "https://medlineplus.gov/giantcellarteritis.html",
+      "id": "5615"
+    },
+    {
+      "title": "Granulomatosis with Polyangiitis",
+      "url": "https://medlineplus.gov/granulomatosiswithpolyangiitis.html",
+      "id": "1447"
+    },
+    {
+      "title": "Polymyalgia Rheumatica",
+      "url": "https://medlineplus.gov/polymyalgiarheumatica.html",
+      "id": "1382"
+    },
+    {
+      "title": "Vascular Diseases",
+      "url": "https://medlineplus.gov/vasculardiseases.html",
+      "id": "533"
+    }
+  ],
+  "see_references": [
+    "Angiitis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Vasculitis",
+      "id": "D014657"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vasculitis.html"
+}

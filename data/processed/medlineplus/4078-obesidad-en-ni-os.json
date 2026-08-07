@@ -1,0 +1,51 @@
+{
+  "id": "4078",
+  "title": "Obesidad en niños",
+  "language": "Spanish",
+  "date_created": "04/19/2005",
+  "meta_description": "¿Cuál es la diferencia entre el sobrepeso y la obesidad en los niños? ¿Cómo ayudar a los niños a controlar el exceso de peso? Entérese aquí.",
+  "summary": "La obesidad se caracteriza por la acumulación de grasa en el cuerpo. Se diferencia del sobrepeso, que significa pesar más de lo recomendado. Ambos términos significan que el peso de una persona está por encima de lo que se considera saludable según su estatura. Los niños crecen a distintas velocidades, por lo que no siempre es fácil saber cuándo un niño tiene sobrepeso u obesidad. Pídale a su proveedor de atención médica que examine si el peso y la estatura de su hijo se encuentran dentro de lo que se considera saludable. Si es necesario comenzar un programa para bajar de peso, involucre a toda la familia para que su hijo no se sienta solo. Fomente una alimentación saludable al: Servir más frutas y vegetales Comprar menos gaseosas y meriendas altas en calorías y grasas Asegurarse que su hijo tome su desayuno todos los días No comer comida basura en forma frecuente No usar la comida como un premio La actividad física también es muy importante. Los niños necesitan unos 60 minutos diarios de actividad física, aunque no todos de una vez. Esta puede dividirse en períodos cortos y ser igual de productiva. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Obesidad infantil"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Alimentos y nutrición",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Control de peso",
+      "url": "https://medlineplus.gov/spanish/weightcontrol.html",
+      "id": "2227"
+    },
+    {
+      "title": "Nutrición del niño",
+      "url": "https://medlineplus.gov/spanish/childnutrition.html",
+      "id": "3084"
+    },
+    {
+      "title": "Obesidad",
+      "url": "https://medlineplus.gov/spanish/obesity.html",
+      "id": "2059"
+    },
+    {
+      "title": "Peso corporal",
+      "url": "https://medlineplus.gov/spanish/bodyweight.html",
+      "id": "5611"
+    }
+  ],
+  "see_references": [
+    "Adolescentes, Obesidad",
+    "Obesidad, Chicos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/obesityinchildren.html"
+}

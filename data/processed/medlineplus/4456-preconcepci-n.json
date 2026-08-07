@@ -1,0 +1,44 @@
+{
+  "id": "4456",
+  "title": "Preconcepción",
+  "language": "Spanish",
+  "date_created": "05/08/2007",
+  "meta_description": "Si usted quiere quedar embarazada puede prepararse para tener un embarazo y un bebé sano. Aquí cómo identificar días fértiles y más información.",
+  "summary": "Si usted está tratando de tener un bebé o está pensando en ello, no es demasiado temprano para prepararse para un embarazo seguro y un bebé sano. Usted debe ver a su proveedor de salud acerca de los cuidados previos a la concepción. El cuidado de preconcepción es la atención que usted recibe antes de quedar embarazada. Su médico puede ayudarle a determinar cuáles son los pasos que debe tomar ahora, como por ejemplo: Encontrar y solucionar cualquier problema que pudiera afectarle a usted y a su bebé más tarde, como la diabetes o la hipertensión arterial Aumentar la cantidad de ácido fólico para prevenir defectos del tubo neural Aplicar todas las vacunas Evitar fumar, beber alcohol o tomar drogas Tratar de llegar a un peso saludable Al tomar acción sobre los problemas de salud antes del embarazo, puede evitarlos usted y su bebé en el futuro. Una vez que está embarazada, se le proporcionará atención prenatal hasta que nazca su bebé. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [
+    "Cuidado antes de concebir",
+    "Cuidado antes del embarazo"
+  ],
+  "groups": [
+    "Mujeres",
+    "Embarazo y reproducción",
+    "Hombres"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidado prenatal",
+      "url": "https://medlineplus.gov/spanish/prenatalcare.html",
+      "id": "2107"
+    },
+    {
+      "title": "Embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancy.html",
+      "id": "2103"
+    },
+    {
+      "title": "Infertilidad",
+      "url": "https://medlineplus.gov/spanish/infertility.html",
+      "id": "1979"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/preconceptioncare.html"
+}

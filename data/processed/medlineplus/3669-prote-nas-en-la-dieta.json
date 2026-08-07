@@ -1,0 +1,39 @@
+{
+  "id": "3669",
+  "title": "Proteínas en la dieta",
+  "language": "Spanish",
+  "date_created": "02/02/2004",
+  "meta_description": "Es importante obtener suficientes proteínas en la dieta. Debe comerlas a diario, porque el cuerpo no las acumula como las grasas o carbohidratos. Fuentes.",
+  "summary": "Las proteínas se encuentran en cada célula del cuerpo. Nuestro organismo necesita proteínas de los alimentos que ingerimos para fortalecer y mantener los huesos, los músculos y la piel. Obtenemos proteínas de la carne, los productos lácteos, las nueces y algunos granos o guisantes. Las proteínas de la carne y otros productos animales son proteínas completas, es decir, suministran todos los aminoácidos que el cuerpo no puede producir por sí mismo. La mayoría de las proteínas de las plantas son incompletas. Usted debe combinar distintos tipos de proteínas de plantas cada día para obtener todos los aminoácidos que el cuerpo requiere. Es importante obtener suficientes proteínas en la dieta. Usted debe comer proteínas todos los días, porque el cuerpo no las almacena del mismo modo que acumula grasas o carbohidratos. La cantidad que necesita depende de su edad, sexo, estado de salud y nivel de actividad física. La mayoría de estadounidenses consume suficiente proteína en su dieta.",
+  "synonyms": [],
+  "groups": [
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Carbohidratos en la dieta",
+      "url": "https://medlineplus.gov/spanish/carbohydrates.html",
+      "id": "3671"
+    },
+    {
+      "title": "Control de peso",
+      "url": "https://medlineplus.gov/spanish/weightcontrol.html",
+      "id": "2227"
+    },
+    {
+      "title": "Nutrición",
+      "url": "https://medlineplus.gov/spanish/nutrition.html",
+      "id": "2058"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Oficina de Suplementos Dietéticos",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#ODS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/dietaryproteins.html"
+}

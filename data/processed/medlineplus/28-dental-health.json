@@ -1,0 +1,72 @@
+{
+  "id": "28",
+  "title": "Dental Health",
+  "language": "English",
+  "date_created": "02/10/1999",
+  "meta_description": "Investing in dental health can yield many benefits. Discover a list of simple ways to keep your oral health on track.",
+  "summary": "It's important to take care of your mouth and teeth starting in childhood . If you don't, you could have problems with your teeth and gums - like cavities or even tooth loss. Here's how to keep your mouth and teeth healthy: Brush your teeth twice a day with a fluoride toothpaste Clean between your teeth every day with floss or another type of between-the-teeth cleaner Snack smart - limit sugary snacks Don't smoke or chew tobacco See your dentist or oral health professional regularly NIH: National Institute of Dental and Craniofacial Research",
+  "synonyms": [
+    "Oral health"
+  ],
+  "groups": [
+    "Mouth and Teeth",
+    "Wellness and Lifestyle"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Dental Health",
+      "url": "https://medlineplus.gov/childdentalhealth.html",
+      "id": "1535"
+    },
+    {
+      "title": "Dentures",
+      "url": "https://medlineplus.gov/dentures.html",
+      "id": "3583"
+    },
+    {
+      "title": "Gum Disease",
+      "url": "https://medlineplus.gov/gumdisease.html",
+      "id": "266"
+    },
+    {
+      "title": "Orthodontia",
+      "url": "https://medlineplus.gov/orthodontia.html",
+      "id": "3614"
+    },
+    {
+      "title": "Tooth Decay",
+      "url": "https://medlineplus.gov/toothdecay.html",
+      "id": "5951"
+    },
+    {
+      "title": "Tooth Disorders",
+      "url": "https://medlineplus.gov/toothdisorders.html",
+      "id": "3069"
+    }
+  ],
+  "see_references": [
+    "Oral Health"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Dental and Craniofacial Research",
+      "url": "http://www.nidcr.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Oral Hygiene",
+      "id": "D009910"
+    },
+    {
+      "name": "Dental Care",
+      "id": "D003729"
+    },
+    {
+      "name": "Oral Health",
+      "id": "D009909"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/dentalhealth.html"
+}

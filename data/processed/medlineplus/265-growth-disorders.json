@@ -1,0 +1,58 @@
+{
+  "id": "265",
+  "title": "Growth Disorders",
+  "language": "English",
+  "date_created": "07/26/1999",
+  "meta_description": "Growth disorders affect a child's development. The pituitary gland makes growth hormone. Abnormal growth can signal a gland problem or disease.",
+  "summary": "Does your child seem much shorter - or much taller - than other kids his or her age? It could be normal. Some children may be small for their age but still be developing normally. Some children are short or tall because their parents are. But some children have growth disorders. Growth disorders are problems that prevent children from developing normal height, weight, sexual maturity or other features. Very slow or very fast growth can sometimes signal a gland problem or disease. The pituitary gland makes growth hormone, which stimulates the growth of bone and other tissues. Children who have too little of it may be very short. Treatment with growth hormone can stimulate growth. People can also have too much growth hormone. Usually the cause is a pituitary gland tumor, which is not cancer. Too much growth hormone can cause gigantism in children, where their bones and their body grow too much. In adults, it can cause acromegaly, which makes the hands, feet and face larger than normal. Possible treatments include surgery to remove the tumor, medicines, and radiation therapy.",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Endocrine System"
+  ],
+  "related_topics": [
+    {
+      "title": "Dwarfism",
+      "url": "https://medlineplus.gov/dwarfism.html",
+      "id": "1244"
+    },
+    {
+      "title": "Endocrine Diseases",
+      "url": "https://medlineplus.gov/endocrinediseases.html",
+      "id": "475"
+    },
+    {
+      "title": "Hormones",
+      "url": "https://medlineplus.gov/hormones.html",
+      "id": "1499"
+    },
+    {
+      "title": "Pituitary Disorders",
+      "url": "https://medlineplus.gov/pituitarydisorders.html",
+      "id": "362"
+    },
+    {
+      "title": "Turner Syndrome",
+      "url": "https://medlineplus.gov/turnersyndrome.html",
+      "id": "1504"
+    }
+  ],
+  "see_references": [
+    "Acromegaly",
+    "Failure to Thrive"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Growth Disorders",
+      "id": "D006130"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/growthdisorders.html"
+}

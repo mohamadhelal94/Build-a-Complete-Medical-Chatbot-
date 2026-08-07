@@ -1,0 +1,50 @@
+{
+  "id": "2075",
+  "title": "Enfermedades del páncreas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los problemas del páncreas pueden conducir a muchos problemas de salud: pancreatitis, cáncer, etc. El páncreas también juega un papel en la diabetes.",
+  "summary": "El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de azúcar en la sangre . Los problemas en el páncreas pueden conducir a muchos problemas de salud. Entre ellos: Pancreatitis o inflamación del páncreas: esto ocurre cuando las enzimas digestivas comienzan a digerir al mismo páncreas Cáncer de páncreas Fibrosis quística , un trastorno genético en el que una secreción mucosa espesa y pegajosa pueden obstruir los conductos pancreáticos El páncreas también tiene un papel en la diabetes. En la diabetes tipo I , las células beta del páncreas no producen insulina debido a una reacción del sistema inmunitario del cuerpo contra ellas. En la diabetes tipo 2 , el páncreas pierde la capacidad de segregar suficiente insulina en respuesta a las comidas.",
+  "synonyms": [
+    "Enfermedades pancreáticas"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Sistema endocrino"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de páncreas",
+      "url": "https://medlineplus.gov/spanish/pancreaticcancer.html",
+      "id": "2074"
+    },
+    {
+      "title": "Fibrosis quística",
+      "url": "https://medlineplus.gov/spanish/cysticfibrosis.html",
+      "id": "1843"
+    },
+    {
+      "title": "Pancreatitis",
+      "url": "https://medlineplus.gov/spanish/pancreatitis.html",
+      "id": "5877"
+    },
+    {
+      "title": "Trasplante de páncreas",
+      "url": "https://medlineplus.gov/spanish/pancreastransplantation.html",
+      "id": "2073"
+    }
+  ],
+  "see_references": [
+    "Páncreas, Enfermedades del",
+    "Zollinger-Ellison, Síndrome"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/pancreaticdiseases.html"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5560",
+  "title": "Coma",
+  "language": "Spanish",
+  "date_created": "07/06/2010",
+  "meta_description": "El coma es un estado profundo de inconsciencia donde una persona está viva pero es incapaz de moverse o responder a su entorno.",
+  "summary": "El coma es un estado profundo de inconsciencia. Una persona en coma está viva pero incapaz de moverse o responder a su entorno. El estado de coma se puede presentar como una complicación de una enfermedad subyacente o como resultado de lesiones, tales como traumatismo del cráneo . El estado de coma rara vez dura más de 2 a 4 semanas. El resultado depende de la causa, la severidad y sitio de la lesión. La gente puede salir de un coma con problemas físicos, intelectuales y psicológicos. Algunas personas pueden permanecer en coma durante años o incluso décadas. Para esa gente, la causa de muerte más común es una infección, como una neumonía. NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+  "synonyms": [
+    "Estado vegetativo"
+  ],
+  "groups": [
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Lesión cerebral traumática",
+      "url": "https://medlineplus.gov/spanish/traumaticbraininjury.html",
+      "id": "1930"
+    }
+  ],
+  "see_references": [
+    "Estado vegetativo"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/coma.html"
+}

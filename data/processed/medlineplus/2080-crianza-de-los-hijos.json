@@ -1,0 +1,40 @@
+{
+  "id": "2080",
+  "title": "Crianza de los hijos",
+  "language": "Spanish",
+  "date_created": "12/30/2002",
+  "meta_description": "Hay más de una manera \"correcta\" de ser buenos padres. La seguridad de los hijos es primordial. Entérese sobre la crianza de los hijos.",
+  "summary": "Si usted tiene hijos, recibe muchas sugerencias sobre cómo debe criarlos. Desde expertos hasta otros padres, las personas están siempre dispuestas a darle consejos. Consejos sobre la crianza de los hijos, guías de supervivencia para padres, lo que debe y no debe hacer, cosas nuevas aparecen todos los días. La verdad es que hay más de una manera \"correcta\" de ser buenos padres. Ser buenos padres incluye: Mantener a sus hijo sanos y seguros Demostrarles afecto y escucharlos Proveer orden y su consistencia Determinar y hacer cumplir los límites Pasar tiempo con sus hijos Supervisar las amistades y las actividades de sus hijos Darles el ejemplo NIH: Instituto Nacional de la Salud del Niño y Desarrollo Humano",
+  "synonyms": [
+    "Educación de los hijos"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Asuntos sociales y familiares"
+  ],
+  "related_topics": [
+    {
+      "title": "Asuntos familiares",
+      "url": "https://medlineplus.gov/spanish/familyissues.html",
+      "id": "1899"
+    },
+    {
+      "title": "Desarrollo del niño",
+      "url": "https://medlineplus.gov/spanish/childdevelopment.html",
+      "id": "1812"
+    }
+  ],
+  "see_references": [
+    "Chicos, Crianza de",
+    "Niños, Crianza de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/parenting.html"
+}

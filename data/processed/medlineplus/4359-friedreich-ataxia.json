@@ -1,0 +1,37 @@
+{
+  "id": "4359",
+  "title": "Friedreich Ataxia",
+  "language": "English",
+  "date_created": "04/18/2006",
+  "meta_description": "Friedreich ataxia (FA) is an inherited disease that damages your nervous system. Symptoms usually begin between ages 5 and 15. Learn the symptoms.",
+  "summary": "Friedreich ataxia is an inherited disease that damages your nervous system. The damage affects your spinal cord and the nerves that control muscle movement in your arms and legs. Symptoms usually begin between the ages of 5 and 15. The main symptom is ataxia, which means trouble coordinating movements. Specific symptoms include: Difficulty walking Muscle weakness Speech problems Involuntary eye movements Scoliosis (curving of the spine to one side) Heart palpitations, from the heart disease which can happen along with Friedreich ataxia People with Friedreich ataxia usually need a wheelchair 15 to 20 years after symptoms first appear. In severe cases, people become incapacitated. There is no cure. You can treat symptoms with medicines, braces, surgery, and physical therapy. NIH: National Institute of Neurological Disorders and Stroke",
+  "synonyms": [],
+  "groups": [
+    "Brain and Nerves",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Degenerative Nerve Diseases",
+      "url": "https://medlineplus.gov/degenerativenervediseases.html",
+      "id": "619"
+    }
+  ],
+  "see_references": [
+    "Ataxia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Friedreich Ataxia",
+      "id": "D005621"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/friedreichataxia.html"
+}

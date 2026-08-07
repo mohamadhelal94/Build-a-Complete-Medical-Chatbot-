@@ -1,0 +1,46 @@
+{
+  "id": "1532",
+  "title": "Sciatica",
+  "language": "English",
+  "date_created": "08/24/2001",
+  "meta_description": "Sciatica is a symptom of a problem with the sciatic nerve causing pain, weakness, numbness, or tingling. Read about causes, tests, and treatment.",
+  "summary": "Sciatica is a symptom of a problem with the sciatic nerve, the largest nerve in the body. It controls muscles in the back of your knee and lower leg and provides feeling to the back of your thigh, part of your lower leg, and the sole of your foot. When you have sciatica, you have pain, weakness, numbness, or tingling. It can start in the lower back and extend down your leg to your calf, foot, or even your toes. It's usually on only one side of your body. Causes of sciatica include: A ruptured intervertebral disk Narrowing of the spinal canal that puts pressure on the nerve, called spinal stenosis An injury such as a pelvic fracture. In many cases no cause can be found. Sometimes sciatica goes away on its own. Treatment, if needed, depends on the cause of the problem. It may include exercises, medicines, and surgery.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Brain and Nerves",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Back Pain",
+      "url": "https://medlineplus.gov/backpain.html",
+      "id": "157"
+    },
+    {
+      "title": "Herniated Disk",
+      "url": "https://medlineplus.gov/herniateddisk.html",
+      "id": "284"
+    },
+    {
+      "title": "Peripheral Nerve Disorders",
+      "url": "https://medlineplus.gov/peripheralnervedisorders.html",
+      "id": "1095"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Sciatica",
+      "id": "D012585"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sciatica.html"
+}

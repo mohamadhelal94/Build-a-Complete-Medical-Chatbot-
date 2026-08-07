@@ -1,0 +1,47 @@
+{
+  "id": "5617",
+  "title": "Cardiac Rehabilitation",
+  "language": "English",
+  "date_created": "08/24/2010",
+  "meta_description": "Cardiac rehabilitation (rehab) is a program to help you get better after heart problems or heart surgery.  Learn what it includes and how it can help.",
+  "summary": "Cardiac rehabilitation (rehab) is a medically supervised program to help people who have: A heart attack Angioplasty or coronary artery bypass grafting for coronary heart disease A heart valve repair or replacement A heart transplant or a lung transplant Angina Heart failure The goal is to help you return to an active life, and to reduce the risk of further heart problems. A team of specialists will create a plan for you that includes exercise training, education on heart healthy living, and counseling to reduce stress. You will learn how to reduce your risk factors, such as high blood pressure, high blood cholesterol, depression, and diabetes. Being overweight, having obesity, smoking, and not exercising are other risk factors. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation",
+    "Surgery and Rehabilitation"
+  ],
+  "related_topics": [
+    {
+      "title": "Heart Attack",
+      "url": "https://medlineplus.gov/heartattack.html",
+      "id": "5"
+    },
+    {
+      "title": "Heart Diseases",
+      "url": "https://medlineplus.gov/heartdiseases.html",
+      "id": "277"
+    },
+    {
+      "title": "How to Prevent Heart Disease",
+      "url": "https://medlineplus.gov/howtopreventheartdisease.html",
+      "id": "1598"
+    }
+  ],
+  "see_references": [
+    "Heart Diseases--Rehabilitation"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cardiac Rehabilitation",
+      "id": "D000072038"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cardiacrehabilitation.html"
+}

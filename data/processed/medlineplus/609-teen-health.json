@@ -1,0 +1,72 @@
+{
+  "id": "609",
+  "title": "Teen Health",
+  "language": "English",
+  "date_created": "11/23/1999",
+  "meta_description": "Teenagers go through many changes, primarily when it comes to body image. Read on how incorporating healthy habits can help them feel their best",
+  "summary": "As a teenager, you go through many changes. Your body is on its way to becoming its adult size. You may notice that you can't fit into your old shoes or that your jeans are now 3 inches too short. Along with these changes, you are probably becoming more independent and making more of your own choices. Some of the biggest choices you face are about your health. Healthy habits, including eating a healthy diet and being physically active, can help you feel good, look good, and do your best in school, work, or sports. They might also prevent diseases such as diabetes, high blood pressure, heart disease, osteoporosis, stroke, and some cancers when you are older.",
+  "synonyms": [
+    "Adolescent health"
+  ],
+  "groups": [
+    "Children and Teenagers",
+    "Population Groups"
+  ],
+  "related_topics": [
+    {
+      "title": "College Health",
+      "url": "https://medlineplus.gov/collegehealth.html",
+      "id": "5417"
+    },
+    {
+      "title": "Puberty",
+      "url": "https://medlineplus.gov/puberty.html",
+      "id": "5569"
+    },
+    {
+      "title": "Teen Development",
+      "url": "https://medlineplus.gov/teendevelopment.html",
+      "id": "1587"
+    },
+    {
+      "title": "Teen Mental Health",
+      "url": "https://medlineplus.gov/teenmentalhealth.html",
+      "id": "3637"
+    },
+    {
+      "title": "Teen Sexual Health",
+      "url": "https://medlineplus.gov/teensexualhealth.html",
+      "id": "1459"
+    },
+    {
+      "title": "Teenage Pregnancy",
+      "url": "https://medlineplus.gov/teenagepregnancy.html",
+      "id": "431"
+    }
+  ],
+  "see_references": [
+    "Adolescent Health"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Adolescent, Hospitalized",
+      "id": "D000298"
+    },
+    {
+      "name": "Adolescent Health Services",
+      "id": "D016497"
+    },
+    {
+      "name": "Adolescent Health",
+      "id": "D000067697"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/teenhealth.html"
+}

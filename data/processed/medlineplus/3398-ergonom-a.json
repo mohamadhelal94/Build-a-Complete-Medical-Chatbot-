@@ -1,0 +1,36 @@
+{
+  "id": "3398",
+  "title": "Ergonomía",
+  "language": "Spanish",
+  "date_created": "07/29/2003",
+  "meta_description": "El objetivo es encontrar la mejor adaptación entre usted y sus condiciones laborales. Por ejemplo, encontrar la mejor posición para su teclado o silla.",
+  "summary": "La ergonomía ve el tipo de trabajo que usted hace, las herramientas que utiliza y su ambiente de trabajo como un todo. El objetivo es encontrar la mejor adaptación entre usted y sus condiciones laborales. Algunos ejemplos de cambios ergonómicos en su trabajo pueden incluir: Ajustar la posición del teclado de su computadora para prevenir el síndrome del túnel carpiano Asegurarse que la altura de la silla de su escritorio permite que sus pies descansen horizontalmente en el piso Aprender la forma adecuada de levantar objetos pesados para prevenir lesiones en la espalda Usar cubiertas para las manijas o guantes especiales para disminuir las vibraciones de las herramientas eléctricas Asegurarse de mantener una buena postura en todo lo que haga, ya sea estando sentado frente a una computadora, de pie en el mostrador o caminando por un almacén Independientemente del trabajo, el objetivo es garantizar que esté seguro, cómodo y menos propenso a lesiones relacionadas con el trabajo.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Bienestar y estilo de vida",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Dolor de espalda",
+      "url": "https://medlineplus.gov/spanish/backpain.html",
+      "id": "1766"
+    },
+    {
+      "title": "Salud ocupacional",
+      "url": "https://medlineplus.gov/spanish/occupationalhealth.html",
+      "id": "2061"
+    },
+    {
+      "title": "Síndrome del túnel carpiano",
+      "url": "https://medlineplus.gov/spanish/carpaltunnelsyndrome.html",
+      "id": "1799"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ergonomics.html"
+}

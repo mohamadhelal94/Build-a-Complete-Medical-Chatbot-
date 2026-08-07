@@ -1,0 +1,37 @@
+{
+  "id": "495",
+  "title": "Soft Tissue Sarcoma",
+  "language": "English",
+  "date_created": "11/17/1999",
+  "meta_description": "Soft tissue sarcoma refers to cancer that begins in the muscle, fat, vessels or tendons. It can cause a lump or swelling. See which treatments are available",
+  "summary": "Your soft tissues connect, support, or surround other tissues. Examples include your muscles, tendons, fat, and blood vessels. Soft tissue sarcoma is a cancer of these soft tissues. There are many kinds, based on the type of tissue they started in. They may cause a lump or swelling in the soft tissue. Sometimes they spread and can press on nerves and organs, causing problems such as pain or trouble breathing. No one knows exactly what causes these cancers. They are not common, but you have a higher risk if you have been exposed to certain chemicals, have had radiation therapy, or have certain genetic diseases. Doctors diagnose soft tissue sarcomas with a biopsy. Treatments include surgery to remove the tumor, radiation therapy, chemotherapy, or a combination. NIH: National Cancer Institute",
+  "synonyms": [],
+  "groups": [
+    "Cancers"
+  ],
+  "related_topics": [
+    {
+      "title": "Kaposi Sarcoma",
+      "url": "https://medlineplus.gov/kaposisarcoma.html",
+      "id": "481"
+    }
+  ],
+  "see_references": [
+    "Rhabdomyosarcoma",
+    "Sarcoma, Soft Tissue"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Sarcoma",
+      "id": "D012509"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/softtissuesarcoma.html"
+}

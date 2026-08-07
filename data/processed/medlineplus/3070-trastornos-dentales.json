@@ -1,0 +1,54 @@
+{
+  "id": "3070",
+  "title": "Trastornos dentales",
+  "language": "Spanish",
+  "date_created": "02/20/2003",
+  "meta_description": "Existe una variedad de diferentes trastornos dentales, incluyendo caries, infecciones y traumatismos. El síntoma más común es dolor. Aquí más.",
+  "summary": "Los dientes están formados por un material duro, similar al hueso. Dentro de los dientes hay nervios y vasos sanguíneos. Los dientes son necesarios para muchas actividades que usted da por un hecho. Entre ellas se incluyen comer, hablar e inclusive, sonreír. Pero los problemas en los dientes no son para reírse. Incluyen problemas como las caries , las infecciones y los traumatismos. El síntoma más común de un problema dental es el dolor de un diente. Otros incluyen el desgaste o la caída de los dientes. Es importante que si tiene problemas en los dientes vea a un dentista. Afortunadamente, muchos trastornos dentales pueden prevenirse mediante el cuidado y la limpieza de los dientes.",
+  "synonyms": [
+    "Problemas dentales"
+  ],
+  "groups": [
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Caries",
+      "url": "https://medlineplus.gov/spanish/toothdecay.html",
+      "id": "5952"
+    },
+    {
+      "title": "Enfermedades de las encías",
+      "url": "https://medlineplus.gov/spanish/gumdisease.html",
+      "id": "1928"
+    },
+    {
+      "title": "Ortodoncia",
+      "url": "https://medlineplus.gov/spanish/orthodontia.html",
+      "id": "3615"
+    },
+    {
+      "title": "Salud dental",
+      "url": "https://medlineplus.gov/spanish/dentalhealth.html",
+      "id": "1847"
+    },
+    {
+      "title": "Salud dental del niño",
+      "url": "https://medlineplus.gov/spanish/childdentalhealth.html",
+      "id": "1811"
+    }
+  ],
+  "see_references": [
+    "Dientes, Trastornos",
+    "Placa"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación Dental y Craneofacial",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCR"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/toothdisorders.html"
+}

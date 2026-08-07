@@ -1,0 +1,98 @@
+{
+  "id": "456",
+  "title": "Vitamins",
+  "language": "English",
+  "date_created": "09/09/1999",
+  "meta_description": "Vitamins are substances that your body needs to grow and develop normally. There are 13 vitamins your body needs; Each has specific jobs.",
+  "summary": "Vitamins are substances that your body needs to grow and develop normally. There are 13 vitamins your body needs. They are: Vitamin A B vitamins (thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12 and folate ) Vitamin C Vitamin D Vitamin E Vitamin K You can usually get all your vitamins from the foods you eat. Your body can also make vitamins D and K. People who eat a vegetarian diet may need to take a vitamin B12 supplement. Each vitamin has specific jobs. If you have low levels of certain vitamins, you may get health problems. For example, if you don't get enough vitamin C, you could become anemic. Some vitamins may help prevent medical problems. Vitamin A prevents night blindness. The best way to get enough vitamins is to eat a balanced diet with a variety of foods. In some cases, you may need to take vitamin supplements. It's a good idea to ask your health care provider first. High doses of some vitamins can cause problems.",
+  "synonyms": [],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidants",
+      "url": "https://medlineplus.gov/antioxidants.html",
+      "id": "1590"
+    },
+    {
+      "title": "B Vitamins",
+      "url": "https://medlineplus.gov/bvitamins.html",
+      "id": "5376"
+    },
+    {
+      "title": "Calcium",
+      "url": "https://medlineplus.gov/calcium.html",
+      "id": "2780"
+    },
+    {
+      "title": "Dietary Supplements",
+      "url": "https://medlineplus.gov/dietarysupplements.html",
+      "id": "3538"
+    },
+    {
+      "title": "Folic Acid",
+      "url": "https://medlineplus.gov/folicacid.html",
+      "id": "1611"
+    },
+    {
+      "title": "Herbal Medicine",
+      "url": "https://medlineplus.gov/herbalmedicine.html",
+      "id": "1246"
+    },
+    {
+      "title": "Minerals",
+      "url": "https://medlineplus.gov/minerals.html",
+      "id": "4298"
+    },
+    {
+      "title": "Nutrition",
+      "url": "https://medlineplus.gov/nutrition.html",
+      "id": "36"
+    },
+    {
+      "title": "Vitamin A",
+      "url": "https://medlineplus.gov/vitamina.html",
+      "id": "5373"
+    },
+    {
+      "title": "Vitamin C",
+      "url": "https://medlineplus.gov/vitaminc.html",
+      "id": "5380"
+    },
+    {
+      "title": "Vitamin D",
+      "url": "https://medlineplus.gov/vitamind.html",
+      "id": "5383"
+    },
+    {
+      "title": "Vitamin E",
+      "url": "https://medlineplus.gov/vitamine.html",
+      "id": "5385"
+    },
+    {
+      "title": "Vitamin K",
+      "url": "https://medlineplus.gov/vitamink.html",
+      "id": "5388"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Vitamins",
+      "id": "D014815"
+    },
+    {
+      "name": "Micronutrients",
+      "id": "D018977"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vitamins.html"
+}

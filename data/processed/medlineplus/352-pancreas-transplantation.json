@@ -1,0 +1,30 @@
+{
+  "id": "352",
+  "title": "Pancreas Transplantation",
+  "language": "English",
+  "date_created": "11/23/1999",
+  "meta_description": "A pancreas transplant is surgery to place a healthy pancreas from a donor into a person with a diseased pancreas. Learn more.",
+  "summary": "The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control blood sugar levels. A pancreas transplant is surgery to place a healthy pancreas from a donor into a person with a diseased pancreas. It is mostly done for people with severe type 1 diabetes . It can allow them to give up insulin shots. An experimental procedure called islet cell transplantation transplants only the parts of the pancreas that make insulin. People who have transplants must take drugs to keep their body from rejecting the new pancreas for the rest of their lives. They must also have regular follow-up care. Because of the risks, it is not a common treatment for type 1 diabetes.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System",
+    "Endocrine System",
+    "Transplantation and Donation"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pancreas Transplantation",
+      "id": "D016035"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pancreastransplantation.html"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1872",
+  "title": "Problemas para tragar",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Si tiene un trastorno de deglución, puede tener dificultades y dolor al tragar. Entérese sobre causas y tratamientos aquí.",
+  "summary": "Si tiene un problema de la deglución, puede tener dificultades y dolor al tragar. Algunas personas no pueden tragar en lo absoluto o tener problemas para tragar líquidos, alimentos o saliva. Esto hace que el comer sea más difícil. Con frecuencia, puede ser difícil ingerir suficientes calorías y líquidos para alimentar al cuerpo. Cualquiera puede tener un problema para tragar, pero es más común en personas mayores. En general, estos trastornos suelen ocurrir debido a otros trastornos, entre ellos: Trastornos del sistema nervioso : Como la enfermedad de Parkinson y la parálisis cerebral Problemas en el esófago : Incluyendo la enfermedad por reflujo gastroesofágico ( ERGE ) Accidente cerebrovascular Traumatismos en la cabeza o médula espinal Cáncer de cabeza, cuello o esófago Las medicinas pueden ayudar a algunas personas, mientras que otras pueden necesitar cirugía. Tal vez resulte útil modificar la dieta o sostener la cabeza o el cuello en determinada posición al comer. En los casos muy serios, las personas necesitan sondas para alimentarse . NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [
+    "Disfagia",
+    "Trastorno de la deglución"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del esófago",
+      "url": "https://medlineplus.gov/spanish/esophagusdisorders.html",
+      "id": "1890"
+    },
+    {
+      "title": "Reflujo gastroesofágico",
+      "url": "https://medlineplus.gov/spanish/gerd.html",
+      "id": "1916"
+    }
+  ],
+  "see_references": [
+    "Deglución, Trastorno de",
+    "Disfagia",
+    "Tragar, Problemas",
+    "Trastorno de la deglución"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/swallowingdisorders.html"
+}

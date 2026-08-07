@@ -1,0 +1,34 @@
+{
+  "id": "532",
+  "title": "Nail Diseases",
+  "language": "English",
+  "date_created": "08/26/1999",
+  "meta_description": "The health of your fingernails and toenails can be a clue to your overall health. Read about diseases that can affect your nails and about nail care.",
+  "summary": "Your toenails and fingernails protect the tissues of your toes and fingers. They are made up of layers of a hardened protein called keratin, which is also in your hair and skin. The health of your nails can be a clue to your overall health. Healthy nails are usually smooth and consistent in color. Specific types of nail discoloration and changes in growth rate can be signs of lung, heart, kidney, and liver diseases, as well as diabetes and anemia. White spots and vertical ridges are harmless. Nail problems that sometimes require treatment include: Bacterial and fungal infections Ingrown nails Tumors Warts Keeping your nails clean, dry, and trimmed can help you avoid some problems. Do not remove the cuticle, which can cause infection.",
+  "synonyms": [],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Fingernails",
+    "Ingrown Nail",
+    "Onychomycosis",
+    "Paronychia",
+    "Toenails"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Nail Diseases",
+      "id": "D009260"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/naildiseases.html"
+}

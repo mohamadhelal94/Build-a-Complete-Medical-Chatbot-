@@ -1,0 +1,68 @@
+{
+  "id": "2143",
+  "title": "Salud sexual",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El sexo cumple un papel importante en las relaciones saludables. Entérese sobre cómo tener una vida sexual plena, así como sus problemas y consecuencias.",
+  "summary": "La sexualidad es una parte importante del ser humano. El amor, el afecto y la intimidad sexual representan un papel importante en las relaciones saludables. También contribuyen con su sentido del bienestar. Pero algunos trastornos pueden afectar la capacidad de los hombres y de las mujeres de tener relaciones sexuales o disfrutarlas. Los factores que puede afectar la salud sexual incluyen: Temor a un embarazo no deseado Preocupaciones sobre la infertilidad Infecciones de transmisión sexual (ITS) Enfermedades crónicas como cáncer o enfermedades del corazón Medicamentos que afectan el deseo sexual o el rendimiento",
+  "synonyms": [],
+  "groups": [
+    "Mujeres",
+    "Hombres",
+    "Bienestar y estilo de vida",
+    "Asuntos de salud sexual",
+    "Sistema reproductor femenino",
+    "Sistema reproductor masculino"
+  ],
+  "related_topics": [
+    {
+      "title": "Disfunción eréctil",
+      "url": "https://medlineplus.gov/spanish/erectiledysfunction.html",
+      "id": "1972"
+    },
+    {
+      "title": "Enfermedades del pene",
+      "url": "https://medlineplus.gov/spanish/penisdisorders.html",
+      "id": "2020"
+    },
+    {
+      "title": "Infecciones de transmisión sexual",
+      "url": "https://medlineplus.gov/spanish/sexuallytransmittedinfections.html",
+      "id": "2144"
+    },
+    {
+      "title": "Infertilidad",
+      "url": "https://medlineplus.gov/spanish/infertility.html",
+      "id": "1979"
+    },
+    {
+      "title": "Problemas sexuales en las mujeres",
+      "url": "https://medlineplus.gov/spanish/sexualproblemsinwomen.html",
+      "id": "1900"
+    },
+    {
+      "title": "Problemas sexuales en los hombres",
+      "url": "https://medlineplus.gov/spanish/sexualproblemsinmen.html",
+      "id": "5572"
+    },
+    {
+      "title": "Riesgos para el sistema reproductivo",
+      "url": "https://medlineplus.gov/spanish/reproductivehazards.html",
+      "id": "2124"
+    },
+    {
+      "title": "Salud sexual del adolescente",
+      "url": "https://medlineplus.gov/spanish/teensexualhealth.html",
+      "id": "2186"
+    }
+  ],
+  "see_references": [
+    "Sexo",
+    "Sexual, Salud",
+    "Sexualidad"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/sexualhealth.html"
+}

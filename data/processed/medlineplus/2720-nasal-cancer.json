@@ -1,0 +1,41 @@
+{
+  "id": "2720",
+  "title": "Nasal Cancer",
+  "language": "English",
+  "date_created": "08/19/2002",
+  "meta_description": "Cancer of the nasal cavity and paranasal sinuses is rare, but you are at a greater risk if you are a smoker. Learn other factors increase your risk.",
+  "summary": "Your paranasal sinuses are small hollow spaces around the nose. They are lined with cells that make mucus, which keeps your nose from drying out. The nasal cavity is the passageway just behind your nose. Air passes through it on the way to your throat as you breathe. Cancer of the nasal cavity and paranasal sinuses is rare. You are at greater risk if you are: Male and over 40 years old Exposed to certain workplace chemicals Infected with HPV A smoker There may be no symptoms at first, and later symptoms can be like those of infections. Doctors diagnose nasal cancer with imaging tests, lighted tube-like instruments that look inside the nose, and biopsies. Treatment options include surgery, radiation, and chemotherapy. NIH: National Cancer Institute",
+  "synonyms": [
+    "Cancer of the nasal cavity",
+    "Cancer of the paranasal sinus"
+  ],
+  "groups": [
+    "Cancers",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Nose Injuries and Disorders",
+      "url": "https://medlineplus.gov/noseinjuriesanddisorders.html",
+      "id": "1400"
+    }
+  ],
+  "see_references": [
+    "Paranasal Sinus Cancer",
+    "Sinus Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Nose Neoplasms",
+      "id": "D009669"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/nasalcancer.html"
+}

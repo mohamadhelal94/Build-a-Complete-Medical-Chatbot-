@@ -1,0 +1,48 @@
+{
+  "id": "1954",
+  "title": "Herpes simple",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El herpes simple es una infección causada por el virus del herpes simple. El herpes genital afecta los genitales, el herpes oral afecta el área de la boca.",
+  "summary": "El herpes es una infección causada por un virus herpes simple (VHS). El herpes bucal provoca llagas alrededor de la boca o en el rostro. El herpes genital es una infección de transmisión sexual (ITS). Puede afectar los genitales, las nalgas o el área del ano. Otras infecciones por herpes pueden afectar los ojos, la piel u otras partes del cuerpo. El virus puede ser peligroso en recién nacidos o en personas con sistemas inmunes debilitados. Existen dos tipos de herpes simple: El herpes simple tipo 1 frecuentemente causa llagas labiales. También puede causar herpes genital. El herpes simple tipo 2 frecuentemente es el que causa el herpes genital, pero también puede afectar la boca. El herpes simple se contagia por contacto directo. Algunas personas no tienen síntomas. Otras presentan llagas cerca del área por la cual penetró el virus al cuerpo. Éstas se convierten en ampollas que causan picazón y dolor y posteriormente se curan. La mayoría de las personas tiene brotes varias veces al año. Con el transcurso del tiempo, los brotes se hacen menos frecuentes. Los medicamentos que ayudan al cuerpo a combatir el virus pueden ayudar a mejorar los síntomas y disminuir los brotes.",
+  "synonyms": [],
+  "groups": [
+    "Infecciones",
+    "Salud oral y dental",
+    "Asuntos de salud sexual",
+    "Sistema reproductor femenino",
+    "Sistema reproductor masculino"
+  ],
+  "related_topics": [
+    {
+      "title": "Culebrilla (herpes zóster)",
+      "url": "https://medlineplus.gov/spanish/shingles.html",
+      "id": "2243"
+    },
+    {
+      "title": "Herpes genital",
+      "url": "https://medlineplus.gov/spanish/genitalherpes.html",
+      "id": "5864"
+    },
+    {
+      "title": "Herpes labial",
+      "url": "https://medlineplus.gov/spanish/coldsores.html",
+      "id": "5148"
+    },
+    {
+      "title": "Infecciones de transmisión sexual",
+      "url": "https://medlineplus.gov/spanish/sexuallytransmittedinfections.html",
+      "id": "2144"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/herpessimplex.html"
+}

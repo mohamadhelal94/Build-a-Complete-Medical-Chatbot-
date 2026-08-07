@@ -1,0 +1,76 @@
+{
+  "id": "164",
+  "title": "Bladder Diseases",
+  "language": "English",
+  "date_created": "01/22/1999",
+  "meta_description": "Many conditions can affect your bladder and put you at risk for bladder diseases. Read about some of the common bladder pains which includes Cystitis",
+  "summary": "The bladder is a hollow organ in your lower abdomen that stores urine. Many conditions can affect your bladder. Some common ones are: Cystitis - inflammation of the bladder, often from an infection Urinary incontinence - loss of bladder control Overactive bladder - a condition in which the bladder squeezes urine out at the wrong time Interstitial cystitis - a chronic problem that causes bladder pain and frequent, urgent urination Bladder cancer Doctors diagnose bladder diseases using different tests. These include urine tests , x-rays, and an examination of the bladder wall with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Cancer",
+      "url": "https://medlineplus.gov/bladdercancer.html",
+      "id": "163"
+    },
+    {
+      "title": "Interstitial Cystitis",
+      "url": "https://medlineplus.gov/interstitialcystitis.html",
+      "id": "1274"
+    },
+    {
+      "title": "Overactive Bladder",
+      "url": "https://medlineplus.gov/overactivebladder.html",
+      "id": "6132"
+    },
+    {
+      "title": "Pelvic Floor Disorders",
+      "url": "https://medlineplus.gov/pelvicfloordisorders.html",
+      "id": "1677"
+    },
+    {
+      "title": "Ureteral Disorders",
+      "url": "https://medlineplus.gov/ureteraldisorders.html",
+      "id": "5350"
+    },
+    {
+      "title": "Urethral Disorders",
+      "url": "https://medlineplus.gov/urethraldisorders.html",
+      "id": "5352"
+    },
+    {
+      "title": "Urinary Incontinence",
+      "url": "https://medlineplus.gov/urinaryincontinence.html",
+      "id": "114"
+    },
+    {
+      "title": "Urinary Tract Infections",
+      "url": "https://medlineplus.gov/urinarytractinfections.html",
+      "id": "448"
+    },
+    {
+      "title": "Urine and Urination",
+      "url": "https://medlineplus.gov/urineandurination.html",
+      "id": "4889"
+    }
+  ],
+  "see_references": [
+    "Neurogenic Bladder"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urinary Bladder Diseases",
+      "id": "D001745"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bladderdiseases.html"
+}

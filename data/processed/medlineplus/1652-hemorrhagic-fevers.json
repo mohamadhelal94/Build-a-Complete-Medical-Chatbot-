@@ -1,0 +1,54 @@
+{
+  "id": "1652",
+  "title": "Hemorrhagic Fevers",
+  "language": "English",
+  "date_created": "05/22/2002",
+  "meta_description": "Viral hemorrhagic fevers are a group of illnesses caused by four families of viruses including Ebola and Marburg, Lassa fever, and yellow fever.",
+  "summary": "Viral hemorrhagic fevers (VHFs) are a group of illnesses caused by four families of viruses. These include the Ebola and Marburg, Lassa fever, and yellow fever viruses. VHFs have common features: they affect many organs, they damage the blood vessels, and they affect the body's ability to regulate itself. Some VHFs cause mild disease, but some, like Ebola or Marburg, cause severe disease and death. VHFs are found around the world. Specific diseases are usually limited to areas where the animals that carry them live. For example, Lassa fever is limited to rural areas of West Africa where rats and mice carry the virus. The risk for travelers is low, but you should avoid visiting areas where there are disease outbreaks. Because there are no effective treatments for some of these viral infections, there is concern about their use in bioterrorism . Centers for Disease Control and Prevention",
+  "synonyms": [
+    "VHFs"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Biodefense and Bioterrorism",
+      "url": "https://medlineplus.gov/biodefenseandbioterrorism.html",
+      "id": "1550"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/dengue.html",
+      "id": "3104"
+    },
+    {
+      "title": "Ebola",
+      "url": "https://medlineplus.gov/ebola.html",
+      "id": "6202"
+    },
+    {
+      "title": "Viral Infections",
+      "url": "https://medlineplus.gov/viralinfections.html",
+      "id": "454"
+    }
+  ],
+  "see_references": [
+    "Lassa Fever",
+    "Yellow Fever"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hemorrhagic Fevers, Viral",
+      "id": "D006482"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hemorrhagicfevers.html"
+}

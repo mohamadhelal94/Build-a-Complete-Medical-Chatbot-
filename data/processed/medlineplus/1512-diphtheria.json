@@ -1,0 +1,29 @@
+{
+  "id": "1512",
+  "title": "Diphtheria",
+  "language": "English",
+  "date_created": "08/07/2001",
+  "meta_description": "Diphtheria is a bacterial infection spread through contact with an infected person or object. Diphtheria usually affects the nose and throat.",
+  "summary": "Diphtheria is a serious bacterial infection. You can catch it from a person who has the infection and coughs or sneezes. You can also get infected by coming in contact with an object, such as a toy, that has bacteria on it. Diphtheria usually affects the nose and throat. Symptoms include: Sore throat Swollen glands in the neck Fever Weakness Your doctor will diagnose it based on your signs and symptoms and a lab test. Getting treatment for diphtheria quickly is important. If your doctor suspects that you have it, you'll start treatment before the lab tests come back. Treatment is with antibiotics. The diphtheria, pertussis, and tetanus vaccine can prevent diphtheria, but its protection does not last forever. Children need another dose, or booster, at about age 12. Then, as adults, they should get a booster every 10 years. Diphtheria is very rare in the United States because of the vaccine. Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Infections",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Diphtheria",
+      "id": "D004165"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/diphtheria.html"
+}

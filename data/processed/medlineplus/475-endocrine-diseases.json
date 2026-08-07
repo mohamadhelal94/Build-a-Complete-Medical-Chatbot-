@@ -1,0 +1,76 @@
+{
+  "id": "475",
+  "title": "Endocrine Diseases",
+  "language": "English",
+  "date_created": "12/13/1999",
+  "meta_description": "The Endocrine system has eight major glands that make hormones. Diabetes is the most common endocrine disease in the USA.",
+  "summary": "Your endocrine system includes eight major glands throughout your body. These glands make hormones . Hormones are chemical messengers. They travel through your bloodstream to tissues or organs. Hormones work slowly and affect body processes from head to toe. These include: Growth and development Metabolism - digestion, elimination, breathing, blood circulation and maintaining body temperature Sexual function Reproduction Mood If your hormone levels are too high or too low, you may have a hormone disorder. Hormone diseases also occur if your body does not respond to hormones the way it is supposed to. Stress, infection and changes in your blood's fluid and electrolyte balance can also influence hormone levels. In the United States, the most common endocrine disease is diabetes . There are many others. They are usually treated by controlling how much hormone your body makes. Hormone supplements can help if the problem is too little of a hormone.",
+  "synonyms": [],
+  "groups": [
+    "Endocrine System"
+  ],
+  "related_topics": [
+    {
+      "title": "Addison Disease",
+      "url": "https://medlineplus.gov/addisondisease.html",
+      "id": "1233"
+    },
+    {
+      "title": "Adrenal Gland Disorders",
+      "url": "https://medlineplus.gov/adrenalglanddisorders.html",
+      "id": "128"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/diabetes.html",
+      "id": "4"
+    },
+    {
+      "title": "Growth Disorders",
+      "url": "https://medlineplus.gov/growthdisorders.html",
+      "id": "265"
+    },
+    {
+      "title": "Hormones",
+      "url": "https://medlineplus.gov/hormones.html",
+      "id": "1499"
+    },
+    {
+      "title": "Pancreatic Diseases",
+      "url": "https://medlineplus.gov/pancreaticdiseases.html",
+      "id": "110"
+    },
+    {
+      "title": "Parathyroid Disorders",
+      "url": "https://medlineplus.gov/parathyroiddisorders.html",
+      "id": "356"
+    },
+    {
+      "title": "Pituitary Disorders",
+      "url": "https://medlineplus.gov/pituitarydisorders.html",
+      "id": "362"
+    },
+    {
+      "title": "Thyroid Diseases",
+      "url": "https://medlineplus.gov/thyroiddiseases.html",
+      "id": "439"
+    }
+  ],
+  "see_references": [
+    "Multiple Endocrine Neoplasia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Endocrine System Diseases",
+      "id": "D004700"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/endocrinediseases.html"
+}

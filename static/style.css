@@ -44,16 +44,23 @@ border-radius: 0 0 15px 15px !important;
 	 box-shadow:none !important;
    outline:0px !important;
 }
-.type_msg{
-	background-color: rgba(0,0,0,0.3) !important;
-	border:0 !important;
-	color:white !important;
-	height: 60px !important;
-	overflow-y: auto;
+.type_msg {
+	background-color: rgba(0, 0, 0, 0.3) !important;
+	border: 0 !important;
+	color: white !important;
+	min-height: 60px !important;
+	max-height: 140px !important;
+	padding: 16px 18px !important;
+	resize: none;
+	overflow-y: hidden;
+	line-height: 1.4;
+	white-space: pre-wrap;
+	word-break: break-word;
 }
-	.type_msg:focus{
-	 box-shadow:none !important;
-   outline:0px !important;
+
+.type_msg:focus {
+	box-shadow: none !important;
+	outline: 0 !important;
 }
 .attach_btn{
 	border-radius: 15px 0 0 15px !important;
@@ -220,4 +227,56 @@ border-radius: 0 0 15px 15px !important;
 	.contacts_card{
 	margin-bottom: 15px !important;
 }
+}
+@media(max-width: 576px){
+	.contacts_card{
+		margin-bottom: 15px !important;
+	}
+}
+
+/* Paste the new CSS BELOW this line */
+
+.source_container {
+	border-top: 1px solid rgba(255, 255, 255, 0.3);
+	margin-top: 12px;
+	padding-top: 8px;
+	font-size: 0.85rem;
+}
+
+.source_title {
+	font-weight: 600;
+	margin-bottom: 5px;
+	color: white;
+}
+
+.source_item {
+	margin-bottom: 4px;
+}
+
+.source_item a {
+	color: #e6f4ff;
+	text-decoration: underline;
+	word-break: break-word;
+}
+
+.source_item a:hover {
+	color: white;
+}
+
+.bot_answer {
+	white-space: pre-wrap;
+	line-height: 1.45;
+}
+
+.msg_cotainer {
+	max-width: 85%;
+}
+.source_item a {
+	color: #e6f4ff;
+	text-decoration: underline;
+	word-break: break-word;
+	cursor: pointer;
+	position: relative;
+	z-index: 10;
+	pointer-events: auto;
 }

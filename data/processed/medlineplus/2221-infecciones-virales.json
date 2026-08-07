@@ -1,0 +1,206 @@
+{
+  "id": "2221",
+  "title": "Infecciones virales",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los virus causan infecciones como el resfriado común, pero también causan enfermedades graves. Más detalles sobre las infecciones virales aquí.",
+  "summary": "¿Qué son los virus? Los virus son gérmenes muy pequeños. Están hechos de material genético (ya sea ADN o ARN) dentro de un recubrimiento de proteína. Hay una gran cantidad de virus en la tierra. Solo un pequeño número de ellos puede infectar a los humanos. Estos virus pueden infectar nuestras células, lo que puede causar enfermedades. Algunas de las enfermedades que pueden causar los virus incluyen el resfrío común , la influenza , el COVID-19 y el VIH . ¿Cómo se propagan los virus? Los virus se pueden propagar de diferentes maneras: A través de gotitas y partículas exhaladas por una persona con la infección. Es posible que inhale las gotitas o partículas, o que caigan en su boca, nariz u ojos Al tocar superficies u objetos que tienen el virus y luego tocarse la boca, la nariz o los ojos De la persona embarazada al bebé durante el embarazo A través de alimentos o agua contaminados Al ser picado por un insecto o animal infectado A través del contacto sexual (generalmente sexo vaginal, anal y oral) con alguien con la infección ¿Cómo los virus causan enfermedades? Los virus son como secuestradores. Invaden células vivas y normales. Luego usan esas células para multiplicarse (hacer copias de sí mismos). Este proceso también se llama replicación. El proceso puede matar, dañar o cambiar las células infectadas. A veces esto puede enfermarle. Los síntomas pueden variar de leves a muy severos. Otras veces, su sistema inmunitario puede combatirlo y es posible que no tenga ningún síntoma. En general, cada virus diferente solo infecta un tipo de célula en su cuerpo. Por ejemplo, los virus de la hepatitis afectan las células del hígado. El VIH infecta cierto tipo de célula del sistema inmunitario. ¿Cuáles son los tratamientos para las infecciones virales? Para la mayoría de las infecciones virales, los tratamientos solo pueden ayudar con los síntomas mientras espera que su sistema inmunitario combata el virus. Existen medicamentos antivirales para tratar algunas infecciones virales. Los antibióticos no funcionan para las infecciones virales. ¿Se pueden prevenir las infecciones virales? Las vacunas pueden ayudar a prevenir que contraiga muchas enfermedades virales. Es posible que pueda prevenir algunas infecciones virales al: Lavarse las manos bien Seguir medidas de seguridad con los alimentos Limpiar superficies que puedan estar infectadas con gérmenes Evitar el contacto con animales salvajes Prevenir las picaduras de insectos usando repelente de insectos al salir al aire libre. Si viaja a un área que tiene un alto riesgo de enfermedades por picaduras de insectos, use también pantalones largos, camisas y calcetines Practicar sexo seguro (usar condón cada vez que tenga sexo anal, vaginal u oral) Evitar el contacto cercano con personas enfermas",
+  "synonyms": [
+    "Infecciones causadas por virus"
+  ],
+  "groups": [
+    "Infecciones",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Chikungunya",
+      "url": "https://medlineplus.gov/spanish/chikungunya.html",
+      "id": "6346"
+    },
+    {
+      "title": "Citomegalovirus",
+      "url": "https://medlineplus.gov/spanish/cytomegalovirusinfections.html",
+      "id": "3981"
+    },
+    {
+      "title": "Crup",
+      "url": "https://medlineplus.gov/spanish/croup.html",
+      "id": "6293"
+    },
+    {
+      "title": "Culebrilla (herpes zóster)",
+      "url": "https://medlineplus.gov/spanish/shingles.html",
+      "id": "2243"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/spanish/dengue.html",
+      "id": "3105"
+    },
+    {
+      "title": "Ebola",
+      "url": "https://medlineplus.gov/spanish/ebola.html",
+      "id": "6203"
+    },
+    {
+      "title": "Enfermedad del coronavirus 2019 (COVID-19)",
+      "url": "https://medlineplus.gov/spanish/covid19coronavirusdisease2019.html",
+      "id": "3182"
+    },
+    {
+      "title": "Fiebres hemorrágicas",
+      "url": "https://medlineplus.gov/spanish/hemorrhagicfevers.html",
+      "id": "2256"
+    },
+    {
+      "title": "Gripe",
+      "url": "https://medlineplus.gov/spanish/flu.html",
+      "id": "1980"
+    },
+    {
+      "title": "Hepatitis A",
+      "url": "https://medlineplus.gov/spanish/hepatitisa.html",
+      "id": "2270"
+    },
+    {
+      "title": "Hepatitis B",
+      "url": "https://medlineplus.gov/spanish/hepatitisb.html",
+      "id": "2271"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/spanish/hepatitisc.html",
+      "id": "1950"
+    },
+    {
+      "title": "Herpes simple",
+      "url": "https://medlineplus.gov/spanish/herpessimplex.html",
+      "id": "1954"
+    },
+    {
+      "title": "Infecciones por hantavirus",
+      "url": "https://medlineplus.gov/spanish/hantavirusinfections.html",
+      "id": "3218"
+    },
+    {
+      "title": "Infecciones por Norovirus",
+      "url": "https://medlineplus.gov/spanish/norovirusinfections.html",
+      "id": "6104"
+    },
+    {
+      "title": "Mielitis flácida aguda",
+      "url": "https://medlineplus.gov/spanish/acuteflaccidmyelitis.html",
+      "id": "7208"
+    },
+    {
+      "title": "Mononucleosis infecciosa",
+      "url": "https://medlineplus.gov/spanish/infectiousmononucleosis.html",
+      "id": "1978"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/spanish/mpox.html",
+      "id": "3230"
+    },
+    {
+      "title": "Paperas",
+      "url": "https://medlineplus.gov/spanish/mumps.html",
+      "id": "2042"
+    },
+    {
+      "title": "Polio y síndrome de post-polio",
+      "url": "https://medlineplus.gov/spanish/polioandpostpoliosyndrome.html",
+      "id": "2096"
+    },
+    {
+      "title": "Quinta enfermedad",
+      "url": "https://medlineplus.gov/spanish/fifthdisease.html",
+      "id": "1904"
+    },
+    {
+      "title": "Rabia",
+      "url": "https://medlineplus.gov/spanish/rabies.html",
+      "id": "2115"
+    },
+    {
+      "title": "Resfrío",
+      "url": "https://medlineplus.gov/spanish/commoncold.html",
+      "id": "1832"
+    },
+    {
+      "title": "Rotavirus",
+      "url": "https://medlineplus.gov/spanish/rotavirusinfections.html",
+      "id": "3216"
+    },
+    {
+      "title": "Rubéola",
+      "url": "https://medlineplus.gov/spanish/rubella.html",
+      "id": "2130"
+    },
+    {
+      "title": "Sarampión",
+      "url": "https://medlineplus.gov/spanish/measles.html",
+      "id": "2025"
+    },
+    {
+      "title": "Vacunación",
+      "url": "https://medlineplus.gov/spanish/vaccines.html",
+      "id": "1970"
+    },
+    {
+      "title": "Varicela",
+      "url": "https://medlineplus.gov/spanish/chickenpox.html",
+      "id": "1807"
+    },
+    {
+      "title": "Verrugas",
+      "url": "https://medlineplus.gov/spanish/warts.html",
+      "id": "2225"
+    },
+    {
+      "title": "VIH",
+      "url": "https://medlineplus.gov/spanish/hiv.html",
+      "id": "1726"
+    },
+    {
+      "title": "Virus del Nilo Occidental",
+      "url": "https://medlineplus.gov/spanish/westnilevirus.html",
+      "id": "2228"
+    },
+    {
+      "title": "Virus del papiloma humano",
+      "url": "https://medlineplus.gov/spanish/hpv.html",
+      "id": "2281"
+    },
+    {
+      "title": "Virus del Zika",
+      "url": "https://medlineplus.gov/spanish/zikavirus.html",
+      "id": "6343"
+    },
+    {
+      "title": "Virus respiratorio sincitial",
+      "url": "https://medlineplus.gov/spanish/respiratorysyncytialvirusinfections.html",
+      "id": "3102"
+    }
+  ],
+  "see_references": [
+    "Artritis viral",
+    "Croup",
+    "Enfermedad de mano, pie y boca (MPB)",
+    "Enterovirus no-polio",
+    "Laringitis viral",
+    "Mano, pie y boca, Enfermedad",
+    "Molluscum contagioso",
+    "Virus, Infecciones por"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/viralinfections.html"
+}

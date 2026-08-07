@@ -1,0 +1,39 @@
+{
+  "id": "3653",
+  "title": "Cáncer de intestino",
+  "language": "Spanish",
+  "date_created": "01/13/2004",
+  "meta_description": "El cáncer intestinal es poco frecuente. Entérese sobre factores de riesgo, síntomas y tratamiento de cáncer de intestino.",
+  "summary": "El intestino delgado forma parte del sistema digestivo. Es un tubo largo que conecta el estómago al intestino grueso. El cáncer intestinal es poco frecuente, pero las dietas ricas en grasas, la enfermedad de Crohn , la enfermedad celíaca y los antecedentes de pólipos en el colon pueden aumentar el riesgo. Algunos síntomas posibles de cáncer del intestino delgado incluyen: Dolor abdominal Pérdida de peso sin razón Presencia de sangre en las heces Aparición de masas en el abdomen Los estudios con imágenes que muestran el intestino delgado y el área que lo rodea pueden ayudar a diagnosticar el cáncer de intestino y revelar si se diseminó. El tratamiento más común es la cirugía. Las opciones de tratamiento incluyen quimioterapia, radiación o una combinación de ambas. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Cáncer intestinal"
+  ],
+  "groups": [
+    "Cánceres",
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de estómago",
+      "url": "https://medlineplus.gov/spanish/stomachcancer.html",
+      "id": "2172"
+    },
+    {
+      "title": "Cáncer del colon y del recto",
+      "url": "https://medlineplus.gov/spanish/colorectalcancer.html",
+      "id": "1831"
+    }
+  ],
+  "see_references": [
+    "Intestino, Cáncer del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/intestinalcancer.html"
+}

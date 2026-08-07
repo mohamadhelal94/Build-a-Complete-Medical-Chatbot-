@@ -1,0 +1,61 @@
+{
+  "id": "5429",
+  "title": "Problemas comunes de los recién nacidos",
+  "language": "Spanish",
+  "date_created": "05/27/2010",
+  "meta_description": "Encuentre aquí información sobre los problemas más comunes que pueden presentar los recién nacidos y bebés",
+  "summary": "Es un momento difícil cuando su bebé está enfermo. Los problemas de salud más comunes en los bebés incluyen resfríos, tos, fiebre y vómitos. Los bebes también puede tener problemas de piel, como sarpullido del pañal o costra láctea . Muchos de estos problemas no son serios. Es importante saber cómo ayudar a su bebé enfermo y cómo reconocer las señales de aviso de problemas más serios. Confíe en su intuición. Si está preocupada por su bebé, llame inmediatamente a un profesional de la salud.",
+  "synonyms": [
+    "Enfermedades comunes de los recién nacidos",
+    "Enfermedades comunes en los bebés",
+    "Problemas comunes de salud de los bebés"
+  ],
+  "groups": [
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Bebé prematuro",
+      "url": "https://medlineplus.gov/spanish/prematurebabies.html",
+      "id": "2106"
+    },
+    {
+      "title": "Chequeo médico del bebé",
+      "url": "https://medlineplus.gov/spanish/babyhealthcheckup.html",
+      "id": "5436"
+    },
+    {
+      "title": "Cuidado del recién nacido y del bebé",
+      "url": "https://medlineplus.gov/spanish/infantandnewborncare.html",
+      "id": "1974"
+    },
+    {
+      "title": "Desarrollo del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewborndevelopment.html",
+      "id": "1975"
+    },
+    {
+      "title": "Nutrición del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewbornnutrition.html",
+      "id": "3751"
+    },
+    {
+      "title": "Problemas poco comunes de los recién nacidos",
+      "url": "https://medlineplus.gov/spanish/uncommoninfantandnewbornproblems.html",
+      "id": "5432"
+    }
+  ],
+  "see_references": [
+    "Bebés, Problemas comunes de salud",
+    "Recién nacidos, Problemas comunes de salud"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/commoninfantandnewbornproblems.html"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2133",
+  "title": "Infecciones por salmonela",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Salmonela es un grupo de bacterias y es la causa más común de enfermedades transmitidas por los alimentos. Síntomas, prevención, tratamiento.",
+  "summary": "Salmonela es el nombre de un grupo de bacterias. En Estados Unidos es la causa más común de las enfermedades transmitidas por alimentos . La salmonela se encuentra en las aves crudas, los huevos, la carne vacuna y, algunas veces, en las frutas y vegetales sin lavar. También se puede adquirir tras manipular mascotas, especialmente reptiles como las serpientes, tortugas y lagartos. Los síntomas incluyen: Fiebre Diarrea Cólicos abdominales Dolor de cabeza Pueden presentarse náuseas, vómitos y pérdida de apetito Los síntomas suelen durar entre cuatro y siete días. Su proveedor de salud puede diagnosticarla con una prueba de heces. La mayoría de las personas mejora sin tratamiento. Puede ser más grave entre los adultos mayores, niños pequeños y personas con enfermedades crónicas. Si la salmonela penetra en el torrente sanguíneo, puede ser seria. Se trata con antibióticos. La fiebre tifoidea, una enfermedad más seria causada por salmonela, no es común en Estados Unidos, pero ocurre frecuentemente en países en vías de desarrollo.",
+  "synonyms": [
+    "Salmonella",
+    "Salmonelosis"
+  ],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades transmitidas por alimentos",
+      "url": "https://medlineplus.gov/spanish/foodborneillness.html",
+      "id": "1909"
+    }
+  ],
+  "see_references": [
+    "Salmonela, Infecciones por",
+    "Salmonelosis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/salmonellainfections.html"
+}

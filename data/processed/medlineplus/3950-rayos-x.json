@@ -1,0 +1,31 @@
+{
+  "id": "3950",
+  "title": "Rayos X",
+  "language": "Spanish",
+  "date_created": "01/06/2005",
+  "meta_description": "Las imágenes de rayos X utilizan ondas electromagnéticas para mostrar el interior de su cuerpo. Se utilizan para ver fracturas, entre otros usos. Más aquí.",
+  "summary": "¿Qué es una imagen de rayos x o radiografía? Las imágenes de rayos x o radiografías son pruebas que no son dolorosas. En ellas, se envía una cantidad pequeña de radiación a través del cuerpo para generar fotos de sus huesos y órganos. Los rayos x son un tipo de radiación electromagnética, que crea imágenes en tonos de negro, blanco y gris ya que los diferentes tejidos absorben la radiación de forma distinta. Los huesos son los que más absorben la radiación y se muestran blancos. La grasa y otros tejidos blandos absorben menos y aparecen en color gris. El aire es lo que absorbe menos radiación y por eso áreas como los pulmones se ven negras. La imagen puede ser transferida a una película plástica o enviada a una computadora. Los proveedores de salud utilizan las radiografías para detectar problemas de salud y para verificar la eficacia y qué tan bien funcionan ciertos tratamientos. ¿Quién necesita una imagen de rayos x o radiografía? Las radiografías se usan comúnmente para detectar fracturas (huesos rotos). También se utilizan para otros propósitos. Por ejemplo, los rayos x pueden detectar la neumonía . Las mamografías utilizan rayos x para detectar el cáncer de mama y también se usan como parte de otras pruebas de imágenes, como las tomografías computarizadas . ¿Cómo prepararse para una radiografía? En la mayor parte de los casos, no se requiere preparación o se necesita muy poca. Podrían pedirle que utilice un delantal de plomo para proteger ciertas partes de su cuerpo. También podrían pedirle que se quite cualquier pieza de joyería u otros objetos que puedan afectar la imagen. La cantidad de radiación de una imagen de rayos x es pequeña. Por ejemplo, la radiación de una radiografía de pecho es similar a la radiación natural a la que usted está expuesto en el ambiente por unos 10 días. Siempre dígale a su proveedor si está embarazada o si sospecha que puede estarlo. ¿Cómo se realiza una radiografía? Dependiendo de la parte del cuerpo que vaya a examinarse, le pueden pedir que se mantenga de pie, sentado o acostado. Necesitará mantenerse inmóvil por un tiempo breve mientras se toma la imagen. ¿Qué debe esperar después de una radiografía? Luego de una radiografía usted puede retomar sus actividades regulares de inmediato. Un especialista, llamado radiólogo, revisará las imágenes y compartirá los resultados con su proveedor.",
+  "synonyms": [
+    "Radiografías"
+  ],
+  "groups": [
+    "Pruebas de diagnóstico"
+  ],
+  "related_topics": [
+    {
+      "title": "Diagnóstico por imágenes",
+      "url": "https://medlineplus.gov/spanish/diagnosticimaging.html",
+      "id": "1857"
+    },
+    {
+      "title": "Tomografía computarizada",
+      "url": "https://medlineplus.gov/spanish/ctscans.html",
+      "id": "3952"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/xrays.html"
+}

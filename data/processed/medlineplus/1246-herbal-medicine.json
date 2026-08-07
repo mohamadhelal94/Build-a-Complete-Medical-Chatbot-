@@ -1,0 +1,54 @@
+{
+  "id": "1246",
+  "title": "Herbal Medicine",
+  "language": "English",
+  "date_created": "04/26/2000",
+  "meta_description": "Herbal medicines are one type of dietary supplement. They are sold as tablets, capsules, powders, teas, extracts, and plants. Learn more.",
+  "summary": "An herb is a plant or plant part used for its scent, flavor, or therapeutic properties. Herbal medicines are one type of dietary supplement . They are sold as tablets, capsules, powders, teas, extracts, and fresh or dried plants. People use herbal medicines to try to maintain or improve their health. Many people believe that products labeled \"natural\" are always safe and good for them. This is not necessarily true. Herbal medicines do not have to go through the testing that drugs do. Some herbs, such as comfrey and ephedra, can cause serious harm. Some herbs can interact with prescription or over-the-counter medicines. If you are thinking about using an herbal medicine, first get information on it from reliable sources. Make sure to tell your health care provider about any herbal medicines you are taking. NIH: National Center for Complementary and Integrative Health",
+  "synonyms": [
+    "Botanicals",
+    "Phytotherapy"
+  ],
+  "groups": [
+    "Wellness and Lifestyle",
+    "Complementary and Alternative Therapies"
+  ],
+  "related_topics": [
+    {
+      "title": "Cancer Alternative Therapies",
+      "url": "https://medlineplus.gov/canceralternativetherapies.html",
+      "id": "3192"
+    },
+    {
+      "title": "Complementary and Integrative Medicine",
+      "url": "https://medlineplus.gov/complementaryandintegrativemedicine.html",
+      "id": "132"
+    },
+    {
+      "title": "Dietary Supplements",
+      "url": "https://medlineplus.gov/dietarysupplements.html",
+      "id": "3538"
+    }
+  ],
+  "see_references": [
+    "Botanicals",
+    "Medicinal Herbs",
+    "Phytotherapy",
+    "Teas, Herbal",
+    "Teas, Medicinal"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Center for Complementary and Integrative Health",
+      "url": "https://nccih.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Phytotherapy",
+      "id": "D008517"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/herbalmedicine.html"
+}

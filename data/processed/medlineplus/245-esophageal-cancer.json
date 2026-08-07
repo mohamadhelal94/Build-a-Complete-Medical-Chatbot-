@@ -1,0 +1,36 @@
+{
+  "id": "245",
+  "title": "Esophageal Cancer",
+  "language": "English",
+  "date_created": "10/07/1999",
+  "meta_description": "Early esophageal cancer does not have symptoms. Factors that increase risk include heavy drinking and smoking. Learn how you can reduce your risk.",
+  "summary": "The esophagus is a hollow tube that carries food and liquids from your throat to your stomach. Early esophageal cancer usually does not cause symptoms. Later, you may have symptoms such as: Painful or difficult swallowing Weight loss A hoarse voice or cough that doesn't go away You're at greater risk for getting esophageal cancer if you smoke, drink heavily, or have acid reflux . Your risk also goes up as you age Your doctor uses imaging tests and a biopsy to diagnose esophageal cancer. Treatments include surgery, radiation, and chemotherapy. You might also need nutritional support , since the cancer or treatment may make it hard to swallow. NIH: National Cancer Institute",
+  "synonyms": [],
+  "groups": [
+    "Cancers",
+    "Digestive System",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Esophagus Disorders",
+      "url": "https://medlineplus.gov/esophagusdisorders.html",
+      "id": "246"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Esophageal Neoplasms",
+      "id": "D004938"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/esophagealcancer.html"
+}

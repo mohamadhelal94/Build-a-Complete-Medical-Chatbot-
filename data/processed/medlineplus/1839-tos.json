@@ -1,0 +1,41 @@
+{
+  "id": "1839",
+  "title": "Tos",
+  "language": "Spanish",
+  "date_created": "02/09/2005",
+  "meta_description": "La tos es un reflejo que mantiene despejada la garganta y las vías respiratorias. Aunque puede ser molesta, la tos ayuda al cuerpo a curarse o protegerse.",
+  "summary": "La tos es un reflejo que mantiene despejada la garganta y las vías respiratorias. Aunque puede ser molesta, la tos ayuda al cuerpo a curarse o protegerse. La tos puede ser aguda o crónica. La tos aguda comienza súbitamente y no suele durar más de 2 o 3 semanas. Los cuadros agudos de tos son los que se adquieren frecuentemente con un resfrío , una gripe o bronquitis aguda . La tos crónica dura más de 2 o 3 semanas. Las causas de la tos crónica incluyen: Bronquitis crónica Asma Alergias Enfermedad pulmonar obstructiva crónica (EPOC) Fumar Reflujo gastroesofágico Enfermedades de la garganta , tal como el crup en niños Algunas medicinas El agua puede ayudar a mejorar la tos - ya sea que la ingiera o que la agregue al ambiente con un inyector de vapor o un vaporizador. Si tiene un refrío o la gripe, los antihistamínicos pueden dar mejores resultados que los medicamentos para la tos sin receta médica . Niños menores de 4 años no deben recibir medicamentos para la tos. Para niños mayores de 4 años, sea precavido y lea cuidadosamente las indicaciones.",
+  "synonyms": [],
+  "groups": [
+    "Pulmón y vías respiratorias",
+    "Oído, nariz y garganta",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los pulmones",
+      "url": "https://medlineplus.gov/spanish/lungdiseases.html",
+      "id": "2125"
+    },
+    {
+      "title": "Medicinas para la tos y el resfrío",
+      "url": "https://medlineplus.gov/spanish/coldandcoughmedicines.html",
+      "id": "4962"
+    },
+    {
+      "title": "Problemas respiratorios",
+      "url": "https://medlineplus.gov/spanish/breathingproblems.html",
+      "id": "3078"
+    },
+    {
+      "title": "Tos ferina",
+      "url": "https://medlineplus.gov/spanish/whoopingcough.html",
+      "id": "2229"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cough.html"
+}

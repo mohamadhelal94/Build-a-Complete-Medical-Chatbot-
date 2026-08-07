@@ -1,0 +1,35 @@
+{
+  "id": "200",
+  "title": "Constipation",
+  "language": "English",
+  "date_created": "02/26/1999",
+  "meta_description": "Feeling \"backed-up\" or like you need to \"go\" but just can't? Read some of the reasons why this could be happening and learn some prevention tips.",
+  "summary": "Constipation means having fewer than three bowel movements a week. The stool (poop) can be hard and dry. Sometimes it is painful to pass. At one time or another, almost everyone gets constipated. In most cases, it lasts a short time and is not serious. There are many things you can do to prevent constipation. They include: Eating more fruits, vegetables and grains, which are high in fiber Drinking plenty of water and other liquids Getting enough exercise Taking time to have a bowel movement when you need to Using laxatives only if your health care provider says you should Asking your provider if medicines you take may cause constipation It's not important that you have a bowel movement every day. If your bowel habits change, however, check with your provider. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Dietary Fiber",
+      "url": "https://medlineplus.gov/dietaryfiber.html",
+      "id": "3059"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Constipation",
+      "id": "D003248"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/constipation.html"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2256",
+  "title": "Fiebres hemorrágicas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las fiebres hemorrágicas son un grupo de enfermedades causadas por cuatro familias de virus: Virus del Ebola y Marburg, fiebre amarilla y otros",
+  "summary": "Las fiebres hemorrágicas virales son un grupo de enfermedades causadas por cuatro familias de virus. Entre ellos se encuentran los virus del Ebola y Marburg, el virus de la fiebre de Lassa y el virus de la fiebre amarilla. Estas fiebres tienen características comunes: afectan muchos órganos, lesionan los vasos sanguíneos y alteran la capacidad del organismo para auto-regularse. Algunas de estas fiebres hemorrágicas causan una enfermedad leve, pero otras, como las causadas por los virus Ebola o Marburg, causan enfermedades graves y muerte. Las fiebres hemorrágicas virales se encuentran en todo el mundo. Las enfermedades específicas suelen estar limitadas a zonas donde viven los animales que las transmiten. Por ejemplo, la fiebre de Lassa se limita a las zonas rurales del oeste de África, donde hay ratas y ratones portadores del virus. El riesgo para las personas que viajan es bajo, pero deben evitar visitar zonas donde hay brotes de la enfermedad. Dado que no existen tratamientos eficaces para algunas de estas infecciones virales, existe preocupación por su uso en el bioterrorismo . Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Biodefensa y bioterrorismo",
+      "url": "https://medlineplus.gov/spanish/biodefenseandbioterrorism.html",
+      "id": "1771"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://medlineplus.gov/spanish/dengue.html",
+      "id": "3105"
+    },
+    {
+      "title": "Ebola",
+      "url": "https://medlineplus.gov/spanish/ebola.html",
+      "id": "6203"
+    },
+    {
+      "title": "Infecciones virales",
+      "url": "https://medlineplus.gov/spanish/viralinfections.html",
+      "id": "2221"
+    }
+  ],
+  "see_references": [
+    "Fiebre del Valle del Rift",
+    "Marburgo, Fiebre hemorrágica",
+    "Valle del Rift, Fiebre del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hemorrhagicfevers.html"
+}

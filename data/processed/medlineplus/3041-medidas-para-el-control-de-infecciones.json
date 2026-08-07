@@ -1,0 +1,42 @@
+{
+  "id": "3041",
+  "title": "Medidas para el control de infecciones",
+  "language": "Spanish",
+  "date_created": "02/20/2003",
+  "meta_description": "Cada año mueren personas al contraer infecciones en hospitales. Entérese cómo prevenirlas con medidas tan simples cómo lavarse las manos, entre otras.",
+  "summary": "Cada año mueren personas por la diseminación de infecciones en los hospitales. Quienes trabajan en la atención de salud pueden tomar medidas para evitar la diseminación de las enfermedades infecciosas . Estas medidas son parte del control de las infecciones. Lavarse las manos correctamente es la forma más eficaz para prevenir que la propagación ocurra. Si es un paciente, no tema recordarles a sus amigos, familiares y profesionales de la salud que se laven las manos antes de acercarse a usted. Otras medidas que los profesionales de la salud pueden tomar incluyen: Cubrirse la boca al toser o estornudar Mantener sus vacunas al día Usar guantes, mascarillas y ropas protectoras Tener a mano pañuelos desechables y limpiadores de manos Seguir las normas del hospital cuando se lidie con sangre o artículos contaminados",
+  "synonyms": [
+    "Controlar infecciones"
+  ],
+  "groups": [
+    "Infecciones",
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/spanish/hepatitis.html",
+      "id": "1949"
+    },
+    {
+      "title": "Infecciones por estafilococo resistente a la meticilina",
+      "url": "https://medlineplus.gov/spanish/mrsa.html",
+      "id": "4540"
+    },
+    {
+      "title": "VIH",
+      "url": "https://medlineplus.gov/spanish/hiv.html",
+      "id": "1726"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/infectioncontrol.html"
+}

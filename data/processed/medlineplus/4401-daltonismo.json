@@ -1,0 +1,38 @@
+{
+  "id": "4401",
+  "title": "Daltonismo",
+  "language": "Spanish",
+  "date_created": "03/06/2012",
+  "meta_description": "Su usted es daltónico, tiene problemas para ver algunos colores. El más común es el problema para distinguir el verde y el rojo. No existe tratamiento.",
+  "summary": "La mayoría de nosotros ve el mundo a colores. Nos gusta ver un suntuoso césped verde o una rosa roja floreciendo. Si tiene un defecto para ver los colores, verá esos colores de una manera distinta a la mayoría de los demás. Existen tres defectos principales para ver los colores. Los defectos de la vista para ver los colores rojo y verde son los más comunes. Este tipo es más frecuente en los hombres que en las mujeres. Los otros tipos importantes son los defectos de la vista para ver los colores azul y amarillo y la ausencia total de poder ver todos los colores. La mayoría de las veces, el daltonismo es genético. No existe un tratamiento, pero la mayoría de las personas se adapta y este cuadro no parece limitar sus actividades.",
+  "synonyms": [
+    "Acromatismo",
+    "Acromatopsia"
+  ],
+  "groups": [
+    "Ojos y visión",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los ojos",
+      "url": "https://medlineplus.gov/spanish/eyediseases.html",
+      "id": "1894"
+    },
+    {
+      "title": "Problemas y pérdida de la visión",
+      "url": "https://medlineplus.gov/spanish/visionimpairmentandblindness.html",
+      "id": "2222"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Ojo",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NEI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/colorblindness.html"
+}

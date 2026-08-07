@@ -1,0 +1,53 @@
+{
+  "id": "4539",
+  "title": "MRSA",
+  "language": "English",
+  "date_created": "10/18/2007",
+  "meta_description": "MRSA infection is a staph infection that is resistant to some antibiotics. Read about MRSA symptoms, treatment, and prevention.",
+  "summary": "MRSA stands for methicillin-resistant Staphylococcus aureus. It causes a staph infection (pronounced \"staff infection\") that is resistant to several common antibiotics . There are two types of infection. Hospital-associated MRSA happens to people in health care settings. Community-associated MRSA happens to people who have close skin-to-skin contact with others, such as athletes involved in football and wrestling. Infection control is key to stopping MRSA in hospitals. To prevent community-associated MRSA: Practice good hygiene Keep cuts and scrapes clean and covered with a bandage until healed Avoid contact with other people's wounds or bandages Avoid sharing personal items, such as towels, washcloths, razors, or clothes Wash soiled sheets, towels, and clothes in hot water with bleach and dry in a hot dryer If a wound appears to be infected, see a health care provider. Treatments may include draining the infection and antibiotics.",
+  "synonyms": [
+    "Methicillin-resistant Staphylococcus aureus"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Antibiotic Resistance",
+      "url": "https://medlineplus.gov/antibioticresistance.html",
+      "id": "6252"
+    },
+    {
+      "title": "Antibiotics",
+      "url": "https://medlineplus.gov/antibiotics.html",
+      "id": "222"
+    },
+    {
+      "title": "Infection Control",
+      "url": "https://medlineplus.gov/infectioncontrol.html",
+      "id": "3040"
+    },
+    {
+      "title": "Staphylococcal Infections",
+      "url": "https://medlineplus.gov/staphylococcalinfections.html",
+      "id": "418"
+    }
+  ],
+  "see_references": [
+    "Methicillin Resistant Staphylococcus Aureus"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Methicillin-Resistant Staphylococcus aureus",
+      "id": "D055624"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/mrsa.html"
+}

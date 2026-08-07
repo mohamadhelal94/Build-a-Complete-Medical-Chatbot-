@@ -1,0 +1,147 @@
+{
+  "id": "36",
+  "title": "Nutrition",
+  "language": "English",
+  "date_created": "08/04/1999",
+  "meta_description": "Food provides the energy and nutrients you need to be healthy. It is important to eat a variety of foods to get all the nutrients you need. Learn more.",
+  "summary": "Good nutrition is important in keeping people healthy throughout their lives - when they are babies , toddlers , children , adults, and then older adults . It can help people live longer and lower their risk of health problems like heart disease , type 2 diabetes , obesity , and more. Good nutrition is about healthy eating. This means regularly choosing healthy foods and beverages. A healthy eating plan should give your body the energy and nutrients that you need every day. Nutrients include proteins , carbohydrates , fats , vitamins , minerals , and water . The plan should also take into account your preferences, cultural traditions, and budget. Healthy eating does not mean that you have to follow a very strict diet or eat only a few specific types of food. It doesn't mean that you can never eat your favorite foods. You can eat a variety of foods, including less healthy favorites. But it's important not to eat too much of those foods or have them too often. You can balance those foods with healthier foods and regular physical activity . The keys to a healthy eating plan include: Eating a variety of foods, including vegetables, fruits, and whole-grain products Eating lean meats, poultry, fish, beans, and low-fat dairy products Getting enough fiber Drinking lots of water Limiting salt , added sugars, alcohol , and saturated fat Making sure that you get enough nutrients, especially calcium , vitamin D , and potassium Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Food and Nutrition",
+    "Wellness and Lifestyle"
+  ],
+  "related_topics": [
+    {
+      "title": "Breastfeeding",
+      "url": "https://medlineplus.gov/breastfeeding.html",
+      "id": "175"
+    },
+    {
+      "title": "Calcium",
+      "url": "https://medlineplus.gov/calcium.html",
+      "id": "2780"
+    },
+    {
+      "title": "Carbohydrates",
+      "url": "https://medlineplus.gov/carbohydrates.html",
+      "id": "3670"
+    },
+    {
+      "title": "Child Nutrition",
+      "url": "https://medlineplus.gov/childnutrition.html",
+      "id": "3083"
+    },
+    {
+      "title": "Cholesterol",
+      "url": "https://medlineplus.gov/cholesterol.html",
+      "id": "26"
+    },
+    {
+      "title": "Dietary Fats",
+      "url": "https://medlineplus.gov/dietaryfats.html",
+      "id": "3593"
+    },
+    {
+      "title": "Dietary Fiber",
+      "url": "https://medlineplus.gov/dietaryfiber.html",
+      "id": "3059"
+    },
+    {
+      "title": "Dietary Proteins",
+      "url": "https://medlineplus.gov/dietaryproteins.html",
+      "id": "3668"
+    },
+    {
+      "title": "Diets",
+      "url": "https://medlineplus.gov/diets.html",
+      "id": "4924"
+    },
+    {
+      "title": "Eating Disorders",
+      "url": "https://medlineplus.gov/eatingdisorders.html",
+      "id": "237"
+    },
+    {
+      "title": "Food Labeling",
+      "url": "https://medlineplus.gov/foodlabeling.html",
+      "id": "3756"
+    },
+    {
+      "title": "Food Safety",
+      "url": "https://medlineplus.gov/foodsafety.html",
+      "id": "1434"
+    },
+    {
+      "title": "Infant and Newborn Nutrition",
+      "url": "https://medlineplus.gov/infantandnewbornnutrition.html",
+      "id": "3750"
+    },
+    {
+      "title": "Malnutrition",
+      "url": "https://medlineplus.gov/malnutrition.html",
+      "id": "5461"
+    },
+    {
+      "title": "Minerals",
+      "url": "https://medlineplus.gov/minerals.html",
+      "id": "4298"
+    },
+    {
+      "title": "Nutrition for Older Adults",
+      "url": "https://medlineplus.gov/nutritionforolderadults.html",
+      "id": "1616"
+    },
+    {
+      "title": "Nutritional Support",
+      "url": "https://medlineplus.gov/nutritionalsupport.html",
+      "id": "1271"
+    },
+    {
+      "title": "Obesity",
+      "url": "https://medlineplus.gov/obesity.html",
+      "id": "61"
+    },
+    {
+      "title": "Pregnancy and Nutrition",
+      "url": "https://medlineplus.gov/pregnancyandnutrition.html",
+      "id": "5984"
+    },
+    {
+      "title": "Vegetarian Diet",
+      "url": "https://medlineplus.gov/vegetariandiet.html",
+      "id": "1613"
+    },
+    {
+      "title": "Vitamins",
+      "url": "https://medlineplus.gov/vitamins.html",
+      "id": "456"
+    },
+    {
+      "title": "Weight Control",
+      "url": "https://medlineplus.gov/weightcontrol.html",
+      "id": "480"
+    }
+  ],
+  "see_references": [
+    "Food Additives",
+    "Healthy Eating"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Nutritional Physiological Phenomena",
+      "id": "D009747"
+    },
+    {
+      "name": "Nutrition Disorders",
+      "id": "D009748"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/nutrition.html"
+}

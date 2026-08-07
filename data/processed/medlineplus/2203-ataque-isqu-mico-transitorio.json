@@ -1,0 +1,35 @@
+{
+  "id": "2203",
+  "title": "Ataque isquémico transitorio",
+  "language": "Spanish",
+  "date_created": "08/19/2002",
+  "meta_description": "Un ataque isquémico transitorio es un mini derrame cerebral que aparece y desaparece rápidamente. Causas, síntomas y tratamiento.",
+  "summary": "Un ataque isquémico transitorio es un derrame que dura apenas unos minutos. Esto ocurre cuando el suministro de sangre a una parte del cerebro se detiene brevemente. Los síntomas de este ataque se parecen a los síntomas de un accidente cerebrovascular o un derrame, pero su duración es menor. Ocurren repentinamente e incluyen: Entumecimiento o debilidad, especialmente en un lado del cuerpo Confusión o dificultades para hablar o entender Dificultad para caminar Mareo Problemas para ver con uno o ambos ojos Pérdida del equilibrio o la coordinación de los movimientos La mayoría de los síntomas de un ataque isquémico transitorio desaparecen dentro de una hora, aunque pueden durar hasta 24 horas. Debido a que no es posible saber si los síntomas se deben a este ataque o un derrame, debe acudir a un hospital de inmediato. Los ataques isquémicos transitorios suelen ser una señal de advertencia de futuros derrames . Tomar medicinas, como los anticoagulantes , puede reducir su riesgo de un ataque cerebral. Su médico también podría recomendar una cirugía. También puede ayudar a reducir su riesgo teniendo un estilo de vida saludable . Esto incluye no fumar, no beber demasiado, comer una dieta saludable y hacer ejercicio. También es importante controlar otros problemas de salud, como la presión arterial alta y el colesterol . NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+  "synonyms": [
+    "Mini derrame"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación",
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Accidente cerebrovascular",
+      "url": "https://medlineplus.gov/spanish/stroke.html",
+      "id": "2176"
+    }
+  ],
+  "see_references": [
+    "AIT (Ataque isquémico transitorio)",
+    "Ataque cerebral leve"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/transientischemicattack.html"
+}

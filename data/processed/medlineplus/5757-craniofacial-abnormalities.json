@@ -1,0 +1,40 @@
+{
+  "id": "5757",
+  "title": "Craniofacial Abnormalities",
+  "language": "English",
+  "date_created": "01/24/2011",
+  "meta_description": "Craniofacial abnormalities (or craniofacial anomalies) are birth defects of the face or head. A common example is cleft lip and palate. Read more.",
+  "summary": "Craniofacial is a medical term that relates to the bones of the skull and face. Craniofacial abnormalities are birth defects of the face or head. Some, like cleft lip and palate , are among the most common of all birth defects. Others are very rare. Most of them affect how a person's face or head looks. These conditions may also affect other parts of the body. Treatment depends on the type of problem. Plastic and reconstructive surgery may help the person's appearance.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Brain and Nerves",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Brain Malformations",
+      "url": "https://medlineplus.gov/brainmalformations.html",
+      "id": "3022"
+    },
+    {
+      "title": "Cleft Lip and Palate",
+      "url": "https://medlineplus.gov/cleftlipandpalate.html",
+      "id": "191"
+    }
+  ],
+  "see_references": [
+    "Craniosynostosis",
+    "Positional Plagiocephaly",
+    "Treacher-Collins Syndrome"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Craniofacial Abnormalities",
+      "id": "D019465"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/craniofacialabnormalities.html"
+}

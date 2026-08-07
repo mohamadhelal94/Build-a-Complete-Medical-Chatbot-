@@ -1,0 +1,51 @@
+{
+  "id": "6351",
+  "title": "Blood Count Tests",
+  "language": "English",
+  "date_created": "05/05/2016",
+  "meta_description": "Blood count tests help doctors check for certain diseases and conditions. Learn about blood count tests, like the complete blood count (CBC).",
+  "summary": "Your blood contains red blood cells (RBC), white blood cells (WBC), and platelets. Blood count tests measure the number and types of cells in your blood. This helps doctors check on your overall health. The tests can also help to diagnose diseases and conditions such as anemia , infections, clotting problems, blood cancers, and immune system disorders . Specific types include tests for: RBC - the numbers, size, and types of RBC in the blood WBC - the numbers and types of WBC in the blood Platelets - the numbers and size of the platelets Hemoglobin - an iron-rich protein in red blood cells that carries oxygen Hematocrit - how much space red blood cells take up in your blood Reticulocyte count - how many young red blood cells are in your blood Mean corpuscular volume (MCV) - the average size of your red blood cells The complete blood count (CBC) includes most or all of these. The CBC is one of the most common blood tests. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "CBC",
+    "Complete Blood Count",
+    "Hematologic Tests"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Bleeding Disorders",
+      "url": "https://medlineplus.gov/bleedingdisorders.html",
+      "id": "166"
+    },
+    {
+      "title": "Blood",
+      "url": "https://medlineplus.gov/blood.html",
+      "id": "6037"
+    },
+    {
+      "title": "Laboratory Tests",
+      "url": "https://medlineplus.gov/laboratorytests.html",
+      "id": "210"
+    }
+  ],
+  "see_references": [
+    "Blood Cells",
+    "Blood Tests"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Blood Cell Count",
+      "id": "D001772"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bloodcounttests.html"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "166",
+  "title": "Bleeding Disorders",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "With bleeding disorders, there is a problem with blood clotting. It may be hard to stop the bleeding. Read about bleeding disorders and treatments.",
+  "summary": "Normally, if you get hurt, your body forms a blood clot to stop the bleeding . For blood to clot, your body needs cells called platelets and proteins known as clotting factors. If you have a bleeding disorder, you either do not have enough platelets or clotting factors or they don't work the way they should. Bleeding disorders can be the result of other diseases, such as severe liver disease or a lack of vitamin K . They can also be inherited. Hemophilia is an inherited bleeding disorder. Bleeding disorders can also be a side effect of medicines such as blood thinners . Various blood tests can check for a bleeding disorder. You will also have a physical exam and history. Treatments depend on the cause. They may include medicines and transfusions of blood , platelets, or clotting factor.",
+  "synonyms": [
+    "Clotting disorders"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Bleeding",
+      "url": "https://medlineplus.gov/bleeding.html",
+      "id": "6039"
+    },
+    {
+      "title": "Blood",
+      "url": "https://medlineplus.gov/blood.html",
+      "id": "6037"
+    },
+    {
+      "title": "Blood Clots",
+      "url": "https://medlineplus.gov/bloodclots.html",
+      "id": "6076"
+    },
+    {
+      "title": "Blood Thinners",
+      "url": "https://medlineplus.gov/bloodthinners.html",
+      "id": "4861"
+    },
+    {
+      "title": "Hemophilia",
+      "url": "https://medlineplus.gov/hemophilia.html",
+      "id": "3115"
+    }
+  ],
+  "see_references": [
+    "Blood Coagulation Disorders"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Blood Coagulation Disorders",
+      "id": "D001778"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bleedingdisorders.html"
+}

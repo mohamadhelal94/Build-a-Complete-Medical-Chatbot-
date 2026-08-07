@@ -1,0 +1,89 @@
+{
+  "id": "510",
+  "title": "Muscle Disorders",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "Your muscles help you move and help your body work. Muscle disorders can cause weakness, pain or even paralysis. Read more about muscle disorders.",
+  "summary": "Your muscles help you move and help your body work. Different types of muscles have different jobs. There are many problems that can affect muscles. Muscle disorders can cause weakness, pain or even paralysis. Causes of muscle disorders include: Injury or overuse, such as sprains or strains , cramps or tendinitis A genetic disorder, such as muscular dystrophy Some cancers Inflammation, such as myositis Diseases of nerves that affect muscles Infections Certain medicines Sometimes the cause of muscle disorders is unknown.",
+  "synonyms": [
+    "Myopathy"
+  ],
+  "groups": [
+    "Bones, Joints and Muscles"
+  ],
+  "related_topics": [
+    {
+      "title": "Fibromyalgia",
+      "url": "https://medlineplus.gov/fibromyalgia.html",
+      "id": "32"
+    },
+    {
+      "title": "Movement Disorders",
+      "url": "https://medlineplus.gov/movementdisorders.html",
+      "id": "520"
+    },
+    {
+      "title": "Multiple Sclerosis",
+      "url": "https://medlineplus.gov/multiplesclerosis.html",
+      "id": "83"
+    },
+    {
+      "title": "Muscle Cramps",
+      "url": "https://medlineplus.gov/musclecramps.html",
+      "id": "1707"
+    },
+    {
+      "title": "Muscular Dystrophy",
+      "url": "https://medlineplus.gov/musculardystrophy.html",
+      "id": "335"
+    },
+    {
+      "title": "Myasthenia Gravis",
+      "url": "https://medlineplus.gov/myastheniagravis.html",
+      "id": "336"
+    },
+    {
+      "title": "Myositis",
+      "url": "https://medlineplus.gov/myositis.html",
+      "id": "1617"
+    },
+    {
+      "title": "Neuromuscular Disorders",
+      "url": "https://medlineplus.gov/neuromusculardisorders.html",
+      "id": "1518"
+    },
+    {
+      "title": "Soft Tissue Sarcoma",
+      "url": "https://medlineplus.gov/softtissuesarcoma.html",
+      "id": "495"
+    },
+    {
+      "title": "Sprains and Strains",
+      "url": "https://medlineplus.gov/sprainsandstrains.html",
+      "id": "417"
+    },
+    {
+      "title": "Tendinitis",
+      "url": "https://medlineplus.gov/tendinitis.html",
+      "id": "1618"
+    }
+  ],
+  "see_references": [
+    "Myopathies",
+    "Rhabdomyolysis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Muscular Diseases",
+      "id": "D009135"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/muscledisorders.html"
+}

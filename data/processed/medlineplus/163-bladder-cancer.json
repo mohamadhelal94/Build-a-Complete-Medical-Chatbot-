@@ -1,0 +1,37 @@
+{
+  "id": "163",
+  "title": "Bladder Cancer",
+  "language": "English",
+  "date_created": "06/01/1999",
+  "meta_description": "Bladder cancer symptoms range from lower back pain to blood in your urine. Read about important risk factors and find a list of treatments available",
+  "summary": "The bladder is a hollow organ in your lower abdomen that stores urine. Bladder cancer occurs in the lining of the bladder. It is the sixth most common type of cancer in the United States. Symptoms include: Blood in your urine A frequent urge to urinate Pain when you urinate Low back pain Risk factors for developing bladder cancer include smoking and exposure to certain chemicals in the workplace. People with a family history of bladder cancer or who are older, White, or male have a higher risk. Treatments for bladder cancer include surgery, radiation therapy, chemotherapy, and biologic therapy. Biologic therapy boosts your body's own ability to fight cancer. NIH: National Cancer Institute",
+  "synonyms": [],
+  "groups": [
+    "Cancers",
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    }
+  ],
+  "see_references": [
+    "Urinary Bladder Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urinary Bladder Neoplasms",
+      "id": "D001749"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bladdercancer.html"
+}

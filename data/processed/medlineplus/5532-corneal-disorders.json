@@ -1,0 +1,53 @@
+{
+  "id": "5532",
+  "title": "Corneal Disorders",
+  "language": "English",
+  "date_created": "06/01/2010",
+  "meta_description": "The cornea is a clear layer that covers the front of the eye. It helps the eye focus, and keeps out germs and dust. Read about diseases of the cornea.",
+  "summary": "Your cornea is the outermost layer of your eye. It is clear and shaped like a dome. The cornea helps to shield the rest of the eye from germs, dust, and other harmful matter. It also helps your eye to focus. If you wear contact lenses, they float on top of your corneas. Problems with the cornea include: Refractive errors Allergies Infections Injuries Dystrophies - conditions in which parts of the cornea lose clarity due to a buildup of cloudy material Treatments of corneal disorders include medicines, corneal transplantation, and corneal laser surgery. NIH: National Eye Institute",
+  "synonyms": [],
+  "groups": [
+    "Eyes and Vision"
+  ],
+  "related_topics": [
+    {
+      "title": "Eye Diseases",
+      "url": "https://medlineplus.gov/eyediseases.html",
+      "id": "247"
+    },
+    {
+      "title": "Eye Infections",
+      "url": "https://medlineplus.gov/eyeinfections.html",
+      "id": "4398"
+    },
+    {
+      "title": "Eye Injuries",
+      "url": "https://medlineplus.gov/eyeinjuries.html",
+      "id": "492"
+    },
+    {
+      "title": "Refractive Errors",
+      "url": "https://medlineplus.gov/refractiveerrors.html",
+      "id": "946"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Corneal Injuries",
+      "id": "D065306"
+    },
+    {
+      "name": "Corneal Diseases",
+      "id": "D003316"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cornealdisorders.html"
+}

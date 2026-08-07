@@ -1,0 +1,42 @@
+{
+  "id": "3645",
+  "title": "Salud ocupacional de proveedores de salud",
+  "language": "Spanish",
+  "date_created": "04/06/2004",
+  "meta_description": "Los trabajadores de la salud están expuestos a muchos riesgos laborales, como infecciones, lesiones con agujas y estrés, entre otros. Cómo prevenirlos.",
+  "summary": "Los empleados dedicados al cuidado de la salud están expuestos a muchos riesgos laborales. Ellos pueden incluir: Infecciones Lesiones con agujas Lesiones en la espalda Sustancias que causan alergias Violencia Estrés Se deben seguir buenas prácticas de seguridad laboral y prevenir las lesiones. Eso puede reducir los riesgos de tener problemas con la salud. Use equipo protector, siga las pautas para el control de infecciones , aprenda la forma correcta de levantar objetos pesados y encuentre maneras para controlar el estrés. Instituto Nacional de la Seguridad y la Salud Ocupacional",
+  "synonyms": [
+    "Salud de las enfermeras y enfermeros",
+    "Salud de los doctores",
+    "Salud de los profesionales de la salud"
+  ],
+  "groups": [
+    "Asuntos de seguridad",
+    "Sistemas de salud"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia al látex",
+      "url": "https://medlineplus.gov/spanish/latexallergy.html",
+      "id": "1999"
+    },
+    {
+      "title": "Medidas para el control de infecciones",
+      "url": "https://medlineplus.gov/spanish/infectioncontrol.html",
+      "id": "3041"
+    },
+    {
+      "title": "Salud ocupacional",
+      "url": "https://medlineplus.gov/spanish/occupationalhealth.html",
+      "id": "2061"
+    }
+  ],
+  "see_references": [
+    "Doctores, Salud",
+    "Proveedores de salud, Salud ocupacional"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/occupationalhealthforhealthcareproviders.html"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "2240",
+  "title": "Enfermedades de la boca",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los problemas en la boca pueden dificultar comer, beber o hasta sonreír. Inclyen enfermedades en la lengua, como el herpes, mal aliento, boca seca y más.",
+  "summary": "La boca es una de las partes más importantes de su cuerpo. Cumple muchas funciones diferentes. Le permite: Consumir alimentos y líquidos Inhalar y exhalar aire Comenzar la digestión, con sus dientes masticando la comida y sus glándulas salivales produciendo saliva que ayuda a ablandar los alimentos Hablar y cantar Demostrar emociones, como sonreír o hacer pucheros Cualquier problema que afecte la boca puede dificultarle comer, beber o hasta sonreír. Algunos problemas comunes de la boca son: Herpes labial : Llagas dolorosas en los labios y alrededor de la boca causadas por un virus Aftas bucales : Úlceras dolorosas en la boca, causadas por bacterias o virus Muguet o candidiasis oral: Infección por cándida que causa manchas blancas en la boca Leucoplaquia: Parches blancos formados por exceso de crecimiento celular en la mucosa de las mejillas, las encías o la lengua, común en los fumadores Boca seca : Falta de suficiente saliva, causada por algunas medicinas y enfermedades Problemas en las encías o los dientes Mal aliento El tratamiento de los trastornos de la boca varía dependiendo del problema. Si el problema de la boca es causado por otra afección, tratar esa enfermedad puede ayudar. Es importante mantener la boca limpia mediante el cepillado y el uso del hilo dental en forma frecuente, y evitar el tabaco.",
+  "synonyms": [
+    "Enfermedades bucales"
+  ],
+  "groups": [
+    "Oído, nariz y garganta",
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Adenoides",
+      "url": "https://medlineplus.gov/spanish/adenoids.html",
+      "id": "2200"
+    },
+    {
+      "title": "Aftas bucales",
+      "url": "https://medlineplus.gov/spanish/cankersores.html",
+      "id": "6054"
+    },
+    {
+      "title": "Boca seca",
+      "url": "https://medlineplus.gov/spanish/drymouth.html",
+      "id": "5799"
+    },
+    {
+      "title": "Cáncer de cabeza y cuello",
+      "url": "https://medlineplus.gov/spanish/headandneckcancer.html",
+      "id": "1931"
+    },
+    {
+      "title": "Cáncer oral",
+      "url": "https://medlineplus.gov/spanish/oralcancer.html",
+      "id": "2062"
+    },
+    {
+      "title": "Enfermedades de la garganta",
+      "url": "https://medlineplus.gov/spanish/throatdisorders.html",
+      "id": "2261"
+    },
+    {
+      "title": "Enfermedades de las encías",
+      "url": "https://medlineplus.gov/spanish/gumdisease.html",
+      "id": "1928"
+    },
+    {
+      "title": "Enfermedades de las glándulas salivales",
+      "url": "https://medlineplus.gov/spanish/salivaryglanddisorders.html",
+      "id": "2132"
+    },
+    {
+      "title": "Herpes labial",
+      "url": "https://medlineplus.gov/spanish/coldsores.html",
+      "id": "5148"
+    },
+    {
+      "title": "Infecciones por estreptococo",
+      "url": "https://medlineplus.gov/spanish/streptococcalinfections.html",
+      "id": "2174"
+    },
+    {
+      "title": "Problemas del habla y de la comunicación",
+      "url": "https://medlineplus.gov/spanish/speechandcommunicationdisorders.html",
+      "id": "2161"
+    },
+    {
+      "title": "Problemas para tragar",
+      "url": "https://medlineplus.gov/spanish/swallowingdisorders.html",
+      "id": "1872"
+    },
+    {
+      "title": "Salud dental",
+      "url": "https://medlineplus.gov/spanish/dentalhealth.html",
+      "id": "1847"
+    },
+    {
+      "title": "Trastornos de la lengua",
+      "url": "https://medlineplus.gov/spanish/tonguedisorders.html",
+      "id": "5267"
+    }
+  ],
+  "see_references": [
+    "Boca, Enfermedades de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación Dental y Craneofacial",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCR"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/mouthdisorders.html"
+}

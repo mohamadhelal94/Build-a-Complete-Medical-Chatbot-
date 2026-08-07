@@ -1,0 +1,56 @@
+{
+  "id": "4578",
+  "title": "Health Disparities",
+  "language": "English",
+  "date_created": "02/14/2025",
+  "meta_description": "Health disparities refer to differences in the health status of different groups of people. Read more.",
+  "summary": "Health disparities are health differences between different groups of people. These health differences may include: How many people get certain diseases How severe the diseases are How many people have complications because of the diseases How many people die from a disease Whether people can get health care How many people get screened for a disease These groups of people may be based on: Race Ethnicity Immigrant status Disability Sex or gender Sexual orientation Geography Income Level of education NIH: National Institute on Minority Health and Health Disparities",
+  "synonyms": [],
+  "groups": [
+    "Health System",
+    "Population Groups"
+  ],
+  "related_topics": [
+    {
+      "title": "Men's Health",
+      "url": "https://medlineplus.gov/menshealth.html",
+      "id": "322"
+    },
+    {
+      "title": "Older Adult Health",
+      "url": "https://medlineplus.gov/olderadulthealth.html",
+      "id": "21"
+    },
+    {
+      "title": "Rural Health Concerns",
+      "url": "https://medlineplus.gov/ruralhealthconcerns.html",
+      "id": "3698"
+    },
+    {
+      "title": "Women's Health",
+      "url": "https://medlineplus.gov/womenshealth.html",
+      "id": "462"
+    }
+  ],
+  "see_references": [
+    "Health Equity"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Minority Health and Health Disparities",
+      "url": "http://www.nimhd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Healthcare Disparities",
+      "id": "D054625"
+    },
+    {
+      "name": "Health Status Disparities",
+      "id": "D054624"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/healthdisparities.html"
+}

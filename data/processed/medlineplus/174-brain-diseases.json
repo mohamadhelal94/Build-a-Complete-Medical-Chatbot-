@@ -1,0 +1,99 @@
+{
+  "id": "174",
+  "title": "Brain Diseases",
+  "language": "English",
+  "date_created": "01/05/2000",
+  "meta_description": "Brain diseases affect different functions of the body from memory, speech, thinking clearly, how well the different organs work, or even movement.",
+  "summary": "Your brain is the control center of your body. It controls your thoughts, memory, speech, and movement. It regulates the function of many organs. It's part of your nervous system, which also includes your spinal cord and peripheral nerves. The nervous system sends signals between your brain and the rest of the body. Your nerves take in information from your senses and send it to the brain to be processed. Your brain and nerves also communicate to help you move and to control your body's functions. When the brain is healthy, it works quickly and automatically. But when you have a brain disease, it may affect how well you can function and do your daily activities. Some common brain diseases include: Brain tumors , which can press on nerves and affect brain function. Degenerative nerve diseases , which can affect many of your body's activities, such as balance , movement , talking , breathing , and heart function. Types include Alzheimer's disease and Parkinson's disease . Encephalitis (inflammation in the brain), which can lead to problems such as vision loss , weakness, and paralysis . Genetic brain disorders , which are caused by changes in genes (also called variants or mutations). These disorders can affect the development and function of the brain. Strokes , which can cause a loss of brain cells and can affect your ability to think clearly. Traumatic brain injuries (TBIs), which can affect brain function. They may range from mild to severe. The effects of a TBI may be temporary or permanent. The symptoms of brain diseases vary widely, depending on the specific problem. In some cases, damage is permanent. In other cases, treatments such as surgery, medicines, or therapies such as physical, occupational, and speech therapies, may cure the disease or improve the symptoms.",
+  "synonyms": [],
+  "groups": [
+    "Brain and Nerves"
+  ],
+  "related_topics": [
+    {
+      "title": "Alzheimer's Disease",
+      "url": "https://medlineplus.gov/alzheimersdisease.html",
+      "id": "22"
+    },
+    {
+      "title": "Brain Malformations",
+      "url": "https://medlineplus.gov/brainmalformations.html",
+      "id": "3022"
+    },
+    {
+      "title": "Brain Tumors",
+      "url": "https://medlineplus.gov/braintumors.html",
+      "id": "173"
+    },
+    {
+      "title": "Cerebellar Disorders",
+      "url": "https://medlineplus.gov/cerebellardisorders.html",
+      "id": "5919"
+    },
+    {
+      "title": "Concussion",
+      "url": "https://medlineplus.gov/concussion.html",
+      "id": "4867"
+    },
+    {
+      "title": "Creutzfeldt-Jakob Disease",
+      "url": "https://medlineplus.gov/creutzfeldtjakobdisease.html",
+      "id": "1242"
+    },
+    {
+      "title": "Degenerative Nerve Diseases",
+      "url": "https://medlineplus.gov/degenerativenervediseases.html",
+      "id": "619"
+    },
+    {
+      "title": "Dementia",
+      "url": "https://medlineplus.gov/dementia.html",
+      "id": "205"
+    },
+    {
+      "title": "Encephalitis",
+      "url": "https://medlineplus.gov/encephalitis.html",
+      "id": "241"
+    },
+    {
+      "title": "Epilepsy",
+      "url": "https://medlineplus.gov/epilepsy.html",
+      "id": "244"
+    },
+    {
+      "title": "Genetic Brain Disorders",
+      "url": "https://medlineplus.gov/geneticbraindisorders.html",
+      "id": "3117"
+    },
+    {
+      "title": "Hydrocephalus",
+      "url": "https://medlineplus.gov/hydrocephalus.html",
+      "id": "607"
+    },
+    {
+      "title": "Stroke",
+      "url": "https://medlineplus.gov/stroke.html",
+      "id": "8"
+    },
+    {
+      "title": "Traumatic Brain Injury",
+      "url": "https://medlineplus.gov/traumaticbraininjury.html",
+      "id": "271"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Brain Diseases",
+      "id": "D001927"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/braindiseases.html"
+}

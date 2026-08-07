@@ -1,0 +1,47 @@
+{
+  "id": "5266",
+  "title": "Tongue Disorders",
+  "language": "English",
+  "date_created": "08/24/2009",
+  "meta_description": "Your tongue helps you taste, swallow, and chew. You also use it to speak. Problems with the tongue can have many different causes. Learn more.",
+  "summary": "Your tongue helps you taste, swallow, and chew. You also use it to speak. Your tongue is made up of many muscles. The upper surface contains your taste buds. Problems with the tongue include: Pain Swelling Changes in color or texture Abnormal movement or difficulty moving the tongue Taste problems These problems can have many different causes. Treatment depends on the underlying problem.",
+  "synonyms": [],
+  "groups": [
+    "Mouth and Teeth"
+  ],
+  "related_topics": [
+    {
+      "title": "Mouth Disorders",
+      "url": "https://medlineplus.gov/mouthdisorders.html",
+      "id": "594"
+    },
+    {
+      "title": "Oral Cancer",
+      "url": "https://medlineplus.gov/oralcancer.html",
+      "id": "331"
+    },
+    {
+      "title": "Speech and Communication Disorders",
+      "url": "https://medlineplus.gov/speechandcommunicationdisorders.html",
+      "id": "409"
+    },
+    {
+      "title": "Taste and Smell Disorders",
+      "url": "https://medlineplus.gov/tasteandsmelldisorders.html",
+      "id": "430"
+    }
+  ],
+  "see_references": [
+    "Geographic Tongue",
+    "Glossitis"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Tongue Diseases",
+      "id": "D014060"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/tonguedisorders.html"
+}

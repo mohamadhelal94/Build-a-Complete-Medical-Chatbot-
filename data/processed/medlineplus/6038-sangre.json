@@ -1,0 +1,49 @@
+{
+  "id": "6038",
+  "title": "Sangre",
+  "language": "Spanish",
+  "date_created": "09/17/2012",
+  "meta_description": "La sangre está formada por una parte líquida, el plasma, y una sólida: glóbulos rojos, glóbulos blancos y plaquetas. Entérese sobre los grupos sanguíneos.",
+  "summary": "La sangre es tejido vivo formado por líquidos y sólidos. La parte líquida, llamada plasma, contiene agua, sales y proteínas. Más de la mitad del cuerpo es plasma. La parte sólida de la sangre contiene glóbulos rojos, glóbulos blancos y plaquetas. Los glóbulos rojos suministran oxígeno desde los pulmones a los tejidos y órganos. Los glóbulos blancos combaten las infecciones y son parte del sistema inmunitario del cuerpo. Las plaquetas ayudan a la coagulación de la sangre cuando sufre un corte o una herida. La médula ósea, el material esponjoso dentro de los huesos, produce nuevas células sanguíneas. Las células de la sangre constantemente mueren y su cuerpo produce nuevas. Los glóbulos rojos viven unos 120 días y las plaquetas viven cerca de seis. Algunos glóbulos blancos de la sangre viven menos de un día, pero otros viven mucho más tiempo. Hay cuatro grupos de sangre: A, B, AB y O. Asimismo, la sangre es Rh positivo o Rh negativo. Así, si su tipo de sangre es A, es A positivo o A negativo. Su tipo de sangre es importante si necesita una transfusión de sangre . Y su factor de sangre puede ser importante si usted queda embarazada, ya que la incompatibilidad entre su tipo de sangre y el de su bebé puede crear problemas. Los análisis de sangre como las pruebas de conteo sanguíneo ayudan a los médicos a analizar ciertas enfermedades y afecciones. También ayudan a comprobar la función de los órganos y muestran qué tan bien están funcionando los tratamientos. Algunos problemas de la sangre pueden incluir problemas de coagulación , coágulos sanguíneos y desórdenes plaquetarios . Si pierde mucha sangre, usted puede necesitar una transfusión. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Coágulos sanguíneos",
+      "url": "https://medlineplus.gov/spanish/bloodclots.html",
+      "id": "6077"
+    },
+    {
+      "title": "Hemorragia",
+      "url": "https://medlineplus.gov/spanish/bleeding.html",
+      "id": "6040"
+    },
+    {
+      "title": "Problemas de coagulación",
+      "url": "https://medlineplus.gov/spanish/bleedingdisorders.html",
+      "id": "2231"
+    },
+    {
+      "title": "Problemas de la sangre",
+      "url": "https://medlineplus.gov/spanish/blooddisorders.html",
+      "id": "3647"
+    },
+    {
+      "title": "Transfusión y donación de sangre",
+      "url": "https://medlineplus.gov/spanish/bloodtransfusionanddonation.html",
+      "id": "1778"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/blood.html"
+}

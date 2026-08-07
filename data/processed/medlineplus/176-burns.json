@@ -1,0 +1,50 @@
+{
+  "id": "176",
+  "title": "Burns",
+  "language": "English",
+  "date_created": "06/01/1999",
+  "meta_description": "A burn is damage to your body's tissues caused by heat, chemicals, electricity, sunlight, or radiation. Read about the different types and treatments.",
+  "summary": "A burn is damage to your body's tissues caused by heat, chemicals, electricity , sunlight , or radiation . Scalds from hot liquids and steam, building fires and flammable liquids and gases are the most common causes of burns. Another kind is an inhalation injury , caused by breathing smoke. There are three types of burns: First-degree burns damage only the outer layer of skin Second-degree burns damage the outer layer and the layer underneath Third-degree burns damage or destroy the deepest layer of skin and tissues underneath Burns can cause swelling, blistering, scarring and, in serious cases, shock , and even death. They also can lead to infections because they damage your skin's protective barrier. Treatment for burns depends on the cause of the burn, how deep it is, and how much of the body it covers. Antibiotic creams can prevent or treat infections. For more serious burns, treatment may be needed to clean the wound, replace the skin, and make sure the patient has enough fluids and nutrition. NIH: National Institute of General Medical Sciences",
+  "synonyms": [],
+  "groups": [
+    "Skin, Hair and Nails",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Electrical Injuries",
+      "url": "https://medlineplus.gov/electricalinjuries.html",
+      "id": "6280"
+    },
+    {
+      "title": "Fire Safety",
+      "url": "https://medlineplus.gov/firesafety.html",
+      "id": "536"
+    },
+    {
+      "title": "Inhalation Injuries",
+      "url": "https://medlineplus.gov/inhalationinjuries.html",
+      "id": "6081"
+    },
+    {
+      "title": "Wildfires",
+      "url": "https://medlineplus.gov/wildfires.html",
+      "id": "4604"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of General Medical Sciences",
+      "url": "https://www.nigms.nih.gov/Pages/default.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Burns",
+      "id": "D002056"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/burns.html"
+}

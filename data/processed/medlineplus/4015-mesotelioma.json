@@ -1,0 +1,30 @@
+{
+  "id": "4015",
+  "title": "Mesotelioma",
+  "language": "Spanish",
+  "date_created": "04/03/2006",
+  "meta_description": "El mesotelioma es un tumor del mesotelio, un tejido que cubre los pulmones y otros órganos. Puede ser benigno (no canceroso) o maligno (canceroso).",
+  "summary": "El tejido que recubre los pulmones, el estómago, el corazón y otros órganos se llama mesotelio. El mesotelioma, también conocido como mesotelioma maligno, es un cáncer que afecta a ese tejido. Suele comenzar en los pulmones, pero también puede comenzar en el abdomen u otros órganos. El mesotelioma es raro pero serio. La mayoría de las personas que lo padece ha vivido y trabajado en lugares donde inhalaron partículas de asbesto . Tras haber sido expuesto al asbesto, en general toma mucho tiempo para que la enfermedad aparezca. Los síntomas incluyen: Problemas para respirar Tos Dolor debajo de la caja torácica Dolor, hinchazón o bultos en el abdomen Pérdida de peso sin causa aparente Coágulos de sangre Estreñimiento Fatiga A veces, es difícil reconocer la diferencia entre el mesotelioma maligno y el cáncer de pulmón. Para saber si tiene mesotelioma, su profesional de la salud probablemente usará un examen físico, pruebas de imágenes y una biopsia . Con frecuencia, el mesotelioma maligno se detecta cuando ya está avanzado. Esto lo hace más difícil de tratar. Las opciones de tratamiento incluyen Cirugía Radioterapia Quimioterapia Inmunoterapia Terapia dirigida, la que usa medicamentos u otras sustancias para combatir células cancerosas específicas con menor daño a las células normales NIH: Instituto Nacional del Cáncer",
+  "synonyms": [],
+  "groups": [
+    "Cánceres",
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Asbesto",
+      "url": "https://medlineplus.gov/spanish/asbestos.html",
+      "id": "1758"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/mesothelioma.html"
+}

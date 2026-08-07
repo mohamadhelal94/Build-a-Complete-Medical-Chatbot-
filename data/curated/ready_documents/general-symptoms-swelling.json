@@ -1,0 +1,17 @@
+{
+  "id": "swelling",
+  "title": "Swelling",
+  "category": "General Symptoms",
+  "mapped_title": "Edema",
+  "page_content": "User topic: Swelling\nCategory: General Symptoms\nTrusted medical topic: Edema\nSearch phrases: Swelling, Edema, Dropsy\nMedical groups: Blood, Heart and Circulation, Symptoms\n\nMedical information:\nEdema means swelling caused by fluid in your body's tissues. It usually occurs in the feet, ankles and legs, but it can involve your entire body. Causes of edema include: Eating too much salt Sunburn Heart failure Kidney disease Liver problems from cirrhosis Pregnancy Problems with lymph nodes , especially after mastectomy Some medicines Standing or walking a lot when the weather is warm To keep swelling down, your health care provider may recommend keeping your legs raised when sitting, wearing support stockings, limiting how much salt you eat, or taking a medicine called a diuretic - also called a water pill.",
+  "search_phrases": [
+    "Swelling",
+    "Edema",
+    "Dropsy"
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/edema.html",
+  "medlineplus_id": "1229",
+  "mapping_type": "exact",
+  "mapping_score": 1.0
+}

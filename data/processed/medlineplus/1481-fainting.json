@@ -1,0 +1,45 @@
+{
+  "id": "1481",
+  "title": "Fainting",
+  "language": "English",
+  "date_created": "05/16/2001",
+  "meta_description": "Fainting, or syncope, is a brief loss of consciousness when blood flow to the brain suddenly drops. Know the causes and what to do if someone faints.",
+  "summary": "Fainting is a temporary loss of consciousness. If you're about to faint, you'll feel dizzy, lightheaded, or nauseous. Your field of vision may \"white out\" or \"black out.\" Your skin may be cold and clammy. You lose muscle control at the same time, and may fall down. Fainting usually happens when your blood pressure drops suddenly, causing a decrease in blood flow to your brain. It is more common in older people. Some causes of fainting include: Heat or dehydration Emotional distress Standing up too quickly Certain medicines Drop in blood sugar Heart problems When someone faints, make sure that the airway is clear and check for breathing. The person should stay lying down for 10-15 minutes. Most people recover completely. Fainting is usually nothing to worry about, but it can sometimes be a sign of a serious problem. If you faint, it's important to see your health care provider and find out why it happened.",
+  "synonyms": [
+    "Syncope"
+  ],
+  "groups": [
+    "Brain and Nerves",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Autonomic Nervous System Disorders",
+      "url": "https://medlineplus.gov/autonomicnervoussystemdisorders.html",
+      "id": "4242"
+    },
+    {
+      "title": "Low Blood Pressure",
+      "url": "https://medlineplus.gov/lowbloodpressure.html",
+      "id": "1225"
+    }
+  ],
+  "see_references": [
+    "Syncope",
+    "Vasovagal Syncope"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Syncope",
+      "id": "D013575"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/fainting.html"
+}

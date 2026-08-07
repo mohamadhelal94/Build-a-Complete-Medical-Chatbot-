@@ -1,0 +1,39 @@
+{
+  "id": "6132",
+  "title": "Overactive Bladder",
+  "language": "English",
+  "date_created": "05/20/2013",
+  "meta_description": "An overactive bladder (or polyuria) will cause you to urinate 8 or more times a day or 2 or more times a night. Read about the treatment available",
+  "summary": "Overactive bladder is a condition in which the bladder squeezes urine out at the wrong time. You may have overactive bladder if you have two or more of these symptoms: You urinate eight or more times a day or two or more times at night You have the sudden, strong need to urinate immediately You leak urine after a sudden, strong urge to urinate You also may have incontinence , a loss of bladder control. Nerve problems, too much fluid, or too much caffeine can cause it. Often the cause is unknown. Your doctor may prescribe a medicine that can calm muscles and nerves. The medicine may come as a pill, a liquid, or a patch. The medicines can cause your eyes to become dry. They can also cause dry mouth and constipation. To deal with these effects, use eye drops to keep your eyes moist, chew sugarless gum or suck on sugarless hard candy if dry mouth bothers you, and take small sips of water throughout the day. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    },
+    {
+      "title": "Urinary Incontinence",
+      "url": "https://medlineplus.gov/urinaryincontinence.html",
+      "id": "114"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urinary Bladder, Overactive",
+      "id": "D053201"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/overactivebladder.html"
+}

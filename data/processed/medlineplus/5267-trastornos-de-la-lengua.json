@@ -1,0 +1,41 @@
+{
+  "id": "5267",
+  "title": "Trastornos de la lengua",
+  "language": "Spanish",
+  "date_created": "11/24/2009",
+  "meta_description": "La lengua sirve para hablar, para saborear, masticar y tragar la comida. Dolor, hinchazón y problemas del gusto son algunos trastornos de la lengua.",
+  "summary": "La lengua ayuda a saborear la comida, a tragar y a masticar. También se usa para hablar. Está compuesta de varios músculos. La superficie contiene las papilas gustativas. Los problemas de la lengua incluyen: Dolor Hinchazón Cambios de color o de textura Movimientos anormales o dificultad para moverla Trastornos del gusto Estos problemas pueden ser causados por varias razones. El tratamiento dependerá de éstas razones.",
+  "synonyms": [],
+  "groups": [
+    "Salud oral y dental"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer oral",
+      "url": "https://medlineplus.gov/spanish/oralcancer.html",
+      "id": "2062"
+    },
+    {
+      "title": "Enfermedades de la boca",
+      "url": "https://medlineplus.gov/spanish/mouthdisorders.html",
+      "id": "2240"
+    },
+    {
+      "title": "Problemas del habla y de la comunicación",
+      "url": "https://medlineplus.gov/spanish/speechandcommunicationdisorders.html",
+      "id": "2161"
+    },
+    {
+      "title": "Trastornos del gusto y del olfato",
+      "url": "https://medlineplus.gov/spanish/tasteandsmelldisorders.html",
+      "id": "2184"
+    }
+  ],
+  "see_references": [
+    "Lengua, Trastornos de la"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/tonguedisorders.html"
+}

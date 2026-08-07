@@ -1,0 +1,56 @@
+{
+  "id": "5262",
+  "title": "Bowel Movement",
+  "language": "English",
+  "date_created": "08/17/2009",
+  "meta_description": "Bowel movements have many names but it's all the same. Everyone has BMs.  Some are normal and some are irregular. Learn more.",
+  "summary": "A bowel movement is the last stop in the movement of food through your digestive tract. Your stool passes out of your body through the rectum and anus. Another name for stool is feces. It is made of what is left after your digestive system (stomach, small intestine, and colon) absorbs nutrients and fluids from what you eat and drink. Sometimes a bowel movement isn't normal. Diarrhea happens when stool passes through the large intestine too quickly. Constipation occurs when stool passes through the large intestine too slowly. Bowel incontinence is a problem controlling your bowel movements. Other abnormalities with bowel movements may be a sign of a digestive problem. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "BM",
+    "Feces",
+    "Poop",
+    "Stool"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Anal Disorders",
+      "url": "https://medlineplus.gov/analdisorders.html",
+      "id": "137"
+    },
+    {
+      "title": "Bowel Incontinence",
+      "url": "https://medlineplus.gov/bowelincontinence.html",
+      "id": "5316"
+    },
+    {
+      "title": "Constipation",
+      "url": "https://medlineplus.gov/constipation.html",
+      "id": "200"
+    },
+    {
+      "title": "Diarrhea",
+      "url": "https://medlineplus.gov/diarrhea.html",
+      "id": "211"
+    }
+  ],
+  "see_references": [
+    "Poop",
+    "Stool"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Defecation",
+      "id": "D003672"
+    },
+    {
+      "name": "Feces",
+      "id": "D005243"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bowelmovement.html"
+}

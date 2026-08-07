@@ -1,0 +1,45 @@
+{
+  "id": "4752",
+  "title": "Chequeo médico",
+  "language": "Spanish",
+  "date_created": "01/05/2009",
+  "meta_description": "Un chequeo médico puede encontrar problemas antes que presenten síntomas. Estos dependen de su edad, historia familiar y estado de salud, entre otras cosas.",
+  "summary": "Los chequeos médicos regulares (también conocidos como examen anual de rutina) con su profesional de la salud son diferentes a las citas por enfermedad o lesión. Estos chequeos incluyen exámenes físicos y atención preventiva. La atención preventiva puede incluir: Pruebas de detección : Exámenes médicos para detectar enfermedades en etapas tempranas, cuando pueden ser más fáciles de tratar. Los exámenes que necesite dependerán de su: Edad Sexo Salud general Antecedentes o historia de salud familiar Riesgos de ciertas enfermedades Vacunas : Pueden mejorar su salud al prevenir enfermedades y otros problemas médicos Educación y asesoramiento para ayudarle a tomar decisiones de salud informadas: Puede incluir consejos sobre su estilo de vida, incluyendo su dieta, cuánto ejercicio hace y cualquier sustancia, alcohol o tabaco que pueda estar consumiendo Para aprovechar al máximo su próximo chequeo, algunas cosas que debe hacer antes de acudir incluyen: Revisar su historia de salud familiar Averiguar si le corresponde algún examen general o vacuna Preparar una lista de problemas y preguntas sobre los que le gustaría hablar con su profesional de la salud Preparar una lista de los medicamentos, vitaminas y suplementos que toma para llevar con usted Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Chequeo anual",
+    "Chequeos de rutina",
+    "Examen médico anual"
+  ],
+  "groups": [
+    "Bienestar y estilo de vida"
+  ],
+  "related_topics": [
+    {
+      "title": "Chequeo médico de la mujer",
+      "url": "https://medlineplus.gov/spanish/womenshealthcheckup.html",
+      "id": "5322"
+    },
+    {
+      "title": "Chequeo médico del bebé",
+      "url": "https://medlineplus.gov/spanish/babyhealthcheckup.html",
+      "id": "5436"
+    },
+    {
+      "title": "Exámenes médicos",
+      "url": "https://medlineplus.gov/spanish/healthscreening.html",
+      "id": "4483"
+    },
+    {
+      "title": "Vivir saludablemente",
+      "url": "https://medlineplus.gov/spanish/healthyliving.html",
+      "id": "2109"
+    }
+  ],
+  "see_references": [
+    "Chequeo anual"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/healthcheckup.html"
+}

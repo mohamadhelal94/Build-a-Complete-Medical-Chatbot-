@@ -1,0 +1,37 @@
+{
+  "id": "1747",
+  "title": "Lesiones y enfermedades del tobillo",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las lesiones del tobillo y los trastornos del tobillo pueden afectar los tendones y el cartílago. Aprenda sobre los esguinces y fracturas del tobillo.",
+  "summary": "El hueso del tobillo (astrágalo) y el extremo inferior de los dos huesos de la pierna forman la articulación del tobillo. Los ligamentos, que conectan los huesos entre sí, estabilizan y dan soporte a la articulación. Los músculos y tendones lo mueven. Los problemas más comunes del tobillo son las torceduras y las fracturas (huesos rotos). Una torcedura o esguince es una lesión en los ligamentos. Los esguinces pueden tardar algunas semanas o hasta varios meses en sanar completamente. Una fractura es una ruptura de un hueso. También pueden ocurrir lesiones en otras partes del tobillo como los tendones, que unen los músculos al hueso, y los cartílagos, que amortiguan los roces e impactos de las articulaciones. Las torceduras y las fracturas del tobillo son lesiones deportivas comunes.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Lesiones y enfermedades del pie",
+      "url": "https://medlineplus.gov/spanish/footinjuriesanddisorders.html",
+      "id": "1912"
+    },
+    {
+      "title": "Torceduras y distensiones",
+      "url": "https://medlineplus.gov/spanish/sprainsandstrains.html",
+      "id": "2235"
+    }
+  ],
+  "see_references": [
+    "Tobillo, Lesiones y enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ankleinjuriesanddisorders.html"
+}

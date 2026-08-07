@@ -1,0 +1,63 @@
+{
+  "id": "1549",
+  "title": "Infant and Newborn Care",
+  "language": "English",
+  "date_created": "10/04/2001",
+  "meta_description": "Going home with a new baby is exciting but it can be scary too. Read about the changes a newborn goes through and also see tips for proper baby care.",
+  "summary": "Going home with a new baby is exciting, but it can be scary, too. Newborns have many needs, like frequent feedings and diaper changes. Babies can have health issues that are different from older children and adults, like diaper rash and cradle cap. Your baby will go through many changes during the first year of life. You may feel uneasy at first. Ask your health care provider for help if you need it.",
+  "synonyms": [
+    "Baby care"
+  ],
+  "groups": [
+    "Children and Teenagers"
+  ],
+  "related_topics": [
+    {
+      "title": "Baby Health Checkup",
+      "url": "https://medlineplus.gov/babyhealthcheckup.html",
+      "id": "5435"
+    },
+    {
+      "title": "Breastfeeding",
+      "url": "https://medlineplus.gov/breastfeeding.html",
+      "id": "175"
+    },
+    {
+      "title": "Common Infant and Newborn Problems",
+      "url": "https://medlineplus.gov/commoninfantandnewbornproblems.html",
+      "id": "5428"
+    },
+    {
+      "title": "Infant and Newborn Development",
+      "url": "https://medlineplus.gov/infantandnewborndevelopment.html",
+      "id": "1548"
+    },
+    {
+      "title": "Infant and Newborn Nutrition",
+      "url": "https://medlineplus.gov/infantandnewbornnutrition.html",
+      "id": "3750"
+    },
+    {
+      "title": "Uncommon Infant and Newborn Problems",
+      "url": "https://medlineplus.gov/uncommoninfantandnewbornproblems.html",
+      "id": "5431"
+    }
+  ],
+  "see_references": [
+    "Baby Care"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Infant Care",
+      "id": "D007224"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/infantandnewborncare.html"
+}

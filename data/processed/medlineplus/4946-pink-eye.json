@@ -1,0 +1,33 @@
+{
+  "id": "4946",
+  "title": "Pink Eye",
+  "language": "English",
+  "date_created": "03/24/2009",
+  "meta_description": "Pink Eye (conjunctivitis) is inflammation of the outer layer of the eye and inside of the eyelid. Read about the symptoms, causes, and treatment.",
+  "summary": "Conjunctivitis is the medical name for pink eye. It involves inflammation of the outer layer of the eye and inside of the eyelid. It can cause swelling, itching, burning, discharge, and redness. Causes include: Bacterial or viral infection Allergies Substances that cause irritation Contact lens products, eye drops, or eye ointments Pink eye usually does not affect vision. Infectious pink eye can easily spread from one person to another. The infection will clear in most cases without medical care, but bacterial pink eye needs treatment with antibiotic eye drops or ointment. NIH: National Eye Institute",
+  "synonyms": [
+    "Conjunctivitis"
+  ],
+  "groups": [
+    "Eyes and Vision",
+    "Infections"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Conjunctivitis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Conjunctivitis",
+      "id": "D003231"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/pinkeye.html"
+}

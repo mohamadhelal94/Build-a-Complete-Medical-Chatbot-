@@ -1,0 +1,51 @@
+{
+  "id": "1856",
+  "title": "Problemas neurológicos asociados con la diabetes",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Si tiene diabetes, el nivel de azúcar en su sangre es muy elevado. Con el tiempo, esto puede causar una neuropatía diabética o problemas de los nervios.",
+  "summary": "Si tiene diabetes , el nivel de azúcar en su sangre es muy elevado. Con el tiempo, esto puede dañar la capa que cubre los nervios o los vasos sanguíneos que transportan el oxígeno a los nervios. Los nervios dañados pueden dejar de enviar mensajes o enviar las señales nerviosas más lentamente o en momentos equivocados. Este daño se denomina neuropatía diabética. Más de la mitad de las personas con diabetes la tienen. Los síntomas pueden incluir: Entumecimiento en las manos, las piernas o los pies Dolores punzantes, ardor u hormigueo Náusea, vómitos, estreñimiento o diarrea Disfunción sexual Problemas urinarios Mareos al cambiar de posición rápidamente Su doctor diagnosticará la neuropatía diabética con un examen físico y estudios de conducción nerviosa (que verifican la transmisión de señales eléctricas a través de un nervio). El control de la azúcar en la sangre puede ayudar a prevenir los problemas en los nervios o evitar que los que ya existen empeoren. El tratamiento puede incluir analgésicos y otras medicinas. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Neuropatía diabética"
+  ],
+  "groups": [
+    "Cerebro y nervios",
+    "Sistema endocrino",
+    "Diabetes mellitus"
+  ],
+  "related_topics": [
+    {
+      "title": "Complicaciones de la diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetescomplications.html",
+      "id": "4568"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetes.html",
+      "id": "1851"
+    },
+    {
+      "title": "Enfermedades del sistema nervioso periférico",
+      "url": "https://medlineplus.gov/spanish/peripheralnervedisorders.html",
+      "id": "2084"
+    },
+    {
+      "title": "Pie diabético",
+      "url": "https://medlineplus.gov/spanish/diabeticfoot.html",
+      "id": "1854"
+    }
+  ],
+  "see_references": [
+    "Diabetes y neurología",
+    "Neurología y diabetes, Problemas"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/diabeticnerveproblems.html"
+}

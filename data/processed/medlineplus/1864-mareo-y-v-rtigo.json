@@ -1,0 +1,40 @@
+{
+  "id": "1864",
+  "title": "Mareo y vértigo",
+  "language": "Spanish",
+  "date_created": "02/07/2003",
+  "meta_description": "¿Cuál es la diferencia entre el mareo y el vértigo? Lea sobre los síntomas, causas y tratamientos del mareo aquí.",
+  "summary": "Cuando se siente mareado, puede sentirse aturdido, confundido o desorientado. Si siente que la habitación está girando, tiene vértigo. Ambas sensaciones pueden hacerle perder el equilibrio . El mareo puede tener muchas causas diferentes. Una caída brusca de la presión arterial o estar deshidratado puede hacer que se sienta mareado. Muchas personas se sienten mareadas si se levantan demasiado rápido cuando están sentadas o acostadas. Las medicinas pueden causar mareos o problemas en el oído . La cinetosis también puede provocar mareos. A veces, el mareo puede ser un síntoma de otras enfermedades. A medida que las personas envejecen, pueden tener más problemas de salud y tomar más medicamentos. Esto los hace más propensos a tener problemas de mareos y o del equilibrio. Por lo general, los mareos se mejoran por sí mismos o se tratan fácilmente. Si siente mareos con frecuencia, debe consultar a su médico para conocer la causa. NIH: Institutos Nacionales de la Salud",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios",
+    "Oído, nariz y garganta",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Ménière",
+      "url": "https://medlineplus.gov/spanish/menieresdisease.html",
+      "id": "2263"
+    },
+    {
+      "title": "Mareo (Cinetosis)",
+      "url": "https://medlineplus.gov/spanish/motionsickness.html",
+      "id": "3107"
+    }
+  ],
+  "see_references": [
+    "Equilibrio, Trastornos del",
+    "Trastornos del equilibrio",
+    "Vértigo"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/dizzinessandvertigo.html"
+}

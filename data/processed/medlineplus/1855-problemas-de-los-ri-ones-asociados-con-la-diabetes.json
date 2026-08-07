@@ -1,0 +1,52 @@
+{
+  "id": "1855",
+  "title": "Problemas de los riñones asociados con la diabetes",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Un nivel de azúcar muy elevado en la sangre puede causar daños en los riñones. Si éstos se dañan, los desechos y los líquidos se acumulan en la sangre.",
+  "summary": "Si tiene diabetes , el nivel de azúcar en su sangre es muy elevado. Con el tiempo, eso puede causar daños en los riñones. Los riñones son filtros que limpian la sangre. Si están dañados, los desechos y los líquidos se acumulan en la sangre en lugar de salir del organismo. El daño renal ocasionado por la diabetes se denomina nefropatía diabética. Comienza a ocurrir mucho antes de que aparezcan los síntomas. Las personas con diabetes deben someterse a pruebas periódicas para detectarla. Las pruebas incluyen un examen de orina y un análisis de sangre para ver qué tan bien los riñones están funcionando. Si el daño continúa, los riñones pueden fallar. De hecho, la diabetes es la causa más común de insuficiencia renal en los Estados Unidos. Las personas con insuficiencia renal requieren diálisis o un trasplante renal . Es posible retrasar el progreso del daño renal o impedir que empeore. Controlar la glucemia y la presión arterial, tomar los medicamentos y no comer demasiadas proteínas puede ayudar. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Nefropatía diabética",
+    "Problemas renales en personas con diabetes"
+  ],
+  "groups": [
+    "Riñones y sistema urinario",
+    "Sistema endocrino",
+    "Diabetes mellitus"
+  ],
+  "related_topics": [
+    {
+      "title": "Complicaciones de la diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetescomplications.html",
+      "id": "4568"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://medlineplus.gov/spanish/diabetes.html",
+      "id": "1851"
+    },
+    {
+      "title": "Insuficiencia renal",
+      "url": "https://medlineplus.gov/spanish/kidneyfailure.html",
+      "id": "1990"
+    },
+    {
+      "title": "Trasplante de riñón",
+      "url": "https://medlineplus.gov/spanish/kidneytransplantation.html",
+      "id": "1992"
+    }
+  ],
+  "see_references": [
+    "Diabetes y riñones, Problemas de",
+    "Riñones y diabetes, Problemas de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/diabetickidneyproblems.html"
+}

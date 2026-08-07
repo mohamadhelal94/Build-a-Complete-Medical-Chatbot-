@@ -1,0 +1,45 @@
+{
+  "id": "1653",
+  "title": "Heartburn",
+  "language": "English",
+  "date_created": "05/28/2002",
+  "meta_description": "Looking for heartburn remedies?  Find out more about heartburn (pyrosis) and how to relieve this type of indigestion.",
+  "summary": "Heartburn is a painful burning feeling in your chest or throat. It happens when stomach acid backs up into your esophagus, the tube that carries food from your mouth to your stomach. If you have heartburn more than twice a week, you may have GERD . But you can have GERD without having heartburn. Pregnancy, certain foods, alcohol, and some medications can bring on heartburn. Treating heartburn is important because over time reflux can damage the esophagus. Over-the-counter medicines may help. If the heartburn continues, you may need prescription medicines or surgery. If you have other symptoms such as crushing chest pain, it could be a heart attack . Get help immediately.",
+  "synonyms": [
+    "Acid indigestion",
+    "Pyrosis"
+  ],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "GERD",
+      "url": "https://medlineplus.gov/gerd.html",
+      "id": "512"
+    },
+    {
+      "title": "Indigestion",
+      "url": "https://medlineplus.gov/indigestion.html",
+      "id": "4293"
+    }
+  ],
+  "see_references": [
+    "Acid Reflux"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Heartburn",
+      "id": "D006356"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/heartburn.html"
+}

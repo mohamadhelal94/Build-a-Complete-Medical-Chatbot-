@@ -1,0 +1,60 @@
+{
+  "id": "507",
+  "title": "Hand Injuries and Disorders",
+  "language": "English",
+  "date_created": "10/20/1999",
+  "meta_description": "Find out what you can do if you are experiencing problems with your hands such as pain or stiffness. Learn about hand injuries and disorders.",
+  "summary": "No matter how old you are or what you do for a living, you are always using your hands. When there is something wrong with them, you may not be able to do your regular activities. Hand problems include : Carpal tunnel syndrome - compression of a nerve as it goes through the wrist, often making your fingers feel numb Injuries that result in fractures (broken bones), ruptured ligaments and dislocations Osteoarthritis - wear-and-tear arthritis, which can also cause deformity Tendinitis - irritation of the tendons Disorders and injuries of your fingers and thumb",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Carpal Tunnel Syndrome",
+      "url": "https://medlineplus.gov/carpaltunnelsyndrome.html",
+      "id": "179"
+    },
+    {
+      "title": "Elbow Injuries and Disorders",
+      "url": "https://medlineplus.gov/elbowinjuriesanddisorders.html",
+      "id": "506"
+    },
+    {
+      "title": "Finger Injuries and Disorders",
+      "url": "https://medlineplus.gov/fingerinjuriesanddisorders.html",
+      "id": "5356"
+    },
+    {
+      "title": "Raynaud Phenomenon",
+      "url": "https://medlineplus.gov/raynaudphenomenon.html",
+      "id": "381"
+    },
+    {
+      "title": "Shoulder Injuries and Disorders",
+      "url": "https://medlineplus.gov/shoulderinjuriesanddisorders.html",
+      "id": "505"
+    },
+    {
+      "title": "Wrist Injuries and Disorders",
+      "url": "https://medlineplus.gov/wristinjuriesanddisorders.html",
+      "id": "1657"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hand Injuries",
+      "id": "D006230"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/handinjuriesanddisorders.html"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "208",
+  "title": "Rashes",
+  "language": "English",
+  "date_created": "08/12/1999",
+  "meta_description": "A rash, or dermatitis, is an area of irritated or swollen skin. It can be itchy, red, and painful. Learn about the types, causes, and treatments.",
+  "summary": "A rash is an area of irritated or swollen skin. Many rashes are itchy, red, painful, and irritated. Some rashes can also lead to blisters or patches of raw skin. Rashes are a symptom of many different medical problems. Other causes include irritating substances and allergies. Certain genes can make people more likely to get rashes. Contact dermatitis is a common type of rash. It causes redness, itching, and sometimes small bumps. You get the rash where you have touched an irritant, such as a chemical, or something you are allergic to, like poison ivy . Some rashes develop right away. Others form over several days. Although most rashes clear up fairly quickly, others are long-lasting and need long-term treatment. Because rashes can be caused by many different things, it's important to figure out what kind you have before you treat it. If it is a bad rash, if it does not go away, or if you have other symptoms, you should see your health care provider. Treatments may include moisturizers, lotions, baths, cortisone creams that relieve swelling, and antihistamines, which relieve itching.",
+  "synonyms": [
+    "Dermatitis",
+    "Skin rash"
+  ],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Allergy",
+      "url": "https://medlineplus.gov/allergy.html",
+      "id": "24"
+    },
+    {
+      "title": "Eczema",
+      "url": "https://medlineplus.gov/eczema.html",
+      "id": "1215"
+    },
+    {
+      "title": "Latex Allergy",
+      "url": "https://medlineplus.gov/latexallergy.html",
+      "id": "1439"
+    },
+    {
+      "title": "Poison Ivy, Oak, and Sumac",
+      "url": "https://medlineplus.gov/poisonivyoakandsumac.html",
+      "id": "3878"
+    },
+    {
+      "title": "Skin Conditions",
+      "url": "https://medlineplus.gov/skinconditions.html",
+      "id": "40"
+    }
+  ],
+  "see_references": [
+    "Contact Dermatitis",
+    "Dermatitis",
+    "Diaper Rash",
+    "Skin Rash"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Exanthema",
+      "id": "D005076"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/rashes.html"
+}

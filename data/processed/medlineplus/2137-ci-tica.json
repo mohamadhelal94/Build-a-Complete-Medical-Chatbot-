@@ -1,0 +1,41 @@
+{
+  "id": "2137",
+  "title": "Ciática",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La ciática es un síntoma de un problema del nervio ciático. Existen varias causas de la ciática. Entérese sobre diagnóstico, tratamiento.",
+  "summary": "La ciática es un síntoma de algún problema del nervio ciático, el nervio más largo del cuerpo. Este nervio controla los músculos de la parte posterior de la rodilla y de la parte inferior de la pierna y brinda las sensaciones en la parte posterior del muslo, parte de la pierna y la planta del pie. Cuando se tiene ciática, se siente dolor, debilidad, entumecimiento u hormigueo. Puede empezar en la parte baja de la espalda y extenderse hacia las piernas, las pantorrillas, los pies e inclusive los dedos de los pies. Suele afectar un sólo lado del cuerpo. La ciática puede deberse a: Ruptura de discos intervertebrales Estrechamiento del canal medular que ejerce presión sobre el nervio, llamado estenosis medular Lesión como una fractura pélvica En muchos casos, no se encuentra una causa. Algunas veces, la ciática desaparece espontáneamente. Cuando es necesario, el tratamiento dependerá de la causa del problema. Puede incluir ejercicios, medicinas y cirugía.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Cerebro y nervios",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Dolor de espalda",
+      "url": "https://medlineplus.gov/spanish/backpain.html",
+      "id": "1766"
+    },
+    {
+      "title": "Enfermedades del sistema nervioso periférico",
+      "url": "https://medlineplus.gov/spanish/peripheralnervedisorders.html",
+      "id": "2084"
+    },
+    {
+      "title": "Hernia de disco",
+      "url": "https://medlineplus.gov/spanish/herniateddisk.html",
+      "id": "2153"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/sciatica.html"
+}

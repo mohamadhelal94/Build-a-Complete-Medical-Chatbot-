@@ -1,0 +1,52 @@
+{
+  "id": "3693",
+  "title": "Hearing Problems in Children",
+  "language": "English",
+  "date_created": "12/31/2003",
+  "meta_description": "Hearing problems can be temporary or permanent. About 2 or 3 out of every 1,000 children in the U.S. are born deaf or hard-of-hearing.",
+  "summary": "Most children hear and listen from the moment they are born. They learn to talk by imitating the sounds around them and the voices of their parents and caregivers. But about 2 or 3 out of every 1,000 children in the United States are born deaf or hard-of-hearing. More lose their hearing later during childhood. Babies should have a hearing screening before they are a month old. If your child has a hearing loss, it is important to consider the use of hearing devices and other communication options by age 6 months. That's because children start learning speech and language long before they talk. Hearing problems can be temporary or permanent. Sometimes, ear infections , injuries or diseases affect hearing. If your child does not hear well, get help. NIH: National Institute on Deafness and Other Communication Disorders",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Assistive Devices",
+      "url": "https://medlineplus.gov/assistivedevices.html",
+      "id": "3136"
+    },
+    {
+      "title": "Cochlear Implants",
+      "url": "https://medlineplus.gov/cochlearimplants.html",
+      "id": "5214"
+    },
+    {
+      "title": "Hearing Aids",
+      "url": "https://medlineplus.gov/hearingaids.html",
+      "id": "5216"
+    },
+    {
+      "title": "Hearing Disorders and Deafness",
+      "url": "https://medlineplus.gov/hearingdisordersanddeafness.html",
+      "id": "204"
+    }
+  ],
+  "see_references": [
+    "Deafness"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hearing Disorders",
+      "id": "D006311"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hearingproblemsinchildren.html"
+}

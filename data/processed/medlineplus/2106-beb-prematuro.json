@@ -1,0 +1,42 @@
+{
+  "id": "2106",
+  "title": "Bebé prematuro",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Un parto prematuro ocurre cuando un bebé nace antes de las 37 semanas de embarazo. Estos niños pueden tener cuidados especiales de salud.",
+  "summary": "Uno de cada 10 recién nacidos en los Estados Unidos es prematuro. Un nacimiento prematuro es cuando un bebé nace antes de completar 37 semanas de embarazo. Un embarazo a término es de 40 semanas. Un crecimiento y desarrollo importante del bebé ocurre durante el embarazo, sobre todo en los últimos meses y semanas. Debido a que nacen muy pronto, los prematuros pesan mucho menos que los bebés que completaron su gestación. Pueden tener problemas de salud ya que sus órganos no tuvieron el tiempo suficiente para desarrollarse. Algunos bebés prematuros pueden tener: Problemas respiratorios Dificultades para alimentarse Parálisis cerebral Atraso del desarrollo Problemas de la visión Problemas de audición Los prematuros necesitan atención médica especial en una unidad de cuidados intensivos neonatal. Deben permanecer ahí hasta que sus sistemas y órganos puedan funcionar sin ayuda. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Bebé pretérmino"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Embarazo y reproducción"
+  ],
+  "related_topics": [
+    {
+      "title": "Peso del bebé al nacer",
+      "url": "https://medlineplus.gov/spanish/birthweight.html",
+      "id": "6106"
+    },
+    {
+      "title": "Problemas de salud durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/healthproblemsinpregnancy.html",
+      "id": "1956"
+    },
+    {
+      "title": "Trabajo de parto prematuro",
+      "url": "https://medlineplus.gov/spanish/pretermlabor.html",
+      "id": "6235"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/prematurebabies.html"
+}

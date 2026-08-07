@@ -1,0 +1,51 @@
+{
+  "id": "1557",
+  "title": "Botulism",
+  "language": "English",
+  "date_created": "10/04/2001",
+  "meta_description": "Botulism is caused by a bacteria. It can be serious. Find out about symptoms, causes, how to prevent it.",
+  "summary": "Botulism is a rare but serious illness. The cause is a toxin (poison) made by a bacterium called Clostridium botulinum. It occurs naturally in soil. There are several kinds of botulism. Foodborne botulism comes from eating foods contaminated with the toxin. Wound botulism happens when a wound infected with the bacteria makes the toxin. It is more common in heroin users. Infant botulism happens when a baby consumes the spores of the bacteria from soil or honey. All forms can be deadly and are medical emergencies. Symptoms include double or blurred vision, drooping eyelids, slurred speech, difficulty swallowing, dry mouth, and muscle weakness. Treatment may include antitoxins, intensive medical care, or surgery of infected wounds. To prevent botulism: Be very careful when canning foods at home Do not let babies eat honey Get prompt medical care for infected wounds Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [
+    {
+      "title": "Biodefense and Bioterrorism",
+      "url": "https://medlineplus.gov/biodefenseandbioterrorism.html",
+      "id": "1550"
+    },
+    {
+      "title": "Botox",
+      "url": "https://medlineplus.gov/botox.html",
+      "id": "3015"
+    },
+    {
+      "title": "Food Safety",
+      "url": "https://medlineplus.gov/foodsafety.html",
+      "id": "1434"
+    },
+    {
+      "title": "Foodborne Illness",
+      "url": "https://medlineplus.gov/foodborneillness.html",
+      "id": "254"
+    }
+  ],
+  "see_references": [
+    "Botulinum Toxin"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Botulism",
+      "id": "D001906"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/botulism.html"
+}

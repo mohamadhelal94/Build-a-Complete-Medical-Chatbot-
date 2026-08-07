@@ -1,0 +1,80 @@
+{
+  "id": "2039",
+  "title": "Trastornos del movimiento",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los trastornos del movimiento pueden ser causados por enfermedades de los nervios, autoinmunes e infecciones, entre otros. Algunos son hereditarios.",
+  "summary": "Los trastornos del movimiento son enfermedades neurológicas que causan problemas con el movimiento, como: Aumento del movimiento que puede ser voluntario (intencional) o involuntario (no intencional) Disminución del movimiento voluntario o movimientos más lentos Existen muchos trastornos del movimiento diferentes. Algunos de los tipos más comunes incluyen: Ataxia: Pérdida de la coordinación muscular Distonía : Contracciones involuntarias de los músculos que causan torsiones y movimientos repetitivos. Puede ser dolorosa Enfermedad de Huntington : Afección hereditaria que provoca el desgaste de algunas células nerviosas del cerebro. Estas incluyen las células nerviosas que ayudan a controlar los movimientos voluntarios Enfermedad de Parkinson : Afección que empeora con el tiempo. Causa temblores, lentitud del movimiento y problemas para caminar Síndrome de Tourette : Enfermedad que causa que las personas que la sufren realicen movimientos o sonidos fuera de lo normal, llamados tics Temblor y temblor esencial: Causan sacudidas no intencionales en una o más partes del cuerpo Las causas de los trastornos del movimiento incluyen: Genes Infecciones Medicinas Daños en el cerebro , la médula espinal o los nervios periféricos Trastornos metabólicos Derrame cerebral o problemas circulatorios Toxinas El tratamiento varía según el trastorno. La medicina puede curar algunos de ellos. Otros mejoran cuando se trata la enfermedad subyacente. Sin embargo, con frecuencia no hay una cura. En ese caso, el objetivo del tratamiento es mejorar los síntomas y aliviar el dolor.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Ataxia telangiectasia",
+      "url": "https://medlineplus.gov/spanish/ataxiatelangiectasia.html",
+      "id": "3796"
+    },
+    {
+      "title": "Distonía",
+      "url": "https://medlineplus.gov/spanish/dystonia.html",
+      "id": "1873"
+    },
+    {
+      "title": "Enfermedad de Parkinson",
+      "url": "https://medlineplus.gov/spanish/parkinsonsdisease.html",
+      "id": "2081"
+    },
+    {
+      "title": "Enfermedades del cerebelo",
+      "url": "https://medlineplus.gov/spanish/cerebellardisorders.html",
+      "id": "5920"
+    },
+    {
+      "title": "Enfermedades musculares",
+      "url": "https://medlineplus.gov/spanish/muscledisorders.html",
+      "id": "2043"
+    },
+    {
+      "title": "Enfermedades neuromusculares",
+      "url": "https://medlineplus.gov/spanish/neuromusculardisorders.html",
+      "id": "2054"
+    },
+    {
+      "title": "Parálisis supranuclear progresiva",
+      "url": "https://medlineplus.gov/spanish/progressivesupranuclearpalsy.html",
+      "id": "3610"
+    },
+    {
+      "title": "Problemas para caminar",
+      "url": "https://medlineplus.gov/spanish/walkingproblems.html",
+      "id": "5674"
+    },
+    {
+      "title": "Síndrome de Tourette",
+      "url": "https://medlineplus.gov/spanish/tourettesyndrome.html",
+      "id": "2201"
+    },
+    {
+      "title": "Temblor",
+      "url": "https://medlineplus.gov/spanish/tremor.html",
+      "id": "2205"
+    }
+  ],
+  "see_references": [
+    "Machado-Joseph, Enfermedad de",
+    "Mioclonos",
+    "Movimiento, Trastorno de",
+    "Tics nerviosos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/movementdisorders.html"
+}

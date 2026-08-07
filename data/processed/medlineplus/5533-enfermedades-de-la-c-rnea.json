@@ -1,0 +1,48 @@
+{
+  "id": "5533",
+  "title": "Enfermedades de la córnea",
+  "language": "Spanish",
+  "date_created": "06/21/2010",
+  "meta_description": "Los problemas de la córnea incluyen errores de refracción como el astigmatismo pero también infecciones, lesiones, alergias. Infórmese aquí.",
+  "summary": "Su córnea es la capa externa del ojo. Es transparente y tiene la forma de una cúpula. La córnea ayuda a proteger el ojo de gérmenes, polvo y otros materiales dañinos. También ayuda al ojo a enfocar. Si usted usa lentes de contacto, estos flotan sobre su córnea. Los problemas de la córnea incluyen: Errores de refracción Alergias Infecciones Lesiones Distrofias: Afecciones en las que algunas partes de la córnea pierden transparencia debido a la acumulación de material turbio El tratamiento de las enfermedades de la córnea incluye medicinas, trasplante y cirugía láser. Instituto Nacional del Ojo",
+  "synonyms": [
+    "Enfermedad corneal"
+  ],
+  "groups": [
+    "Ojos y visión"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los ojos",
+      "url": "https://medlineplus.gov/spanish/eyediseases.html",
+      "id": "1894"
+    },
+    {
+      "title": "Errores de refracción",
+      "url": "https://medlineplus.gov/spanish/refractiveerrors.html",
+      "id": "2122"
+    },
+    {
+      "title": "Infecciones de los ojos",
+      "url": "https://medlineplus.gov/spanish/eyeinfections.html",
+      "id": "4399"
+    },
+    {
+      "title": "Lesiones del ojo",
+      "url": "https://medlineplus.gov/spanish/eyeinjuries.html",
+      "id": "1895"
+    }
+  ],
+  "see_references": [
+    "Córnea, Enfermedades de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Ojo",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NEI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cornealdisorders.html"
+}

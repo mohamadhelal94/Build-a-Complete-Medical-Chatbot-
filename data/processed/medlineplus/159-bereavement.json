@@ -1,0 +1,34 @@
+{
+  "id": "159",
+  "title": "Bereavement",
+  "language": "English",
+  "date_created": "10/07/1999",
+  "meta_description": "Losing someone you love is difficult. Everyone grieves differently. Get support for bereavement and learn more.",
+  "summary": "Bereavement is the period of grief and mourning after a death. When you grieve, it's part of the normal process of reacting to a loss. You may experience grief as a mental, physical, social or emotional reaction. Mental reactions can include anger, guilt, anxiety, sadness and despair. Physical reactions can include sleeping problems, changes in appetite, physical problems or illness. How long bereavement lasts can depend on how close you were to the person who died, if the person's death was expected and other factors. Friends, family and faith may be sources of support. Grief counseling or grief therapy is also helpful to some people. NIH: National Cancer Institute",
+  "synonyms": [
+    "Grief"
+  ],
+  "groups": [
+    "Mental Health and Behavior",
+    "Social/Family Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "End of Life Issues",
+      "url": "https://medlineplus.gov/endoflifeissues.html",
+      "id": "496"
+    }
+  ],
+  "see_references": [
+    "Grief"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Bereavement",
+      "id": "D001601"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bereavement.html"
+}

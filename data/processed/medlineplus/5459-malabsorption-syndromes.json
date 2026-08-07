@@ -1,0 +1,45 @@
+{
+  "id": "5459",
+  "title": "Malabsorption Syndromes",
+  "language": "English",
+  "date_created": "05/04/2010",
+  "meta_description": "If you have a malabsorption syndrome, your small intestine cannot absorb nutrients from foods. Learn more about different syndromes and symptoms.",
+  "summary": "Your small intestine does most of the digesting of the foods you eat. If you have a malabsorption syndrome, your small intestine cannot absorb nutrients from foods. Causes of malabsorption syndromes include: Celiac disease Lactose intolerance Short bowel syndrome. This happens after surgery to remove half or more of the small intestine. You might need the surgery if you have a problem with the small intestine from a disease, injury, or birth defect. Whipple disease, a rare bacterial infection Genetic diseases Certain medicines Symptoms of different malabsorption syndromes can vary. They often include chronic diarrhea, abnormal stools, weight loss, and gas. Your doctor may use lab, imaging, or other tests to make a diagnosis. Treatment of malabsorption syndromes depends on the cause.",
+  "synonyms": [],
+  "groups": [
+    "Digestive System",
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Celiac Disease",
+      "url": "https://medlineplus.gov/celiacdisease.html",
+      "id": "897"
+    },
+    {
+      "title": "Lactose Intolerance",
+      "url": "https://medlineplus.gov/lactoseintolerance.html",
+      "id": "898"
+    },
+    {
+      "title": "Small Intestine Disorders",
+      "url": "https://medlineplus.gov/smallintestinedisorders.html",
+      "id": "5446"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Malabsorption Syndromes",
+      "id": "D008286"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/malabsorptionsyndromes.html"
+}

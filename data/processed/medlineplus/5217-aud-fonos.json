@@ -1,0 +1,37 @@
+{
+  "id": "5217",
+  "title": "Audífonos",
+  "language": "Spanish",
+  "date_created": "04/07/2011",
+  "meta_description": "Los audífonos ayudan a personas con pérdida auditiva a escuchar mejor. Existen diferentes tipos de audífonos, dependiendo de la causa de sordera.",
+  "summary": "Un audífono es un aparato electrónico pequeño que se usa detrás o dentro de la oreja. Hace que el sonido sea más alto. Un audífono puede hacer que la gente oiga mejor en lugares silenciosos o ruidosos. Los audífonos ayudan a quienes sufren de pérdida de la audición por el daño en las células sensoriales del oído interno. Este daño puede ocurrir debido a una enfermedad, edad, el ruido o algunas medicinas. Sólo una de cinco personas que podrían beneficiarse con el uso de audífonos lo usa. Si usted cree que un audífono puede ayudarle, visite a su doctor. Hay diferentes tipos de audífonos. Se diferencian por su tamaño, su ubicación en el oído y cuánto aumentan el sonido. El audífono que funcione mejor para usted depende del tipo de pérdida auditiva que tiene y su gravedad. NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [
+    "Dispositivos para escuchar mejor",
+    "Dispositivos para mejorar la audición"
+  ],
+  "groups": [
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Implantes cocleares",
+      "url": "https://medlineplus.gov/spanish/cochlearimplants.html",
+      "id": "5215"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hearingaids.html"
+}

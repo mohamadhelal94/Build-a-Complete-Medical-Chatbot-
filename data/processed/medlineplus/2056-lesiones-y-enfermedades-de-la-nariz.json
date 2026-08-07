@@ -1,0 +1,50 @@
+{
+  "id": "2056",
+  "title": "Lesiones y enfermedades de la nariz",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Hay muchos problemas que pueden afectar a la nariz: la desviación del tabique nasal, pólipos, hemorragias, rinitis, o fracturas. Aprenda más aquí.",
+  "summary": "La nariz es importante para su salud. Esta filtra el aire que respira, eliminando el polvo, los gérmenes y los irritantes. Calienta y humedece el aire para evitar que los pulmones y los tubos que conducen a ellos se resequen. La nariz también contiene células nerviosas que ayudan al sentido del olfato. Cuando existe un problema en la nariz, todo el cuerpo puede sufrir. Por ejemplo, la nariz tapada por un resfrío puede dificultar la respiración, el sueño o el bienestar general. Además del resfrío, muchos otros problemas pueden afectar la nariz. Entre ellos: Tabique nasal desviado: es un desvío de la pared que divide la cavidad nasal en mitades Pólipos nasales: masas blandas que se desarrollan en la mucosa nasal o de los senos paranasales Hemorragias nasales Rinitis alérgica : inflamación de la nariz y de los senos paranasales, a veces causado por alergias . El principal síntoma es la secreción nasal. Fracturas",
+  "synonyms": [
+    "Enfermedades nasales"
+  ],
+  "groups": [
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Cirugía plástica y cosmética",
+      "url": "https://medlineplus.gov/spanish/plasticandcosmeticsurgery.html",
+      "id": "2092"
+    },
+    {
+      "title": "Sinusitis",
+      "url": "https://medlineplus.gov/spanish/sinusitis.html",
+      "id": "2147"
+    },
+    {
+      "title": "Trastornos del gusto y del olfato",
+      "url": "https://medlineplus.gov/spanish/tasteandsmelldisorders.html",
+      "id": "2184"
+    }
+  ],
+  "see_references": [
+    "Enfermedades de la nariz",
+    "Nariz, Enfermedades de la",
+    "Nariz, Lesiones",
+    "Nariz, Sangrado",
+    "Nasales, Problemas",
+    "Problemas nasales",
+    "Rinitis",
+    "Sangrado de nariz"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/noseinjuriesanddisorders.html"
+}

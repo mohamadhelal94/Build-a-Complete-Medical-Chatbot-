@@ -1,0 +1,63 @@
+{
+  "id": "1463",
+  "title": "Household Products",
+  "language": "English",
+  "date_created": "04/25/2001",
+  "meta_description": "Household products for cleaning and other uses can contain ingredients that can harm your family and the environment. Learn more.",
+  "summary": "The products you use for cleaning, carpentry, auto repair, gardening, and many other household uses can contain ingredients that can harm you, your family, and the environment. These include : Oven and drain cleaners Cleaning and disinfecting products , including bleach and antibacterial cleaners Laundry powder Floor polish Paint thinners, strippers, and removers Pesticides Grease and rust removers Motor oil and fuel additives Arts and crafts supplies Toxic substances in these products can cause harm if inhaled, swallowed, or absorbed through the skin. People respond to toxic substances in different ways. At high doses, a toxic substance might cause birth defects or other serious problems, including brain damage or death. To avoid problems, keep products in the containers they come in and use them exactly as the label says. Follow label directions or get medical help if you swallow or inhale them or get them on your skin. Environmental Protection Agency",
+  "synonyms": [],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health",
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Safety",
+      "url": "https://medlineplus.gov/childsafety.html",
+      "id": "535"
+    },
+    {
+      "title": "Cleaning, Disinfecting, and Sanitizing",
+      "url": "https://medlineplus.gov/cleaningdisinfectingandsanitizing.html",
+      "id": "7607"
+    },
+    {
+      "title": "Cosmetics",
+      "url": "https://medlineplus.gov/cosmetics.html",
+      "id": "503"
+    },
+    {
+      "title": "Indoor Air Pollution",
+      "url": "https://medlineplus.gov/indoorairpollution.html",
+      "id": "1537"
+    },
+    {
+      "title": "Pesticides",
+      "url": "https://medlineplus.gov/pesticides.html",
+      "id": "498"
+    },
+    {
+      "title": "Poisoning",
+      "url": "https://medlineplus.gov/poisoning.html",
+      "id": "364"
+    }
+  ],
+  "see_references": [
+    "Cleaning Products",
+    "Poisons in the Home"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Household Products",
+      "id": "D006795"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/householdproducts.html"
+}

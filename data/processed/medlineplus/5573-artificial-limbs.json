@@ -1,0 +1,37 @@
+{
+  "id": "5573",
+  "title": "Artificial Limbs",
+  "language": "English",
+  "date_created": "07/28/2010",
+  "meta_description": "Artificial limbs, or prosthetics, can allow a person to do activities they might not be able to do otherwise. Learn more about artificial limbs.",
+  "summary": "People can lose all or part of an arm or leg for a number of reasons. Common ones include: Circulation problems from atherosclerosis or diabetes. They may cause you to need an amputation . Traumatic injuries, including from traffic accidents and military combat Cancer Birth defects If you are missing an arm or leg, an artificial limb can sometimes replace it. The device, which is called a prosthesis, can help you to perform daily activities such as walking, eating, or dressing. Some artificial limbs let you function nearly as well as before.",
+  "synonyms": [],
+  "groups": [
+    "Surgery and Rehabilitation"
+  ],
+  "related_topics": [
+    {
+      "title": "Assistive Devices",
+      "url": "https://medlineplus.gov/assistivedevices.html",
+      "id": "3136"
+    },
+    {
+      "title": "Limb Loss",
+      "url": "https://medlineplus.gov/limbloss.html",
+      "id": "518"
+    }
+  ],
+  "see_references": [
+    "Amputation",
+    "Prosthetic Limbs"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Artificial Limbs",
+      "id": "D001186"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/artificiallimbs.html"
+}

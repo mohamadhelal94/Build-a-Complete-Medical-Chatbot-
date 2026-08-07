@@ -1,0 +1,35 @@
+{
+  "id": "6253",
+  "title": "Resistencia a los antibióticos",
+  "language": "Spanish",
+  "date_created": "05/20/2015",
+  "meta_description": "Los antibióticos pueden salvar vidas, pero si no se utilizan adecuadamente pueden perder eficacia. Para combatir la resistencia a los antibióticos, utilícelos sólo cuando sea necesario.",
+  "summary": "¿Qué son los antibióticos? Los antibióticos son medicamentos que tratan las infecciones bacterianas en los seres humanos y los animales. Actúan matando las bacterias o dificultando su crecimiento y multiplicación. Cuando se usan correctamente, los antibióticos pueden salvar vidas. Sin embargo, la resistencia a los antibióticos es un problema creciente. ¿Qué es la resistencia a los antibióticos? La resistencia a los antibióticos ocurre cuando las bacterias cambian y son capaces de resistir los efectos de un antibiótico. Estas bacterias no mueren y continúan creciendo. Las infecciones que estas bacterias causan se conocen como infecciones resistentes, las que pueden ser difíciles y, a veces, imposibles de tratar. En algunos casos, incluso pueden ser mortales. Existen muchos tipos diferentes de infecciones resistentes, incluyendo el SAMR y la tuberculosis (TB) resistente a los medicamentos. Si contrae una infección resistente, es posible que necesite: Una hospitalización prolongada Una larga recuperación Visitas de seguimiento con profesionales de la salud Tratamientos caros y con posibles efectos secundarios graves La resistencia a los antibióticos es un tipo de resistencia a los antimicrobianos. Existen otros tipos. Los virus , los hongos y los parásitos también pueden volverse resistentes a los medicamentos. La resistencia a los antibióticos no significa que su cuerpo sea resistente a ellos. ¿Cómo se vuelven resistentes las bacterias a los antibióticos? La resistencia a los antibióticos es un proceso natural que ocurre con el tiempo. Para sobrevivir, las bacterias pueden desarrollar estrategias de defensa contra los antibióticos a través de cambios genéticos. Las bacterias resistentes sobreviven, crecen y se propagan. Cada vez que usted toma antibióticos, existe el riesgo de que las bacterias se vuelvan resistentes. Por eso es importante tomar antibióticos solo cuando realmente los necesita. Estos medicamentos no funcionan en infecciones virales como resfriados y gripe . Y no necesita antibióticos para todas las infecciones bacterianas. Por ejemplo, es posible que sean necesarios para algunas infecciones de los senos paranasales y de oído . ¿Quién tiene más probabilidades de tener una infección resistente a los antibióticos? Cualquier persona puede desarrollar una infección resistente a los antibióticos, pero algunas pueden tener un riesgo mayor, incluidas aquellas que: Tienen un sistema inmunitario debilitado por enfermedades como el VIH o por tomar medicamentos que afectan sus defensas Están recibiendo atención médica, como cirugía y hospitalizaciones Toman antibióticos durante mucho tiempo Son bebés, especialmente si nacieron prematuramente Son adultos mayores ¿Cómo se puede prevenir la resistencia a los antibióticos? Siempre habrá cierta resistencia a los antibióticos, ya que se produce de forma natural. Pero estas medidas pueden ayudar a combatir la resistencia a los antibióticos: No use antibióticos para los virus No presione a su profesional de la salud para que le recete un antibiótico si cree que no lo necesita Cuando tome antibióticos, siga las instrucciones cuidadosamente No comparta sus antibióticos con otras personas No guarde los antibióticos para más tarde ni use la receta de otra persona Ayude a prevenir la propagación de infecciones bacterianas con buenos hábitos de higiene . Estos incluyen lavarse las manos con frecuencia y cubrirse la boca y la nariz al toser o estornudar Centros para el Control y Prevención de Enfermedades",
+  "synonyms": [],
+  "groups": [
+    "Infecciones",
+    "Tratamiento con medicamentos"
+  ],
+  "related_topics": [
+    {
+      "title": "Antibióticos",
+      "url": "https://medlineplus.gov/spanish/antibiotics.html",
+      "id": "1750"
+    },
+    {
+      "title": "Infecciones bacterianas",
+      "url": "https://medlineplus.gov/spanish/bacterialinfections.html",
+      "id": "1767"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/antibioticresistance.html"
+}

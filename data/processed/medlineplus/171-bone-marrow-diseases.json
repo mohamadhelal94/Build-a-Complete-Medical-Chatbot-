@@ -1,0 +1,61 @@
+{
+  "id": "171",
+  "title": "Bone Marrow Diseases",
+  "language": "English",
+  "date_created": "11/17/1999",
+  "meta_description": "Bone marrow diseases affect your body's ability to make healthy blood cells. Learn the different causes and possible treatments.",
+  "summary": "Bone marrow is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains stem cells . The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. With bone marrow disease, there are problems with the stem cells or how they develop: In leukemia , a cancer of the blood, the bone marrow makes abnormal white blood cells In aplastic anemia , the bone marrow doesn't make red blood cells In myeloproliferative disorders, the bone marrow makes too many white blood cells Other diseases, such as lymphoma , can spread into the bone marrow and affect the production of blood cells Causes of bone marrow diseases include genetics and environmental factors. Tests for bone marrow diseases include blood and bone marrow tests. Treatments depend on the disorder and how severe it is. They might involve medicines, blood transfusions or a bone marrow transplant .",
+  "synonyms": [],
+  "groups": [
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Amyloidosis",
+      "url": "https://medlineplus.gov/amyloidosis.html",
+      "id": "5273"
+    },
+    {
+      "title": "Anemia",
+      "url": "https://medlineplus.gov/anemia.html",
+      "id": "139"
+    },
+    {
+      "title": "Aplastic Anemia",
+      "url": "https://medlineplus.gov/aplasticanemia.html",
+      "id": "5955"
+    },
+    {
+      "title": "Bone Marrow Transplantation",
+      "url": "https://medlineplus.gov/bonemarrowtransplantation.html",
+      "id": "1457"
+    },
+    {
+      "title": "Multiple Myeloma",
+      "url": "https://medlineplus.gov/multiplemyeloma.html",
+      "id": "332"
+    },
+    {
+      "title": "Myelodysplastic Syndromes",
+      "url": "https://medlineplus.gov/myelodysplasticsyndromes.html",
+      "id": "5550"
+    }
+  ],
+  "see_references": [
+    "Myeloproliferative Disorders"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Bone Marrow Diseases",
+      "id": "D001855"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/bonemarrowdiseases.html"
+}

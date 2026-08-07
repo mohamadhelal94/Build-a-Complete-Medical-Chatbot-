@@ -1,0 +1,39 @@
+{
+  "id": "1923",
+  "title": "Infecciones por Giardia",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La giardiasis es una enfermedad causada por un parásito. La diarrea es el principal síntoma de la infección. Quién está en riesgo y tratamientos aquí.",
+  "summary": "La giardiasis es una enfermedad causada por un parásito llamado Giardia intestinalis. Este parásito vive en el suelo, los alimentos y el agua. También puede estar en las superficies contaminadas con desperdicios. También se puede estar expuesto al parásito a través de la materia fecal durante el contacto sexual. La infección puede ocurrir si se traga el parásito. El riesgo de contraer guardia es más alto en personas que viajan a países donde el parásito es común, en guarderías infantiles y en personas que beben agua sin tratar. La diarrea es el principal síntoma de la infección por giardia. Otros pueden ser: Gas Evacuaciones grasosas Cólicos abdominales Malestar estomacal o nauseas Estos síntomas pueden conducir a pérdida de peso y de líquidos corporales. Algunas personas no tienen ningún síntoma. En quienes los presentan, suelen durar de dos a seis semanas. Una muestra de materia fecal puede diagnosticarla. Muchas veces se necesita recolectar varias muestras para examinar. Los médicos utilizan varios medicamentos para tratarla. La mejor manera de prevenir la giardiasis es practicar una buena higiene, incluyendo el lavado de manos frecuente. No debe consumir agua que pueda estar contaminada. También debe pelar o lavar la fruta fresca y verduras antes de comer. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [
+    "Giardiasis"
+  ],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Agua potable",
+      "url": "https://medlineplus.gov/spanish/drinkingwater.html",
+      "id": "1867"
+    },
+    {
+      "title": "Enfermedades parasitarias",
+      "url": "https://medlineplus.gov/spanish/parasiticdiseases.html",
+      "id": "2078"
+    }
+  ],
+  "see_references": [
+    "Giardia, Infecciones por",
+    "Giardiasis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/giardiainfections.html"
+}

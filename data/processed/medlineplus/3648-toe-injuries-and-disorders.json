@@ -1,0 +1,52 @@
+{
+  "id": "3648",
+  "title": "Toe Injuries and Disorders",
+  "language": "English",
+  "date_created": "11/19/2003",
+  "meta_description": "Toe injuries and disorders include turf toe, bunions, sprains, fractures, and ingrown toenails. Read up on what causes toe pain and what can treat it.",
+  "summary": "Fourteen of the 26 bones in your feet are in your toes. The toes, particularly your big toe, help you move and keep your balance. Playing sports, running, stubbing your toe, and dropping something on your foot can damage your toes. Wearing shoes that are too loose or too tight can also cause toe problems. Certain diseases, such as severe arthritis, can cause toe problems and pain. Gout often causes pain in the big toe. Common toe problems include : Corns and bunions Ingrown toenails Sprains and dislocations Fractures (broken bones) Treatments for toe injuries and disorders vary. They might include shoe inserts or special shoes, padding, taping, medicines, rest, and in severe cases, surgery.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Corns and Calluses",
+      "url": "https://medlineplus.gov/cornsandcalluses.html",
+      "id": "5833"
+    },
+    {
+      "title": "Foot Health",
+      "url": "https://medlineplus.gov/foothealth.html",
+      "id": "1327"
+    },
+    {
+      "title": "Foot Injuries and Disorders",
+      "url": "https://medlineplus.gov/footinjuriesanddisorders.html",
+      "id": "508"
+    }
+  ],
+  "see_references": [
+    "Bunions",
+    "Hammer Toe"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Toes",
+      "id": "D014034"
+    },
+    {
+      "name": "Toe Joint",
+      "id": "D014033"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/toeinjuriesanddisorders.html"
+}

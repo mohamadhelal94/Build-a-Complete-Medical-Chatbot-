@@ -1,0 +1,45 @@
+{
+  "id": "6242",
+  "title": "Assisted Reproductive Technology",
+  "language": "English",
+  "date_created": "08/19/2015",
+  "meta_description": "Learn about treating infertility with assisted reproductive technology (ART). It includes procedures like in vitro fertilization (IVF).",
+  "summary": "Assisted reproductive technology (ART) is used to treat infertility . It includes fertility treatments that handle both eggs and sperm. It works by removing eggs from the ovaries. The eggs are then mixed with sperm to make embryos. The embryos are then put back in the parent's body. In vitro fertilization (IVF) is the most common and effective type of ART. ART procedures sometimes use donor eggs, donor sperm, or previously frozen embryos. It may also involve a surrogate or gestational carrier. A surrogate becomes pregnant with sperm from one partner of the couple. A gestational carrier becomes pregnant with an egg from one partner and sperm from the other partner. The most common complication of ART is a multiple pregnancy . It can be prevented or minimized by limiting the number of embryos that are put into the parent's body.",
+  "synonyms": [
+    "ART",
+    "IVF",
+    "In Vitro Fertilization"
+  ],
+  "groups": [
+    "Female Reproductive System",
+    "Male Reproductive System"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "ART",
+    "Egg Donation",
+    "Gestational Carrier",
+    "IVF",
+    "In Vitro Fertilization",
+    "Sperm Donation",
+    "Surrogate"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Reproductive Techniques, Assisted",
+      "id": "D027724"
+    },
+    {
+      "name": "In Vitro Techniques",
+      "id": "D066298"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/assistedreproductivetechnology.html"
+}

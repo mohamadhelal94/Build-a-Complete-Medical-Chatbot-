@@ -1,0 +1,53 @@
+{
+  "id": "2165",
+  "title": "Lesiones y enfermedades de la columna vertebral",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las lesiones y trastornos de la columna, como la escoliosis o hernia de disco, pueden causar dolor y otros problemas. Entérese sobre tratamientos y más.",
+  "summary": "La columna vertebral está formada por 26 huesos llamados vértebras. Las vértebras protegen la médula espinal y le permiten mantenerse de pie e inclinarse. Hay varios problemas que pueden alterar la estructura de la columna o lesionarle las vértebras y el tejido que las rodea. Entre ellos: Infecciones Traumatismos Tumores Enfermedades, tales como la espondilitis anquilosante y la escoliosis Cambios óseos que ocurren con la edad, tales como estenosis espinal y hernias de disco Con frecuencia, las enfermedades de la columna provocan dolor cuando los cambios óseos presionan la médula o los nervios. También pueden limitar el movimiento. El tratamiento varía según la enfermedad, pero algunas veces incluyen aparatos ortopédicos para la espalda y cirugía.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades del cóccix",
+      "url": "https://medlineplus.gov/spanish/tailbonedisorders.html",
+      "id": "2183"
+    },
+    {
+      "title": "Escoliosis",
+      "url": "https://medlineplus.gov/spanish/scoliosis.html",
+      "id": "2139"
+    },
+    {
+      "title": "Espondilitis anquilosante",
+      "url": "https://medlineplus.gov/spanish/ankylosingspondylitis.html",
+      "id": "1748"
+    },
+    {
+      "title": "Estenosis espinal",
+      "url": "https://medlineplus.gov/spanish/spinalstenosis.html",
+      "id": "2166"
+    },
+    {
+      "title": "Hernia de disco",
+      "url": "https://medlineplus.gov/spanish/herniateddisk.html",
+      "id": "2153"
+    }
+  ],
+  "see_references": [
+    "Columna vertebral, Enfermedades de la",
+    "Columna vertebral, Lesiones",
+    "Enfermedades de la columna vertebral"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/spineinjuriesanddisorders.html"
+}

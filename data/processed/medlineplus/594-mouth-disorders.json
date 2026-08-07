@@ -1,0 +1,90 @@
+{
+  "id": "594",
+  "title": "Mouth Disorders",
+  "language": "English",
+  "date_created": "11/17/1999",
+  "meta_description": "Common mouth problems include cold sores, canker sores, thrush, dry mouth, and bad breath. Discover information on all of these common disorders.",
+  "summary": "Your mouth is one of the most important parts of your body. It has many different functions. It allows you to: Take in food and drink Breathe in air Start digestion, with your teeth chewing the food you eat and your salivary glands releasing saliva to help break down the food Speak and sing Show emotion, by smiling or pouting Any problem that affects your mouth can make it hard to eat, drink, or even smile. Some common mouth problems include: Cold sores - painful sores on the lips and around the mouth, caused by a virus Canker sores - painful sores in the mouth, caused by bacteria or viruses Thrush - a yeast infection that causes white patches in your mouth Leukoplakia - white patches of excess cell growth on the cheeks, gums or tongue, common in smokers Dry mouth - a lack of enough saliva, caused by some medicines and certain diseases Gum or tooth problems Bad breath Treatment for mouth disorders varies, depending on the problem. If a mouth problem is caused by some other disease, treating that disease can help. It is also important to keep your mouth clean and healthy by brushing, flossing, and not using tobacco.",
+  "synonyms": [],
+  "groups": [
+    "Ear, Nose and Throat",
+    "Mouth and Teeth"
+  ],
+  "related_topics": [
+    {
+      "title": "Canker Sores",
+      "url": "https://medlineplus.gov/cankersores.html",
+      "id": "6053"
+    },
+    {
+      "title": "Cold Sores",
+      "url": "https://medlineplus.gov/coldsores.html",
+      "id": "5147"
+    },
+    {
+      "title": "Dental Health",
+      "url": "https://medlineplus.gov/dentalhealth.html",
+      "id": "28"
+    },
+    {
+      "title": "Dry Mouth",
+      "url": "https://medlineplus.gov/drymouth.html",
+      "id": "5798"
+    },
+    {
+      "title": "Gum Disease",
+      "url": "https://medlineplus.gov/gumdisease.html",
+      "id": "266"
+    },
+    {
+      "title": "Head and Neck Cancer",
+      "url": "https://medlineplus.gov/headandneckcancer.html",
+      "id": "330"
+    },
+    {
+      "title": "Oral Cancer",
+      "url": "https://medlineplus.gov/oralcancer.html",
+      "id": "331"
+    },
+    {
+      "title": "Salivary Gland Disorders",
+      "url": "https://medlineplus.gov/salivaryglanddisorders.html",
+      "id": "388"
+    },
+    {
+      "title": "Speech and Communication Disorders",
+      "url": "https://medlineplus.gov/speechandcommunicationdisorders.html",
+      "id": "409"
+    },
+    {
+      "title": "Swallowing Disorders",
+      "url": "https://medlineplus.gov/swallowingdisorders.html",
+      "id": "1309"
+    },
+    {
+      "title": "Throat Disorders",
+      "url": "https://medlineplus.gov/throatdisorders.html",
+      "id": "1660"
+    },
+    {
+      "title": "Tongue Disorders",
+      "url": "https://medlineplus.gov/tonguedisorders.html",
+      "id": "5266"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Dental and Craniofacial Research",
+      "url": "http://www.nidcr.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Mouth Diseases",
+      "id": "D009059"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/mouthdisorders.html"
+}

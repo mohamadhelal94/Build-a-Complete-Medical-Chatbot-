@@ -1,0 +1,50 @@
+{
+  "id": "1781",
+  "title": "Enfermedades de la médula ósea",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La médula ósea es el tejido esponjoso que se encuentra dentro de sus huesos. Entérese sobre las condiciones que pueden afectarla aquí.",
+  "summary": "La médula ósea es el tejido esponjoso que se encuentra dentro de sus huesos, como en la cadera y el hueso del muslo. Contiene células madre . Las células madre pueden desarrollarse hasta ser glóbulos rojos que transportan oxígeno a su cuerpo, glóbulos blancos que combaten las infecciones y plaquetas que ayudan a la coagulación de la sangre. Con la enfermedad de médula ósea, hay problemas con las células madre o con su desarrollo: En la leucemia , un cáncer de la sangre, la médula ósea produce glóbulos blancos anormales En la anemia aplásica , la médula ósea no produce glóbulos rojos En las enfermedades mieloproliferativas, la médula ósea produce demasiados glóbulos blancos Otras enfermedades como el linfoma pueden diseminarse a la médula ósea y afectar la producción de células sanguíneas Las causas de las enfermedades de la medula ósea incluyen factores genéticos y ambientales. Las pruebas incluyen análisis de sangre y de médula ósea. Los tratamientos dependen del trastorno y de su severidad. Pueden involucrar medicinas, transfusiones de sangre o un trasplante de médula ósea .",
+  "synonyms": [],
+  "groups": [
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Anemia",
+      "url": "https://medlineplus.gov/spanish/anemia.html",
+      "id": "1743"
+    },
+    {
+      "title": "Mieloma múltiple",
+      "url": "https://medlineplus.gov/spanish/multiplemyeloma.html",
+      "id": "2040"
+    },
+    {
+      "title": "Síndromes mielodisplásicos",
+      "url": "https://medlineplus.gov/spanish/myelodysplasticsyndromes.html",
+      "id": "5551"
+    },
+    {
+      "title": "Trasplante de médula ósea",
+      "url": "https://medlineplus.gov/spanish/bonemarrowtransplantation.html",
+      "id": "1782"
+    }
+  ],
+  "see_references": [
+    "Mielofibrosis idiopática",
+    "Mieloproliferativos, Trastornos",
+    "Médula ósea, Enfermedades de la",
+    "Policitemia vera",
+    "Trombocitemia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bonemarrowdiseases.html"
+}

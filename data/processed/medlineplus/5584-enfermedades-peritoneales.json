@@ -1,0 +1,38 @@
+{
+  "id": "5584",
+  "title": "Enfermedades peritoneales",
+  "language": "Spanish",
+  "date_created": "08/04/2010",
+  "meta_description": "Los trastornos del peritoneo son raros. Estos pueden ser: peritonitis, cáncer y complicaciones por diálisis peritoneal. Más aquí.",
+  "summary": "El peritoneo es el tejido que recubre la pared abdominal y cubre la mayor parte de los órganos en el abdomen. Un líquido, fluido peritoneal, lubrica la superficie de este tejido . Los trastornos del peritoneo son raros. Estos pueden ser : Peritonitis: Una inflamación del peritoneo Cáncer Complicaciones por diálisis peritoneal Su doctor puede usar test por imágenes o de laboratorio para analizar el fluido peritoneal para diagnosticar una enfermedad peritoneal. El tratamiento de los trastornos peritoneales dependerá de la causa.",
+  "synonyms": [
+    "Enfermedades del peritoneo"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Diálisis",
+      "url": "https://medlineplus.gov/spanish/dialysis.html",
+      "id": "3790"
+    },
+    {
+      "title": "Dolor abdominal",
+      "url": "https://medlineplus.gov/spanish/abdominalpain.html",
+      "id": "3062"
+    }
+  ],
+  "see_references": [
+    "Peritoneales, Enfermedades"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/peritonealdisorders.html"
+}

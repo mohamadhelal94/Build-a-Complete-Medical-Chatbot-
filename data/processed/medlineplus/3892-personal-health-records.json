@@ -1,0 +1,50 @@
+{
+  "id": "3892",
+  "title": "Personal Health Records",
+  "language": "English",
+  "date_created": "08/25/2004",
+  "meta_description": "Your medical office has your personal health records but it's good for you to create one for yourself too. Find out what you should include on it.",
+  "summary": "You've probably seen your chart at your doctor's office. In fact, you may have charts at several doctors' offices. If you've been in the hospital, you have a chart there, too. These charts are your medical records. They may be on paper or electronic. To keep track of all this information, it's a good idea to keep your own personal health record. What kind of information would you put in a personal health record? You could start with: Your name, birth date, blood type, and emergency contact information Date of last physical Dates and results of tests and screenings Major illnesses and surgeries, with dates A list of your medicines and supplements, the dosages, and how long you've taken them Any allergies Any chronic diseases Any history of illnesses in your family",
+  "synonyms": [
+    "Electronic health records",
+    "Patient health record"
+  ],
+  "groups": [
+    "Social/Family Issues",
+    "Health System",
+    "Personal Health Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Family History",
+      "url": "https://medlineplus.gov/familyhistory.html",
+      "id": "4484"
+    },
+    {
+      "title": "Patient Safety",
+      "url": "https://medlineplus.gov/patientsafety.html",
+      "id": "616"
+    }
+  ],
+  "see_references": [
+    "Confidentiality",
+    "Electronic Health Records",
+    "HIPAA",
+    "Patient Portals",
+    "Patient Records",
+    "Privacy"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Health Records, Personal",
+      "id": "D055991"
+    },
+    {
+      "name": "Meaningful Use",
+      "id": "D062527"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/personalhealthrecords.html"
+}

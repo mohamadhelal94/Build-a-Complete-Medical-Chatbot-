@@ -1,0 +1,35 @@
+{
+  "id": "2049",
+  "title": "Lesiones y enfermedades del cuello",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El dolor de cuello es muy común y puede ocurrir por muchas razones. Aprenda las diferentas causas y cómo lidiar con el dolor de cuello.",
+  "summary": "Cualquier parte del cuello: músculos, huesos, articulaciones, tendones, ligamentos o nervios puede ocasionar problemas y dolor en el cuello. El dolor también puede provenir del hombro, la mandíbula, la cabeza o los brazos. Las distensiones musculares o la tensión suelen causar dolor en el cuello. El problema suele ser el exceso de uso, como ocurre al sentarse durante demasiado tiempo frente a una computadora. Algunas veces, los músculos del cuello pueden torcerse por dormir en posiciones incómodas o por excederse en el ejercicio. Las caídas o los accidentes, incluyendo los accidentes automovilísticos, son otra causa común de dolor en el cuello. El latigazo cervical, una lesión de los tejidos blandos del cuello, también se denomina distensión o torcedura del cuello. El tratamiento depende de la causa, pero puede incluir hielo, analgésicos, fisioterapia o un collarín cervical. Raras veces se requiere cirugía.",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Lesiones y heridas"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de cabeza y cuello",
+      "url": "https://medlineplus.gov/spanish/headandneckcancer.html",
+      "id": "1931"
+    },
+    {
+      "title": "Lesiones y enfermedades de la columna vertebral",
+      "url": "https://medlineplus.gov/spanish/spineinjuriesanddisorders.html",
+      "id": "2165"
+    }
+  ],
+  "see_references": [
+    "Cervical, Traumatismo",
+    "Cuello, Lesiones y enfermedades del",
+    "Región cervical de la columna vertebral",
+    "Traumatismo cervical"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/neckinjuriesanddisorders.html"
+}

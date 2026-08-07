@@ -1,0 +1,54 @@
+{
+  "id": "2033",
+  "title": "Menstruación",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La menstruación (período) normalmente ocurre cada mes. El cuerpo se libera del recubrimiento del útero. Entérese sobre los problemas que pueden ocurrir.",
+  "summary": "¿Qué es la menstruación? La menstruación, también llamada período, es el sangrado vaginal normal que ocurre como parte del ciclo mensual de las mujeres y niñas. Cada mes el cuerpo se prepara para el embarazo y si este no ocurre, el útero expulsa su revestimiento. Esta sangre y tejido salen del cuerpo a través de la vagina. ¿Qué es el ciclo menstrual? El ciclo menstrual es el proceso mensual a través del cual el cuerpo se prepara para el embarazo. Se cuenta desde el primer día de una menstruación hasta el primer día de la siguiente. La mayoría de los ciclos menstruales duran alrededor de 28 días, pero los ciclos pueden ser más cortos o más largos y aun así ser normales. ¿Cuándo comenzará mi período? La mayoría de las niñas comienzan a menstruar entre los 9 y los 15 años, pero algunas podrían empezar antes o después. El período, por lo general, dura entre tres y siete días y puede ser leve o fuerte. Puede tomar varios años para que se vuelva regular. Su período puede cambiar durante etapas que afectan a las hormonas, como después del parto o mientras amamanta. Usualmente se mantiene hasta la menopausia , que para la mayoría de las mujeres ocurre entre los 45 y los 55 años. ¿Cuáles son los síntomas de la menstruación? Además del sangrado vaginal, usted podría tener: Dolores o calambres abdominales o pélvicos Dolor de espalda baja Hinchazón Dolor en los senos Antojo de algún alimento Irritabilidad y cambios de humor Dolor de cabeza y fatiga El síndrome premenstrual (PMS en inglés) es un grupo de síntomas físicos y emocionales que comienzan en los días previos al inicio de la menstruación. Muchas mujeres presentan síntomas de síndrome premenstrual, los cuales suelen desaparecer una vez que comienza su periodo. Muchas mujeres y niñas usan productos menstruales como toallas sanitarias, tampones, copas menstruales o ropa interior especial para manejar el sangrado durante su periodo. Cambiar o limpiar estos productos con frecuencia le ayudará a mantenerse cómoda e higiénica. ¿Qué son las irregularidades menstruales? Las irregularidades menstruales son cambios en el ciclo menstrual habitual. Estas pueden incluir la ausencia de la menstruación, períodos irregulares o sangrado abundante. Algunas de las irregularidades menstruales comunes incluyen: Amenorrea , que significa no tener el período Oligomenorrea, que significa tener períodos que ocurren con menor frecuencia Menorragia, que significa períodos con sangrado muy abundante Sangrado menstrual prolongado, que ocurre cuando el período dura más de 8 días Dismenorrea, que se refiere a períodos muy dolorosos que incluyen calambres severos Mantenga el récord de su período cada mes. Esto puede ayudarle a entender su ciclo regular, saber cuándo esperar su próxima menstruación y notar cambios. Converse con su proveedor de servicios de salud si nota grandes cambios en su ciclo menstrual , sangrado demasiado abundante o dolor muy severo. Estos pueden ser signos de otras condiciones de salud que pueden requerir tratamiento.",
+  "synonyms": [
+    "Período",
+    "Regla"
+  ],
+  "groups": [
+    "Mujeres",
+    "Sistema endocrino",
+    "Sistema reproductor femenino"
+  ],
+  "related_topics": [
+    {
+      "title": "Insuficiencia ovárica primaria",
+      "url": "https://medlineplus.gov/spanish/primaryovarianinsufficiency.html",
+      "id": "3685"
+    },
+    {
+      "title": "Menopausia",
+      "url": "https://medlineplus.gov/spanish/menopause.html",
+      "id": "2032"
+    },
+    {
+      "title": "Sangrado vaginal",
+      "url": "https://medlineplus.gov/spanish/vaginalbleeding.html",
+      "id": "4876"
+    },
+    {
+      "title": "Síndrome premenstrual",
+      "url": "https://medlineplus.gov/spanish/premenstrualsyndrome.html",
+      "id": "3794"
+    }
+  ],
+  "see_references": [
+    "Amenorrea",
+    "Dilatación y curetaje",
+    "Dismenorrea",
+    "Síndrome del Shock Tóxico"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/menstruation.html"
+}

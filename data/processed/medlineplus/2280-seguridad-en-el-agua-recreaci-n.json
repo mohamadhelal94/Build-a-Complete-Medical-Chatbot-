@@ -1,0 +1,36 @@
+{
+  "id": "2280",
+  "title": "Seguridad en el agua (Recreación)",
+  "language": "Spanish",
+  "date_created": "06/26/2003",
+  "meta_description": "Jugar, nadar, navegar o bucear en el agua puede ser divertido, pero también puede ser peligroso, sobre todo para niños. Entérese sobre seguridad en el agua",
+  "summary": "Jugar en el agua, ya sea al nadar, navegar o bucear, puede ser divertido. También puede ser peligroso, especialmente para los niños. Tomar medidas de seguridad puede ayudar a prevenir lesiones y ahogos . Para mantenerse seguro en el agua: Evite el alcohol cuando nade o navegue Use un chaleco salvavidas cada vez que esté en un bote No nade solo o con mal tiempo Aprenda resucitación cardiopulmonar (RCP) Aprenda a nadar y enséñele a sus niños Supervise a sus niños cuando estén en el agua Prevenga las quemaduras por el sol y use suficiente bloqueador solar",
+  "synonyms": [
+    "Seguridad al nadar"
+  ],
+  "groups": [
+    "Asuntos de seguridad"
+  ],
+  "related_topics": [
+    {
+      "title": "Ahogo",
+      "url": "https://medlineplus.gov/spanish/drowning.html",
+      "id": "1868"
+    },
+    {
+      "title": "Barotrauma",
+      "url": "https://medlineplus.gov/spanish/barotrauma.html",
+      "id": "6096"
+    },
+    {
+      "title": "Seguridad",
+      "url": "https://medlineplus.gov/spanish/safety.html",
+      "id": "2131"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/watersafetyrecreational.html"
+}

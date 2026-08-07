@@ -1,0 +1,95 @@
+{
+  "id": "310",
+  "title": "Liver Diseases",
+  "language": "English",
+  "date_created": "04/02/1999",
+  "meta_description": "Get the facts about liver diseases, such as hepatitis, cancer, and cirrhosis. Know your risk and what you can do to prevent liver problems.",
+  "summary": "Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. There are many kinds of liver diseases: Diseases caused by viruses, such as hepatitis A , hepatitis B , and hepatitis C . Diseases caused by drugs, poisons, or too much alcohol. Examples include steatotic liver disease and cirrhosis . Liver cancer . Inherited diseases, such as hemochromatosis and Wilson disease . Symptoms of liver disease can vary, but they often include swelling of the abdomen and legs, bruising easily, changes in the color of your stool and urine, and jaundice , or yellowing of the skin and eyes. Sometimes there are no symptoms. Tests such as imaging tests and liver function tests can check for liver damage and help to diagnose liver diseases.",
+  "synonyms": [
+    "Hepatic diseases"
+  ],
+  "groups": [
+    "Digestive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bile Duct Diseases",
+      "url": "https://medlineplus.gov/bileductdiseases.html",
+      "id": "3787"
+    },
+    {
+      "title": "Cirrhosis",
+      "url": "https://medlineplus.gov/cirrhosis.html",
+      "id": "190"
+    },
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/hepatitis.html",
+      "id": "109"
+    },
+    {
+      "title": "Hepatitis A",
+      "url": "https://medlineplus.gov/hepatitisa.html",
+      "id": "1686"
+    },
+    {
+      "title": "Hepatitis B",
+      "url": "https://medlineplus.gov/hepatitisb.html",
+      "id": "1687"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://medlineplus.gov/hepatitisc.html",
+      "id": "1286"
+    },
+    {
+      "title": "Jaundice",
+      "url": "https://medlineplus.gov/jaundice.html",
+      "id": "4452"
+    },
+    {
+      "title": "Liver Cancer",
+      "url": "https://medlineplus.gov/livercancer.html",
+      "id": "309"
+    },
+    {
+      "title": "Liver Transplantation",
+      "url": "https://medlineplus.gov/livertransplantation.html",
+      "id": "311"
+    },
+    {
+      "title": "Reye Syndrome",
+      "url": "https://medlineplus.gov/reyesyndrome.html",
+      "id": "385"
+    },
+    {
+      "title": "Steatotic Liver Disease",
+      "url": "https://medlineplus.gov/steatoticliverdisease.html",
+      "id": "6465"
+    },
+    {
+      "title": "Wilson Disease",
+      "url": "https://medlineplus.gov/wilsondisease.html",
+      "id": "1691"
+    }
+  ],
+  "see_references": [
+    "Alagille Syndrome",
+    "Gilbert Disease",
+    "Hepatic Diseases"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Liver Diseases",
+      "id": "D008107"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/liverdiseases.html"
+}

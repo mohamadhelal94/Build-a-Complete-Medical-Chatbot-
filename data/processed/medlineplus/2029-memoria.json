@@ -1,0 +1,44 @@
+{
+  "id": "2029",
+  "title": "Memoria",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "¿No recuerda si cerró bien la puerta? Es normal olvidar cosas, pero si ocurre muy a menudo puede ser un signo de problemas de la memoria. Entérese aquí.",
+  "summary": "Cada día, usted vive diferentes experiencias y aprende cosas nuevas. Su cerebro no puede almacenar toda esa información, por lo que tiene que decidir qué vale la pena recordar. La memoria es el proceso de almacenamiento para luego recordar esta información. Hay diferentes tipos de memoria. La memoria de corto plazo almacena información por unos pocos segundos o minutos. La memoria de largo plazo la almacena por un período más largo de tiempo. La memoria no funciona siempre a la perfección. A medida que envejece, puede tomar más tiempo para recordar las cosas. Es normal olvidar cosas de vez en cuando. Todos nos hemos olvidado un nombre, donde dejamos las llaves o si cerramos la puerta principal. Si usted es una persona mayor que olvida las cosas con más frecuencia que otras de su misma edad, es posible que tenga un deterioro cognitivo leve . Olvidar cómo utilizar su teléfono o encontrar su camino a casa pueden ser signos de un problema más grave, como: Enfermedad de Alzheimer Otros tipos de demencia Ataque cerebral Depresión Alcoholismo Lesiones en la cabeza Coágulos de sangre o tumores en el cerebro Problemas de riñones , de hígado o de la tiroides Reacciones a ciertos medicamentos Si usted está preocupado por sus problemas de memoria, consulte a su proveedor de atención médica. NIH: Instituto Nacional sobre el Envejecimiento",
+  "synonyms": [],
+  "groups": [
+    "Salud mental y conducta",
+    "Personas mayores",
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Demencia",
+      "url": "https://medlineplus.gov/spanish/dementia.html",
+      "id": "1846"
+    },
+    {
+      "title": "Deterioro cognitivo leve",
+      "url": "https://medlineplus.gov/spanish/mildcognitiveimpairment.html",
+      "id": "5742"
+    },
+    {
+      "title": "Enfermedad de Alzheimer",
+      "url": "https://medlineplus.gov/spanish/alzheimersdisease.html",
+      "id": "1736"
+    }
+  ],
+  "see_references": [
+    "Amnesia",
+    "Pérdida de memoria"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/memory.html"
+}

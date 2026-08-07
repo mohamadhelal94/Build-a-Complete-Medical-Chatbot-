@@ -1,0 +1,29 @@
+{
+  "id": "2234",
+  "title": "Nutrición artificial",
+  "language": "Spanish",
+  "date_created": "03/14/2003",
+  "meta_description": "La nutrición artificial o alimentación asistida ayuda a personas que no reciben suficiente nutrición a través de los alimentos. Entérese aquí.",
+  "summary": "La nutrición artificial es para las personas que no reciben suficientes nutrientes a través de las comidas o las bebidas. Es posible que lo necesite si: No puede tragar Tiene problemas de apetito Tiene una desnutrición severa No puede absorber los nutrientes a través del sistema digestivo Usted puede nutrirse artificialmente a través de una aguja o un catéter colocado en una vena o con un tubo de alimentación, que va hasta el estómago.",
+  "synonyms": [
+    "Alimentación asistida"
+  ],
+  "groups": [
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Nutrición",
+      "url": "https://medlineplus.gov/spanish/nutrition.html",
+      "id": "2058"
+    }
+  ],
+  "see_references": [
+    "Alimentación artificial",
+    "Alimentación asistida"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/nutritionalsupport.html"
+}

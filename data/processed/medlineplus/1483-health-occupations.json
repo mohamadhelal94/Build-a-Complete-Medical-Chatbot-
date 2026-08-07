@@ -1,0 +1,37 @@
+{
+  "id": "1483",
+  "title": "Health Occupations",
+  "language": "English",
+  "date_created": "05/21/2001",
+  "meta_description": "People with jobs in the medical field provide healthcare for millions of people. Find out about medical and healthcare careers.",
+  "summary": "Every day, around the clock, people who work in the health care industry provide care for millions of people, from newborns to the very ill. In fact, the health care industry is one of largest providers of jobs in the United States. Many health jobs are in hospitals. Others are in nursing homes, doctors' offices, dentists' offices, outpatient clinics and laboratories. To work in a health occupation, you often must have special training. Some, like doctors, must have more than 4 years of college. Bureau of Labor Statistics",
+  "synonyms": [
+    "Health careers",
+    "Health professions",
+    "Medical occupations",
+    "Medical professions"
+  ],
+  "groups": [
+    "Health System"
+  ],
+  "related_topics": [
+    {
+      "title": "Choosing a Doctor or Health Care Service",
+      "url": "https://medlineplus.gov/choosingadoctororhealthcareservice.html",
+      "id": "1433"
+    }
+  ],
+  "see_references": [
+    "Careers",
+    "Medical Professions"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Health Occupations",
+      "id": "D006281"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/healthoccupations.html"
+}

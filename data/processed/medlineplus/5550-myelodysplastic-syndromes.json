@@ -1,0 +1,38 @@
+{
+  "id": "5550",
+  "title": "Myelodysplastic Syndromes",
+  "language": "English",
+  "date_created": "06/24/2010",
+  "meta_description": "Myelodysplastic Syndromes (MDS) are rare. They are sometimes found during a routine blood test. Learn symptoms, risk factors, and treatment options.",
+  "summary": "Your bone marrow is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains immature cells, called stem cells. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. If you have a myelodysplastic syndrome, the stem cells do not mature into healthy blood cells. Many of them die in the bone marrow. This means that you do not have enough healthy cells, which can lead to infection, anemia , or easy bleeding. Myelodysplastic syndromes often do not cause early symptoms and are sometimes found during a routine blood test. If you have symptoms, they may include: Shortness of breath Weakness or feeling tired Skin that is paler than usual Easy bruising or bleeding Pinpoint spots under the skin caused by bleeding Fever or frequent infections Myelodysplastic syndromes are rare. People at higher risk are over 60, have had chemotherapy or radiation therapy, or have been exposed to certain chemicals. Treatment options include transfusions, drug therapy, chemotherapy, and blood or bone marrow stem cell transplants. NIH: National Cancer Institute",
+  "synonyms": [
+    "MDS"
+  ],
+  "groups": [
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bone Marrow Diseases",
+      "url": "https://medlineplus.gov/bonemarrowdiseases.html",
+      "id": "171"
+    }
+  ],
+  "see_references": [
+    "MDS"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Myelodysplastic Syndromes",
+      "id": "D009190"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/myelodysplasticsyndromes.html"
+}

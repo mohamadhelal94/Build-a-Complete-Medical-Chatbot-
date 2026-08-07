@@ -1,0 +1,32 @@
+{
+  "id": "2248",
+  "title": "Miositis",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Miositis es la inflamación de los músculos. Hay dos tipos específicos: polimiositis y dermatomiositis. Entérese sobre causas, síntomas y tratamiento aquí.",
+  "summary": "La miositis es la inflamación de los músculos que se usan para mover el cuerpo. Puede ser causada por una lesión, una infección o una enfermedad autoinmune . Dos tipos principales de miositis son la polimiositis y la dermatomiositis. La polimiositis causa debilidad en los músculos y en general afecta a los músculos cercanos al tronco del cuerpo. La dermatomiositis causa también debilidad muscular y además un sarpullido en la piel. Otros síntomas de la miositis pueden ser: Cansancio después de caminar o estar parado Tropiezos o caídas Problemas para tragar o respirar Para su diagnóstico el doctor hará un examen físico, exámenes de laboratorio, de imagen y una biopsia muscular. No existe una cura para estas enfermedades pero los síntomas se pueden controlar. Tanto la polimiositis como la dermatomiositis se tratan con altas dosis de corticosteroides . Otras opciones pueden ser otros medicamentos, terapia de rehabilitación, ejercicio, calor, aparatos de asistencia y descanso. Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+  "synonyms": [],
+  "groups": [
+    "Huesos, articulaciones y músculos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades musculares",
+      "url": "https://medlineplus.gov/spanish/muscledisorders.html",
+      "id": "2043"
+    }
+  ],
+  "see_references": [
+    "Dermatomiositis",
+    "Polimiositis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/myositis.html"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5423",
+  "title": "Nutrición del niño pequeño",
+  "language": "Spanish",
+  "date_created": "05/27/2010",
+  "meta_description": "Los niños pequeños necesitan una buena nutrición para estar saludable y crecer fuertes. Entérese aquí sobre comidas saludables para los niños.",
+  "summary": "Los alimentos proveen la energía que los niños más pequeños necesitan para crecer sanos. También están aprendiendo a comer por sí mismos. Deben comer una gran variedad de comidas de todos los grupos. Algunas cosas a las que hay que prestar atención: Asegúrese que su niño pequeño obtenga suficiente hierro Los niños pequeños de 1 a 3 años necesitan 500 miligramos de calcio por día No le dé de comer frutos de mar, maníes o nueces antes de los 2 o 3 años",
+  "synonyms": [],
+  "groups": [
+    "Niños y adolescentes",
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Nutrición del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewbornnutrition.html",
+      "id": "3751"
+    },
+    {
+      "title": "Nutrición del niño",
+      "url": "https://medlineplus.gov/spanish/childnutrition.html",
+      "id": "3084"
+    }
+  ],
+  "see_references": [
+    "Niño pequeño, Nutrición"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/toddlernutrition.html"
+}

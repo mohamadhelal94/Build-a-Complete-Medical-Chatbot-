@@ -1,0 +1,44 @@
+{
+  "id": "291",
+  "title": "Hypothermia",
+  "language": "English",
+  "date_created": "06/28/1999",
+  "meta_description": "People with hypothermia suffer from low body temperature, which is usually below 95 degrees. Read about the common ways to get hypothermia.",
+  "summary": "Cold weather can affect your body in different ways. You can get frostbite , which is an injury to the body that is caused by freezing. Your body can also lose heat faster than you can produce it. That can cause hypothermia, or abnormally low body temperature. It can make you sleepy, confused, and clumsy. Because it happens gradually and affects your thinking, you may not realize you need help. That makes it especially dangerous. A body temperature below 95 °F (35 °C) is a medical emergency and can lead to death if not treated promptly. Anyone who spends much time outdoors in cold weather can get hypothermia. You can also get it from being cold and wet, or under cold water for too long. Babies and old people are especially at risk. Babies can get it from sleeping in a cold room. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Cold-related illness"
+  ],
+  "groups": [
+    "Injuries and Wounds",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Frostbite",
+      "url": "https://medlineplus.gov/frostbite.html",
+      "id": "5829"
+    },
+    {
+      "title": "Winter Weather Emergencies",
+      "url": "https://medlineplus.gov/winterweatheremergencies.html",
+      "id": "4608"
+    }
+  ],
+  "see_references": [
+    "Cold (Temperature)"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Aging",
+      "url": "https://www.nia.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hypothermia",
+      "id": "D007035"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hypothermia.html"
+}

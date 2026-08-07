@@ -1,0 +1,40 @@
+{
+  "id": "4292",
+  "title": "Gas",
+  "language": "Spanish",
+  "date_created": "03/09/2006",
+  "meta_description": "Todas las personas tienen gases. La mayoría de las personas expulsa gases entre 13 y 21 veces al día. Cómo disminuir la cantidad y causas.",
+  "summary": "Todas las personas tienen gases. La mayoría de las personas expulsa gases entre 13 y 21 veces al día. Los gases eliminados por la boca se llaman eructos. La eliminación a través del recto se llama flatulencia. La mayoría de las veces el gas no tiene olor. El olor proviene de las bacterias en el intestino grueso que liberan pequeñas cantidades de gases que contienen sulfuro. El gas en las vías intestinales tiene dos orígenes: El aire que se traga y la descomposición de la comida no digerida por las bacterias en el intestino grueso. Ciertos alimentos pueden causar gases. Las comidas que producen gases en una persona pueden no causarlos en otra. Para disminuir la cantidad de gases que se expulsa al día, usted puede: Tomar mucha agua y bebidas sin gas Comer más despacio, así no traga tanto aire al comer Evitar productos lácteos si usted tiene intolerancia a la lactosa Algunos medicamentos pueden ayudar a reducir la cantidad de gas o de dolor e hinchazón que causa el gas. Si los síntomas todavía son molestos, consulte con su proveedor de cuidados de salud. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [],
+  "groups": [
+    "Sistema digestivo",
+    "Síntomas"
+  ],
+  "related_topics": [
+    {
+      "title": "Dolor abdominal",
+      "url": "https://medlineplus.gov/spanish/abdominalpain.html",
+      "id": "3062"
+    },
+    {
+      "title": "Enfermedades del estómago",
+      "url": "https://medlineplus.gov/spanish/stomachdisorders.html",
+      "id": "2173"
+    },
+    {
+      "title": "Enfermedades del sistema digestivo",
+      "url": "https://medlineplus.gov/spanish/digestivediseases.html",
+      "id": "1859"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/gas.html"
+}

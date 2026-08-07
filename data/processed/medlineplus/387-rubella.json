@@ -1,0 +1,47 @@
+{
+  "id": "387",
+  "title": "Rubella",
+  "language": "English",
+  "date_created": "06/15/1999",
+  "meta_description": "Rubella (German measles) is a viral infection. It's usually mild, but can be dangerous for an unborn baby if the mother gets it. Read about prevention",
+  "summary": "Rubella is an infection caused by a virus. It is usually mild with fever and a rash. About half of the people who get rubella do not have symptoms. If you do get them, symptoms may include: A rash that starts on the face and spreads to the body Mild fever Aching joints, especially in young women Swollen glands Rubella is most dangerous for a pregnant woman's baby. It can cause miscarriage or birth defects. Rubella spreads when an infected person coughs or sneezes. People without symptoms can still spread it. There is no treatment, but the measles-mumps-rubella (MMR) vaccine can prevent it. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "German measles",
+    "Three day measles"
+  ],
+  "groups": [
+    "Children and Teenagers",
+    "Infections",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Childhood Vaccines",
+      "url": "https://medlineplus.gov/childhoodvaccines.html",
+      "id": "1342"
+    },
+    {
+      "title": "Vaccines",
+      "url": "https://medlineplus.gov/vaccines.html",
+      "id": "294"
+    }
+  ],
+  "see_references": [
+    "German Measles",
+    "Three Day Measles"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Rubella",
+      "id": "D012409"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/rubella.html"
+}

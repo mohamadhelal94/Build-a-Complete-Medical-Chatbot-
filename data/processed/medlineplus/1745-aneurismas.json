@@ -1,0 +1,36 @@
+{
+  "id": "1745",
+  "title": "Aneurismas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Un aneurisma es un ensanchamiento de la pared de una arteria y puede crecer sin síntomas por años. Síntomas y tratamiento de aneurismas.",
+  "summary": "Un aneurisma es un ensanchamiento anormal de las paredes de una arteria. Las arterias son vasos sanguíneos que transportan sangre oxigenada desde el corazón hacia otras partes del cuerpo. Si un aneurisma crece, puede romperse y provocar una hemorragia peligrosa e incluso la muerte. La mayoría de los aneurismas ocurre en la aorta , la arteria principal que sale del corazón y pasa por el pecho y el abdomen. También pueden ocurrir en las arterias del cerebro y otras partes del cuerpo. Si un aneurisma cerebral se rompe, produce un derrame . Los aneurismas pueden desarrollarse y crecer antes de causar síntomas. Con frecuencia, si se detectan y se tratan anticipadamente, los médicos pueden detener la ruptura de los aneurismas. Para encontrarlos se usan pruebas de imágenes. Muchas veces los aneurismas se encuentran por accidente durante pruebas hechas por otras razones. Los dos tratamientos principales son las medicinas y la cirugía. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [
+    "Dilatación o abultamiento en las arterias"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Aneurisma aórtico",
+      "url": "https://medlineplus.gov/spanish/aorticaneurysm.html",
+      "id": "4932"
+    },
+    {
+      "title": "Aneurisma cerebral",
+      "url": "https://medlineplus.gov/spanish/brainaneurysm.html",
+      "id": "4927"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/aneurysms.html"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "533",
+  "title": "Vascular Diseases",
+  "language": "English",
+  "date_created": "11/03/1999",
+  "meta_description": "Your vascular system is made up of blood vessels that carry blood to and from the heart. Learn about vascular diseases and their treatments.",
+  "summary": "What are vascular diseases? Your vascular system is your body's network of blood vessels. It includes your: Arteries, which carry oxygen-rich blood from your heart to your tissues and organs Veins, which carry the blood and waste products back to your heart Capillaries, which are tiny blood vessels that connect your small arteries to your small veins. The walls of the capillaries are thin and leaky, to allow for an exchange of materials between your tissues and blood. Vascular diseases are conditions which affect your vascular system. They are common and can be serious. Some types include: Aneurysm - a bulge or \"ballooning\" in the wall of an artery Atherosclerosis - a disease in which plaque builds up inside your arteries. Plaque is made up of fat, cholesterol, calcium, and other substances found in the blood. Blood clots , including deep vein thrombosis and pulmonary embolism Coronary artery disease and carotid artery disease , diseases that involve the narrowing or blockage of an artery. The cause is usually a buildup of plaque. Raynaud phenomenon - a disorder that causes the blood vessels to narrow when you are cold or feeling stressed Stroke - a serious condition that happens when blood flow to your brain stops. Varicose veins - swollen, twisted veins that you can see just under the skin Vasculitis - inflammation of the blood vessels What causes vascular diseases? The causes of vascular diseases depend on the specific disease. These causes include: Genetics Heart diseases such as high cholesterol and high blood pressure Infection Injury Medicines, including hormones Sometimes the cause is unknown. Who is at risk for vascular diseases? The risk factors for vascular diseases can vary, depending on the specific disease. But some of the more common risk factors include: Age - your risk of some diseases goes up as you get older Conditions that can affect the heart and blood vessels, such as diabetes or high cholesterol Family history of vascular or heart diseases Infection or injury that damages your veins Lack of exercise Obesity Pregnancy Sitting or standing still for long periods of time Smoking What are the symptoms of vascular diseases? The symptoms for each disease are different. How are vascular diseases diagnosed? To make a diagnosis, your health care provider will do a physical exam and ask about your symptoms and medical history. You may have imaging tests and/or blood tests. How are vascular diseases treated? Which treatment you get depends on which vascular disease you have and how severe it is. Types of treatments for vascular diseases include: Lifestyle changes, such as eating a heart-healthy diet and getting more exercise Medicines, such as blood pressure medicines , blood thinners , cholesterol medicines , and clot-dissolving drugs. In some cases, providers use a catheter to send medicine directly to a blood vessel. Non-surgical procedures, such as angioplasty , stenting, and vein ablation Surgery Can vascular diseases be prevented? There are steps you can take to help prevent vascular diseases: Make healthy lifestyle changes, such as eating a heart-healthy diet and getting more exercise Don't smoke. If you are already a smoker, talk to your health care provider for help in finding the best way for you to quit . Keep your blood pressure and cholesterol in check If you have diabetes, control your blood sugar Try not to sit or stand for up long periods of time. If you do need to sit all day, get up and move around every hour or so. If you are traveling on a long trip, you can also wear compression stockings and regularly stretch your legs.",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Aneurysms",
+      "url": "https://medlineplus.gov/aneurysms.html",
+      "id": "141"
+    },
+    {
+      "title": "Arteriovenous Malformations",
+      "url": "https://medlineplus.gov/arteriovenousmalformations.html",
+      "id": "4553"
+    },
+    {
+      "title": "Atherosclerosis",
+      "url": "https://medlineplus.gov/atherosclerosis.html",
+      "id": "5400"
+    },
+    {
+      "title": "Blood Clots",
+      "url": "https://medlineplus.gov/bloodclots.html",
+      "id": "6076"
+    },
+    {
+      "title": "Carotid Artery Disease",
+      "url": "https://medlineplus.gov/carotidarterydisease.html",
+      "id": "4063"
+    },
+    {
+      "title": "Coronary Artery Disease",
+      "url": "https://medlineplus.gov/coronaryarterydisease.html",
+      "id": "1276"
+    },
+    {
+      "title": "Deep Vein Thrombosis",
+      "url": "https://medlineplus.gov/deepveinthrombosis.html",
+      "id": "1683"
+    },
+    {
+      "title": "Heart Attack",
+      "url": "https://medlineplus.gov/heartattack.html",
+      "id": "5"
+    },
+    {
+      "title": "Heart Health Tests",
+      "url": "https://medlineplus.gov/hearthealthtests.html",
+      "id": "6452"
+    },
+    {
+      "title": "Peripheral Arterial Disease",
+      "url": "https://medlineplus.gov/peripheralarterialdisease.html",
+      "id": "4083"
+    },
+    {
+      "title": "Pulmonary Embolism",
+      "url": "https://medlineplus.gov/pulmonaryembolism.html",
+      "id": "377"
+    },
+    {
+      "title": "Raynaud Phenomenon",
+      "url": "https://medlineplus.gov/raynaudphenomenon.html",
+      "id": "381"
+    },
+    {
+      "title": "Stroke",
+      "url": "https://medlineplus.gov/stroke.html",
+      "id": "8"
+    },
+    {
+      "title": "Varicose Veins",
+      "url": "https://medlineplus.gov/varicoseveins.html",
+      "id": "540"
+    },
+    {
+      "title": "Vasculitis",
+      "url": "https://medlineplus.gov/vasculitis.html",
+      "id": "1424"
+    }
+  ],
+  "see_references": [
+    "Cardiovascular Diseases",
+    "Circulatory Disorders",
+    "Hemangioma",
+    "Veins"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Vascular Diseases",
+      "id": "D014652"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vasculardiseases.html"
+}

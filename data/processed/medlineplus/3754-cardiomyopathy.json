@@ -1,0 +1,45 @@
+{
+  "id": "3754",
+  "title": "Cardiomyopathy",
+  "language": "English",
+  "date_created": "02/02/2004",
+  "meta_description": "Cardiomyopathy is a disease that causes the heart to become enlarged, thick, or stiff. Read about the different types, their symptoms, and treatments.",
+  "summary": "Cardiomyopathy is the name for diseases of the heart muscle. These diseases enlarge your heart muscle or make it thicker and more rigid than normal. In rare cases, scar tissue replaces the muscle tissue. Some people live long, healthy lives with cardiomyopathy. Some people don't even realize they have it. In others, however, it can make the heart less able to pump blood through the body. This can cause serious complications, including: Heart failure Abnormal heart rhythms Heart valve problems Sudden cardiac arrest (SCA) Heart attacks , high blood pressure , infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Myocardiopathy",
+    "Restrictive cardiomyopathy"
+  ],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Congenital Heart Defects",
+      "url": "https://medlineplus.gov/congenitalheartdefects.html",
+      "id": "198"
+    },
+    {
+      "title": "Heart Health Tests",
+      "url": "https://medlineplus.gov/hearthealthtests.html",
+      "id": "6452"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cardiomyopathies",
+      "id": "D009202"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cardiomyopathy.html"
+}

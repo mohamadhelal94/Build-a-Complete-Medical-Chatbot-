@@ -1,0 +1,47 @@
+{
+  "id": "591",
+  "title": "Lymphatic Diseases",
+  "language": "English",
+  "date_created": "12/20/1999",
+  "meta_description": "Lymphatic diseases can affect your lymph, lymph vessels, or lymph nodes. Lymphatic system problems include lymphedema and swollen glands. Learn more.",
+  "summary": "The lymphatic system is a network of tissues and organs. It is made up of: Lymph - a fluid that contains white blood cells that defend against germs Lymph vessels - vessels that carry lymph throughout your body. They are different from blood vessels. Lymph nodes - glands found throughout the lymph vessels. Along with your spleen , these nodes are where white blood cells fight infection. Your bone marrow and thymus produce the cells in lymph. They are part of the system, too. The lymphatic system clears away infection and keeps your body fluids in balance. If it's not working properly, fluid builds in your tissues and causes swelling, called lymphedema . Other lymphatic system problems can include infections, blockage, and cancer .",
+  "synonyms": [],
+  "groups": [
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Lymphedema",
+      "url": "https://medlineplus.gov/lymphedema.html",
+      "id": "4610"
+    },
+    {
+      "title": "Lymphoma",
+      "url": "https://medlineplus.gov/lymphoma.html",
+      "id": "117"
+    },
+    {
+      "title": "Spleen Diseases",
+      "url": "https://medlineplus.gov/spleendiseases.html",
+      "id": "414"
+    }
+  ],
+  "see_references": [
+    "Lymph Nodes",
+    "Swollen Glands"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Lymphatic Diseases",
+      "id": "D008206"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/lymphaticdiseases.html"
+}

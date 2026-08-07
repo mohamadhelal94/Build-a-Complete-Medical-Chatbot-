@@ -1,0 +1,40 @@
+{
+  "id": "5377",
+  "title": "Vitaminas B",
+  "language": "Spanish",
+  "date_created": "03/30/2010",
+  "meta_description": "Las vitaminas B ayudan al proceso para obtener energía de los alimentos que consume. La falta de vitamina B6 y  B12 puede causar anemia.",
+  "summary": "Las vitaminas son sustancias que el cuerpo necesita para crecer y desarrollarse normalmente. Las vitaminas B son: B1 (tiamina) B2 (riboflavina) B3 (niacina) B5 (ácido pantoténico) B6 B7 (biotina) B12 Ácido fólico Estas vitaminas ayudan al proceso que hace su cuerpo para obtener energía de la comida que usted consume. También ayudan a formar glóbulos rojos. Usted puede obtener vitaminas B en las proteínas como pescado, pollo, carne de res, huevos y productos lácteos. Los vegetales de hojas verdes, frijoles y judías también tienen vitaminas B. A algunos cereales y panes también se les ha agregado vitaminas B. Si usted sufre una deficiencia de vitaminas B, puede sufrir enfermedades. La falta de las vitaminas B12 o B 6 puede causar anemia .",
+  "synonyms": [
+    "Complejo Vitamínico B",
+    "Vitaminas del complejo B"
+  ],
+  "groups": [
+    "Alimentos y nutrición"
+  ],
+  "related_topics": [
+    {
+      "title": "Vitaminas",
+      "url": "https://medlineplus.gov/spanish/vitamins.html",
+      "id": "2223"
+    },
+    {
+      "title": "Ácido fólico",
+      "url": "https://medlineplus.gov/spanish/folicacid.html",
+      "id": "1907"
+    }
+  ],
+  "see_references": [
+    "Complejo B",
+    "Vitaminas del grupo B"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Oficina de Suplementos Dietéticos",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#ODS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bvitamins.html"
+}

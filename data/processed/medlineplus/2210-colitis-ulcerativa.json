@@ -1,0 +1,36 @@
+{
+  "id": "2210",
+  "title": "Colitis ulcerativa",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La colitis ulcerativa causa inflamación y úlceras en la membrana que recubre el recto y el colon. Síntomas y tratamiento de la colitis ulcerosa.",
+  "summary": "La colitis ulcerativa es una enfermedad que causa inflamación y úlceras en la membrana que recubre el recto y el colon. Pertenece a un grupo de enfermedades llamado enfermedad intestinal inflamatoria. La colitis ulcerativa puede ocurrir a cualquier edad, pero suele comenzar entre los 15 y los 30 años. Tiende a ser hereditaria. Los síntomas más comunes son dolor abdominal y diarrea con sangre. Otros síntomas pueden incluir: Anemia Cansancio severo Pérdida de peso Pérdida del apetito Hemorragia rectal Llagas en la piel Dolor en las articulaciones Problemas de crecimiento en niños Aproximadamente la mitad de las personas con colitis ulcerativa tienen síntomas leves. Los médicos utilizan pruebas de sangre, pruebas de heces, la colonoscopía y pruebas de imagen para diagnosticarla. Varios tipos de medicamentos pueden ayudar a controlarla. Algunas personas tienen largos períodos de remisión, cuando están libres de síntomas. En casos severos, los médicos deben extirpar el colon NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Colitis ulcerosa",
+    "Enfermedad intestinal inflamatoria"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Crohn",
+      "url": "https://medlineplus.gov/spanish/crohnsdisease.html",
+      "id": "1842"
+    }
+  ],
+  "see_references": [
+    "Colitis",
+    "Enfermedad inflamatoria intestinal",
+    "Inflamación intestinal, Enfermedad"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ulcerativecolitis.html"
+}

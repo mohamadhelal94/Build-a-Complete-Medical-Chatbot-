@@ -1,0 +1,44 @@
+{
+  "id": "3059",
+  "title": "Dietary Fiber",
+  "language": "English",
+  "date_created": "01/09/2003",
+  "meta_description": "Fiber helps control your weight by making you feel full faster. It also helps prevent constipation. Learn more about fiber and high fiber foods.",
+  "summary": "Fiber is a substance in plants. Dietary fiber is the kind you eat. It's a type of carbohydrate . You may also see it listed on a food label as soluble fiber or insoluble fiber. Both types have important health benefits. Good sources of dietary fiber include: Whole grains Nuts and seeds Fruit and vegetables Dietary fiber adds bulk to your diet and makes you feel full faster, helping you control your weight. It helps digestion and helps prevent constipation . Most Americans don't eat enough dietary fiber. But add it to your diet slowly. Increasing dietary fiber too quickly can lead to gas , bloating, and cramps. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Bulk",
+    "Roughage"
+  ],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Colonic Diseases",
+      "url": "https://medlineplus.gov/colonicdiseases.html",
+      "id": "194"
+    },
+    {
+      "title": "Constipation",
+      "url": "https://medlineplus.gov/constipation.html",
+      "id": "200"
+    }
+  ],
+  "see_references": [
+    "Fiber"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Dietary Fiber",
+      "id": "D004043"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/dietaryfiber.html"
+}

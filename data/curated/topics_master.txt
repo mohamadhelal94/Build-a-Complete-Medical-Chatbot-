@@ -1,0 +1,481 @@
+1. General Symptoms
+
+Fever
+High fever
+Low-grade fever
+Chills
+Night sweats
+Fatigue
+Weakness
+Headache
+Migraine
+Dizziness
+Vertigo
+Fainting
+Confusion
+Sleepiness
+Difficulty concentrating
+Weight loss
+Weight gain
+Loss of appetite
+Increased appetite
+Excessive hunger
+Excessive thirst
+Dehydration
+Body aches
+Muscle pain
+Joint pain
+Bone pain
+Swollen glands
+Swelling
+Bruising
+Itching
+Rash
+Numbness
+Tingling
+Tremor
+Cold hands
+Cold feet
+Hot flashes
+Excessive sweating
+Dry mouth
+Bad breath
+General weakness
+
+2. Respiratory
+
+Common cold
+Influenza
+COVID-19
+Sore throat
+Hoarseness
+Cough
+Dry cough
+Productive cough
+Persistent cough
+Chest pain
+Chest tightness
+Shortness of breath
+Difficulty breathing
+Rapid breathing
+Wheezing
+Asthma
+Bronchitis
+Pneumonia
+Sinusitis
+Runny nose
+Blocked nose
+Nosebleed
+Sneezing
+Allergic rhinitis
+Seasonal allergies
+Hay fever
+Loss of smell
+Loss of taste
+
+3. Digestive
+
+Abdominal pain
+Upper abdominal pain
+Lower abdominal pain
+Right lower abdominal pain
+Left lower abdominal pain
+Heartburn
+GERD
+Indigestion
+Acid reflux
+Bloating
+Gas
+Burping
+Hiccups
+Nausea
+Vomiting
+Diarrhea
+Constipation
+Food poisoning
+Blood in stool
+Black stool
+Hemorrhoids
+IBS
+Crohn's disease
+Ulcerative colitis
+Gallstones
+Appendicitis
+Stomach ulcer
+Lactose intolerance
+Celiac disease
+
+4. Muscles, Bones & Back
+
+Lower back pain
+Upper back pain
+Pain between shoulder blades
+Neck pain
+Shoulder pain
+Frozen shoulder
+Muscle strain
+Muscle cramps
+Muscle stiffness
+Sciatica
+Disc herniation
+Knee pain
+Hip pain
+Foot pain
+Heel pain
+Ankle pain
+Sprained ankle
+Tennis elbow
+Golfer's elbow
+Carpal tunnel syndrome
+Poor posture
+Work-related muscle pain
+Heavy lifting injuries
+Joint stiffness
+Arthritis
+Osteoarthritis
+Rheumatoid arthritis
+Tendon injury
+Ligament injury
+
+5. Sexual Health (Men)
+
+Penis pain
+Penis swelling
+Penis redness
+Penis itching
+Penis discharge
+Pain during urination
+Pain during erection
+Pain after ejaculation
+Curved penis
+Peyronie's disease
+Erectile dysfunction
+Weak erection
+Morning erections
+Premature ejaculation
+Delayed ejaculation
+Blood in semen
+Low testosterone
+Low libido
+High libido
+Testicular pain
+Testicular lump
+Scrotal swelling
+Scrotal itching
+Infertility
+Male fertility
+Prostate enlargement
+Prostatitis
+Varicocele
+Hydrocele
+
+6. Sexual Health (Women)
+
+Menstrual pain
+Heavy periods
+Light periods
+Irregular periods
+Missed period
+Late period
+Pelvic pain
+Pain during sex
+Vaginal discharge
+Vaginal itching
+Vaginal odor
+Menopause
+Perimenopause
+PCOS
+Endometriosis
+Ovarian cyst
+Pregnancy symptoms
+Morning sickness
+Ovulation pain
+Breast pain
+Breast lump
+Postpartum care
+
+7. Sexual Relationships
+
+Low sexual desire
+Loss of libido
+High libido
+No desire for sex
+Different sex drives
+Partner wants more sex
+Relationship intimacy
+Communication with partner
+Stress and libido
+Depression and libido
+Anxiety and sex
+Pornography and sexual function
+Masturbation
+Safe sex
+Condom use
+Birth control
+Emergency contraception
+STI prevention
+Consent
+Pain during intercourse
+Fear of sex
+Sex after childbirth
+Sex during pregnancy
+Sex during menstruation
+How often is sex normal?
+Is sex every day normal?
+Is sex once a week normal?
+Is sex three times a week normal?
+
+8. Urinary System
+
+Painful urination
+Burning urination
+Frequent urination
+Urgent urination
+Blood in urine
+Cloudy urine
+Dark urine
+Urinary tract infection
+Kidney stones
+Kidney infection
+Overactive bladder
+Urinary incontinence
+Bedwetting
+Difficulty urinating
+Weak urine stream
+
+9. Mental Health
+
+Stress
+Chronic stress
+Anxiety
+Generalized anxiety
+Social anxiety
+Panic attack
+Depression
+Burnout
+Loneliness
+Grief
+ADHD
+Autism
+OCD
+PTSD
+Insomnia
+Poor sleep
+Nightmares
+Excessive sleeping
+Mood swings
+Memory problems
+Health anxiety
+
+10. Lifestyle
+
+Healthy diet
+Exercise
+Walking
+Running
+Gym training
+Stretching
+Smoking
+Vaping
+Alcohol
+Energy drinks
+Coffee
+Hydration
+Protein
+Vitamins
+Minerals
+Weight loss
+Weight gain
+Obesity
+Healthy eating
+Sleep hygiene
+Work-life balance
+
+11. Skin
+
+Acne
+Eczema
+Psoriasis
+Dry skin
+Oily skin
+Sunburn
+Skin infection
+Fungal infection
+Ringworm
+Cellulitis
+Hives
+Warts
+Moles
+Skin tags
+Scabies
+Rosacea
+Cold sores
+Shingles
+
+12. Heart & Blood Pressure
+
+High blood pressure
+Low blood pressure
+Palpitations
+Fast heart rate
+Slow heart rate
+Chest pain
+Heart attack symptoms
+Stroke symptoms
+Heart failure
+High cholesterol
+Poor circulation
+Leg swelling
+
+13. Diabetes & Hormones
+
+Type 1 diabetes
+Type 2 diabetes
+Prediabetes
+Hypoglycemia
+Hyperglycemia
+Insulin resistance
+Thyroid disease
+Hypothyroidism
+Hyperthyroidism
+Low testosterone
+High testosterone
+Hormonal imbalance
+Adrenal disorders
+
+14. Medicines
+
+Paracetamol
+Ibuprofen
+Aspirin
+Antibiotics
+Painkillers
+Anti-inflammatory medicines
+Allergy medicines
+Cold medicines
+Drug interactions
+Side effects
+Missed dose
+Medicine overdose
+Medicine safety
+
+15. Pregnancy & Children
+
+Pregnancy
+Pregnancy nutrition
+Baby fever
+Child fever
+Child cough
+Child diarrhea
+Child vomiting
+Vaccinations
+Breastfeeding
+Bottle feeding
+Teething
+Baby rash
+Child constipation
+Child development
+Newborn care
+
+16. First Aid & Emergencies
+
+Burns
+Cuts
+Bleeding
+Nosebleed
+Choking
+CPR
+Poisoning
+Heat stroke
+Heat exhaustion
+Hypothermia
+Animal bites
+Insect bites
+Snake bites
+Electric shock
+Head injury
+Broken bone
+Sprains
+Emergency bleeding control
+
+17. Eye, Ear & Mouth
+
+Eye pain
+Red eye
+Dry eyes
+Blurred vision
+Vision loss
+Ear pain
+Ear infection
+Hearing loss
+Ringing in ears
+Toothache
+Bleeding gums
+Mouth ulcers
+Bad breath
+
+18. Infectious Diseases
+
+Strep throat
+Mononucleosis
+Tuberculosis
+Chickenpox
+Measles
+Mumps
+Rubella
+Malaria
+Dengue
+Lyme disease
+Hepatitis
+HIV
+AIDS
+HPV
+Herpes
+Syphilis
+Gonorrhea
+Chlamydia
+
+19. Nutrition
+
+Healthy eating
+Mediterranean diet
+Vegetarian diet
+Vegan diet
+Protein intake
+Fiber intake
+Sugar intake
+Salt intake
+Water intake
+Vitamin D
+Vitamin B12
+Iron deficiency
+Calcium
+Magnesium
+Omega-3
+Chocolate
+Fast food
+Supplements
+
+20. Frequently Asked Questions
+
+Can stress cause fever?
+Can anxiety cause chest pain?
+Can stress reduce sexual desire?
+Why do I feel tired all the time?
+Why am I always sleepy?
+Can chocolate affect my period?
+Can I exercise with a fever?
+Can I work with a fever?
+Should I go to work when sick?
+How much water should I drink?
+Can I have sex during pregnancy?
+Can I have sex during my period?
+Why don't I want sex anymore?
+Is it normal to have sex once a week?
+Is it normal to have sex every day?
+Is it normal to have sex three times a week?
+Can stress cause erectile dysfunction?
+Why do I have back pain after work?
+Can lifting heavy objects hurt my back?
+When should I see a doctor?
+When should I go to the emergency department?

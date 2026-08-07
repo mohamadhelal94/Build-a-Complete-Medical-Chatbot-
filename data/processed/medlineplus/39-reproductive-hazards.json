@@ -1,0 +1,81 @@
+{
+  "id": "39",
+  "title": "Reproductive Hazards",
+  "language": "English",
+  "date_created": "12/13/1999",
+  "meta_description": "Reproductive hazards can affect your reproductive health, fertility, and ability to have healthy children. Learn about the types and prevention.",
+  "summary": "What are reproductive hazards? Reproductive hazards are substances that affect the reproductive health of men or women. They also include substances that affect the ability of couples to have healthy children. These substances may be chemical, physical, or biological. Some common types include: Alcohol Chemicals such as pesticides Smoking Legal and illegal drugs Metals such as lead and mercury Radiation Some viruses You may be exposed to reproductive hazards through contact with your skin, breathing them in, or swallowing them. This can happen anywhere, but it is more common in the workplace or at home. What are the health effects of reproductive hazards? The possible health effects of reproductive hazards include infertility , miscarriage , birth defects , and developmental disabilities in children. What type of health effects they cause and how serious they are depends on many factors, including: What the substance is How much of it you are exposed to How it enters your body How long or how often you are exposed How you react to the substance How can reproductive hazards affect men? For a man, a reproductive hazard can affect the sperm. A hazard may cause a problem with the number of sperm, their shape, or the way that they swim. It could also damage the sperm's DNA. Then the sperm may not be able to fertilize an egg. Or it could cause problems with the development of the fetus . How can reproductive hazards affect women? For a woman, a reproductive hazard can disrupt the menstrual cycle . It can cause hormone imbalance, which can raise the risk of diseases such as osteoporosis , heart disease , and certain cancers. It can affect a woman's ability to get pregnant . A woman who is exposed during pregnancy can have different effects, depending on when she was exposed. During the first 3 months of pregnancy, it might cause a birth defect or a miscarriage. During the last 6 months of pregnancy, it could slow the growth of the fetus, affect the development of its brain, or cause preterm labor . How can reproductive hazards be avoided? To try to avoid reproductive hazards: Avoid alcohol and illegal drugs during pregnancy . If you smoke, try to quit . And if you are not a smoker, don't start. Take precautions if you are using household chemicals or pesticides. Use good hygiene , including handwashing. If there are hazards at your job , make sure to follow safe work practices and procedures.",
+  "synonyms": [],
+  "groups": [
+    "Women",
+    "Pregnancy and Reproduction",
+    "Men",
+    "Poisoning, Toxicology, Environmental Health",
+    "Sexual Health Issues",
+    "Female Reproductive System",
+    "Male Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Birth Defects",
+      "url": "https://medlineplus.gov/birthdefects.html",
+      "id": "1127"
+    },
+    {
+      "title": "Infections and Pregnancy",
+      "url": "https://medlineplus.gov/infectionsandpregnancy.html",
+      "id": "3154"
+    },
+    {
+      "title": "Infertility",
+      "url": "https://medlineplus.gov/infertility.html",
+      "id": "250"
+    },
+    {
+      "title": "Pregnancy",
+      "url": "https://medlineplus.gov/pregnancy.html",
+      "id": "368"
+    },
+    {
+      "title": "Pregnancy and Medicines",
+      "url": "https://medlineplus.gov/pregnancyandmedicines.html",
+      "id": "5578"
+    },
+    {
+      "title": "Pregnancy and Substance Use",
+      "url": "https://medlineplus.gov/pregnancyandsubstanceuse.html",
+      "id": "1385"
+    },
+    {
+      "title": "Prenatal Care",
+      "url": "https://medlineplus.gov/prenatalcare.html",
+      "id": "6"
+    },
+    {
+      "title": "Sexually Transmitted Infections",
+      "url": "https://medlineplus.gov/sexuallytransmittedinfections.html",
+      "id": "400"
+    }
+  ],
+  "see_references": [
+    "Pregnancy Hazards"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Maternal Exposure",
+      "id": "D018811"
+    },
+    {
+      "name": "Paternal Exposure",
+      "id": "D018812"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/reproductivehazards.html"
+}

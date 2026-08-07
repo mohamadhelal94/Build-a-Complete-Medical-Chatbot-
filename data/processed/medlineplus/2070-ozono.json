@@ -1,0 +1,31 @@
+{
+  "id": "2070",
+  "title": "Ozono",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El ozono es un gas que puede ser bueno o malo. El bueno se ubica entre 10-30 millas de altura, el malo en la superficie y puede causar problemas de salud.",
+  "summary": "El ozono es un gas incoloro que se encuentra en el aire que respiramos. Puede ser bueno o malo, dependiendo de donde se encuentre. El ozono \"bueno\" se encuentra en la naturaleza a aproximadamente 10 a 30 millas sobre la superficie terrestre. Nos protege de los rayos ultravioleta del sol. Parte de la capa de ozono bueno desapareció por sustancias químicas fabricadas por el hombre. Sin suficiente ozono bueno, las personas pueden exponerse a demasiada radiación ultravioleta. Eso puede aumentar el riesgo de cáncer en la piel, cataratas y problemas en el sistema inmunitario. El ozono \"malo\" se encuentra al nivel del suelo. Se forma cuando los contaminantes de los automóviles, las fábricas y otras fuentes reaccionan químicamente con la luz del sol. Es el componente principal del smog . Suele ser peor en verano. Respirar el ozono malo puede ser dañino. Provoca tos, irritación en la garganta, empeoramiento de afecciones como asma , bronquitis y enfisema y hasta daños pulmonares permanentes, si la exposición a éste es habitual. Agencia de Protección Ambiental",
+  "synonyms": [],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental"
+  ],
+  "related_topics": [
+    {
+      "title": "Contaminación del aire",
+      "url": "https://medlineplus.gov/spanish/airpollution.html",
+      "id": "1730"
+    }
+  ],
+  "see_references": [
+    "Agujero de ozono"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de las Ciencias de Salud Ambiental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIEHS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/ozone.html"
+}

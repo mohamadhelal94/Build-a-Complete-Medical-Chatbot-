@@ -1,0 +1,48 @@
+{
+  "id": "1735",
+  "title": "Medicina complementaria e integral",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La medicina complementaria e integrativa, también llamada medicina alternativa, aplica tratamientos que no forman parte de la medicina convencional.",
+  "summary": "Muchos estadounidenses usan tratamientos que no son parte de la medicina tradicional o convencional. Estos tratamientos pueden llamarse complementarios, integrativos o alternativos. La medicina complementaria se usa junto con la medicina convencional. Por ejemplo, la acupuntura puede aliviar los efectos secundarios del tratamiento para el cáncer. Cuando doctores u hospitales brindan ambos tipos de cuidados juntos y de forma coordinada, se llama medicina integral. Cuando no se usa junto con la medicina convencional se le llama alternativa. Los beneficios de estos tratamientos no tradicionales pueden sonar promisorios. Sin embargo, los investigadores no conocen la seguridad de muchos tratamientos de medicina alternativa ni saben si funcionan bien. Se están realizando estudios para determinar la seguridad y la utilidad de muchas de estas prácticas. Para reducir los riesgos de un tratamiento no tradicional: Hable con su doctor. Estos tratamientos pueden interactuar con ciertos medicamentos Infórmese sobre qué dicen los estudios científicos Elija los profesionales con mucho cuidado Cuéntele a su doctor o profesional todos los tratamientos que usted este usando NIH: Centro Nacional de Salud Complementaria e Integral",
+  "synonyms": [],
+  "groups": [
+    "Bienestar y estilo de vida",
+    "Terapias complementarias y alternativas"
+  ],
+  "related_topics": [
+    {
+      "title": "Acupuntura",
+      "url": "https://medlineplus.gov/spanish/acupuncture.html",
+      "id": "3072"
+    },
+    {
+      "title": "Medicina herbaria",
+      "url": "https://medlineplus.gov/spanish/herbalmedicine.html",
+      "id": "1951"
+    },
+    {
+      "title": "Quiropráctica",
+      "url": "https://medlineplus.gov/spanish/chiropractic.html",
+      "id": "2728"
+    },
+    {
+      "title": "Terapia alternativa para el cáncer",
+      "url": "https://medlineplus.gov/spanish/canceralternativetherapies.html",
+      "id": "3193"
+    }
+  ],
+  "see_references": [
+    "Homeopatía",
+    "Medicina complementaria"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Centro Nacional de Salud Complementaria e Integral",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCCAM"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/complementaryandintegrativemedicine.html"
+}

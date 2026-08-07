@@ -1,0 +1,67 @@
+{
+  "id": "161",
+  "title": "Animal Bites",
+  "language": "English",
+  "date_created": "06/15/1999",
+  "meta_description": "Wild animals might attack if they are threatened or acting protective. Attacks by pets are more common. Learn how to avoid both types of animal bites.",
+  "summary": "Wild animals usually avoid people. They might attack, however, if they feel threatened, are sick, or are protecting their young or territory. Attacks by pets are more common. Animal bites rarely are life-threatening, but if they become infected, you can develop serious medical problems. To prevent animal bites and complications from bites: Never pet, handle, or feed unknown animals Leave snakes alone Watch your children closely around animals Vaccinate your cats, ferrets, and dogs against rabies Spay or neuter your dog to make it less aggressive Get a tetanus booster if you have not had one recently Wear boots and long pants when you are in areas with venomous snakes If an animal bites you, clean the wound with soap and water as soon as possible. Get medical attention if necessary. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Cat bites",
+    "Dog bites"
+  ],
+  "groups": [
+    "Injuries and Wounds",
+    "Immune System"
+  ],
+  "related_topics": [
+    {
+      "title": "Animal Diseases and Your Health",
+      "url": "https://medlineplus.gov/animaldiseasesandyourhealth.html",
+      "id": "4055"
+    },
+    {
+      "title": "Cat Scratch Disease",
+      "url": "https://medlineplus.gov/catscratchdisease.html",
+      "id": "4320"
+    },
+    {
+      "title": "Insect Bites and Stings",
+      "url": "https://medlineplus.gov/insectbitesandstings.html",
+      "id": "526"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://medlineplus.gov/mpox.html",
+      "id": "3229"
+    },
+    {
+      "title": "Rabies",
+      "url": "https://medlineplus.gov/rabies.html",
+      "id": "523"
+    },
+    {
+      "title": "Spider Bites",
+      "url": "https://medlineplus.gov/spiderbites.html",
+      "id": "5249"
+    },
+    {
+      "title": "Tick Bites",
+      "url": "https://medlineplus.gov/tickbites.html",
+      "id": "1645"
+    }
+  ],
+  "see_references": [
+    "Cat Bites",
+    "Dog Bites",
+    "Snake Bites"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Bites and Stings",
+      "id": "D001733"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/animalbites.html"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4273",
+  "title": "Síndrome de Rett",
+  "language": "Spanish",
+  "date_created": "06/01/2006",
+  "meta_description": "El síndrome de Rett es una rara enfermedad genética que causa problemas en el desarrollo y en el sistema nervioso, la mayoría en niñas. Síntomas.",
+  "summary": "El síndrome de Rett es una rara enfermedad genética que causa problemas en el desarrollo y en el sistema nervioso, la mayoría en niñas. Se relaciona con el trastorno del espectro autista . Al principio, las bebés con síndrome de Rett parecen crecer y desarrollarse con normalidad. Sin embargo, entre los tres meses y los tres años detienen su desarrollo e inclusive pueden perder algunas habilidades. Los síntomas incluyen: Pérdida del habla Pérdida de los movimientos de las manos, tales como agarrar las cosas Movimientos compulsivos como retorcerse las manos Problemas de equilibrio Problemas respiratorios Problemas de conducta Problemas de aprendizaje o discapacidad intelectual El síndrome de Rett no tiene cura. Algunos síntomas pueden tratarse con medicinas, cirugía y fisioterapia o terapia del lenguaje. La mayoría de las personas con síndrome de Rett vive hasta la edad madura o más. Suelen necesitar cuidados durante toda su vida. NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [],
+  "groups": [
+    "Cerebro y nervios",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades neurodegenerativas",
+      "url": "https://medlineplus.gov/spanish/degenerativenervediseases.html",
+      "id": "1845"
+    },
+    {
+      "title": "Trastorno del espectro autista",
+      "url": "https://medlineplus.gov/spanish/autismspectrumdisorder.html",
+      "id": "1763"
+    },
+    {
+      "title": "Trastornos del desarrollo",
+      "url": "https://medlineplus.gov/spanish/developmentaldisabilities.html",
+      "id": "1850"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/rettsyndrome.html"
+}

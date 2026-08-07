@@ -1,0 +1,38 @@
+{
+  "id": "4748",
+  "title": "Sore Throat",
+  "language": "English",
+  "date_created": "07/23/2008",
+  "meta_description": "Sore throat or pharyngitis has many causes including allergies, smoking, strep throat, and mononucleosis. Find treatments options depending on cause.",
+  "summary": "Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx (also called the voice box). The technical name for the throat is pharynx. You can have a sore throat for many reasons. Often, colds and flu cause sore throats. Other causes can include: Allergies Mononucleosis Smoking Strep throat Tonsillitis Treatment depends on the cause. Sucking on lozenges, drinking lots of liquids, and gargling may ease the pain. Over-the-counter pain relievers can also help, but children should not take aspirin.",
+  "synonyms": [
+    "Pharyngitis"
+  ],
+  "groups": [
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Throat Disorders",
+      "url": "https://medlineplus.gov/throatdisorders.html",
+      "id": "1660"
+    },
+    {
+      "title": "Tonsillitis",
+      "url": "https://medlineplus.gov/tonsillitis.html",
+      "id": "6440"
+    }
+  ],
+  "see_references": [
+    "Pharyngitis"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Pharyngitis",
+      "id": "D010612"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sorethroat.html"
+}

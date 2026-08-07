@@ -1,0 +1,59 @@
+{
+  "id": "5597",
+  "title": "Interstitial Lung Diseases",
+  "language": "English",
+  "date_created": "08/24/2010",
+  "meta_description": "Interstitial lung diseases are a group of diseases that inflame or scar the lungs. Breathing in particles (asbestosis, silicosis) causes some types.",
+  "summary": "Interstitial lung disease is the name for a large group of diseases that inflame or scar the lungs. The inflammation and scarring make it hard to get enough oxygen. The scarring is called pulmonary fibrosis . Breathing in dust or other particles in the air is responsible for some types of interstitial lung diseases. Specific types include: Black lung disease among coal miners, from inhaling coal dust Farmer's lung, from inhaling farm dust Asbestosis, from inhaling asbestos fibers Siderosis, from inhaling iron from mines or welding fumes Silicosis, from inhaling silica dust Other causes include autoimmune diseases or occupational exposures to molds, gases, or fumes. Some types of interstitial lung disease have no known cause. Treatment depends on the type of exposure and the stage of the disease. It may involve medicines, oxygen therapy, or a lung transplant in severe cases.",
+  "synonyms": [],
+  "groups": [
+    "Lungs and Breathing"
+  ],
+  "related_topics": [
+    {
+      "title": "Asbestos",
+      "url": "https://medlineplus.gov/asbestos.html",
+      "id": "1330"
+    },
+    {
+      "title": "Lung Diseases",
+      "url": "https://medlineplus.gov/lungdiseases.html",
+      "id": "484"
+    },
+    {
+      "title": "Occupational Health",
+      "url": "https://medlineplus.gov/occupationalhealth.html",
+      "id": "347"
+    },
+    {
+      "title": "Pulmonary Fibrosis",
+      "url": "https://medlineplus.gov/pulmonaryfibrosis.html",
+      "id": "378"
+    },
+    {
+      "title": "Pulmonary Rehabilitation",
+      "url": "https://medlineplus.gov/pulmonaryrehabilitation.html",
+      "id": "5980"
+    }
+  ],
+  "see_references": [
+    "Coal Miner's Lung",
+    "Farmer's Lung",
+    "Interstitial Pneumonitis",
+    "Pneumoconiosis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Lung Diseases, Interstitial",
+      "id": "D017563"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/interstitiallungdiseases.html"
+}

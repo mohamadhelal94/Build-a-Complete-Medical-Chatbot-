@@ -1,0 +1,55 @@
+{
+  "id": "3812",
+  "title": "Asesoramiento genético",
+  "language": "Spanish",
+  "date_created": "09/13/2005",
+  "meta_description": "El asesoramiento genético ofrece información y apoyo a personas que tienen o pueden tener riesgos de trastornos genéticos.",
+  "summary": "El asesoramiento genético ofrece información y apoyo a las personas que tienen o pueden tener riesgos de trastornos genéticos . Un genetista se reunirá con usted para hablar de los riesgos genéticos. La consulta puede ser sobre usted o un familiar, o puede acceder a esta información cuando piense o planee tener un bebé. Puede obtener más información con pruebas genéticas . Existen muchas razones para buscar asesoramiento genético. Puede pensar en hacerlo si: Tiene historial familiar de una afección genética o defecto congénito Está embarazada o planea estarlo después de los 35 años Ya tiene un hijo con un trastorno o defecto congénito Tuvo dos o más pérdidas de embarazos o un bebé que falleció Se realizó un ultrasonido o pruebas que sugieren la posibilidad de un problema",
+  "synonyms": [
+    "Consulta sobre genética"
+  ],
+  "groups": [
+    "Embarazo y reproducción",
+    "Genética y defectos congénitos"
+  ],
+  "related_topics": [
+    {
+      "title": "Defectos congénitos",
+      "url": "https://medlineplus.gov/spanish/birthdefects.html",
+      "id": "1774"
+    },
+    {
+      "title": "Enfermedades genéticas",
+      "url": "https://medlineplus.gov/spanish/geneticdisorders.html",
+      "id": "1921"
+    },
+    {
+      "title": "Historia familiar",
+      "url": "https://medlineplus.gov/spanish/familyhistory.html",
+      "id": "4485"
+    },
+    {
+      "title": "Pruebas genéticas",
+      "url": "https://medlineplus.gov/spanish/genetictesting.html",
+      "id": "1922"
+    },
+    {
+      "title": "Pruebas prenatales",
+      "url": "https://medlineplus.gov/spanish/prenataltesting.html",
+      "id": "3092"
+    }
+  ],
+  "see_references": [
+    "Genética, Asesoramiento",
+    "Historia médica familiar"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Investigación del Genoma Humano",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHGRI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/geneticcounseling.html"
+}

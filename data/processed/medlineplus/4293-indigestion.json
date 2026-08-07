@@ -1,0 +1,61 @@
+{
+  "id": "4293",
+  "title": "Indigestion",
+  "language": "English",
+  "date_created": "02/01/2006",
+  "meta_description": "If you've ever overindulged in a favorite dish, you've probably experienced indigestion (dyspepsia). Read about causes and therapies here.",
+  "summary": "Nearly everyone has had indigestion at one time. It's a feeling of discomfort or a burning feeling in your upper abdomen. You may have heartburn or belch and feel bloated. You may also feel nauseated, or even throw up. You might get indigestion from eating too much or too fast, eating high-fat foods, or eating when you're stressed. Smoking, drinking too much alcohol, using some medicines, being tired, and having ongoing stress can also cause indigestion or make it worse. Sometimes the cause is a problem with the digestive tract, like an ulcer or GERD . Avoiding foods and situations that seem to cause it may help. Because indigestion can be a sign of a more serious problem, see your health care provider if it lasts for more than two weeks or if you have severe pain or other symptoms. Your health care provider may use x-rays, lab tests, and an upper endoscopy to diagnose the cause. You may need medicines to treat the symptoms. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [
+    "Dyspepsia",
+    "Upset stomach"
+  ],
+  "groups": [
+    "Digestive System",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Abdominal Pain",
+      "url": "https://medlineplus.gov/abdominalpain.html",
+      "id": "3061"
+    },
+    {
+      "title": "Digestive Diseases",
+      "url": "https://medlineplus.gov/digestivediseases.html",
+      "id": "29"
+    },
+    {
+      "title": "Gas",
+      "url": "https://medlineplus.gov/gas.html",
+      "id": "4291"
+    },
+    {
+      "title": "GERD",
+      "url": "https://medlineplus.gov/gerd.html",
+      "id": "512"
+    },
+    {
+      "title": "Heartburn",
+      "url": "https://medlineplus.gov/heartburn.html",
+      "id": "1653"
+    }
+  ],
+  "see_references": [
+    "Dyspepsia",
+    "Upset Stomach"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Dyspepsia",
+      "id": "D004415"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/indigestion.html"
+}

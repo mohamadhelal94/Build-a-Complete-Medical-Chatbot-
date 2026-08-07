@@ -1,0 +1,53 @@
+{
+  "id": "1587",
+  "title": "Teen Development",
+  "language": "English",
+  "date_created": "12/18/2001",
+  "meta_description": "Puberty differs for each teenager. Not only does it affect the body, but it also affects the mental. Find tips to help you manage teen development",
+  "summary": "As a teenager, you go through many physical, mental, emotional, and social changes. The biggest change is puberty , the process of becoming sexually mature. It usually happens between ages 10 and 14 for girls and ages 12 and 16 for boys. As your body changes, you may have questions about sexual health . During this time, you start to develop your own unique personality and opinions. Some changes that you might notice include: Increased independence from your parents More concerns about body image and clothes More influence from peers Greater ability to sense right and wrong All of these changes can sometimes seem overwhelming. Some sadness or moodiness can be normal. But feeling very sad, hopeless, or worthless could be warning signs of a mental health problem . If you need help, talk to your parents, school counselor, or health care provider. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "Adolescent development"
+  ],
+  "groups": [
+    "Children and Teenagers",
+    "Mental Health and Behavior"
+  ],
+  "related_topics": [
+    {
+      "title": "Puberty",
+      "url": "https://medlineplus.gov/puberty.html",
+      "id": "5569"
+    },
+    {
+      "title": "Teen Health",
+      "url": "https://medlineplus.gov/teenhealth.html",
+      "id": "609"
+    },
+    {
+      "title": "Teen Sexual Health",
+      "url": "https://medlineplus.gov/teensexualhealth.html",
+      "id": "1459"
+    }
+  ],
+  "see_references": [
+    "Adolescent Development"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+      "url": "https://www.nichd.nih.gov/Pages/index.aspx"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Psychology, Adolescent",
+      "id": "D000297"
+    },
+    {
+      "name": "Adolescent Development",
+      "id": "D041923"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/teendevelopment.html"
+}

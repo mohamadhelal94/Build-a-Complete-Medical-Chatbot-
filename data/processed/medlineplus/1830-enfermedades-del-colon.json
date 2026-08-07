@@ -1,0 +1,73 @@
+{
+  "id": "1830",
+  "title": "Enfermedades del colon",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Existen muchos trastornos que pueden afectar la capacidad del colon para funcionar adecuadamente. Entre ellos: cáncer de colon, pólipos, fístulas, etc.",
+  "summary": "El colon, también llamado intestino grueso, es parte de su sistema digestivo. Es un tubo largo y hueco que se encuentra al final del sistema digestivo, en el cual el cuerpo produce y almacena las heces. Existen muchos trastornos que pueden afectar su capacidad para funcionar adecuadamente. Entre ellos: Cáncer colorrectal Pólipos del colon : crecimientos de tejido en el colon que pueden hacerse cancerosos Colitis ulcerativa : úlceras en el colon y el recto Diverticulitis : inflamación o infección de pequeños sacos o divertículos en el colon Síndrome del intestino irritable : un cuadro molesto que causa cólicos abdominales y otros síntomas El tratamiento de las enfermedades de colon varía ampliamente dependiendo de la enfermedad y su severidad. Puede incluir dieta, medicinas y, en algunos casos, la cirugía. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Enfermedades del intestino colon"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Colitis ulcerativa",
+      "url": "https://medlineplus.gov/spanish/ulcerativecolitis.html",
+      "id": "2210"
+    },
+    {
+      "title": "Colonoscopía",
+      "url": "https://medlineplus.gov/spanish/colonoscopy.html",
+      "id": "4917"
+    },
+    {
+      "title": "Cáncer del colon y del recto",
+      "url": "https://medlineplus.gov/spanish/colorectalcancer.html",
+      "id": "1831"
+    },
+    {
+      "title": "Diverticulosis y diverticulitis",
+      "url": "https://medlineplus.gov/spanish/diverticulosisanddiverticulitis.html",
+      "id": "1863"
+    },
+    {
+      "title": "Enfermedad de Crohn",
+      "url": "https://medlineplus.gov/spanish/crohnsdisease.html",
+      "id": "1842"
+    },
+    {
+      "title": "Obstrucción intestinal",
+      "url": "https://medlineplus.gov/spanish/intestinalobstruction.html",
+      "id": "5276"
+    },
+    {
+      "title": "Pólipos del colon",
+      "url": "https://medlineplus.gov/spanish/colonicpolyps.html",
+      "id": "3135"
+    },
+    {
+      "title": "Síndrome del intestino irritable",
+      "url": "https://medlineplus.gov/spanish/irritablebowelsyndrome.html",
+      "id": "1983"
+    }
+  ],
+  "see_references": [
+    "Colitis",
+    "Colitis isquémica",
+    "Colon, Enfermedades del (General)",
+    "Hirschsprung, Enfermedad de",
+    "Intestino grueso, Enfermedades del",
+    "Intestino largo, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/colonicdiseases.html"
+}

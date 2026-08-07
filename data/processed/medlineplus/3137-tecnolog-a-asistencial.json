@@ -1,0 +1,93 @@
+{
+  "id": "3137",
+  "title": "Tecnología asistencial",
+  "language": "Spanish",
+  "date_created": "10/06/2003",
+  "meta_description": "La tecnología asistencial consiste de herramientas, productos o equipos que le pueden ayudar a cumplir sus labores y actividades si tiene una discapacidad.",
+  "summary": "¿Qué es la tecnología asistencial? La tecnología asistencial (o dispositivos de asistencia) son herramientas, productos o equipos que pueden ayudarle a realizar tareas y actividades. Pueden ayudarle a moverse , ver, comunicarse, comer o vestirse. ¿Quién puede beneficiarse de la tecnología asistencial? Puede utilizar varios dispositivos de asistencia si: Tiene una discapacidad o lesión Tiene ciertas afecciones de salud, como demencia , o si ha sufrido un accidente cerebrovascular Es una persona mayor Puede usar la tecnología asistencial durante un período breve o prolongado. Otras personas pueden utilizarlos durante toda su vida. ¿Cómo puede ayudar la tecnología asistencial? Algunos dispositivos de asistencia son herramientas de alta tecnología, como las computadoras. Otros son mucho más simples, como un \"alcanzador\", una herramienta que le ayuda a agarrar un objeto fuera de su alcance. Hay una variedad de dispositivos o herramientas de asistencia disponibles que pueden usarse para ayudarlo a: Comunicarse, ver o escuchar mejor Hacer actividades diarias Moverse usando una silla de ruedas, un andador u otro dispositivo de movilidad Cocinar o comer Vestirse o asearse Mejorar su memoria o atención Ser más activo Participar en actividades educativas La tecnología asistencial también pueden usarse para hacer cambios en su entorno físico con el fin de que sea más fácil moverse o cuidarse. Esto puede incluir agregar rampas o barras de apoyo.",
+  "synonyms": [
+    "Aparatos de asistencia",
+    "Equipo de ayuda a personas con discapacidades"
+  ],
+  "groups": [
+    "Personas mayores",
+    "Cirugía y rehabilitación"
+  ],
+  "related_topics": [
+    {
+      "title": "Aparatos para movilidad asistida",
+      "url": "https://medlineplus.gov/spanish/mobilityaids.html",
+      "id": "4142"
+    },
+    {
+      "title": "Audífonos",
+      "url": "https://medlineplus.gov/spanish/hearingaids.html",
+      "id": "5217"
+    },
+    {
+      "title": "Discapacidades",
+      "url": "https://medlineplus.gov/spanish/disabilities.html",
+      "id": "1861"
+    },
+    {
+      "title": "Implantes cocleares",
+      "url": "https://medlineplus.gov/spanish/cochlearimplants.html",
+      "id": "5215"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    },
+    {
+      "title": "Problemas y pérdida de la visión",
+      "url": "https://medlineplus.gov/spanish/visionimpairmentandblindness.html",
+      "id": "2222"
+    },
+    {
+      "title": "Prótesis de las extremidades",
+      "url": "https://medlineplus.gov/spanish/artificiallimbs.html",
+      "id": "5574"
+    },
+    {
+      "title": "Pérdida de extremidades",
+      "url": "https://medlineplus.gov/spanish/limbloss.html",
+      "id": "1738"
+    },
+    {
+      "title": "Rehabilitación",
+      "url": "https://medlineplus.gov/spanish/rehabilitation.html",
+      "id": "2123"
+    },
+    {
+      "title": "Salud de las personas mayores",
+      "url": "https://medlineplus.gov/spanish/olderadulthealth.html",
+      "id": "2142"
+    },
+    {
+      "title": "Seguridad de los equipos médicos",
+      "url": "https://medlineplus.gov/spanish/medicaldevicesafety.html",
+      "id": "4155"
+    },
+    {
+      "title": "Seguridad de los medicamentos",
+      "url": "https://medlineplus.gov/spanish/drugsafety.html",
+      "id": "1870"
+    }
+  ],
+  "see_references": [
+    "Aparatos de asistencia",
+    "Asistencia, Aparatos de",
+    "Dispositivos para asistencia",
+    "Sillas de ruedas"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/assistivedevices.html"
+}

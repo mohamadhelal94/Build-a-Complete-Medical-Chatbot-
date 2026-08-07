@@ -1,0 +1,34 @@
+{
+  "id": "4607",
+  "title": "Tsunamis",
+  "language": "Spanish",
+  "date_created": "06/25/2008",
+  "meta_description": "Un tsunami consiste en una serie de enormes olas oceánicas creadas por un fenómeno submarino. Infórmese sobre cómo protegerse de un tusnami.",
+  "summary": "Un tsunami es una serie de enormes olas oceánicas creadas por un disturbio submarino. Las causas incluyen terremotos , deslizamientos de tierra, erupciones volcánicas o meteoritos (pedazos de roca que provienen del espacio e impactan la superficie terrestre). Un tsunami puede desplazarse a cientos de millas por hora en el océano abierto. Puede alcanzar la tierra con olas de 100 pies de altura o más y provocar inundaciones devastadoras. El ahogamiento es la causa de muerte más común asociada a un tsunami. Aunque no hay garantías de seguridad durante un tsunami, usted puede tomar medidas para protegerse. Debe tener un plan de acción para casos de desastres . Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Es probable que necesite ayuda para superarlo . Agencia Federal para el Manejo de Emergencias",
+  "synonyms": [
+    "Maremotos"
+  ],
+  "groups": [
+    "Desastres"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfrentarse con desastres",
+      "url": "https://medlineplus.gov/spanish/copingwithdisasters.html",
+      "id": "3798"
+    },
+    {
+      "title": "Preparativos y recuperación ante un desastre",
+      "url": "https://medlineplus.gov/spanish/disasterpreparationandrecovery.html",
+      "id": "1862"
+    }
+  ],
+  "see_references": [
+    "Desastres naturales",
+    "Maremoto"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/tsunamis.html"
+}

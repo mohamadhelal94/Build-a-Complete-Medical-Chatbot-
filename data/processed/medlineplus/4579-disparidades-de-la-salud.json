@@ -1,0 +1,45 @@
+{
+  "id": "4579",
+  "title": "Disparidades de la salud",
+  "language": "Spanish",
+  "date_created": "02/14/2025",
+  "meta_description": "Las disparidades de la salud se refieren a las diferencias en el estado de salud de diferentes grupos de personas. Infórmese aquí.",
+  "summary": "Las disparidades de la salud son diferencias de diferentes grupos de personas. Estas diferencias de la salud pueden incluir: Cuántas personas tienen ciertas enfermedades Qué tan severas son estas enfermedades Cuántas personas tienen complicaciones por estas enfermedades Cuántas personas mueren por estas enfermedades Si las personas tienen acceso a atención de salud Cuántas personas se someten a exámenes de diagnóstico Estos grupos pueden estar basados en: Raza Etnicidad Estado inmigratorio Discapacidad Sexo o género Orientación sexual Geografía Ingresos Nivel educacional NIH: Instituto Nacional de Salud de las Minorías y Disparidades en la Salud",
+  "synonyms": [],
+  "groups": [
+    "Sistemas de salud",
+    "Grupos especiales"
+  ],
+  "related_topics": [
+    {
+      "title": "Salud de las mujeres",
+      "url": "https://medlineplus.gov/spanish/womenshealth.html",
+      "id": "2230"
+    },
+    {
+      "title": "Salud de las personas mayores",
+      "url": "https://medlineplus.gov/spanish/olderadulthealth.html",
+      "id": "2142"
+    },
+    {
+      "title": "Salud de los hombres",
+      "url": "https://medlineplus.gov/spanish/menshealth.html",
+      "id": "2030"
+    },
+    {
+      "title": "Salud rural",
+      "url": "https://medlineplus.gov/spanish/ruralhealthconcerns.html",
+      "id": "3699"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud de las Minorías y Disparidades en Salud",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCMHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/healthdisparities.html"
+}

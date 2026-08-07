@@ -1,0 +1,49 @@
+{
+  "id": "5263",
+  "title": "Evacuación de las heces",
+  "language": "Spanish",
+  "date_created": "10/06/2009",
+  "meta_description": "Diarrea, estreñimiento e incontinencia pueden ser algunos problemas de evacuación de las heces. Otros problemas pueden ser un signo de problemas digestivos",
+  "summary": "La evacuación de las heces es el último paso de la comida en el camino por el tracto digestivo. Las heces salen del cuerpo a través del recto y del ano. Otro nombre para las heces es materia fecal o excremento. Las heces están hechas de lo que queda después de que el aparato digestivo (estómago, intestino delgado y colon) absorbe los nutrientes y líquidos de lo que usted comió y tomó. A veces, pueden surgir problemas en este proceso. La diarrea ocurre cuando las heces pasan por el intestino largo muy rápidamente. También se puede sufrir de estreñimiento , que es cuando la materia fecal pasa a través del intestino muy lentamente. La incontinencia fecal es un problema para controlar la evacuación de la materia fecal. Otras anormalidades con la evacuación de las heces pueden ser un signo de un problema digestivo. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Defecación",
+    "Evacuación fecal",
+    "Ir de cuerpo",
+    "Mover el vientre"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Diarrea",
+      "url": "https://medlineplus.gov/spanish/diarrhea.html",
+      "id": "1858"
+    },
+    {
+      "title": "Enfermedades del ano",
+      "url": "https://medlineplus.gov/spanish/analdisorders.html",
+      "id": "1741"
+    },
+    {
+      "title": "Estreñimiento",
+      "url": "https://medlineplus.gov/spanish/constipation.html",
+      "id": "1835"
+    },
+    {
+      "title": "Incontinencia fecal",
+      "url": "https://medlineplus.gov/spanish/bowelincontinence.html",
+      "id": "5317"
+    }
+  ],
+  "see_references": [
+    "Caca, Hacer",
+    "Deposiciones",
+    "Heces, Evacuación",
+    "Mover los intestinos"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bowelmovement.html"
+}

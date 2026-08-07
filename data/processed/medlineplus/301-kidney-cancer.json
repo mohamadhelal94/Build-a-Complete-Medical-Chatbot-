@@ -1,0 +1,51 @@
+{
+  "id": "301",
+  "title": "Kidney Cancer",
+  "language": "English",
+  "date_created": "03/26/1999",
+  "meta_description": "Kidney cancer symptoms are hard to detect at first but they do exist. Read more about the top 5 symptoms and the treatment options available",
+  "summary": "You have two kidneys. They are fist-sized organs on either side of your backbone above your waist. The tubes inside filter and clean your blood, taking out waste products and making urine. Kidney cancer forms in the lining of tiny tubes inside your kidneys. Kidney cancer becomes more likely as you age. Risk factors include smoking, having certain genetic conditions, and misusing pain medicines for a long time. You may have no symptoms at first. They may appear as the cancer grows. See your health care provider if you notice: Blood in your urine A lump in your abdomen Weight loss for no reason Pain in your side that does not go away Loss of appetite Tests to diagnose kidney cancer include blood, urine, and imaging tests. You may also have a biopsy. Treatment depends on your age, your overall health and how advanced the cancer is. It might include surgery, chemotherapy, or radiation, biologic, or targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells. NIH: National Cancer Institute",
+  "synonyms": [
+    "Hypernephroma",
+    "Renal cancer"
+  ],
+  "groups": [
+    "Cancers",
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Kidney Diseases",
+      "url": "https://medlineplus.gov/kidneydiseases.html",
+      "id": "91"
+    },
+    {
+      "title": "Kidney Tests",
+      "url": "https://medlineplus.gov/kidneytests.html",
+      "id": "6382"
+    },
+    {
+      "title": "Wilms Tumor",
+      "url": "https://medlineplus.gov/wilmstumor.html",
+      "id": "3075"
+    }
+  ],
+  "see_references": [
+    "Hypernephroma",
+    "Renal Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Kidney Neoplasms",
+      "id": "D007680"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/kidneycancer.html"
+}

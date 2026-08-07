@@ -1,0 +1,36 @@
+{
+  "id": "1999",
+  "title": "Alergia al látex",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La alergia al látex causa sarpullido, asma e incluso anafilaxia. Cientos de productos contienen látex. Síntomas de alergia al látex.",
+  "summary": "El látex es un líquido lechoso que proviene del árbol tropical del caucho. Cientos de productos de uso cotidiano contienen látex. La exposición repetida a una proteína del látex natural puede aumentar sus probabilidades de desarrollar una alergia a este producto. Si su sistema inmunitario detecta esta proteína, puede causar una reacción en cuestión de minutos. Podría aparecer sarpullido, asma y, en raros casos, shock anafiláctico por exposición al látex. Su doctor puede diagnosticar la alergia al látex por medio de un examen físico y exámenes de piel y de sangre. Existen medicamentos para tratar la reacción pero lo mejor es evitar estar expuesto al látex. Estos son los lugares más comunes donde se lo encuentra: Guantes Preservativos Globos Bandas elásticas Suelas de zapatos Chupones (chupetes) Se pueden encontrar versiones sin látex de estos productos.",
+  "synonyms": [],
+  "groups": [
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Alergia",
+      "url": "https://medlineplus.gov/spanish/allergy.html",
+      "id": "1734"
+    },
+    {
+      "title": "Anafilaxia",
+      "url": "https://medlineplus.gov/spanish/anaphylaxis.html",
+      "id": "6258"
+    }
+  ],
+  "see_references": [
+    "Látex, Alergia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/latexallergy.html"
+}

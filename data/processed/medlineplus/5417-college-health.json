@@ -1,0 +1,44 @@
+{
+  "id": "5417",
+  "title": "College Health",
+  "language": "English",
+  "date_created": "04/12/2010",
+  "meta_description": "College can bring excitement, challenges, and new responsibility.  Learn what steps students can take to stay healthy and safe in college.",
+  "summary": "College life involves excitement, along with new challenges, risks, and responsibilities. You are meeting new people, learning new things, and making your own decisions. It can sometimes be stressful. You have to deal with pressures related to food, drink, appearance, drugs, and sexual activity. There are steps you can take to stay healthy and safe while you're in college: Eat a balanced diet Get enough sleep Get regular physical activity Maintain your health with checkups and vaccinations If you decide to have sex, practice safe sex Make smart choices about alcohol and drugs Get help if you are stressed or depressed Centers for Disease Control and Prevention",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Wellness and Lifestyle"
+  ],
+  "related_topics": [
+    {
+      "title": "School Health",
+      "url": "https://medlineplus.gov/schoolhealth.html",
+      "id": "3612"
+    },
+    {
+      "title": "Teen Health",
+      "url": "https://medlineplus.gov/teenhealth.html",
+      "id": "609"
+    },
+    {
+      "title": "Underage Drinking",
+      "url": "https://medlineplus.gov/underagedrinking.html",
+      "id": "1313"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Universities",
+      "id": "D014495"
+    },
+    {
+      "name": "Students",
+      "id": "D013334"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/collegehealth.html"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "4298",
+  "title": "Minerals",
+  "language": "English",
+  "date_created": "02/27/2006",
+  "meta_description": "Your body uses minerals to build bones, make hormones, and regulate your heartbeat. Read about the types of minerals and how to get them.",
+  "summary": "Minerals are important for your body to stay healthy. Your body uses minerals for many different jobs, including keeping your bones, muscles, heart, and brain working properly. Minerals are also important for making enzymes and hormones. There are two kinds of minerals: macrominerals and trace minerals. You need larger amounts of macrominerals. They include calcium , phosphorus, magnesium, sodium , potassium , chloride and sulfur. You only need small amounts of trace minerals. They include iron , manganese, copper, iodine, zinc, cobalt, fluoride and selenium. Most people get the amount of minerals they need by eating a wide variety of foods. In some cases, your doctor may recommend a mineral supplement. People who have certain health problems or take some medicines may need to get less of one of the minerals. For example, people with chronic kidney disease need to limit foods that are high in potassium.",
+  "synonyms": [],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidants",
+      "url": "https://medlineplus.gov/antioxidants.html",
+      "id": "1590"
+    },
+    {
+      "title": "Calcium",
+      "url": "https://medlineplus.gov/calcium.html",
+      "id": "2780"
+    },
+    {
+      "title": "Dietary Supplements",
+      "url": "https://medlineplus.gov/dietarysupplements.html",
+      "id": "3538"
+    },
+    {
+      "title": "Fluid and Electrolyte Balance",
+      "url": "https://medlineplus.gov/fluidandelectrolytebalance.html",
+      "id": "4224"
+    },
+    {
+      "title": "Iron",
+      "url": "https://medlineplus.gov/iron.html",
+      "id": "5542"
+    },
+    {
+      "title": "Nutrition",
+      "url": "https://medlineplus.gov/nutrition.html",
+      "id": "36"
+    },
+    {
+      "title": "Potassium",
+      "url": "https://medlineplus.gov/potassium.html",
+      "id": "5949"
+    },
+    {
+      "title": "Sodium",
+      "url": "https://medlineplus.gov/sodium.html",
+      "id": "3666"
+    },
+    {
+      "title": "Vitamins",
+      "url": "https://medlineplus.gov/vitamins.html",
+      "id": "456"
+    }
+  ],
+  "see_references": [
+    "Chromium",
+    "Copper",
+    "Magnesium",
+    "Phosphorus",
+    "Selenium",
+    "Zinc"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Dietary Supplements",
+      "url": "https://ods.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Minerals",
+      "id": "D008903"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/minerals.html"
+}

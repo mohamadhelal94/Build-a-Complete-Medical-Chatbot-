@@ -1,0 +1,49 @@
+{
+  "id": "2241",
+  "title": "Salud de los adolescentes",
+  "language": "Spanish",
+  "date_created": "08/19/2002",
+  "meta_description": "La adolescencia es una época de muchos cambios, sobre todo en la imagen corporal. Entérese sobre  hábitos saludables y prevención de enfermedades.",
+  "summary": "En la adolescencia pasas por muchos cambios. Tu cuerpo está en camino para alcanzar su tamaño adulto. Puedes notar que no te entran tus zapatos viejos o que los pantalones te quedan siete centímetros más cortos. Además de estos cambios, probablemente te estás haciendo más independiente y tomando más decisiones propias. Algunas de las decisiones más importantes que enfrentas se relacionan con tu salud. Los hábitos saludables, incluyendo una alimentación nutritiva y la actividad física, pueden ayudarte a sentirte bien, verte bien y a esforzarte en la escuela, el trabajo o los deportes. También pueden prevenir enfermedades como la diabetes, la hipertensión arterial, las enfermedades cardiacas, la osteoporosis, los derrames cerebrales y algunos cánceres cuando seas mayor.",
+  "synonyms": [
+    "Salud del adolescente"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Grupos especiales"
+  ],
+  "related_topics": [
+    {
+      "title": "Desarrollo del adolescente",
+      "url": "https://medlineplus.gov/spanish/teendevelopment.html",
+      "id": "2185"
+    },
+    {
+      "title": "Embarazo de adolescentes",
+      "url": "https://medlineplus.gov/spanish/teenagepregnancy.html",
+      "id": "2189"
+    },
+    {
+      "title": "Salud mental del adolescente",
+      "url": "https://medlineplus.gov/spanish/teenmentalhealth.html",
+      "id": "3638"
+    },
+    {
+      "title": "Salud sexual del adolescente",
+      "url": "https://medlineplus.gov/spanish/teensexualhealth.html",
+      "id": "2186"
+    }
+  ],
+  "see_references": [
+    "Adolescentes, Salud de los"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/teenhealth.html"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3064",
+  "title": "Abscesos",
+  "language": "Spanish",
+  "date_created": "09/15/2010",
+  "meta_description": "Los abscesos se llenan de pus y pueden aparecer en cualquier parte del cuerpo. Pueden ser dolorosos. Entérese sobre los tipos de abscesos y cómo se tratan.",
+  "summary": "Un absceso es una cavidad donde se acumula pus. Se puede tener abscesos en casi cualquier parte del cuerpo. Cuando un área se infecta, el sistema inmunitario intenta combatir la infección. Los glóbulos blancos se dirigen hacia el área infectada, se acumulan dentro del tejido lesionado y causan inflamación. Durante este proceso se forma el pus. El pus es una mezcla de células sanguíneas blancas, gérmenes y tejido muerto. Las bacterias, los virus, los parásitos y objetos ingeridos pueden causar la formación de abscesos. Los abscesos en la piel son fáciles de detectar porque son zonas enrojecidas, hinchadas y dolorosas. Los que se encuentran dentro del cuerpo pueden quizá no ser obvios y pueden lesionar órganos, incluso el cerebro, los pulmones y otros. Los tratamientos incluyen drenarlos y tomar antibióticos.",
+  "synonyms": [],
+  "groups": [
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades infecciosas",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html",
+      "id": "1977"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/abscess.html"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3694",
+  "title": "Problemas de audición en niños",
+  "language": "Spanish",
+  "date_created": "02/20/2004",
+  "meta_description": "Si su niño tiene un problema de audición, es importante considerar el uso de audífonos y otras opciones de comunicación. Más sobre tipos de problemas aquí.",
+  "summary": "La mayoría de los niños puede oír desde el momento del nacimiento. Aprenden a hablar por imitación de los sonidos que escuchan a su alrededor y de las voces de sus padres y las personas que los cuidan. Pero aproximadamente dos o tres de cada 1.000 niños en los Estados Unidos nacen sordos o con dificultades auditivas. Otros pierden la audición más tarde durante la niñez. Los bebés deben someterse a pruebas auditivas antes de cumplir un mes de edad. Si su niño tiene un problema de audición, es importante considerar el uso de audífonos y otras opciones de comunicación antes de los seis meses de edad. Esto es porque los niños comienzan a aprender el lenguaje mucho antes de hablar. Los problemas auditivos pueden ser temporales o permanentes. Algunas veces, las infecciones de oído , las lesiones o las enfermedades pueden afectar el oído mismo. Si su hijo no oye bien, busque ayuda . NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+  "synonyms": [
+    "Problemas para oír en niños"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Audífonos",
+      "url": "https://medlineplus.gov/spanish/hearingaids.html",
+      "id": "5217"
+    },
+    {
+      "title": "Implantes cocleares",
+      "url": "https://medlineplus.gov/spanish/cochlearimplants.html",
+      "id": "5215"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    },
+    {
+      "title": "Tecnología asistencial",
+      "url": "https://medlineplus.gov/spanish/assistivedevices.html",
+      "id": "3137"
+    }
+  ],
+  "see_references": [
+    "Audición en niños, Problemas",
+    "Chicos, Problemas de audición"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hearingproblemsinchildren.html"
+}

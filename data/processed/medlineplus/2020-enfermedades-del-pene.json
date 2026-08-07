@@ -1,0 +1,57 @@
+{
+  "id": "2020",
+  "title": "Enfermedades del pene",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Los problemas en el pene pueden causar dolor y afectar el funcionamiento sexual y la fertilidad en los hombres. Siga informándose aquí.",
+  "summary": "Los problemas en el pene pueden causar dolor y afectar el funcionamiento sexual y la fertilidad en los hombres. Las enfermedades del pene incluyen: Disfunción eréctil : incapacidad para lograr o mantener una erección Priapismo: erección dolorosa que no desaparece Enfermedad de Peyronie: curvatura en el pene durante la erección debido a una masa dura denominada placa Balanitis: inflamación de la piel que recubre la cabeza del pene, con mayor frecuencia en hombres y niños que no han sido circuncidados Cáncer de pene: una forma rara de cáncer, con muchas posibilidades de curación cuando se detecta con anticipación",
+  "synonyms": [
+    "Enfermedades peneales"
+  ],
+  "groups": [
+    "Hombres",
+    "Asuntos de salud sexual",
+    "Sistema reproductor masculino"
+  ],
+  "related_topics": [
+    {
+      "title": "Circuncisión",
+      "url": "https://medlineplus.gov/spanish/circumcision.html",
+      "id": "1823"
+    },
+    {
+      "title": "Cáncer de testículo",
+      "url": "https://medlineplus.gov/spanish/testicularcancer.html",
+      "id": "2191"
+    },
+    {
+      "title": "Disfunción eréctil",
+      "url": "https://medlineplus.gov/spanish/erectiledysfunction.html",
+      "id": "1972"
+    },
+    {
+      "title": "Enfermedades de los testículos",
+      "url": "https://medlineplus.gov/spanish/testiculardisorders.html",
+      "id": "4281"
+    }
+  ],
+  "see_references": [
+    "Epispadia",
+    "Genitales masculinos, Enfermedades de los",
+    "Parafimosis",
+    "Pene, Cáncer",
+    "Pene, Enfermedades del",
+    "Pene, Trauma",
+    "Peneales, Enfermedades",
+    "Peyronie, Enfermedad"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/penisdisorders.html"
+}

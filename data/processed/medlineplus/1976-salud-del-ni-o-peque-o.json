@@ -1,0 +1,55 @@
+{
+  "id": "1976",
+  "title": "Salud del niño pequeño",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Entérese sobre la salud del niño pequeño, como problemas comunes, síntomas de enfermedad y qué esperar de los chequeos médicos de rutina.",
+  "summary": "La mayoría de los niños se enferma. Es difícil para los padres saber qué se considera serio. Usted puede aprender a reconocer los signos más comunes de advertencia. Al final, confíe en su intuición. Si está preocupada por su bebé, llame inmediatamente a un profesional de la salud. Las consultas de control de niños sanos son importantes para la salud de su bebé. Un recién nacido normalmente necesita ser atendido por el pediatra mensualmente. A medida que el niño se acerca a su primer cumpleaños, la mayoría no necesita ir con tanta frecuencia. Los bebés recibirán las vacunas durante estas visitas. Los exámenes y las exploraciones de rutina ayudan a sus hijos a prevenir y tratar problemas de salud, así como a tabular su crecimiento y desarrollo .",
+  "synonyms": [
+    "Salud del niño de 1 a 5 años",
+    "Salud del niño que comienza a caminar"
+  ],
+  "groups": [
+    "Niños y adolescentes"
+  ],
+  "related_topics": [
+    {
+      "title": "Cuidado del recién nacido y del bebé",
+      "url": "https://medlineplus.gov/spanish/infantandnewborncare.html",
+      "id": "1974"
+    },
+    {
+      "title": "Desarrollo del bebé y del recién nacido",
+      "url": "https://medlineplus.gov/spanish/infantandnewborndevelopment.html",
+      "id": "1975"
+    },
+    {
+      "title": "Desarrollo del niño pequeño",
+      "url": "https://medlineplus.gov/spanish/toddlerdevelopment.html",
+      "id": "5425"
+    },
+    {
+      "title": "Nutrición del niño pequeño",
+      "url": "https://medlineplus.gov/spanish/toddlernutrition.html",
+      "id": "5423"
+    },
+    {
+      "title": "Vacunas para los niños",
+      "url": "https://medlineplus.gov/spanish/childhoodvaccines.html",
+      "id": "1814"
+    }
+  ],
+  "see_references": [
+    "Bebés y niños, Salud de los",
+    "Niños y bebés, Salud de los"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/toddlerhealth.html"
+}

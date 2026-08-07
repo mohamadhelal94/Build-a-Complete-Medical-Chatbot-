@@ -1,0 +1,60 @@
+{
+  "id": "6033",
+  "title": "Bad Breath",
+  "language": "English",
+  "date_created": "08/06/2012",
+  "meta_description": "There are many reasons why you might have bad breath (also known as halitosis) including a lack of dental hygiene. Learn about how you can prevent it.",
+  "summary": "There are many reasons why you might have bad breath. You can get it if you don't brush and floss regularly. Bacteria that build up in your mouth and between your teeth produce the bad odor. Other problems in your mouth, such as gum disease , dry mouth , or cavities , may also cause it. Sinusitis or problems with your nose may be to blame. You can also have bad breath if you eat some foods, like raw onions, garlic, or cabbage. And of course smoking causes its own bad smell. Some diseases and medicines can cause a specific breath odor. Having good dental habits , like brushing and flossing regularly, help fight bad breath. Mouthwashes, mints or chewing gum may make your breath fresher. If you have a disease that causes the bad breath, treating the disease may help give you fresher breath.",
+  "synonyms": [
+    "Halitosis"
+  ],
+  "groups": [
+    "Mouth and Teeth",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Child Dental Health",
+      "url": "https://medlineplus.gov/childdentalhealth.html",
+      "id": "1535"
+    },
+    {
+      "title": "Dental Health",
+      "url": "https://medlineplus.gov/dentalhealth.html",
+      "id": "28"
+    },
+    {
+      "title": "Dry Mouth",
+      "url": "https://medlineplus.gov/drymouth.html",
+      "id": "5798"
+    },
+    {
+      "title": "Gum Disease",
+      "url": "https://medlineplus.gov/gumdisease.html",
+      "id": "266"
+    },
+    {
+      "title": "Sinusitis",
+      "url": "https://medlineplus.gov/sinusitis.html",
+      "id": "404"
+    }
+  ],
+  "see_references": [
+    "Breath Odor",
+    "Halitosis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Dental and Craniofacial Research",
+      "url": "http://www.nidcr.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Halitosis",
+      "id": "D006209"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/badbreath.html"
+}

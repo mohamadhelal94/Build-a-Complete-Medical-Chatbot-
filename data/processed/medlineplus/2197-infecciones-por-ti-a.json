@@ -1,0 +1,35 @@
+{
+  "id": "2197",
+  "title": "Infecciones por tiña",
+  "language": "Spanish",
+  "date_created": "07/29/2003",
+  "meta_description": "La tiña se refiere a un grupo de enfermedades de la piel por hongos. Algunos casos pueden tratarse con medicinas sin receta médica y otros con receta.",
+  "summary": "La tiña es el nombre de un grupo de enfermedades causada por un hongo. Los tipos de tiña incluyen la tiña en el cuerpo, pie de atleta y la tiña con picazón. Estas infecciones no suelen ser serias, pero pueden ser incómodas. Se pueden adquirir por tocar a una persona infectada, superficies húmedas como pisos de duchas o incluso de una mascota. Los síntomas dependen del área del cuerpo que esté afectada: La tiña en el cuerpo es un anillo rojo que se forma alrededor de un área de piel normal La tiña en el cuero cabelludo causa parches rojos y picazón en la cabeza. Puede dejar áreas sin cabello. Suele afectar a los niños El pie de atleta provoca picazón, ardor y piel agrietada entre los dedos del pie La tiña inguinal causa una lesión cutánea con picazón y ardor en el área de la ingle Las cremas y los polvos que se venden sin receta médica resolverán muchas infecciones por tiña, especialmente el pie de atleta y la tiña con picazón. Otros casos necesitan medicamentos con receta médica.",
+  "synonyms": [],
+  "groups": [
+    "Infecciones",
+    "Piel, cabello y uñas"
+  ],
+  "related_topics": [
+    {
+      "title": "Infecciones por hongos",
+      "url": "https://medlineplus.gov/spanish/fungalinfections.html",
+      "id": "1914"
+    },
+    {
+      "title": "Pie de atleta",
+      "url": "https://medlineplus.gov/spanish/athletesfoot.html",
+      "id": "1761"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/tineainfections.html"
+}

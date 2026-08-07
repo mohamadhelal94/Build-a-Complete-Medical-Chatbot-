@@ -1,0 +1,85 @@
+{
+  "id": "204",
+  "title": "Hearing Disorders and Deafness",
+  "language": "English",
+  "date_created": "03/19/1999",
+  "meta_description": "Hearing loss can be caused by trauma, diseases, long term exposure to loud noise and other factors. Learn about the two types of hearing loss.",
+  "summary": "It's frustrating to be unable to hear well enough to enjoy talking with friends or family. Hearing disorders make it hard, but not impossible, to hear. They can often be helped. Deafness can keep you from hearing sound at all. What causes hearing loss? Some possibilities are: Heredity Diseases such as ear infections and meningitis Trauma Certain medicines Long-term exposure to loud noise Aging There are two main types of hearing loss. One happens when your inner ear or auditory nerve is damaged. This type is usually permanent. The other kind happens when sound waves cannot reach your inner ear. Earwax buildup, fluid, or a punctured eardrum can cause it. Treatment or surgery can often reverse this kind of hearing loss. Untreated, hearing problems can get worse. If you have trouble hearing, you can get help. Possible treatments include hearing aids , cochlear implants , special training, certain medicines, and surgery. NIH: National Institute on Deafness and Other Communication Disorders",
+  "synonyms": [
+    "Hearing loss",
+    "Presbycusis"
+  ],
+  "groups": [
+    "Older Adults",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Assistive Devices",
+      "url": "https://medlineplus.gov/assistivedevices.html",
+      "id": "3136"
+    },
+    {
+      "title": "Barotrauma",
+      "url": "https://medlineplus.gov/barotrauma.html",
+      "id": "6095"
+    },
+    {
+      "title": "Cochlear Implants",
+      "url": "https://medlineplus.gov/cochlearimplants.html",
+      "id": "5214"
+    },
+    {
+      "title": "Hearing Aids",
+      "url": "https://medlineplus.gov/hearingaids.html",
+      "id": "5216"
+    },
+    {
+      "title": "Hearing Problems in Children",
+      "url": "https://medlineplus.gov/hearingproblemsinchildren.html",
+      "id": "3693"
+    },
+    {
+      "title": "Meniere's Disease",
+      "url": "https://medlineplus.gov/menieresdisease.html",
+      "id": "1674"
+    },
+    {
+      "title": "Noise",
+      "url": "https://medlineplus.gov/noise.html",
+      "id": "500"
+    },
+    {
+      "title": "Speech and Communication Disorders",
+      "url": "https://medlineplus.gov/speechandcommunicationdisorders.html",
+      "id": "409"
+    },
+    {
+      "title": "Tinnitus",
+      "url": "https://medlineplus.gov/tinnitus.html",
+      "id": "1236"
+    }
+  ],
+  "see_references": [
+    "Deafness",
+    "Presbycusis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Deafness and Other Communication Disorders",
+      "url": "https://www.nidcd.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hearing Disorders",
+      "id": "D006311"
+    },
+    {
+      "name": "Deafness",
+      "id": "D003638"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hearingdisordersanddeafness.html"
+}

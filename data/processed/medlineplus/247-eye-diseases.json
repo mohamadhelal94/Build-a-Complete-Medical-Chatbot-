@@ -1,0 +1,137 @@
+{
+  "id": "247",
+  "title": "Eye Diseases",
+  "language": "English",
+  "date_created": "03/15/1999",
+  "meta_description": "Some eye problems are minor and go away. Others can cause vision loss. Learn about diseases of the eye, including symptoms, diagnosis, and treatment.",
+  "summary": "What diseases can affect the eye? Even if your eyes feel healthy, you could have a problem and not know it. That's why regular eye exams are so important. Refractive errors are the most common type of vision problem that makes it hard to see clearly. But some eye conditions or diseases don't have any symptoms and can lead to a permanent loss of vision . Some common eye diseases and conditions include: Cataracts , which happens when the clear lens in the front of your eye becomes cloudy. Cataracts are common as you get older and can lead to vision loss. Optic nerve disorders , which includes glaucoma . Glaucoma usually happens when the fluid pressure inside your eyes slowly rises. Retinal disorders , which are problems with the nerve layer at the back of your eye. Macular degeneration , which is a disease that destroys your sharp, central vision. Diabetic eye problems , which can cause vision loss and blindness. Conjunctivitis , which is an infection also known as pink eye . It can cause pink or red itchy eyes. Some types of pink eye can spread very easily. What are the symptoms of eye diseases? Some eye conditions and diseases do not always have symptoms. Early detection through a comprehensive dilated eye exam could help your eye care provider detect diseases in the early stages. Proper treatment could help slow or prevent vision loss. Get regular eye exams and call your eye care professional right away if you notice any of these symptoms: A sudden change in vision Everything looks dim Flashes of light Eye pain Double vision Fluid coming from your eye Inflammation (swelling) Who is more likely to develop eye diseases? Getting older increases your risk of some eye diseases. Other things that may put you at a higher risk of some eye diseases can include if you: Are overweight or obese Have a family history of eye disease Are African American, Hispanic, or Native American Have certain health conditions such as Diabetic eye problems , or high blood pressure What are the treatments for eye diseases? Treatment may depend on the eye condition or disease but can include: A new prescription for eyeglasses or contacts Use of bright lights or magnifying lenses for reading and other activities Medicines Prescription eye drops or ointments Laser treatment Surgery Depending on your eye condition or disease, treatment may slow vision loss but may not restore vision. Talk to your provider about what treatment is best for you. Can eye diseases be prevented? Your best defense is to have regular checkups. Be sure to tell your provider if any eye diseases run in your family. You can also help take care of your vision by making lifestyle changes to lower your risk of health conditions that can cause vision problems. This could include by: Protecting your eyes from the sun Wearing protective eyewear while using tools or playing certain sports Getting regular physical activity Staying at a healthy weight Quitting smoking (or not starting) Eating a healthy diet NIH: National Eye Institute",
+  "synonyms": [],
+  "groups": [
+    "Eyes and Vision"
+  ],
+  "related_topics": [
+    {
+      "title": "Amblyopia",
+      "url": "https://medlineplus.gov/amblyopia.html",
+      "id": "6189"
+    },
+    {
+      "title": "Cataract",
+      "url": "https://medlineplus.gov/cataract.html",
+      "id": "116"
+    },
+    {
+      "title": "Color Blindness",
+      "url": "https://medlineplus.gov/colorblindness.html",
+      "id": "4400"
+    },
+    {
+      "title": "Corneal Disorders",
+      "url": "https://medlineplus.gov/cornealdisorders.html",
+      "id": "5532"
+    },
+    {
+      "title": "Diabetic Eye Problems",
+      "url": "https://medlineplus.gov/diabeticeyeproblems.html",
+      "id": "1340"
+    },
+    {
+      "title": "Eye Cancer",
+      "url": "https://medlineplus.gov/eyecancer.html",
+      "id": "491"
+    },
+    {
+      "title": "Eye Care",
+      "url": "https://medlineplus.gov/eyecare.html",
+      "id": "6425"
+    },
+    {
+      "title": "Eye Infections",
+      "url": "https://medlineplus.gov/eyeinfections.html",
+      "id": "4398"
+    },
+    {
+      "title": "Eye Injuries",
+      "url": "https://medlineplus.gov/eyeinjuries.html",
+      "id": "492"
+    },
+    {
+      "title": "Eye Movement Disorders",
+      "url": "https://medlineplus.gov/eyemovementdisorders.html",
+      "id": "5873"
+    },
+    {
+      "title": "Eyelid Disorders",
+      "url": "https://medlineplus.gov/eyeliddisorders.html",
+      "id": "5404"
+    },
+    {
+      "title": "Eyewear",
+      "url": "https://medlineplus.gov/eyewear.html",
+      "id": "201"
+    },
+    {
+      "title": "Glaucoma",
+      "url": "https://medlineplus.gov/glaucoma.html",
+      "id": "42"
+    },
+    {
+      "title": "Macular Degeneration",
+      "url": "https://medlineplus.gov/maculardegeneration.html",
+      "id": "313"
+    },
+    {
+      "title": "Optic Nerve Disorders",
+      "url": "https://medlineplus.gov/opticnervedisorders.html",
+      "id": "6427"
+    },
+    {
+      "title": "Pink Eye",
+      "url": "https://medlineplus.gov/pinkeye.html",
+      "id": "4946"
+    },
+    {
+      "title": "Refractive Errors",
+      "url": "https://medlineplus.gov/refractiveerrors.html",
+      "id": "946"
+    },
+    {
+      "title": "Retinal Detachment",
+      "url": "https://medlineplus.gov/retinaldetachment.html",
+      "id": "6141"
+    },
+    {
+      "title": "Retinal Disorders",
+      "url": "https://medlineplus.gov/retinaldisorders.html",
+      "id": "1681"
+    },
+    {
+      "title": "Tears",
+      "url": "https://medlineplus.gov/tears.html",
+      "id": "5410"
+    },
+    {
+      "title": "Vision Impairment and Blindness",
+      "url": "https://medlineplus.gov/visionimpairmentandblindness.html",
+      "id": "165"
+    }
+  ],
+  "see_references": [
+    "Ophthalmology",
+    "Pinguecula"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Eye Diseases",
+      "id": "D005128"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/eyediseases.html"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3303",
+  "title": "Cirugías para la obesidad",
+  "language": "Spanish",
+  "date_created": "12/15/2006",
+  "meta_description": "La cirugía para adelgazar ayuda a personas obesas para bajar de peso. Entérese sobre los diferentes tipos de cirugía para bajar de peso.",
+  "summary": "La cirugía para adelgazar ayuda a las personas con obesidad extrema para bajar de peso. Puede ser una opción si usted no puede perder peso a través de la dieta y el ejercicio o tiene graves problemas de salud causados por la obesidad. Hay diferentes tipos de cirugía de pérdida de peso. Ellas suelen limitar la cantidad de alimentos que usted puede ingerir. Algunos tipos de cirugía también afectan cómo se digieren los alimentos y se absorben nutrientes. Todos los tipos tienen riesgos y complicaciones, tales como infecciones, hernias y coágulos de sangre. Muchas personas que se someten a la cirugía pierden peso rápidamente, pero recuperan algo del peso más adelante. Si usted sigue las recomendaciones de dieta y ejercicio, puede mantener la mayor parte de la pérdida del peso. Usted también necesitará un seguimiento médico durante el resto de su vida. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Bypass gástrico",
+    "Cirugía bariátrica",
+    "Cirugía para adelgazar",
+    "Cirugía para bajar de peso",
+    "Derivación gástrica"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Cirugía y rehabilitación",
+    "Problemas del metabolismo"
+  ],
+  "related_topics": [
+    {
+      "title": "Control de peso",
+      "url": "https://medlineplus.gov/spanish/weightcontrol.html",
+      "id": "2227"
+    },
+    {
+      "title": "Obesidad",
+      "url": "https://medlineplus.gov/spanish/obesity.html",
+      "id": "2059"
+    }
+  ],
+  "see_references": [
+    "Bajar peso, Cirugía"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/weightlosssurgery.html"
+}

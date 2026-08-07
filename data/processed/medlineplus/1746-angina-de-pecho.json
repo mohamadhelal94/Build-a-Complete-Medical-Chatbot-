@@ -1,0 +1,45 @@
+{
+  "id": "1746",
+  "title": "Angina de pecho",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La angina de pecho es dolor o molestia cuando no hay suficiente flujo de sangre al corazón. Síntomas y tratamiento de la angina de pecho.",
+  "summary": "La angina es un dolor o molestia en el pecho que se siente cuando no hay suficiente irrigación sanguínea al músculo cardiaco. Este músculo cardiaco necesita el oxigeno que transporta la sangre. La angina puede sentirse como una presión o un dolor opresivo en el pecho. Puede parecerse a una indigestión. También puede haber dolor en los hombros, los brazos, el cuello, la mandíbula o la espalda. La angina es un síntoma de la enfermedad de las arterias coronarias , la enfermedad cardiaca más común. Esta ocurre cuando una sustancia llamada placa se acumula en las arterias que llevan la sangre al corazón, reduciendo el flujo sanguíneo. Hay tres tipos de angina: Angina estable es la más común. Ocurre cuando el corazón trabaja más fuerte que lo usual. La angina estable tiene un patrón regular. Se trata con descanso y medicinas. Angina inestable es la más peligrosa. No sigue un patrón y puede ocurrir sin hacer algún esfuerzo físico. No desaparece espontáneamente con el reposo o las medicinas. Es una señal de que podría ocurrir un infarto luego. La angina variable es la menos común. Ocurre cuando está descansando. Se trata con medicinas. No todas las molestias o los dolores en el pecho son angina. Si se le presenta un dolor torácico, debe consultar a un profesional de la salud. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [],
+  "groups": [
+    "Personas mayores",
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Ataque al corazón",
+      "url": "https://medlineplus.gov/spanish/heartattack.html",
+      "id": "1940"
+    },
+    {
+      "title": "Dolor de pecho",
+      "url": "https://medlineplus.gov/spanish/chestpain.html",
+      "id": "4745"
+    },
+    {
+      "title": "Enfermedad de las arterias coronarias",
+      "url": "https://medlineplus.gov/spanish/coronaryarterydisease.html",
+      "id": "1837"
+    },
+    {
+      "title": "Rehabilitación cardíaca",
+      "url": "https://medlineplus.gov/spanish/cardiacrehabilitation.html",
+      "id": "5618"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/angina.html"
+}

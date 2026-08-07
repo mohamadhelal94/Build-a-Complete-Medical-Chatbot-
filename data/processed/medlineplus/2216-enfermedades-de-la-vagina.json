@@ -1,0 +1,55 @@
+{
+  "id": "2216",
+  "title": "Enfermedades de la vagina",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Infórmese sobre tipos de enfermedades vaginales, síntomas, diagnóstico, tratamientos y más aquí.",
+  "summary": "Los problemas de la vagina son una de las causas más comunes de las visitas de las mujeres a los médicos. Pueden presentar síntomas como: Picazón Ardor Dolor Sangrado anormal Secreción Un problema común es la vaginitis , la inflamación de la vagina. Otros problemas de la vagina incluyen infecciones de transmisión sexual (ITS), cáncer vaginal y el cáncer de la vulva . El tratamiento de las enfermedades de la vagina depende de la causa.",
+  "synonyms": [
+    "Enfermedades vaginales"
+  ],
+  "groups": [
+    "Mujeres",
+    "Sistema reproductor femenino"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de vagina",
+      "url": "https://medlineplus.gov/spanish/vaginalcancer.html",
+      "id": "2244"
+    },
+    {
+      "title": "Cáncer de vulva",
+      "url": "https://medlineplus.gov/spanish/vulvarcancer.html",
+      "id": "2275"
+    },
+    {
+      "title": "Enfermedades de la vulva",
+      "url": "https://medlineplus.gov/spanish/vulvardisorders.html",
+      "id": "4551"
+    },
+    {
+      "title": "Infecciones de transmisión sexual",
+      "url": "https://medlineplus.gov/spanish/sexuallytransmittedinfections.html",
+      "id": "2144"
+    },
+    {
+      "title": "Infecciones por cándida",
+      "url": "https://medlineplus.gov/spanish/yeastinfections.html",
+      "id": "1796"
+    },
+    {
+      "title": "Sangrado vaginal",
+      "url": "https://medlineplus.gov/spanish/vaginalbleeding.html",
+      "id": "4876"
+    }
+  ],
+  "see_references": [
+    "Vagina, Enfermedades de la",
+    "Vagina, Infecciones"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/vaginaldiseases.html"
+}

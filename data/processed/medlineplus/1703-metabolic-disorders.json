@@ -1,0 +1,102 @@
+{
+  "id": "1703",
+  "title": "Metabolic Disorders",
+  "language": "English",
+  "date_created": "08/08/2002",
+  "meta_description": "Your metabolism makes energy from the food you eat. A metabolic disorder disrupts this process. One example is diabetes. Learn more.",
+  "summary": "Metabolism is the process your body uses to get or make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues, such as your liver, muscles, and body fat. A metabolic disorder occurs when abnormal chemical reactions in your body disrupt this process. When this happens, you might have too much of some substances or too little of other ones that you need to stay healthy. There are different groups of disorders. Some affect the breakdown of amino acids , carbohydrates , or lipids . Another group, mitochondrial diseases , affects the parts of the cells that produce the energy. You can develop a metabolic disorder when some organs, such as your liver or pancreas, become diseased or do not function normally. Diabetes is an example.",
+  "synonyms": [],
+  "groups": [
+    "Genetics/Birth Defects",
+    "Metabolic Problems"
+  ],
+  "related_topics": [
+    {
+      "title": "Amino Acid Metabolism Disorders",
+      "url": "https://medlineplus.gov/aminoacidmetabolismdisorders.html",
+      "id": "6385"
+    },
+    {
+      "title": "Amyloidosis",
+      "url": "https://medlineplus.gov/amyloidosis.html",
+      "id": "5273"
+    },
+    {
+      "title": "Carbohydrate Metabolism Disorders",
+      "url": "https://medlineplus.gov/carbohydratemetabolismdisorders.html",
+      "id": "6389"
+    },
+    {
+      "title": "G6PD Deficiency",
+      "url": "https://medlineplus.gov/g6pddeficiency.html",
+      "id": "6155"
+    },
+    {
+      "title": "Gaucher Disease",
+      "url": "https://medlineplus.gov/gaucherdisease.html",
+      "id": "1523"
+    },
+    {
+      "title": "Genetic Brain Disorders",
+      "url": "https://medlineplus.gov/geneticbraindisorders.html",
+      "id": "3117"
+    },
+    {
+      "title": "Hemochromatosis",
+      "url": "https://medlineplus.gov/hemochromatosis.html",
+      "id": "1220"
+    },
+    {
+      "title": "Lipid Metabolism Disorders",
+      "url": "https://medlineplus.gov/lipidmetabolismdisorders.html",
+      "id": "6387"
+    },
+    {
+      "title": "Malabsorption Syndromes",
+      "url": "https://medlineplus.gov/malabsorptionsyndromes.html",
+      "id": "5459"
+    },
+    {
+      "title": "Mitochondrial Diseases",
+      "url": "https://medlineplus.gov/mitochondrialdiseases.html",
+      "id": "6391"
+    },
+    {
+      "title": "Phenylketonuria",
+      "url": "https://medlineplus.gov/phenylketonuria.html",
+      "id": "1231"
+    },
+    {
+      "title": "Porphyria",
+      "url": "https://medlineplus.gov/porphyria.html",
+      "id": "1249"
+    },
+    {
+      "title": "Rickets",
+      "url": "https://medlineplus.gov/rickets.html",
+      "id": "3898"
+    },
+    {
+      "title": "Wilson Disease",
+      "url": "https://medlineplus.gov/wilsondisease.html",
+      "id": "1691"
+    }
+  ],
+  "see_references": [
+    "Mucolipidoses"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Metabolic Diseases",
+      "id": "D008659"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/metabolicdisorders.html"
+}

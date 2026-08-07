@@ -1,0 +1,36 @@
+{
+  "id": "5350",
+  "title": "Ureteral Disorders",
+  "language": "English",
+  "date_created": "01/06/2010",
+  "meta_description": "Ureteral disorders occur when ureters become blocked or injured, which affect the flow of urine to the bladder. Read more about the ureter function",
+  "summary": "Your kidneys make urine by filtering wastes and extra water from your blood. The urine travels from the kidneys to the bladder in two thin tubes called ureters. The ureters are about 8 to 10 inches long. Muscles in the ureter walls tighten and relax to force urine down and away from the kidneys. Small amounts of urine flow from the ureters into the bladder about every 10 to 15 seconds. Sometimes the ureters can become blocked or injured. This can block the flow of urine to the bladder. If urine stands still or backs up the ureter, you may get a urinary tract infection . Doctors diagnose problems with the ureters using different tests. These include urine tests, x-rays, and examination of the ureter with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery. NIH: National Institute of Diabetes and Digestive and Kidney Diseases",
+  "synonyms": [],
+  "groups": [
+    "Kidneys and Urinary System"
+  ],
+  "related_topics": [
+    {
+      "title": "Bladder Diseases",
+      "url": "https://medlineplus.gov/bladderdiseases.html",
+      "id": "164"
+    }
+  ],
+  "see_references": [
+    "Ureteral Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ureteral Diseases",
+      "id": "D014515"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/ureteraldisorders.html"
+}

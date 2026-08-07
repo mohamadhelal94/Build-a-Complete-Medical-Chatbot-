@@ -1,0 +1,40 @@
+{
+  "id": "1382",
+  "title": "Polymyalgia Rheumatica",
+  "language": "English",
+  "date_created": "11/16/2000",
+  "meta_description": "Polymyalgia rheumatica (PMR) is a disorder that causes muscle pain and stiffness in your neck, shoulders and hips. Read about diagnosis and treatment.",
+  "summary": "Polymyalgia rheumatica is a disorder that causes muscle pain and stiffness in your neck, shoulders, and hips. It is most common in women and almost always occurs in people over 50. The main symptom is stiffness after resting. Other symptoms include fever , weakness and weight loss. In some cases, polymyalgia rheumatica develops overnight. In others, it is gradual. The cause of polymyalgia rheumatica is unknown. There is no specific test for it. Your doctor will use your medical history, symptoms, and a physical exam to make the diagnosis. Lab tests for inflammation may help confirm the diagnosis. Polymyalgia rheumatica sometimes occurs along with giant cell arteritis , a condition that causes swelling of the arteries in your head. Symptoms include headaches and blurred vision. Doctors often prescribe prednisone, a steroid medicine, for both conditions. With treatment, polymyalgia rheumatica usually disappears in a day or two. Without treatment, it usually goes away after a year or more. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Giant Cell Arteritis",
+      "url": "https://medlineplus.gov/giantcellarteritis.html",
+      "id": "5615"
+    },
+    {
+      "title": "Vasculitis",
+      "url": "https://medlineplus.gov/vasculitis.html",
+      "id": "1424"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Polymyalgia Rheumatica",
+      "id": "D011111"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/polymyalgiarheumatica.html"
+}

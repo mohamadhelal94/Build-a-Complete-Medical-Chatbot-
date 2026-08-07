@@ -1,0 +1,57 @@
+{
+  "id": "4550",
+  "title": "Vulvar Disorders",
+  "language": "English",
+  "date_created": "11/13/2007",
+  "meta_description": "Vulvar disorders are conditions that affect the health of a woman's genitals such as pain, skin conditions, infections or cancer. Find out more.",
+  "summary": "The vulva is the external part of a woman's genitals. Some problems you can have with the vulvar area include: Vaginitis or vulvovaginitis, swelling or infection of the vulva and vagina Skin problems due to allergy Vulvar cancer Vulvodynia, or vulvar pain Symptoms may include redness, itching, pain, or cracks in the skin. Treatment depends on the cause.",
+  "synonyms": [],
+  "groups": [
+    "Women",
+    "Female Reproductive System"
+  ],
+  "related_topics": [
+    {
+      "title": "Sexually Transmitted Infections",
+      "url": "https://medlineplus.gov/sexuallytransmittedinfections.html",
+      "id": "400"
+    },
+    {
+      "title": "Vaginal Diseases",
+      "url": "https://medlineplus.gov/vaginaldiseases.html",
+      "id": "451"
+    },
+    {
+      "title": "Vaginitis",
+      "url": "https://medlineplus.gov/vaginitis.html",
+      "id": "6417"
+    },
+    {
+      "title": "Vulvar Cancer",
+      "url": "https://medlineplus.gov/vulvarcancer.html",
+      "id": "1701"
+    },
+    {
+      "title": "Yeast Infections",
+      "url": "https://medlineplus.gov/yeastinfections.html",
+      "id": "1255"
+    }
+  ],
+  "see_references": [
+    "Vulvodynia"
+  ],
+  "primary_institutes": [
+    {
+      "name": "NIH Office of Research on Women's Health",
+      "url": "http://orwh.od.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Vulvar Diseases",
+      "id": "D014845"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/vulvardisorders.html"
+}

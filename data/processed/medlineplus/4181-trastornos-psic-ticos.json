@@ -1,0 +1,36 @@
+{
+  "id": "4181",
+  "title": "Trastornos psicóticos",
+  "language": "Spanish",
+  "date_created": "02/03/2006",
+  "meta_description": "Los trastornos psicóticos son problemas mentales graves que causan ideas y percepciones anormales, perdiendo el contacto con la realidad. Síntomas.",
+  "summary": "Los trastornos psicóticos son trastornos mentales graves que causan ideas y percepciones anormales. Las personas con psicosis pierden el contacto con la realidad. Dos de los síntomas principales son delirios y alucinaciones. Los delirios son falsas creencias, tales como la idea de que alguien está en su contra o que la televisión les envía mensajes secretos. Las alucinaciones son percepciones falsas, como escuchar, ver o sentir algo que no existe. La esquizofrenia es un tipo de trastorno psicótico. Quienes sufren de trastorno bipolar también pueden tener síntomas psicóticos. Otros problemas que pueden causar psicosis son: el alcohol y ciertos medicamentos, tumores cerebrales, infecciones del cerebro y un ataque cerebrovascular (ACV). El tratamiento depende de la causa de la psicosis. Puede incluir fármacos para el control de los síntomas y psicoterapia. La hospitalización es una opción para los casos serios en los que una persona puede ser peligrosa para sí misma o para los demás.",
+  "synonyms": [
+    "Psicosis"
+  ],
+  "groups": [
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Esquizofrenia",
+      "url": "https://medlineplus.gov/spanish/schizophrenia.html",
+      "id": "2136"
+    },
+    {
+      "title": "Trastornos mentales",
+      "url": "https://medlineplus.gov/spanish/mentaldisorders.html",
+      "id": "5677"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/psychoticdisorders.html"
+}

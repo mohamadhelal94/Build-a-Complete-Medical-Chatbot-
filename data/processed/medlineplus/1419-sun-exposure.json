@@ -1,0 +1,64 @@
+{
+  "id": "1419",
+  "title": "Sun Exposure",
+  "language": "English",
+  "date_created": "01/25/2001",
+  "meta_description": "Skin cancer is the most common cancer in the U.S. Reduce your risk by staying in the shade and wearing protective clothing, sunglasses, and sunscreen all year.",
+  "summary": "Ultraviolet (UV) rays are an invisible form of radiation. They can pass through your skin and damage your skin cells. Sunburns are a sign of skin damage. Suntans aren't healthy, either. They appear after the sun's rays have already killed some cells and damaged others. UV rays can cause skin damage during any season or at any temperature. They can also cause eye problems, wrinkles , skin spots, and skin cancer . To protect yourself : Stay out of the sun when it is strongest (between 10 a.m. and 2 p.m.) Use sunscreen with an SPF of 15 or higher Wear protective clothing Wear wraparound sunglasses that provide 100% UV ray protection Avoid sunlamps and tanning beds Check your skin regularly for changes in the size, shape, color, or feel of birthmarks, moles, and spots. Such changes are a sign of skin cancer. Food and Drug Administration",
+  "synonyms": [
+    "Sunburn"
+  ],
+  "groups": [
+    "Skin, Hair and Nails"
+  ],
+  "related_topics": [
+    {
+      "title": "Heat Illness",
+      "url": "https://medlineplus.gov/heatillness.html",
+      "id": "280"
+    },
+    {
+      "title": "Melanoma",
+      "url": "https://medlineplus.gov/melanoma.html",
+      "id": "321"
+    },
+    {
+      "title": "Skin Cancer",
+      "url": "https://medlineplus.gov/skincancer.html",
+      "id": "405"
+    },
+    {
+      "title": "Tanning",
+      "url": "https://medlineplus.gov/tanning.html",
+      "id": "6541"
+    }
+  ],
+  "see_references": [
+    "Actinic Keratosis",
+    "Sunburn",
+    "Sunscreen",
+    "Ultraviolet Rays"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Sunscreening Agents",
+      "id": "D013473"
+    },
+    {
+      "name": "Sunbathing",
+      "id": "D055108"
+    },
+    {
+      "name": "Sunburn",
+      "id": "D013471"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/sunexposure.html"
+}

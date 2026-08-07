@@ -1,0 +1,51 @@
+{
+  "id": "2269",
+  "title": "Trombosis venosa profunda",
+  "language": "Spanish",
+  "date_created": "07/29/2003",
+  "meta_description": "La trombosis venosa profunda es un coágulo sanguíneo que se forma en una vena profunda en el cuerpo, como piernas o los muslos. Síntomas y prevención.",
+  "summary": "La trombosis venosa profunda o TVP, es un coágulo sanguíneo que se forma en una vena profunda en el cuerpo. Suele ocurrir en las piernas o los muslos. Si la vena se inflama, esta afección se llama tromboflebitis. Una trombosis venosa profunda, puede desprenderse y causar un problema serio en los pulmones conocido como embolia pulmonar , un infarto o un derrame. Permanecer sentado durante mucho tiempo puede aumentar sus probabilidades de tener una TVP. Algunas medicinas y trastornos que aumentan el riesgo de coágulos sanguíneos también pueden causarle una TVP. Los síntomas comunes son: Calor y dolor por encima de la vena Dolor o inflamación en la parte del cuerpo afectada Enrojecimiento de la piel El tratamiento incluye medicinas para aliviar el dolor y la inflamación, deshacer los coágulos e impedir la formación de coágulos nuevos. Mantener el área afectada elevada y aplicar calor húmedo puede ayudar. Si va a realizar un viaje largo en automóvil o avión, haga pausas para caminar o estirar las piernas e ingiera mucho líquido.",
+  "synonyms": [
+    "Flebitis",
+    "Flebotrombosis",
+    "Tromboflebitis"
+  ],
+  "groups": [
+    "Sangre, corazón y circulación"
+  ],
+  "related_topics": [
+    {
+      "title": "Coágulos sanguíneos",
+      "url": "https://medlineplus.gov/spanish/bloodclots.html",
+      "id": "6077"
+    },
+    {
+      "title": "Embolia pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryembolism.html",
+      "id": "2113"
+    },
+    {
+      "title": "Enfermedad arterial periférica",
+      "url": "https://medlineplus.gov/spanish/peripheralarterialdisease.html",
+      "id": "4084"
+    },
+    {
+      "title": "Problemas circulatorios",
+      "url": "https://medlineplus.gov/spanish/vasculardiseases.html",
+      "id": "1822"
+    }
+  ],
+  "see_references": [
+    "Flebitis",
+    "Tromboflebitis"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/deepveinthrombosis.html"
+}

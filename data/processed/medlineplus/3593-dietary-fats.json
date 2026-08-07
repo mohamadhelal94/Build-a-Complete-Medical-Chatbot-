@@ -1,0 +1,63 @@
+{
+  "id": "3593",
+  "title": "Dietary Fats",
+  "language": "English",
+  "date_created": "09/02/2003",
+  "meta_description": "Fat is not always bad for you. In fact, you need some fat in your diet. Learn about healthy fats and what to avoid.",
+  "summary": "Fat is a type of nutrient. You need some fat in your diet but not too much. Fats give you energy and help your body absorb vitamins. Dietary fat also plays a major role in your cholesterol levels . But not all fats are the same. You should try to avoid: Saturated fats such as butter, solid shortening, and lard Trans fats. These are found in vegetable shortenings, some margarines, crackers, cookies, snack foods, and other foods made with or fried in partially hydrogenated oils (PHOs). By 2018, most U.S. companies will not be allowed to add PHOs to food. Try to replace them with oils such as canola, olive, safflower, sesame, or sunflower. Of course, eating too much fat will put on the pounds. Fat has twice as many calories as proteins or carbohydrates. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "Lipids",
+    "Monounsaturated fat",
+    "Polyunsaturated fat",
+    "Saturated fat"
+  ],
+  "groups": [
+    "Food and Nutrition"
+  ],
+  "related_topics": [
+    {
+      "title": "Cholesterol",
+      "url": "https://medlineplus.gov/cholesterol.html",
+      "id": "26"
+    },
+    {
+      "title": "How to Prevent Heart Disease",
+      "url": "https://medlineplus.gov/howtopreventheartdisease.html",
+      "id": "1598"
+    },
+    {
+      "title": "Lipid Metabolism Disorders",
+      "url": "https://medlineplus.gov/lipidmetabolismdisorders.html",
+      "id": "6387"
+    },
+    {
+      "title": "Nutrition",
+      "url": "https://medlineplus.gov/nutrition.html",
+      "id": "36"
+    },
+    {
+      "title": "Triglycerides",
+      "url": "https://medlineplus.gov/triglycerides.html",
+      "id": "4277"
+    }
+  ],
+  "see_references": [
+    "Fats, Dietary",
+    "Omega-3 Fatty Acids",
+    "Trans Fats"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Dietary Fats",
+      "id": "D004041"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/dietaryfats.html"
+}

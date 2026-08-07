@@ -1,0 +1,37 @@
+{
+  "id": "6355",
+  "title": "Urinalysis",
+  "language": "English",
+  "date_created": "05/05/2016",
+  "meta_description": "A urinalysis is a test of your urine. Doctors use urine tests to find issues including UTI and diabetes. Learn about the test and what it checks for.",
+  "summary": "A urinalysis is a test of your urine . It is often done to check for a urinary tract infection , kidney problems , or diabetes . You may also have one during a checkup, if you are admitted to the hospital, before you have surgery, or if you are pregnant. It can also monitor some medical conditions and treatments. A urinalysis involves checking the urine for: Its color Its appearance (whether it is clear or cloudy) Any odor The pH level (acidity) Whether there are substances that are not normally in urine, such as blood, too much protein, glucose, ketones, and bilirubin Whether there are cells, crystals, and casts (tube-shaped proteins) Whether it contains bacteria or other germs",
+  "synonyms": [
+    "UA",
+    "Urine Analysis",
+    "Urine Test"
+  ],
+  "groups": [
+    "Kidneys and Urinary System",
+    "Diagnostic Tests"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Hematuria",
+    "Proteinuria",
+    "Urine Tests"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "url": "https://www.niddk.nih.gov"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Urinalysis",
+      "id": "D016482"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/urinalysis.html"
+}

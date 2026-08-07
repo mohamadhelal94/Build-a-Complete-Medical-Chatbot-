@@ -1,0 +1,87 @@
+{
+  "id": "21",
+  "title": "Older Adult Health",
+  "language": "English",
+  "date_created": "07/13/1999",
+  "meta_description": "Older adult health deals with changes as we age. Having a healthy lifestyle helps you deal with changes in your body and mind to make the most of life.",
+  "summary": "People in the U.S. are living longer than ever before. Many older adults live active and healthy lives. But there's no getting around one thing: as we age, our bodies and minds change. You need to know what to expect. Some changes may just be part of normal aging, while others may be a warning sign of a medical problem. It is important to know the difference, and to let your health care provider know if you have any concerns. Having a healthy lifestyle can help you to deal with normal aging changes and make the most of your life. This includes healthy eating , regular physical activity , and making mental health a priority.",
+  "synonyms": [],
+  "groups": [
+    "Older Adults",
+    "Population Groups"
+  ],
+  "related_topics": [
+    {
+      "title": "Advance Directives",
+      "url": "https://medlineplus.gov/advancedirectives.html",
+      "id": "4151"
+    },
+    {
+      "title": "Assisted Living",
+      "url": "https://medlineplus.gov/assistedliving.html",
+      "id": "1646"
+    },
+    {
+      "title": "Caregivers",
+      "url": "https://medlineplus.gov/caregivers.html",
+      "id": "610"
+    },
+    {
+      "title": "End of Life Issues",
+      "url": "https://medlineplus.gov/endoflifeissues.html",
+      "id": "496"
+    },
+    {
+      "title": "Exercise for Older Adults",
+      "url": "https://medlineplus.gov/exerciseforolderadults.html",
+      "id": "1530"
+    },
+    {
+      "title": "Healthy Aging",
+      "url": "https://medlineplus.gov/healthyaging.html",
+      "id": "5704"
+    },
+    {
+      "title": "Home Care Services",
+      "url": "https://medlineplus.gov/homecareservices.html",
+      "id": "1659"
+    },
+    {
+      "title": "Medicare",
+      "url": "https://medlineplus.gov/medicare.html",
+      "id": "1257"
+    },
+    {
+      "title": "Nursing Homes",
+      "url": "https://medlineplus.gov/nursinghomes.html",
+      "id": "1354"
+    },
+    {
+      "title": "Nutrition for Older Adults",
+      "url": "https://medlineplus.gov/nutritionforolderadults.html",
+      "id": "1616"
+    },
+    {
+      "title": "Older Adult Mental Health",
+      "url": "https://medlineplus.gov/olderadultmentalhealth.html",
+      "id": "7427"
+    }
+  ],
+  "see_references": [
+    "Aging"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute on Aging",
+      "url": "https://www.nia.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Aging",
+      "id": "D000375"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/olderadulthealth.html"
+}

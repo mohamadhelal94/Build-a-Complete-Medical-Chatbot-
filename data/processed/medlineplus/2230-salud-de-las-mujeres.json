@@ -1,0 +1,62 @@
+{
+  "id": "2230",
+  "title": "Salud de las mujeres",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las mujeres tienen problemas de salud únicos. La atención preventiva y pruebas de detección pueden ayudar a dismunuir el riesgo de ciertas enfermedades, encontrar problemas a tiempo y mejorar resultados",
+  "summary": "Las mujeres tienen problemas de salud únicos. Y algunos de los problemas de salud que afectan a hombres y mujeres pueden afectar a estas últimas de manera diferente. Temas únicos incluyen el embarazo , la menopausia y las afecciones de los órganos femeninos. Las mujeres pueden tener un embarazo saludable si reciben cuidado prenatal temprano y regular. También deben hacerse las pruebas recomendadas para el cáncer de mama, cervical y de densidad ósea . Mujeres y hombres también tienen muchos problemas de salud similares. Sin embargo, estos problemas pueden afectar a las mujeres de manera diferente. Por ejemplo: Las mujeres tienen más probabilidades de morir a causa de un ataque al corazón que los hombres Las mujeres tienen más probabilidades de mostrar signos de depresión y ansiedad que los hombres Los efectos de las infecciones de transmisión sexual (ITS) pueden ser más graves en las mujeres. La osteoartritis afecta más a las mujeres que a los hombres Las mujeres tienen más probabilidades de tener infecciones de las vías urinarias NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano",
+  "synonyms": [],
+  "groups": [
+    "Mujeres",
+    "Grupos especiales"
+  ],
+  "related_topics": [
+    {
+      "title": "Chequeo médico de la mujer",
+      "url": "https://medlineplus.gov/spanish/womenshealthcheckup.html",
+      "id": "5322"
+    },
+    {
+      "title": "Embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancy.html",
+      "id": "2103"
+    },
+    {
+      "title": "Enfermedades del seno",
+      "url": "https://medlineplus.gov/spanish/breastdiseases.html",
+      "id": "1787"
+    },
+    {
+      "title": "Enfermedades del útero",
+      "url": "https://medlineplus.gov/spanish/uterinediseases.html",
+      "id": "2214"
+    },
+    {
+      "title": "Menopausia",
+      "url": "https://medlineplus.gov/spanish/menopause.html",
+      "id": "2032"
+    },
+    {
+      "title": "Problemas sexuales en las mujeres",
+      "url": "https://medlineplus.gov/spanish/sexualproblemsinwomen.html",
+      "id": "1900"
+    },
+    {
+      "title": "Riesgos para el sistema reproductivo",
+      "url": "https://medlineplus.gov/spanish/reproductivehazards.html",
+      "id": "2124"
+    }
+  ],
+  "see_references": [
+    "Mujer, Salud de la"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Oficina de los NIH para Investigaciones sobre la Salud de la Mujer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#ORWH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/womenshealth.html"
+}

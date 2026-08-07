@@ -1,0 +1,44 @@
+{
+  "id": "3788",
+  "title": "Enfermedades de los ductos biliares",
+  "language": "Spanish",
+  "date_created": "01/06/2005",
+  "meta_description": "La vesícula almacena la bilis. La vesícula empuja la bilis por unos tubos llamados ductos biliares. Entérese que condiciones pueden afectarlos.",
+  "summary": "El hígado produce un líquido digestivo llamado bilis. La vesícula biliar almacena la bilis entre comidas. Cuando usted come, la vesícula empuja la bilis por unos tubos llamados ductos biliares. Estos transportan la bilis hasta el intestino delgado. La bilis ayuda a digerir la grasa. También ayuda al intestino a eliminar toxina y desechos. Distintas enfermedades pueden bloquear los ductos biliares y causar un problema con el flujo de la bilis: Cálculos biliares : Pueden aumentar la presión en la vesícula y causar un ataque de vesícula. El dolor puede durar de una a varias horas Cáncer Infecciones Defectos congénitos, como la atresia biliar: Es la causa más común de trasplante de hígado infantil en Estados Unidos Inflamación: Esto puede causar cicatrices. Con el tiempo, puede provocar insuficiencia hepática NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Enfermedades de las vías biliares"
+  ],
+  "groups": [
+    "Sistema digestivo"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de la vesícula biliar",
+      "url": "https://medlineplus.gov/spanish/gallbladdercancer.html",
+      "id": "4646"
+    },
+    {
+      "title": "Enfermedades de la vesícula biliar",
+      "url": "https://medlineplus.gov/spanish/gallbladderdiseases.html",
+      "id": "1915"
+    }
+  ],
+  "see_references": [
+    "Atresia biliar",
+    "Biliar, Estenosis",
+    "Cirrosis biliar",
+    "Cirrosis biliar primaria",
+    "Colangitis esclerosante",
+    "Ductos biliares, Enfermedades de",
+    "Obstrucción de las vías biliares"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/bileductdiseases.html"
+}

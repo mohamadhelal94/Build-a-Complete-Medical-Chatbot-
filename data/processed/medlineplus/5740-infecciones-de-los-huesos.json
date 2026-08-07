@@ -1,0 +1,34 @@
+{
+  "id": "5740",
+  "title": "Infecciones de los huesos",
+  "language": "Spanish",
+  "date_created": "12/23/2010",
+  "meta_description": "La osteomielitis es una infección del hueso. Aprenda quién está en riesgo de padecer esta enfermedad y el tratamiento y diagnostico.",
+  "summary": "Como otras partes del cuerpo, los huesos pueden infectarse. Las infecciones son generalmente causadas por bacterias (bacterianas) pero también pueden ser causadas por hongos. Pueden extenderse al hueso desde la piel cercana, los músculos de alrededor o a través del torrente sanguíneo. Las personas con mayor riesgo de infecciones óseas son las que padecen de diabetes , mala circulación o una lesión reciente en el hueso. También las personas que son tratadas con hemodiálisis . Los síntomas de una infección en un hueso incluyen: Dolor en el área infectada Escalofríos y fiebre Hinchazón, calor y enrojecimiento del área infectada Un examen de sangre o un diagnóstico por imágenes (como rayos X) pueden develar una infección en un hueso. El tratamiento incluye antibióticos y muchas veces, cirugía.",
+  "synonyms": [
+    "Infecciones óseas"
+  ],
+  "groups": [
+    "Huesos, articulaciones y músculos",
+    "Infecciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedades de los huesos",
+      "url": "https://medlineplus.gov/spanish/bonediseases.html",
+      "id": "1780"
+    }
+  ],
+  "see_references": [
+    "Huesos, Infecciones de los"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAMS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/boneinfections.html"
+}

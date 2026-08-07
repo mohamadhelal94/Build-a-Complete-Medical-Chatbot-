@@ -1,0 +1,38 @@
+{
+  "id": "1795",
+  "title": "Quimioterapia para el cáncer",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La quimioterapia es un tratamiento que uiliza medicinas para matar las células con cáncer. Entérese sobre beneficios, efectos secundarios.",
+  "summary": "¿Qué es la quimioterapia para el cáncer? La quimioterapia es un tipo de tratamiento contra el cáncer. Utiliza medicamentos para destruir las células cancerosas. Normalmente, su cuerpo forma nuevas células según sea necesario, reemplazando las células viejas que mueren. Las células cancerosas siguen creciendo sin control. Las células nuevas crecen incluso cuando no son necesarias y las células viejas no mueren cuando deberían. Estas células adicionales pueden formar una masa llamada tumor. La quimioterapia actúa eliminando las células cancerosas, impidiendo que se propaguen o haciendo más lento su crecimiento. La quimioterapia se utiliza para: Tratar el cáncer curándolo, reduciendo la posibilidad de que regrese o deteniendo o haciendo más lento su crecimiento Aliviar los síntomas del cáncer al reducir los tumores que causan dolor y otros problemas ¿Cuáles son los efectos secundarios de la quimioterapia? La quimioterapia no solo destruye las células cancerosas. También puede dañar algunas células sanas, lo que provoca efectos secundarios. Es posible que tenga muchos efectos secundarios, sólo algunos o ninguno. Esto depende del tipo y la cantidad de quimioterapia que reciba y de cómo reaccione su cuerpo. Algunos efectos secundarios comunes son: Úlceras bucales Fatiga Náuseas y vómitos Dolor Pérdida de cabello Hay maneras de prevenir o controlar algunos efectos secundarios. Hable con su profesional de la salud sobre cómo manejarlos. En general, las células sanas se recuperan después de que termina la quimioterapia, por lo que la mayoría de los efectos secundarios desaparecen con el tiempo. ¿Qué puedo esperar al recibir quimioterapia? Puede recibir quimioterapia en un hospital, en su casa, en el consultorio de un proveedor de atención médica o en una clínica médica. Es posible que le administren los medicamentos por vía oral, en una inyección, en forma de crema, a través de un catéter (un tubo delgado) o por vía intravenosa. Su plan de tratamiento dependerá del tipo de cáncer que tenga, qué medicamentos de quimioterapia se usen, los objetivos del tratamiento y cómo responda su cuerpo a los medicamentos. La quimioterapia se puede administrar sola o con otros tratamientos. Puede recibir tratamiento todos los días, todas las semanas o todos los meses. Es posible que tenga descansos entre los tratamientos para que su cuerpo tenga la oportunidad de crear nuevas células saludables. NIH: Instituto Nacional del Cáncer",
+  "synonyms": [
+    "Medicamentos para tratar el cáncer",
+    "Quimioterapia"
+  ],
+  "groups": [
+    "Cánceres",
+    "Tratamiento con medicamentos"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer",
+      "url": "https://medlineplus.gov/spanish/cancer.html",
+      "id": "1794"
+    },
+    {
+      "title": "Terapia alternativa para el cáncer",
+      "url": "https://medlineplus.gov/spanish/canceralternativetherapies.html",
+      "id": "3193"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cancerchemotherapy.html"
+}

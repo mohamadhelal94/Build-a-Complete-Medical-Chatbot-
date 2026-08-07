@@ -1,0 +1,66 @@
+{
+  "id": "508",
+  "title": "Foot Injuries and Disorders",
+  "language": "English",
+  "date_created": "07/01/1999",
+  "meta_description": "Your feet take a beating during long walks, runs or daily routines. If you're feeling foot pain, learn about foot injuries and disorders right here.",
+  "summary": "Each of your feet has 26 bones, 33 joints, and more than 100 tendons, muscles, and ligaments. No wonder a lot of things can go wrong. Here are a few common problems: Bunions - hard, painful bumps on the big toe joint Corns and calluses - thickened skin from friction or pressure Plantar warts - warts on the soles of your feet Fallen arches - also called flat feet Ill-fitting shoes often cause these problems. Aging and being overweight also increase your chances of having foot problems.",
+  "synonyms": [],
+  "groups": [
+    "Bones, Joints and Muscles",
+    "Injuries and Wounds"
+  ],
+  "related_topics": [
+    {
+      "title": "Ankle Injuries and Disorders",
+      "url": "https://medlineplus.gov/ankleinjuriesanddisorders.html",
+      "id": "1612"
+    },
+    {
+      "title": "Diabetic Foot",
+      "url": "https://medlineplus.gov/diabeticfoot.html",
+      "id": "1341"
+    },
+    {
+      "title": "Foot Health",
+      "url": "https://medlineplus.gov/foothealth.html",
+      "id": "1327"
+    },
+    {
+      "title": "Heel Injuries and Disorders",
+      "url": "https://medlineplus.gov/heelinjuriesanddisorders.html",
+      "id": "3650"
+    },
+    {
+      "title": "Leg Injuries and Disorders",
+      "url": "https://medlineplus.gov/leginjuriesanddisorders.html",
+      "id": "509"
+    },
+    {
+      "title": "Toe Injuries and Disorders",
+      "url": "https://medlineplus.gov/toeinjuriesanddisorders.html",
+      "id": "3648"
+    }
+  ],
+  "see_references": [
+    "Morton's Neuroma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "url": "http://www.niams.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Foot Diseases",
+      "id": "D005534"
+    },
+    {
+      "name": "Foot Injuries",
+      "id": "D018409"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/footinjuriesanddisorders.html"
+}

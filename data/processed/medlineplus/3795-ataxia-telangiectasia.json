@@ -1,0 +1,29 @@
+{
+  "id": "3795",
+  "title": "Ataxia Telangiectasia",
+  "language": "English",
+  "date_created": "03/25/2004",
+  "meta_description": "Ataxia Telangiectasia (AT) is an inherited disease that affects several body systems, including the nervous system and immune system. Learn more.",
+  "summary": "Ataxia-telangiectasia (A-T) is a rare, inherited disease. It affects the nervous system, immune system, and other body systems. Symptoms appear in young children, usually before age 5. They include: Ataxia - trouble coordinating movements Poor balance Slurred speech Tiny, red spider veins, called telangiectasias, on the skin and eyes Lung infections Delayed physical and sexual development People with A-T have an increased risk of developing diabetes and cancers, especially lymphoma and leukemia. Although it affects the brain, people with A-T usually have normal or high intelligence. A-T has no cure. Treatments might improve some symptoms. They include injections to strengthen the immune system, physical and speech therapy, and high-dose vitamins. NIH: National Institute of Neurological Disorders and Stroke",
+  "synonyms": [],
+  "groups": [
+    "Brain and Nerves",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "url": "http://www.ninds.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Ataxia Telangiectasia",
+      "id": "D001260"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/ataxiatelangiectasia.html"
+}

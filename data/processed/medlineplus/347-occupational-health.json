@@ -1,0 +1,59 @@
+{
+  "id": "347",
+  "title": "Occupational Health",
+  "language": "English",
+  "date_created": "02/03/2000",
+  "meta_description": "Occupational health problems vary from broken bones to vision problems. Take the following precautions to ensure safety on the job.",
+  "summary": "Occupational health problems occur at work or because of the kind of work you do. These problems can include: Cuts, fractures (broken bones), and sprains and strains Loss of limbs Repetitive motion disorders Hearing problems caused by exposure to noise Vision problems Illness caused by breathing, touching, or swallowing unsafe substances Illness caused by exposure to radiation Exposure to germs in health care settings Good job safety and prevention practices can reduce your risk of these problems. Try to stay fit, reduce stress, set up your work area properly, and use the right equipment and gear.",
+  "synonyms": [],
+  "groups": [
+    "Wellness and Lifestyle",
+    "Safety Issues"
+  ],
+  "related_topics": [
+    {
+      "title": "Carpal Tunnel Syndrome",
+      "url": "https://medlineplus.gov/carpaltunnelsyndrome.html",
+      "id": "179"
+    },
+    {
+      "title": "Ergonomics",
+      "url": "https://medlineplus.gov/ergonomics.html",
+      "id": "3397"
+    },
+    {
+      "title": "Occupational Health for Health Care Providers",
+      "url": "https://medlineplus.gov/occupationalhealthforhealthcareproviders.html",
+      "id": "3644"
+    }
+  ],
+  "see_references": [
+    "Employee Health",
+    "Occupational Injuries"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Accidents, Occupational",
+      "id": "D000062"
+    },
+    {
+      "name": "Occupational Stress",
+      "id": "D000073397"
+    },
+    {
+      "name": "Occupational Injuries",
+      "id": "D060051"
+    },
+    {
+      "name": "Occupational Diseases",
+      "id": "D009784"
+    },
+    {
+      "name": "Occupational Exposure",
+      "id": "D016273"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/occupationalhealth.html"
+}

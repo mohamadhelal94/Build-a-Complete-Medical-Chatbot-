@@ -1,0 +1,34 @@
+{
+  "id": "2114",
+  "title": "Fibrosis pulmonar",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La fibrosis pulmonar es causada por cicatrices en los pulmones. Esto dificulta la respiración y es posible que la sangre no reciba suficiente oxígeno.",
+  "summary": "La fibrosis pulmonar es una afección en donde el tejido profundo de sus pulmones se va cicatrizando. Esto hace que el tejido se vuelva grueso y duro. Esto dificulta recuperar el aliento y es posible que la sangre no reciba suficiente oxígeno. Las causas de la fibrosis pulmonar incluyen contaminantes ambientales, algunos medicamentos, enfermedades del tejido conectivo o la enfermedad pulmonar intersticial (grupo de enfermedades que causan inflamación o cicatrización en los pulmones) pero en la mayoría de los casos, no se encuentra una causa. Esto se llama fibrosis pulmonar idiopática. Los síntomas pueden incluir: Dificultad para respirar Una tos entrecortada y seca que no mejora Cansancio Pérdida de peso sin razón aparente Dolores en los músculos y en las articulaciones Acropaquia o dedos en palillo de tambor (clubbing, en inglés; en esta afección, las puntas de los dedos de las manos y los pies se agrandan y las uñas se curvan) Su doctor puede usar su historia clínica, pruebas por imágenes, una biopsia y/o pruebas de la función de los pulmones para diagnosticar la fibrosis pulmonar. No existe una cura. Los tratamientos se centran en aliviar los síntomas y mejorar la calidad de vida. Estos incluyen medicamentos, terapia con oxígeno, rehabilitación pulmonar o trasplante de pulmón. NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre",
+  "synonyms": [],
+  "groups": [
+    "Pulmón y vías respiratorias"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad pulmonar intersticial",
+      "url": "https://medlineplus.gov/spanish/interstitiallungdiseases.html",
+      "id": "5598"
+    },
+    {
+      "title": "Rehabilitación pulmonar",
+      "url": "https://medlineplus.gov/spanish/pulmonaryrehabilitation.html",
+      "id": "5981"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Corazón, los Pulmones y la Sangre",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NHLBI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/pulmonaryfibrosis.html"
+}

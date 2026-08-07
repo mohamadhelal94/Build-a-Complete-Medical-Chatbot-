@@ -1,0 +1,47 @@
+{
+  "id": "5738",
+  "title": "VIH en mujeres",
+  "language": "Spanish",
+  "date_created": "01/05/2011",
+  "meta_description": "Las mujeres con VIH tienen un riesgo más alto de desarrollar ciertas infecciones, cánceres y enfermedades. No hay cura, pero existen tratamientos y medicamentos para prevenir el VIH.",
+  "summary": "¿Qué es el VIH? VIH significa virus de inmunodeficiencia humana. Daña su sistema inmunitario al destruir un tipo de glóbulo blanco que ayuda a su cuerpo a combatir infecciones. Esto aumenta su riesgo de contraer otras infecciones y enfermedades. ¿Cómo se transmite el VIH? El VIH se puede propagar de diferentes formas: A través de relaciones sexuales sin protección con una persona que tiene VIH. Sin protección significa que no usa condón o medicina para tratar o prevenir el VIH. Ésta es la forma más común de transmisión El sexo anal es el tipo más riesgoso de relación sexual para contraer y propagar el VIH. El tejido del recto es delgado y puede permitir el ingreso del VIH al cuerpo durante el sexo anal Durante el sexo vaginal, el VIH puede ingresar al cuerpo a través del delicado tejido que recubre la vagina y el cuello uterino A través del sexo oral con una persona que tiene VIH, aunque es menos común Al compartir agujas por consumo de drogas A través del contacto con la sangre de una persona con VIH De la madre al feto durante el embarazo De la madre al bebé durante el parto o la lactancia ¿Cómo el VIH afecta a mujeres de manera diferente que a los hombres? Cerca de una de cada cuatro personas en los Estados Unidos con VIH son mujeres. Las mujeres que tienen VIH o sida tienen algunos problemas diferentes que los hombres: Complicaciones como Infecciones vaginales por cándida frecuentes Vaginosis bacteriana Enfermedad inflamatoria pélvica severa Mayor riesgo de cáncer de cuello uterino Problemas del ciclo menstrual Mayor riesgo de osteoporosis Mayor riesgo de enfermedades del corazón , en especial ataques cardiacos Entrar en la menopausia más joven o tener sofocos más intensos Efectos secundarios diferentes, en ocasiones más graves, de los medicamentos que tratan el VIH Interacciones de medicamentos entre algunas medicinas para el VIH y anticonceptivos hormonales El riesgo de transmitir el VIH a al feto durante el embarazo El riesgo de transmitir el VIH al bebé durante el parto o la lactancia ¿Existen tratamientos para el VIH? No existe cura, pero hay muchos medicamentos para combatir tanto la infección por VIH como las infecciones y cánceres que la acompañan. Las personas que reciben tratamiento temprano pueden tener vidas más largas y saludables .",
+  "synonyms": [],
+  "groups": [
+    "Mujeres",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Medicinas para el VIH",
+      "url": "https://medlineplus.gov/spanish/hivmedicines.html",
+      "id": "4288"
+    },
+    {
+      "title": "VIH",
+      "url": "https://medlineplus.gov/spanish/hiv.html",
+      "id": "1726"
+    },
+    {
+      "title": "VIH y el embarazo",
+      "url": "https://medlineplus.gov/spanish/hivandpregnancy.html",
+      "id": "1728"
+    },
+    {
+      "title": "Viviendo con VIH",
+      "url": "https://medlineplus.gov/spanish/livingwithhiv.html",
+      "id": "1729"
+    }
+  ],
+  "see_references": [
+    "Mujeres, VIH y el sida"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/hivinwomen.html"
+}

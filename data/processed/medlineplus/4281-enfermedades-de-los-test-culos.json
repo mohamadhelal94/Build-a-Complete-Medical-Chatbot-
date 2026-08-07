@@ -1,0 +1,45 @@
+{
+  "id": "4281",
+  "title": "Enfermedades de los testículos",
+  "language": "Spanish",
+  "date_created": "07/25/2006",
+  "meta_description": "Los testículos producen las hormonas masculinas y el esperma. Pueden inflamarse o infectarse. También pueden desarrollar cáncer. Más aquí.",
+  "summary": "Los testículos producen las hormonas masculinas y el esperma. Son dos órganos ovalados ubicados dentro del escroto, que es una bolsa de piel que se encuentra detrás del pene. Es fácil lesionar los testículos porque no están protegidos por huesos o músculos. Los hombres y los niños deben usar suspensorios al practicar cualquier deporte. Debe examinarse los testículos mensualmente y buscar atención médica si detecta nódulos, enrojecimiento, dolor y otros cambios. Los testículos pueden inflamarse o infectarse. También pueden desarrollar cáncer. El cáncer de testículos es poco frecuente y muy tratable. Suele ocurrir entre los 15 y los 40 años.",
+  "synonyms": [
+    "Enfermedades testiculares"
+  ],
+  "groups": [
+    "Sistema endocrino",
+    "Hombres",
+    "Asuntos de salud sexual",
+    "Sistema reproductor masculino"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer de testículo",
+      "url": "https://medlineplus.gov/spanish/testicularcancer.html",
+      "id": "2191"
+    },
+    {
+      "title": "Enfermedades del pene",
+      "url": "https://medlineplus.gov/spanish/penisdisorders.html",
+      "id": "2020"
+    }
+  ],
+  "see_references": [
+    "Genitales masculinos, Enfermedades de los",
+    "Hernia inguinal",
+    "Hidrocele",
+    "Testículos, Enfermedades de los",
+    "Traumatismo testicular"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/testiculardisorders.html"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1719",
+  "title": "Medicamentos",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "¿Toma medicinas todos los días o sólo de vez en cuando? Aprenda cómo sacar el máximo provecho de sus medicamentos aquí.",
+  "summary": "Los medicamentos pueden tratar enfermedades y mejorar su salud. Si es como la mayoría de las personas, seguramente ha tomado un medicamento en algún momento de su vida. Es posible que deba tomar medicamentos todos los días o que solo necesite tomar medicamentos de vez en cuando. De cualquier manera, debe asegurarse de que sus medicamentos sean seguros y que lo ayudarán a mejorar. En los Estados Unidos, la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés) está a cargo de garantizar la seguridad y efectividad de medicinas con y sin receta . Siempre hay riesgos al tomar medicamentos. Es importante pensar en estos riesgos antes de tomarlos. Incluso los medicamentos seguros pueden causar efectos secundarios no deseados o interacciones con alimentos, alcohol u otros medicamentos que esté tomando. Es posible que algunos medicamentos no sean seguros durante el embarazo . Para reducir el riesgo de reacciones y asegurarse que lo va a ayudar a sentirse mejor, es importante que tome sus medicamentos en forma correcta . También debe tener cuidado al administrar medicamentos a los niños , ya que pueden ser más sensibles a sus efectos.",
+  "synonyms": [
+    "Medicinas",
+    "Remedios"
+  ],
+  "groups": [
+    "Tratamiento con medicamentos"
+  ],
+  "related_topics": [
+    {
+      "title": "Analgésicos",
+      "url": "https://medlineplus.gov/spanish/painrelievers.html",
+      "id": "4060"
+    },
+    {
+      "title": "Antibióticos",
+      "url": "https://medlineplus.gov/spanish/antibiotics.html",
+      "id": "1750"
+    },
+    {
+      "title": "Errores en la administración de medicamentos",
+      "url": "https://medlineplus.gov/spanish/medicationerrors.html",
+      "id": "5720"
+    },
+    {
+      "title": "Interacciones y efectos secundarios de los medicamentos",
+      "url": "https://medlineplus.gov/spanish/drugreactions.html",
+      "id": "5604"
+    },
+    {
+      "title": "Medicamentos sin receta médica",
+      "url": "https://medlineplus.gov/spanish/overthecountermedicines.html",
+      "id": "3800"
+    },
+    {
+      "title": "Medicamentos y los niños",
+      "url": "https://medlineplus.gov/spanish/medicinesandchildren.html",
+      "id": "6006"
+    },
+    {
+      "title": "Medicina complementaria e integral",
+      "url": "https://medlineplus.gov/spanish/complementaryandintegrativemedicine.html",
+      "id": "1735"
+    },
+    {
+      "title": "Medicina herbaria",
+      "url": "https://medlineplus.gov/spanish/herbalmedicine.html",
+      "id": "1951"
+    },
+    {
+      "title": "Medicinas durante el embarazo",
+      "url": "https://medlineplus.gov/spanish/pregnancyandmedicines.html",
+      "id": "5579"
+    },
+    {
+      "title": "Quimioterapia para el cáncer",
+      "url": "https://medlineplus.gov/spanish/cancerchemotherapy.html",
+      "id": "1795"
+    },
+    {
+      "title": "Seguridad de los medicamentos",
+      "url": "https://medlineplus.gov/spanish/drugsafety.html",
+      "id": "1870"
+    },
+    {
+      "title": "Vitaminas",
+      "url": "https://medlineplus.gov/spanish/vitamins.html",
+      "id": "2223"
+    }
+  ],
+  "see_references": [
+    "Información sobre medicinas",
+    "Medicinas, Información sobre las"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/medicines.html"
+}

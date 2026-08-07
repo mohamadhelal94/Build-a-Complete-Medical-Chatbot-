@@ -1,0 +1,69 @@
+{
+  "id": "1977",
+  "title": "Enfermedades infecciosas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las enfermedades infecciosas son causadas por gérmenes. Pueden adquirirse por tocar, comer, beber o respirar algo con gérmenes. Prevención y tratamiento.",
+  "summary": "¿Qué son las enfermedades infecciosas? Los gérmenes o microbios se encuentran en todas partes, en el aire, el suelo y el agua. También hay gérmenes en su piel y en su cuerpo. Muchos de ellos son inofensivos y algunos incluso pueden ser beneficiosos. Pero algunos de ellos pueden enfermarle. Las enfermedades infecciosas son causadas por gérmenes. ¿Cuáles son los diferentes tipos de gérmenes que causan enfermedades infecciosas? Hay cuatro tipos principales de gérmenes: Bacterias : Gérmenes unicelulares que se multiplican rápidamente. Pueden liberar toxinas, sustancias químicas nocivas que pueden enfermarle. La faringitis estreptocócica y las infecciones de las vías urinarias son infecciones bacterianas comunes Virus : Pequeñas partículas que contienen material genético. Invaden las células para que puedan multiplicarse. Esto puede matar, dañar o cambiar las células y enfermarle. Las infecciones virales incluyen el VIH y el resfriado común Hongos : Organismos primitivos parecidos a las plantas, como moho, mildiu y levaduras. El pie de atleta y las infecciones por cándida son infecciones fúngicas comunes Parásitos : Animales o plantas que sobreviven viviendo sobre o dentro de otros seres vivos. La malaria y los piojos son infecciones causadas por parásitos ¿Cómo se propagan las enfermedades infecciosas? Hay muchas formas diferentes de contraer una enfermedad infecciosa, dependiendo del tipo de germen. Esto puede incluir: A través del contacto directo con una persona que está enferma. Esto incluye besarse, tocarse, estornudar, toser y tener contacto sexual. Si está embarazada , también puede transmitir algunos gérmenes a su feto. A través del contacto indirecto, cuando toca algo que tiene gérmenes. Por ejemplo, podría estar en contacto con gérmenes si alguien que está enfermo tocó el picaporte de una puerta y luego usted lo toca A través de picaduras de insectos o animales A través de la contaminación de alimentos , agua, suelo o plantas ¿Cuáles son los síntomas de las enfermedades infecciosas? Las enfermedades infecciosas pueden causar muchos síntomas diferentes. Algunos son tan leves que es posible que ni siquiera los note, mientras que otros pueden ser potencialmente mortales. ¿Cuáles son los tratamientos para las enfermedades infecciosas? Existen tratamientos para algunas enfermedades infecciosas, como antibióticos y medicinas antivirales, antifúngicos y antiparasitarios. Pero para otras infecciones, como algunas causadas por virus, solo puede tratar sus síntomas mientras su sistema inmunitario combate contra los gérmenes. ¿Se pueden prevenir las enfermedades infecciosas? Usted puede tomar medidas para ayudar a prevenir muchas enfermedades infecciosas, como: Vacunarse Lavarse las manos con frecuencia Prestar atención a la seguridad con los alimentos Evitar el contacto con animales salvajes Usar un condón de látex cada vez que tenga relaciones sexuales. Si usted o su pareja es alérgico al látex , puede usar condones de poliuretano No compartir elementos como cepillos de dientes, peines y pajillas",
+  "synonyms": [
+    "Infecciones"
+  ],
+  "groups": [
+    "Infecciones",
+    "Sistema inmunitario"
+  ],
+  "related_topics": [
+    {
+      "title": "Antibióticos",
+      "url": "https://medlineplus.gov/spanish/antibiotics.html",
+      "id": "1750"
+    },
+    {
+      "title": "Enfermedades parasitarias",
+      "url": "https://medlineplus.gov/spanish/parasiticdiseases.html",
+      "id": "2078"
+    },
+    {
+      "title": "Infecciones bacterianas",
+      "url": "https://medlineplus.gov/spanish/bacterialinfections.html",
+      "id": "1767"
+    },
+    {
+      "title": "Infecciones por hongos",
+      "url": "https://medlineplus.gov/spanish/fungalinfections.html",
+      "id": "1914"
+    },
+    {
+      "title": "Infecciones virales",
+      "url": "https://medlineplus.gov/spanish/viralinfections.html",
+      "id": "2221"
+    },
+    {
+      "title": "Medidas para el control de infecciones",
+      "url": "https://medlineplus.gov/spanish/infectioncontrol.html",
+      "id": "3041"
+    },
+    {
+      "title": "Salud del viajero",
+      "url": "https://medlineplus.gov/spanish/travelershealth.html",
+      "id": "2204"
+    },
+    {
+      "title": "Vacunación",
+      "url": "https://medlineplus.gov/spanish/vaccines.html",
+      "id": "1970"
+    }
+  ],
+  "see_references": [
+    "Infecciosas, Enfermedades (General)"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Alergias y Enfermedades Infecciosas",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIAID"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "5841",
+  "title": "Throat Cancer",
+  "language": "English",
+  "date_created": "08/17/2011",
+  "meta_description": "Throat cancer has different names, depending on what part of the throat is affected (such as oropharynx). Learn the different symptoms and treatments.",
+  "summary": "Throat cancer is a type of head and neck cancer . Throat cancer has different names, depending on which part of the throat is affected. The different parts of your throat are called the oropharynx, the hypopharynx, the nasopharynx, and the larynx, or voice box. The main risk factors for throat cancer are tobacco use and heavy drinking. Certain types of throat cancer also have other risk factors. For example, having HPV is a risk factor for oropharyngeal cancer. Symptoms of throat cancer may include: A sore throat that does not go away A lump in the neck Pain or ringing in the ears Trouble swallowing Ear pain To diagnose throat cancers, doctors may do a physical exam and history, imaging tests, and a biopsy. You may also need other tests, depending on the type of cancer. Treatments include surgery, radiation therapy, and chemotherapy. Treatment for some types of throat cancer may also include targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells. NIH: National Cancer Institute",
+  "synonyms": [
+    "Hypopharyngeal cancer",
+    "Laryngeal cancer",
+    "Laryngopharyngeal cancer",
+    "Nasopharyngeal cancer",
+    "Oropharyngeal cancer",
+    "Pharyngeal cancer"
+  ],
+  "groups": [
+    "Cancers",
+    "Ear, Nose and Throat"
+  ],
+  "related_topics": [
+    {
+      "title": "Head and Neck Cancer",
+      "url": "https://medlineplus.gov/headandneckcancer.html",
+      "id": "330"
+    },
+    {
+      "title": "Oral Cancer",
+      "url": "https://medlineplus.gov/oralcancer.html",
+      "id": "331"
+    },
+    {
+      "title": "Throat Disorders",
+      "url": "https://medlineplus.gov/throatdisorders.html",
+      "id": "1660"
+    }
+  ],
+  "see_references": [
+    "Hypopharyngeal Cancer",
+    "Laryngeal Cancer",
+    "Laryngopharyngeal Cancer",
+    "Nasopharyngeal Cancer",
+    "Oropharyngeal Cancer",
+    "Pharyngeal Cancer"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Cancer Institute",
+      "url": "http://www.cancer.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Pharyngeal Neoplasms",
+      "id": "D010610"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/throatcancer.html"
+}

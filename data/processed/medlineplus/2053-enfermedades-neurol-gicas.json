@@ -1,0 +1,100 @@
+{
+  "id": "2053",
+  "title": "Enfermedades neurológicas",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El sistema nervioso controla las funciones del cuerpo. Infórmese qué sucede cuando algunas de las partes del sistema nervioso no funcionan.",
+  "summary": "El cerebro, la médula espinal y los nervios conforman el sistema nervioso. En conjunto controlan todas las funciones del cuerpo. Cuando algo funciona mal en una parte del sistema nervioso, es posible que tenga dificultad para moverse, hablar, tragar, respirar o aprender. También puede haber problemas con la memoria, los sentidos o el estado de ánimo. Existen más de 600 enfermedades neurológicas. Los tipos más reconocidos incluyen: Enfermedades causadas por genes defectuosos, tales como la enfermedad de Huntington y la distrofia muscular Problemas con el desarrollo del sistema nervioso, tales como la espina bífida Enfermedades degenerativas , en las cuales las células nerviosas están dañadas o mueren, tales como las enfermedades de Parkinson y el mal de Alzheimer Enfermedades de los vasos sanguíneos que abastecen el cerebro, tales como los derrames cerebrales Lesiones en la médula espinal y el cerebro Trastornos convulsivos, tales como la epilepsia Cáncer, tales como los tumores cerebrales Infecciones como la meningitis",
+  "synonyms": [
+    "Déficits neurológicos"
+  ],
+  "groups": [
+    "Cerebro y nervios"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Parkinson",
+      "url": "https://medlineplus.gov/spanish/parkinsonsdisease.html",
+      "id": "2081"
+    },
+    {
+      "title": "Enfermedad de von Hippel-Lindau",
+      "url": "https://medlineplus.gov/spanish/vonhippellindaudisease.html",
+      "id": "4362"
+    },
+    {
+      "title": "Enfermedades de la médula espinal",
+      "url": "https://medlineplus.gov/spanish/spinalcorddiseases.html",
+      "id": "2163"
+    },
+    {
+      "title": "Enfermedades del cerebro",
+      "url": "https://medlineplus.gov/spanish/braindiseases.html",
+      "id": "1785"
+    },
+    {
+      "title": "Enfermedades del sistema nervioso periférico",
+      "url": "https://medlineplus.gov/spanish/peripheralnervedisorders.html",
+      "id": "2084"
+    },
+    {
+      "title": "Enfermedades neurodegenerativas",
+      "url": "https://medlineplus.gov/spanish/degenerativenervediseases.html",
+      "id": "1845"
+    },
+    {
+      "title": "Enfermedades neuromusculares",
+      "url": "https://medlineplus.gov/spanish/neuromusculardisorders.html",
+      "id": "2054"
+    },
+    {
+      "title": "Epilepsia",
+      "url": "https://medlineplus.gov/spanish/epilepsy.html",
+      "id": "1888"
+    },
+    {
+      "title": "Meningitis",
+      "url": "https://medlineplus.gov/spanish/meningitis.html",
+      "id": "2031"
+    },
+    {
+      "title": "Neuralgia del trigémino",
+      "url": "https://medlineplus.gov/spanish/trigeminalneuralgia.html",
+      "id": "2730"
+    },
+    {
+      "title": "Síndrome de dolor regional complejo",
+      "url": "https://medlineplus.gov/spanish/complexregionalpainsyndrome.html",
+      "id": "2121"
+    },
+    {
+      "title": "Síndrome de Tourette",
+      "url": "https://medlineplus.gov/spanish/tourettesyndrome.html",
+      "id": "2201"
+    },
+    {
+      "title": "Trastornos del movimiento",
+      "url": "https://medlineplus.gov/spanish/movementdisorders.html",
+      "id": "2039"
+    },
+    {
+      "title": "Trastornos del sistema nervioso autónomo",
+      "url": "https://medlineplus.gov/spanish/autonomicnervoussystemdisorders.html",
+      "id": "4243"
+    }
+  ],
+  "see_references": [
+    "Nervios, Enfermedades de los",
+    "Neurológicas, Enfermedades",
+    "von Hippel-Lindau"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/neurologicdiseases.html"
+}

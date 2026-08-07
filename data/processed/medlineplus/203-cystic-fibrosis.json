@@ -1,0 +1,47 @@
+{
+  "id": "203",
+  "title": "Cystic Fibrosis",
+  "language": "English",
+  "date_created": "08/12/1999",
+  "meta_description": "Cystic fibrosis (CF) is an inherited disease of the mucus and sweat glands. The symptoms and severity of CF can vary. Get the facts.",
+  "summary": "Cystic fibrosis (CF) is an inherited disease of the mucus and sweat glands. It affects mostly your lungs, pancreas, liver, intestines, sinuses, and sex organs. CF causes your mucus to be thick and sticky. The mucus clogs the lungs, causing breathing problems and making it easy for bacteria to grow. This can lead to repeated lung infections and lung damage. The symptoms and severity of CF can vary. Some people have serious problems from birth. Others have a milder version of the disease that doesn't show up until they are teens or young adults. Sometimes you will have few symptoms, but later you may have more symptoms. CF is diagnosed through various tests, such as gene, blood, and sweat tests. There is no cure for CF, but treatments have improved greatly in recent years. In the past, most deaths from CF were in children and teenagers. Today, with improved treatments, some people who have CF are living into their forties, fifties, or older. Treatments may include chest physical therapy, nutritional and respiratory therapies , medicines, and exercise. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [
+    "CF"
+  ],
+  "groups": [
+    "Lungs and Breathing",
+    "Genetics/Birth Defects"
+  ],
+  "related_topics": [
+    {
+      "title": "Lung Transplantation",
+      "url": "https://medlineplus.gov/lungtransplantation.html",
+      "id": "312"
+    },
+    {
+      "title": "Oxygen Therapy",
+      "url": "https://medlineplus.gov/oxygentherapy.html",
+      "id": "5334"
+    },
+    {
+      "title": "Pulmonary Rehabilitation",
+      "url": "https://medlineplus.gov/pulmonaryrehabilitation.html",
+      "id": "5980"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Cystic Fibrosis",
+      "id": "D003550"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/cysticfibrosis.html"
+}

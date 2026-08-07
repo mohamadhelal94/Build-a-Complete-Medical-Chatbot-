@@ -1,0 +1,49 @@
+{
+  "id": "2010",
+  "title": "Trasplante de hígado",
+  "language": "Spanish",
+  "date_created": "02/07/2003",
+  "meta_description": "El trasplante de hígado es una cirugía para reemplazar un hígado enfermo por uno sano de un donante. La causa más común es la cirrosis. Entérese aquí.",
+  "summary": "El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. No se puede vivir sin un hígado que funcione bien. Si el hígado falla, el médico puede colocarlo en una lista de espera para un trasplante de hígado. Los médicos realizan trasplantes cuando otros tratamientos no logran mantener el funcionamiento de un hígado dañado. Durante un trasplante de hígado, el cirujano extrae el hígado enfermo y lo reemplaza con uno sano. La mayoría de los hígados provienen de un donante fallecido. A veces hay un donante vivo, que es cuando una persona dona parte de su hígado a un paciente en particular. La razón más común para un trasplante en adultos es la cirrosis , en la cual el hígado presenta tejido cicatricial. En los niños, la razón más común es la atresia biliar, una enfermedad de los conductos biliares . Si tiene un trasplante, deberá tomar medicamentos por el resto de su vida para impedir que su cuerpo rechace al nuevo órgano. NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+  "synonyms": [
+    "Trasplante hepático"
+  ],
+  "groups": [
+    "Sistema digestivo",
+    "Transplantes y donaciones"
+  ],
+  "related_topics": [
+    {
+      "title": "Cirrosis",
+      "url": "https://medlineplus.gov/spanish/cirrhosis.html",
+      "id": "1824"
+    },
+    {
+      "title": "Enfermedades del hígado",
+      "url": "https://medlineplus.gov/spanish/liverdiseases.html",
+      "id": "2009"
+    },
+    {
+      "title": "Hepatitis",
+      "url": "https://medlineplus.gov/spanish/hepatitis.html",
+      "id": "1949"
+    },
+    {
+      "title": "Trasplante de órganos",
+      "url": "https://medlineplus.gov/spanish/organtransplantation.html",
+      "id": "2064"
+    }
+  ],
+  "see_references": [
+    "Hígado, Trasplante de"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDDK"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/livertransplantation.html"
+}

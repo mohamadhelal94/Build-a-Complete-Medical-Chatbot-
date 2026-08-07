@@ -1,0 +1,44 @@
+{
+  "id": "141",
+  "title": "Aneurysms",
+  "language": "English",
+  "date_created": "08/12/1999",
+  "meta_description": "An aneurysm is a bulge in the wall of an artery. It can develop and grow for years without causing any symptoms. Learn about tests and treatment.",
+  "summary": "An aneurysm is a bulge or \"ballooning\" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death. Most aneurysms occur in the aorta , the main artery that runs from the heart through the chest and abdomen. Aneurysms also can happen in arteries in the brain, heart and other parts of the body. If an aneurysm in the brain bursts, it causes a stroke . Aneurysms can develop and become large before causing any symptoms. Often doctors can stop aneurysms from bursting if they find and treat them early. They use imaging tests to find aneurysms. Often aneurysms are found by chance during tests done for other reasons. Medicines and surgery are the two main treatments for aneurysms. NIH: National Heart, Lung, and Blood Institute",
+  "synonyms": [],
+  "groups": [
+    "Blood, Heart and Circulation"
+  ],
+  "related_topics": [
+    {
+      "title": "Aortic Aneurysm",
+      "url": "https://medlineplus.gov/aorticaneurysm.html",
+      "id": "4931"
+    },
+    {
+      "title": "Brain Aneurysm",
+      "url": "https://medlineplus.gov/brainaneurysm.html",
+      "id": "4926"
+    },
+    {
+      "title": "Heart Health Tests",
+      "url": "https://medlineplus.gov/hearthealthtests.html",
+      "id": "6452"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Aneurysm",
+      "id": "D000783"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/aneurysms.html"
+}

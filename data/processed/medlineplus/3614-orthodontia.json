@@ -1,0 +1,32 @@
+{
+  "id": "3614",
+  "title": "Orthodontia",
+  "language": "English",
+  "date_created": "10/14/2003",
+  "meta_description": "Orthodontia is the branch of dentistry that uses treatments such as braces, aligners, and retainers to straighten your teeth and correct your bite. Learn more.",
+  "summary": "Some people have naturally straight teeth that fit together. But if you have problems with your bite or the spacing of your teeth, you may need orthodontic care. Orthodontia is the branch of dentistry that deals with abnormalities of the teeth and jaw. Orthodontic care involves the use of devices, such as braces, to: Straighten teeth Correct problems with bite Close gaps between teeth Align lips and teeth properly Most people who receive orthodontic care are kids, but adults get braces, too. In young children, orthodontic treatment may guide proper jaw growth. This can help permanent teeth to come in properly. Straight permanent teeth can help prevent tooth problems later on.",
+  "synonyms": [
+    "Braces"
+  ],
+  "groups": [
+    "Mouth and Teeth"
+  ],
+  "related_topics": [],
+  "see_references": [
+    "Braces, Oral"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Dental and Craniofacial Research",
+      "url": "http://www.nidcr.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Orthodontics",
+      "id": "D009970"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/orthodontia.html"
+}

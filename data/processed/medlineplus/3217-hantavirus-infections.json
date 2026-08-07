@@ -1,0 +1,31 @@
+{
+  "id": "3217",
+  "title": "Hantavirus Infections",
+  "language": "English",
+  "date_created": "06/03/2003",
+  "meta_description": "Hantavirus pulmonary syndrome (HPS) is a rare but deadly viral infection. It is spread by mice and rats. Learn about symptoms and prevention.",
+  "summary": "Hantavirus pulmonary syndrome (HPS) is a rare viral infection caused by several strains of the hantavirus. It is spread by mice and rats. They shed the virus in their urine, droppings, and saliva. Tiny droplets with the virus can enter the air. You can get the disease if you breathe infected air or come into contact with rodents or their urine or droppings. Most of the time, you can't get the virus from another person. But one strain of the virus found in South America, called the Andes virus, spreads through close contact with someone who has the virus. Early symptoms of HPS include: Fatigue Fever Muscle aches, especially in the thighs, hips, and back Headaches Chills Dizziness Nausea, vomiting , diarrhea or abdominal (belly) pain Later symptoms include coughing and shortness of breath . Controlling rodents in and around your house is the best way to prevent infection. If you have been around rodents and have symptoms of fever, deep muscle aches, and severe shortness of breath, see your health care provider immediately. Early treatment is important. There is no specific treatment, cure, or vaccine for HPS. Centers for Disease Control and Prevention",
+  "synonyms": [
+    "HPS",
+    "Hanta virus"
+  ],
+  "groups": [
+    "Infections"
+  ],
+  "related_topics": [],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "url": "http://www.niaid.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Hantavirus Infections",
+      "id": "D018778"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/hantavirusinfections.html"
+}

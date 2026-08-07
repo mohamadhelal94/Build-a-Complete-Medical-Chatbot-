@@ -1,0 +1,50 @@
+{
+  "id": "1794",
+  "title": "Cáncer",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "El cáncer afecta a las células del cuerpo. Entérese sobre diagnóstico, tratamiento, viviendo con cáncer y prevención.",
+  "summary": "¿Qué es el cáncer? El cáncer no es solo una enfermedad, sino muchas enfermedades. El cáncer comienza en las células, los componentes básicos del cuerpo. En general, el cuerpo forma células nuevas según sea necesario, reemplazando las células viejas que mueren. A veces, este proceso falla. Las células nuevas se multiplican incluso cuando no son necesarias y las células viejas no mueren cuando deberían. Estas células adicionales pueden formar una masa llamada tumor. Los tumores pueden ser benignos o malignos. Los tumores benignos no son cáncer, mientras que los malignos sí lo son. Las células de los tumores malignos pueden invadir los tejidos cercanos. También pueden desprenderse del tumor y propagarse a otras partes del cuerpo. La propagación del cáncer de una parte del cuerpo a otra se conoce como metástasis. Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzado que esté. ¿Cuáles son los tipos de cáncer? Hay más de 100 tipos diferentes de cáncer. El cáncer puede comenzar casi en cualquier parte del cuerpo. La mayoría de los tipos de cáncer recibe su nombre según el lugar donde comienza. Por ejemplo, el cáncer de pulmón comienza en el pulmón y el cáncer de mama comienza en la mama. El cáncer también se puede describir por el tipo de célula que lo formó, como sarcoma si el cáncer comienza en el hueso y el tejido blando. El carcinoma es el tipo más común de cáncer. Está formado por células epiteliales, las células que cubren las superficies internas y externas del cuerpo. ¿Cómo se desarrolla el cáncer? El cáncer es una enfermedad genética . Esto significa que los cambios en los genes lo causan. Los cambios en los genes también se conocen como variantes genéticas o mutaciones. Los genes son partes del ADN de las células que heredamos de nuestros padres. Sin embargo, solo algunos tipos de cáncer son causados por genes traspasados de sus padres. Los cambios genéticos pueden ocurrir en los genes a lo largo de la vida que afectan el funcionamiento de las células. En general, el cuerpo se deshace de las células dañadas antes de que se vuelvan cancerosas, pero esta capacidad disminuye a medida que envejecemos. Otros factores que pueden afectar el riesgo de desarrollar cáncer pueden incluir: Exposición a los rayos ultravioleta (UV) del sol Fumar Su dieta Inactividad física ¿Cuáles son los síntomas del cáncer? Los síntomas del cáncer dependen del tipo de cáncer. Por ejemplo, algunos de ellos pueden incluir: Un bulto en el seno Sangre en la orina (pis) o en las heces (caca) Sangrado o moretones sin causa aparente Una llaga que no cicatriza Problemas para tragar Un lunar nuevo o un cambio en un lunar que ya tiene El cáncer puede causar varios síntomas, pero a menudo no causa dolor. No espere hasta tener dolor para consultar a su profesional de la salud. Consulte a su proveedor si tiene síntomas que no mejoran en unas pocas semanas. ¿Cómo se diagnostica el cáncer? No existe una prueba única capaz de diagnosticar el cáncer. En general, las pruebas que se solicitan se basan en sus síntomas. Su profesional de la salud puede: Preguntarle sobre su historia clínica Preguntarle sobre sus antecedentes médicos familiares , incluyendo parientes que hayan tenido cáncer Realizar un examen físico Hacerle una prueba de detección , como una mamografía , una colonoscopia o una prueba de Papanicolaou Solicitar análisis de sangre o pruebas de diagnóstico por imágenes Para averiguar si tiene cáncer, su proveedor de atención médica puede solicitar una biopsia , procedimiento que consiste en extraer y examinar tejido, células o líquidos del cuerpo. ¿Cuáles son los tratamientos para el cáncer? El tratamiento depende del tipo de cáncer y de lo avanzado que esté. La mayoría de los planes de tratamiento pueden incluir cirugía, radiación y/o quimioterapia . Algunos pueden incluir terapia hormonal, inmunoterapia u otros tipos de terapia biológica, o trasplante de células madre . ¿Se puede prevenir el cáncer? Normalmente no es posible saber exactamente por qué se desarrolla el cáncer en algunas personas, pero no en otras. Hay algunos factores que no se pueden controlar y que pueden aumentar o disminuir el riesgo de desarrollar cáncer, como heredar ciertos genes o la edad. Pero algunos hábitos de vida pueden aumentar el riesgo de tener ciertos tipos de cáncer. Evite o reduzca hábitos de vida como: Fumar y usar tabaco Exponerse demasiado al sol Beber demasiado alcohol No realizar suficiente actividad física Tener obesidad NIH: Instituto Nacional del Cáncer",
+  "synonyms": [],
+  "groups": [
+    "Cánceres"
+  ],
+  "related_topics": [
+    {
+      "title": "Cáncer: Viviendo con cáncer",
+      "url": "https://medlineplus.gov/spanish/cancerlivingwithcancer.html",
+      "id": "2245"
+    },
+    {
+      "title": "Quimioterapia para el cáncer",
+      "url": "https://medlineplus.gov/spanish/cancerchemotherapy.html",
+      "id": "1795"
+    },
+    {
+      "title": "Radioterapia",
+      "url": "https://medlineplus.gov/spanish/radiationtherapy.html",
+      "id": "2725"
+    },
+    {
+      "title": "Terapia alternativa para el cáncer",
+      "url": "https://medlineplus.gov/spanish/canceralternativetherapies.html",
+      "id": "3193"
+    }
+  ],
+  "see_references": [
+    "Carcinoma",
+    "Malignidad",
+    "Neoplasmas",
+    "Oncología",
+    "Tumor"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional del Cáncer",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NCI"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/cancer.html"
+}

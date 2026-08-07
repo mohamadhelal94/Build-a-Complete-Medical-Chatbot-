@@ -1,0 +1,41 @@
+{
+  "id": "2091",
+  "title": "Enfermedades de la glándula pituitaria",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "La pituitaria es la \"glándula de control maestro\": produce hormonas que afectan las funciones de otras glándulas. Condiciones que pueden afectarla aquí.",
+  "summary": "La glándula pituitaria es una glándula del tamaño de un guisante que se encuentra en la base del cerebro. La pituitaria es la \"glándula de control maestro\" - produce hormonas que afectan el crecimiento y las funciones de las otras glándulas del cuerpo. Una enfermedad de la glándula pituitaria puede causar la producción de pocas o muchas hormonas. Algunas lesiones pueden causar trastornos de la glándula pituitaria, pero la causa más común es un tumor .",
+  "synonyms": [
+    "Enfermedades pituitarias"
+  ],
+  "groups": [
+    "Cerebro y nervios",
+    "Sistema endocrino"
+  ],
+  "related_topics": [
+    {
+      "title": "Tumores de la glándula pituitaria",
+      "url": "https://medlineplus.gov/spanish/pituitarytumors.html",
+      "id": "5329"
+    }
+  ],
+  "see_references": [
+    "Acromegalia",
+    "Craneofaringioma",
+    "Galactorrea",
+    "Glándula pituitaria, Enfermedades de la",
+    "Hipopituitarismo",
+    "Hipófisis, Infarto de la",
+    "Pituitario, Tumor",
+    "Prolactinoma"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NINDS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/pituitarydisorders.html"
+}

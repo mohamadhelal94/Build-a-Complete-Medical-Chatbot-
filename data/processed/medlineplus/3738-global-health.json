@@ -1,0 +1,33 @@
+{
+  "id": "3738",
+  "title": "Global Health",
+  "language": "English",
+  "date_created": "03/16/2004",
+  "meta_description": "The spread of a disease does not stop at a country's borders. Read about the common diseases that impact global health such as HIV and malaria.",
+  "summary": "The spread of a disease doesn't stop at a country's borders. With more people living in crowded cities and traveling to other countries, it's easier for germs to spread. Infectious diseases that start in one part of the world can quickly reach another part of the world. Some of the major diseases currently affecting countries around the globe include HIV , malaria , COVID-19 , and tuberculosis . Besides the spread of diseases, there are other global health challenges. Resistance to medicines such as antibiotics is on the rise. That makes it harder to treat certain diseases. Natural and man-made disasters create refugee populations with immediate and long-term health problems. Climate change and not enough access to food and safe water are also global problems which can affect people's health. Many countries and health organizations are working together and sharing information on these and other health issues.",
+  "synonyms": [
+    "International health"
+  ],
+  "groups": [
+    "Health System"
+  ],
+  "related_topics": [
+    {
+      "title": "Traveler's Health",
+      "url": "https://medlineplus.gov/travelershealth.html",
+      "id": "444"
+    }
+  ],
+  "see_references": [
+    "International health"
+  ],
+  "primary_institutes": [],
+  "mesh_terms": [
+    {
+      "name": "Global Health",
+      "id": "D014943"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/globalhealth.html"
+}

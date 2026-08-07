@@ -1,0 +1,41 @@
+{
+  "id": "1730",
+  "title": "Contaminación del aire",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Las emisiones de automóviles, los compuestos químicos de las fábricas, el polvo, polen y esporas de moho pueden contaminar el aire. Efectos en la salud.",
+  "summary": "La contaminación del aire es una mezcla de partículas sólidas y gases en el aire. Las emisiones de los automóviles, los compuestos químicos de las fábricas, el polvo, el polen y las esporas de moho pueden estar suspendidas como partículas. El ozono , un gas, es un componente fundamental de la contaminación del aire en las ciudades. Cuando el ozono forma la contaminación del aire también se denomina smog . Algunos contaminantes del aire son tóxicos. Su inhalación puede aumentar las posibilidades de tener problemas de salud. Las personas con enfermedades del corazón o de pulmón, los adultos de más edad y los niños tienen mayor riesgo de tener problemas por la contaminación del aire. La polución del aire no ocurre solamente en el exterior: el aire en el interior de los edificios también puede estar contaminado y afectar su salud. Agencia de Protección Ambiental",
+  "synonyms": [
+    "Polución del aire"
+  ],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental"
+  ],
+  "related_topics": [
+    {
+      "title": "Contaminación de interiores",
+      "url": "https://medlineplus.gov/spanish/indoorairpollution.html",
+      "id": "1973"
+    },
+    {
+      "title": "Ozono",
+      "url": "https://medlineplus.gov/spanish/ozone.html",
+      "id": "2070"
+    },
+    {
+      "title": "Salud ambiental",
+      "url": "https://medlineplus.gov/spanish/environmentalhealth.html",
+      "id": "1887"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de las Ciencias de Salud Ambiental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIEHS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/airpollution.html"
+}

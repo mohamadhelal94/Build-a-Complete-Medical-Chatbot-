@@ -1,0 +1,39 @@
+{
+  "id": "2037",
+  "title": "Moho",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Si tiene áreas húmedas en su casa, probablemente encontrará moho. Algunos tipos de moho pueden causar problemas de salud. Entérese aquí.",
+  "summary": "El moho está formado por hongos que pueden encontrarse en exteriores o interiores. Crecen mejor en condiciones cálidas, mojadas y húmedas. Si tiene lugares mojados o húmedos en su casa, probablemente tendrá hongos. El moho puede causarle problemas de salud. Inhalar o tocar moho o esporas de moho puede causar reacciones alérgicas o crisis de asma en personas sensibles. También puede causar infecciones micóticas . Además, la exposición al moho puede irritarle los ojos, la piel, la nariz, la garganta y los pulmones. Centros para el Control y la Prevención de Enfermedades",
+  "synonyms": [],
+  "groups": [
+    "Envenenamientos, toxicología y salud ambiental"
+  ],
+  "related_topics": [
+    {
+      "title": "Aspergilosis",
+      "url": "https://medlineplus.gov/spanish/aspergillosis.html",
+      "id": "5629"
+    },
+    {
+      "title": "Fiebre del valle",
+      "url": "https://medlineplus.gov/spanish/valleyfever.html",
+      "id": "5635"
+    },
+    {
+      "title": "Histoplasmosis",
+      "url": "https://medlineplus.gov/spanish/histoplasmosis.html",
+      "id": "5633"
+    },
+    {
+      "title": "Infecciones por hongos",
+      "url": "https://medlineplus.gov/spanish/fungalinfections.html",
+      "id": "1914"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/molds.html"
+}

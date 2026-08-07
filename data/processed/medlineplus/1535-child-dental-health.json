@@ -1,0 +1,54 @@
+{
+  "id": "1535",
+  "title": "Child Dental Health",
+  "language": "English",
+  "date_created": "08/23/2001",
+  "meta_description": "Healthy teeth and gums are important to your child's overall health. Good dental habits and proper oral care can help prevent tooth decay and cavities.",
+  "summary": "Healthy teeth are important to your child's overall health. From the time your child is born, there are things you can do to promote healthy teeth and prevent cavities . For babies, you should clean teeth with a soft, clean cloth or baby's toothbrush. Avoid putting the baby to bed with a bottle and check teeth regularly for spots or stains. For all children, you should: Start using a pea-sized amount of fluoride toothpaste when they are two years old. You might start sooner, if a dentist or doctor suggests it. Provide healthy foods and limit sweet snacks and drinks Schedule regular dental check-ups Forming good habits at a young age can help your child have healthy teeth for life. NIH: National Institute of Dental and Craniofacial Research",
+  "synonyms": [],
+  "groups": [
+    "Children and Teenagers",
+    "Mouth and Teeth"
+  ],
+  "related_topics": [
+    {
+      "title": "Dental Health",
+      "url": "https://medlineplus.gov/dentalhealth.html",
+      "id": "28"
+    },
+    {
+      "title": "Gum Disease",
+      "url": "https://medlineplus.gov/gumdisease.html",
+      "id": "266"
+    },
+    {
+      "title": "Orthodontia",
+      "url": "https://medlineplus.gov/orthodontia.html",
+      "id": "3614"
+    },
+    {
+      "title": "Tooth Decay",
+      "url": "https://medlineplus.gov/toothdecay.html",
+      "id": "5951"
+    }
+  ],
+  "see_references": [
+    "Dental Health, Child",
+    "Dental Sealants",
+    "Oral Health, Child"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Dental and Craniofacial Research",
+      "url": "http://www.nidcr.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Dental Care for Children",
+      "id": "D019140"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/childdentalhealth.html"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "3539",
+  "title": "Suplementos en la dieta",
+  "language": "Spanish",
+  "date_created": "10/06/2003",
+  "meta_description": "Los suplementos dietéticos contienen vitaminas y minerales. Entérese sobre la efectividad de estos suplementos y cómo usarlos en forma segura.",
+  "summary": "Los suplementos en la dieta son vitaminas , minerales , hierbas y muchos otros productos. Pueden encontrarse en forma de pastillas, cápsulas, polvos, líquidos y barras energéticas. Los suplementos no necesitan ser sometidos a las pruebas que requieren los fármacos. Algunos suplementos pueden tener un papel importante en la salud. Por ejemplo, el calcio y la vitamina D son importantes para mantener unos huesos fuertes. Las mujeres embarazadas pueden tomar la vitamina ácido fólico para prevenir algunos defectos congénitos en sus bebés. Para tomar un suplemento con la mayor seguridad posible: Dígale al médico los suplementos que consume No tome dosis más altas que las recomendadas en la etiqueta Consulte con su proveedor de salud sobre los suplementos que toma si se va a someter a alguna cirugía Lea información confiable acerca del suplemento NIH: Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud",
+  "synonyms": [
+    "Suplementos dietarios",
+    "Suplementos dietéticos"
+  ],
+  "groups": [
+    "Alimentos y nutrición",
+    "Terapias complementarias y alternativas"
+  ],
+  "related_topics": [
+    {
+      "title": "Antioxidantes",
+      "url": "https://medlineplus.gov/spanish/antioxidants.html",
+      "id": "1751"
+    },
+    {
+      "title": "Calcio",
+      "url": "https://medlineplus.gov/spanish/calcium.html",
+      "id": "2781"
+    },
+    {
+      "title": "Medicina complementaria e integral",
+      "url": "https://medlineplus.gov/spanish/complementaryandintegrativemedicine.html",
+      "id": "1735"
+    },
+    {
+      "title": "Medicina herbaria",
+      "url": "https://medlineplus.gov/spanish/herbalmedicine.html",
+      "id": "1951"
+    },
+    {
+      "title": "Vitaminas",
+      "url": "https://medlineplus.gov/spanish/vitamins.html",
+      "id": "2223"
+    },
+    {
+      "title": "Ácido fólico",
+      "url": "https://medlineplus.gov/spanish/folicacid.html",
+      "id": "1907"
+    }
+  ],
+  "see_references": [
+    "Dieta, Suplementos",
+    "Oligoelementos"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Oficina de Suplementos Dietéticos",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#ODS"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/dietarysupplements.html"
+}

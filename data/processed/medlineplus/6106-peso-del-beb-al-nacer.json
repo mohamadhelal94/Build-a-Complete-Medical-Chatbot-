@@ -1,0 +1,43 @@
+{
+  "id": "6106",
+  "title": "Peso del bebé al nacer",
+  "language": "Spanish",
+  "date_created": "01/29/2013",
+  "meta_description": "El peso de su bebé al nacer es el que le toman inmediatamente después de haber nacido. ¿Cuándo se considera de peso bajo o elevado? Entérese aquí.",
+  "summary": "¿Qué es el peso del bebé al nacer? El peso al nacer es el primer peso del bebé, tomado justo después de nacer. Un bajo peso al nacer significa que el bebé pesa menos de 5 libras y 8 onzas (2.5 kg). Un peso alto al nacer significa que el bebé pesa más de 8 libras y 13 onzas (4 kg). ¿Qué puede causar un bajo peso al nacer? Un bebé con bajo peso al nacer puede nacer demasiado pequeño, demasiado temprano ( prematuro ) o ambos. Esto puede ocurrir por muchas razones diferentes, incluyendo: Problemas de salud en persona gestante (embarazada) Tomar ciertos medicamentos durante el embarazo Consumir sustancias durante el embarazo Tener infecciones durante el embarazo Estar embarazada de más de un bebé Tener problemas con la placenta, el órgano que lleva oxígeno y nutrientes al bebé Tener padres pequeños Trastornos genéticos en el bebé Defectos de nacimiento ¿Qué problemas puede causar el bajo peso al nacer? Los bebés con bajo peso al nacer pueden tener más riesgo de sufrir ciertos problemas de salud. Incluyen problemas inmediatos, como: Problemas respiratorios Infecciones Hipoglucemia (bajo nivel de azúcar en la sangre) Ictericia Problemas para mantener su temperatura También existe un mayor riesgo de problemas a más largo plazo, incluyendo: Retraso en el desarrollo motor y social Problemas del aprendizaje Ciertos problemas de salud en la edad adulta, como enfermedades cardíacas , presión arterial alta , diabetes y obesidad ¿Qué puede causar el alto peso al nacer? Las causas del alto peso al nacer pueden incluir: Tener padres grandes Diabetes durante el embarazo (diabetes gestacional) Ciertas afecciones genéticas Subir demasiado de peso durante el embarazo ¿Qué problemas puede causar el alto peso al nacer? El alto peso al nacer puede ser una preocupación porque puede dificultar el parto y aumentar el riesgo de lesiones al dar a luz. El bebé tiene un mayor riesgo de tener problemas de: Azúcar en la sangre Respiratorios Ictericia ¿Se pueden prevenir los problemas de peso al nacer? Es posible que pueda prevenir algunos problemas de peso al nacer al: Hacerse chequeos regulares durante el embarazo Obtener la nutrición y calorías recomendadas durante el embarazo Controlar su nivel de azúcar en la sangre si tiene diabetes Evitar el consumo de sustancias durante el embarazo",
+  "synonyms": [
+    "Edad gestacional",
+    "Peso al nacimiento",
+    "Peso del recién nacido"
+  ],
+  "groups": [
+    "Niños y adolescentes",
+    "Embarazo y reproducción"
+  ],
+  "related_topics": [
+    {
+      "title": "Bebé prematuro",
+      "url": "https://medlineplus.gov/spanish/prematurebabies.html",
+      "id": "2106"
+    },
+    {
+      "title": "Problemas poco comunes de los recién nacidos",
+      "url": "https://medlineplus.gov/spanish/uncommoninfantandnewbornproblems.html",
+      "id": "5432"
+    }
+  ],
+  "see_references": [
+    "Edad gestacional",
+    "Nacer, Peso al",
+    "Recién nacido, Peso del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de Salud Infantil y Desarrollo Humano, Eunice Kennedy Shriver",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NICHD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/birthweight.html"
+}

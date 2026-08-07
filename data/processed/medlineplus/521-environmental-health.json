@@ -1,0 +1,89 @@
+{
+  "id": "521",
+  "title": "Environmental Health",
+  "language": "English",
+  "date_created": "01/18/2000",
+  "meta_description": "There are hidden dangers in the environment that can affect our health.  Find out about environmental health, including man-made and natural risks.",
+  "summary": "Our environment affects our health. If parts of the environment, like the air , water , or soil become polluted, it can lead to health problems. For example, asthma pollutants and chemicals in the air or in the home can trigger asthma attacks. Some environmental risks are a part of the natural world, like radon in the soil. Others are the result of human activities, like lead poisoning from paint, or exposure to asbestos or mercury from mining or industrial use. NIH: National Institute of Environmental Health Sciences",
+  "synonyms": [],
+  "groups": [
+    "Poisoning, Toxicology, Environmental Health"
+  ],
+  "related_topics": [
+    {
+      "title": "Air Pollution",
+      "url": "https://medlineplus.gov/airpollution.html",
+      "id": "130"
+    },
+    {
+      "title": "Drinking Water",
+      "url": "https://medlineplus.gov/drinkingwater.html",
+      "id": "1435"
+    },
+    {
+      "title": "Electromagnetic Fields",
+      "url": "https://medlineplus.gov/electromagneticfields.html",
+      "id": "899"
+    },
+    {
+      "title": "Indoor Air Pollution",
+      "url": "https://medlineplus.gov/indoorairpollution.html",
+      "id": "1537"
+    },
+    {
+      "title": "Lead Poisoning",
+      "url": "https://medlineplus.gov/leadpoisoning.html",
+      "id": "608"
+    },
+    {
+      "title": "Molds",
+      "url": "https://medlineplus.gov/molds.html",
+      "id": "1538"
+    },
+    {
+      "title": "Noise",
+      "url": "https://medlineplus.gov/noise.html",
+      "id": "500"
+    },
+    {
+      "title": "Occupational Health",
+      "url": "https://medlineplus.gov/occupationalhealth.html",
+      "id": "347"
+    },
+    {
+      "title": "Oil Spills",
+      "url": "https://medlineplus.gov/oilspills.html",
+      "id": "5554"
+    },
+    {
+      "title": "Pesticides",
+      "url": "https://medlineplus.gov/pesticides.html",
+      "id": "498"
+    },
+    {
+      "title": "Radiation Exposure",
+      "url": "https://medlineplus.gov/radiationexposure.html",
+      "id": "379"
+    },
+    {
+      "title": "Water Pollution",
+      "url": "https://medlineplus.gov/waterpollution.html",
+      "id": "3172"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "National Institute of Environmental Health Sciences",
+      "url": "http://www.niehs.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Environmental Health",
+      "id": "D004782"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/environmentalhealth.html"
+}

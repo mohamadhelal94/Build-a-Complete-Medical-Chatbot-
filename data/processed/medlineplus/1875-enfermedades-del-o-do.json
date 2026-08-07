@@ -1,0 +1,46 @@
+{
+  "id": "1875",
+  "title": "Enfermedades del oído",
+  "language": "Spanish",
+  "date_created": "07/21/2002",
+  "meta_description": "Si bien suelen darse en los niños, los adultos también pueden tener infecciones en los oídos. La que afecta al oído medio se llama otitis. Infórmese aquí.",
+  "summary": "El oído tiene tres partes principales: externo, medio e interno. Para oír se utilizan todas ellas. Las ondas sonoras entran por el oído externo. Llegan al oído medio, donde hacen vibrar el tímpano. Las vibraciones se transmiten a través de tres huesos diminutos llamados osículos que se encuentran en el oído medio. Las vibraciones viajan hacia el oído interno, un órgano curvilíneo con forma de serpiente. El oído interno transmite los impulsos nerviosos hasta el cerebro. El cerebro los identifica como sonidos. El oído interno también controla el equilibrio. Muchas enfermedades pueden afectar el oído o el equilibrio : Infecciones de oído son las más comunes en bebés y niños pequeños. Tinnitus , un rumor que se escucha en el oído y que puede ser a consecuencia de ruidos fuertes, medicinas o algunas otras causas. Enfermedad de Ménière puede resultar debido a problemas con líquidos en el oído medio; sus síntomas incluyen tinnitus y vértigo. Barotrauma del oído, que es una lesión al oído a causa de cambios en la presión barométrica (aire) o del agua. Algunas enfermedades del oído pueden terminar en problemas de la audición y sordera .",
+  "synonyms": [],
+  "groups": [
+    "Oído, nariz y garganta"
+  ],
+  "related_topics": [
+    {
+      "title": "Enfermedad de Ménière",
+      "url": "https://medlineplus.gov/spanish/menieresdisease.html",
+      "id": "2263"
+    },
+    {
+      "title": "Infecciones de los oídos",
+      "url": "https://medlineplus.gov/spanish/earinfections.html",
+      "id": "1876"
+    },
+    {
+      "title": "Neuroma acústico",
+      "url": "https://medlineplus.gov/spanish/acousticneuroma.html",
+      "id": "2251"
+    },
+    {
+      "title": "Problemas de la audición y sordera",
+      "url": "https://medlineplus.gov/spanish/hearingdisordersanddeafness.html",
+      "id": "1939"
+    }
+  ],
+  "see_references": [
+    "Oído, Enfermedades del"
+  ],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Sordera y otros Trastornos de la Comunicación",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIDCD"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/eardisorders.html"
+}

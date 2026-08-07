@@ -1,0 +1,34 @@
+{
+  "id": "6064",
+  "title": "Trastornos del estado de ánimo",
+  "language": "Spanish",
+  "date_created": "01/09/2013",
+  "meta_description": "Muchas personas se sienten tristes de vez en cuando, pero los trastornos del estado de ánimo afectan a diario el estado emocional de una persona. Más aquí.",
+  "summary": "Algunas personas se sienten tristes o irritables de vez en cuando y pueden decir que están de mal humor. Los trastornos del estado de ánimo son diferentes porque afectan a diario el estado emocional de la persona. Aproximadamente, una de cada 10 personas mayores de 18 años, tiene un trastorno del estado de ánimo. Estos trastornos incluyen depresión y trastorno bipolar (también conocido como depresión maníaca) Los trastornos del estado de ánimo pueden incrementar los riesgos de enfermedades del corazón, diabetes y otras enfermedades en una persona. Los tratamientos incluyen medicinas, psicoterapia o la combinación de los dos. La mayoría de las personas con trastornos del estado de ánimo pueden llevar una vida productiva con el tratamiento adecuado.",
+  "synonyms": [],
+  "groups": [
+    "Salud mental y conducta"
+  ],
+  "related_topics": [
+    {
+      "title": "Depresión",
+      "url": "https://medlineplus.gov/spanish/depression.html",
+      "id": "1848"
+    },
+    {
+      "title": "Trastorno bipolar",
+      "url": "https://medlineplus.gov/spanish/bipolardisorder.html",
+      "id": "1772"
+    }
+  ],
+  "see_references": [],
+  "primary_institutes": [
+    {
+      "name": "Instituto Nacional de la Salud Mental",
+      "url": "https://medlineplus.gov/spanish/nihinstitutes.html#NIMH"
+    }
+  ],
+  "mesh_terms": [],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/spanish/mooddisorders.html"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "3077",
+  "title": "Breathing Problems",
+  "language": "English",
+  "date_created": "12/19/2002",
+  "meta_description": "When you have breathing problems, such as shortness of breath, it's hard for you to take in the oxygen your body needs.  Find out what can cause this.",
+  "summary": "When you're short of breath, it's hard or uncomfortable for you to take in the oxygen your body needs. You may feel as if you're not getting enough air. Sometimes you can have mild breathing problems because of a stuffy nose or intense exercise. But shortness of breath can also be a sign of a serious disease. Many conditions can make you feel short of breath: Lung conditions such as asthma , emphysema , or pneumonia Problems with your trachea or bronchi , which are part of your airway system Heart disease can make you feel breathless if your heart cannot pump enough blood to supply oxygen to your body Anxiety and panic attacks Allergies If you often have trouble breathing, it is important to find out the cause.",
+  "synonyms": [],
+  "groups": [
+    "Lungs and Breathing",
+    "Symptoms"
+  ],
+  "related_topics": [
+    {
+      "title": "Acute Bronchitis",
+      "url": "https://medlineplus.gov/acutebronchitis.html",
+      "id": "5755"
+    },
+    {
+      "title": "Asthma",
+      "url": "https://medlineplus.gov/asthma.html",
+      "id": "2"
+    },
+    {
+      "title": "Bronchial Disorders",
+      "url": "https://medlineplus.gov/bronchialdisorders.html",
+      "id": "5977"
+    },
+    {
+      "title": "Chronic Bronchitis",
+      "url": "https://medlineplus.gov/chronicbronchitis.html",
+      "id": "1608"
+    },
+    {
+      "title": "COPD",
+      "url": "https://medlineplus.gov/copd.html",
+      "id": "27"
+    },
+    {
+      "title": "Heart Failure",
+      "url": "https://medlineplus.gov/heartfailure.html",
+      "id": "199"
+    },
+    {
+      "title": "Lung Diseases",
+      "url": "https://medlineplus.gov/lungdiseases.html",
+      "id": "484"
+    },
+    {
+      "title": "Sleep Apnea",
+      "url": "https://medlineplus.gov/sleepapnea.html",
+      "id": "2784"
+    }
+  ],
+  "see_references": [
+    "Dyspnea",
+    "Shortness of Breath",
+    "Tachypnea"
+  ],
+  "primary_institutes": [
+    {
+      "name": "National Heart, Lung, and Blood Institute",
+      "url": "http://www.nhlbi.nih.gov/"
+    }
+  ],
+  "mesh_terms": [
+    {
+      "name": "Tachypnea",
+      "id": "D059246"
+    },
+    {
+      "name": "Dyspnea",
+      "id": "D004417"
+    }
+  ],
+  "source": "MedlinePlus",
+  "source_url": "https://medlineplus.gov/breathingproblems.html"
+}
