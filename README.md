@@ -1,31 +1,43 @@
-# 🩺 Medical Chatbot using RAG, GPT-4o mini, LangChain & Pinecone
+# 🩺 AI Medical Chatbot using RAG, GPT-4o mini, LangChain & Pinecone
 
-A production-ready AI-powered Medical Chatbot built with **Retrieval-Augmented Generation (RAG)**. The application retrieves relevant medical knowledge from a Pinecone vector database and generates accurate, context-aware responses using **OpenAI GPT-4o mini**.
+An AI-powered multilingual Medical Chatbot built using **Retrieval-Augmented Generation (RAG)**. The application retrieves trusted medical information from a Pinecone vector database and generates context-aware responses using **OpenAI GPT-4o mini**.
 
-The project is fully containerized with Docker and deployed on **AWS EC2** using **Amazon ECR** and **GitHub Actions** for automated CI/CD.
+The chatbot supports **multi-turn conversations**, **structured symptom extraction**, **medical risk assessment**, **automatic detection of new medical complaints**, and **multilingual interaction** while grounding responses in retrieved medical knowledge.
+
+The project is containerized with Docker and can be deployed on **AWS EC2** using **Amazon ECR** and **GitHub Actions** for automated CI/CD.
 
 ---
 
-## 🚀 Live Architecture
+# 🚀 Architecture
 
 ```text
-                User
-                  │
-                  ▼
-          Flask Web Application
-                  │
-                  ▼
-          LangChain RAG Pipeline
-                  │
-      ┌───────────┴───────────┐
-      │                       │
-      ▼                       ▼
-Pinecone Vector DB      GPT-4o mini
-(HuggingFace Embeddings)   (OpenAI)
-      │                       │
-      └───────────┬───────────┘
-                  ▼
-          Medical Response
+                           User
+                             │
+                             ▼
+                    Flask Web Application
+                             │
+                             ▼
+                  Conversation Management
+                             │
+              ┌──────────────┴──────────────┐
+              ▼                             ▼
+    Structured Symptom Extraction   New Complaint Detection
+              │                             │
+              └──────────────┬──────────────┘
+                             ▼
+                 Medical Risk Assessment
+                             │
+                             ▼
+               History-Aware RAG Retrieval
+                             │
+               ┌─────────────┴─────────────┐
+               ▼                           ▼
+      Pinecone Vector Database       GPT-4o mini
+      (Medical Knowledge Base)         (OpenAI)
+               │                           │
+               └─────────────┬─────────────┘
+                             ▼
+            Grounded Medical Response + Sources
 ```
 
 ---
@@ -39,40 +51,65 @@ Pinecone Vector DB      GPT-4o mini
 - Hugging Face sentence-transformer embeddings
 - Semantic similarity search
 - LangChain retrieval pipeline
+- Structured symptom extraction
+- Multi-turn medical conversations
+- Automatic detection of new medical complaints
+- Medical risk assessment
+- Emergency symptom detection
+- Intelligent follow-up questions
+- Context-aware conversation memory
+- Retrieval query translation into English
+- Automatic reranking of retrieved documents
+- Medical source citations
+- Multilingual support
 - Flask web interface
 - Docker containerization
 - AWS EC2 deployment
-- Amazon ECR container registry
+- Amazon ECR
 - GitHub Actions CI/CD
-- Production deployment with Gunicorn
+- Gunicorn production deployment
+
+---
+
+# 🌍 Supported Languages
+
+The chatbot automatically understands and responds in:
+
+- 🇺🇸 English
+- 🇸🇪 Swedish
+- 🇪🇸 Spanish
+- 🇸🇦 Arabic
+
+Medical retrieval is performed in English while responses are generated in the user's preferred language.
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend
+## Backend
 
 - Python 3.10
 - Flask
 - Gunicorn
 
-### AI / LLM
+## AI / LLM
 
 - OpenAI GPT-4o mini
 - LangChain
+- Pydantic
 - Hugging Face Embeddings
 - sentence-transformers/all-MiniLM-L6-v2
 
-### Vector Database
+## Vector Database
 
 - Pinecone
 
-### Cloud
+## Cloud
 
 - AWS EC2
 - Amazon ECR
 
-### DevOps
+## DevOps
 
 - Docker
 - GitHub Actions
@@ -81,31 +118,44 @@ Pinecone Vector DB      GPT-4o mini
 
 # 📂 Project Structure
 
-```
+```text
 Build-a-Complete-Medical-Chatbot
 │
 ├── app.py
 ├── store_index.py
 ├── requirements.txt
 ├── Dockerfile
-├── .github/
-│   └── workflows/
+├── README.md
+│
 ├── src/
 │   ├── helper.py
 │   └── prompt.py
+│
 ├── templates/
 │   └── chat.html
+│
 ├── static/
 │   └── style.css
+│
+├── scripts/
+│   ├── parse_medlineplus.py
+│   ├── build_topic_catalog.py
+│   ├── map_topics_to_medlineplus.py
+│   └── build_curated_documents.py
+│
 ├── data/
-└── README.md
+│   ├── raw/
+│   └── processed/
+│
+└── .github/
+    └── workflows/
 ```
 
 ---
 
 # ⚙️ Installation
 
-## Clone the repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-.git
@@ -137,13 +187,13 @@ pip install -r requirements.txt
 
 ---
 
-## Create a `.env` file
+## Create Environment File
+
+Create a `.env` file:
 
 ```env
 PINECONE_API_KEY=your_pinecone_api_key
-
 OPENAI_API_KEY=your_openai_api_key
-
 OPENAI_MODEL=gpt-4o-mini
 ```
 
@@ -163,7 +213,7 @@ python store_index.py
 python app.py
 ```
 
-Open:
+Open your browser:
 
 ```
 http://localhost:8000
@@ -171,14 +221,61 @@ http://localhost:8000
 
 ---
 
-# 🧠 How the RAG Pipeline Works
+# 🧠 AI Pipeline
 
-1. User submits a medical question.
-2. The question is converted into embeddings.
-3. Pinecone retrieves the most relevant document chunks.
-4. Retrieved context is combined with the user question.
-5. GPT-4o mini generates a grounded response.
-6. The chatbot returns the final answer.
+The chatbot follows a multi-stage AI pipeline:
+
+```text
+User Question
+        │
+        ▼
+Conversation Analysis
+        │
+        ▼
+Structured Symptom Extraction
+        │
+        ▼
+Medical Risk Assessment
+        │
+        ▼
+Medical Topic Detection
+        │
+        ▼
+Query Translation (English)
+        │
+        ▼
+Pinecone Retrieval
+        │
+        ▼
+Document Reranking
+        │
+        ▼
+History-Aware RAG
+        │
+        ▼
+GPT-4o mini
+        │
+        ▼
+Medical Response + Source Citations
+```
+
+---
+
+# 🧠 Intelligent Medical Features
+
+The chatbot includes several AI-powered capabilities:
+
+- Structured symptom extraction
+- Multi-turn conversations
+- Automatic follow-up question generation
+- Detection of new medical complaints
+- Medical risk assessment
+- Emergency symptom detection
+- Retrieval query translation
+- Context-aware RAG retrieval
+- Intelligent document reranking
+- Medical source attribution
+- Multilingual conversations
 
 ---
 
@@ -186,25 +283,26 @@ http://localhost:8000
 
 The project is deployed using Docker on AWS.
 
-Deployment pipeline:
-
-```
+```text
 GitHub
-    │
-    ▼
+   │
+   ▼
 GitHub Actions
-    │
-    ▼
+   │
+   ▼
 Docker Build
-    │
-    ▼
+   │
+   ▼
 Amazon ECR
-    │
-    ▼
+   │
+   ▼
 AWS EC2
-    │
-    ▼
-Gunicorn + Flask
+   │
+   ▼
+Gunicorn
+   │
+   ▼
+Flask Application
 ```
 
 ---
@@ -213,47 +311,56 @@ Gunicorn + Flask
 
 GitHub Actions automatically:
 
-- Builds the Docker image
-- Pushes the image to Amazon ECR
-- Deploys the latest version to AWS EC2
+- Build the Docker image
+- Push the image to Amazon ECR
+- Deploy the latest version to AWS EC2
 
 ---
 
 # 📈 Performance
 
-The chatbot was optimized by replacing a local CPU-hosted model with GPT-4o mini.
-
 | Version | Average Response Time |
-|----------|----------------------:|
+|---------|----------------------:|
 | Ollama (CPU) | 20–40 seconds |
-| GPT-4o mini | ~1.8 seconds |
+| GPT-4o mini | ~1–2 seconds |
 
 ---
 
 # 📸 Screenshots
 
-You can add screenshots here after deployment.
-
-Example:
+Example screenshots:
 
 ```
 screenshots/home.png
 
 screenshots/chat.png
+
+screenshots/emergency.png
 ```
 
 ---
 
 # 🔮 Future Improvements
 
-- Conversation memory
-- Source citations
+- Voice input
 - Streaming responses
-- Chat history
+- Medical image analysis
+- PDF medical report analysis
 - User authentication
-- Dark mode
+- Conversation persistence
 - Better UI/UX
-- Multi-language support
+- Dark mode
+- Physician dashboard
+
+---
+
+# ⚠️ Medical Disclaimer
+
+This chatbot is designed to provide **general medical information and educational guidance only**.
+
+It **does not diagnose diseases**, replace professional medical advice, or substitute consultation with a qualified healthcare provider.
+
+For medical emergencies, users should immediately contact their local emergency services or seek urgent medical care.
 
 ---
 
@@ -265,6 +372,7 @@ screenshots/chat.png
 - OpenAI GPT-4o mini
 - Hugging Face
 - Pinecone
+- Pydantic
 - Docker
 - AWS EC2
 - Amazon ECR
@@ -276,10 +384,10 @@ screenshots/chat.png
 
 **Mohamad Abou Helal**
 
-GitHub:
+GitHub
 
 https://github.com/mohamadhelal94
 
-LinkedIn:
+LinkedIn
 
 https://www.linkedin.com/in/mohamad-abou-helal/
