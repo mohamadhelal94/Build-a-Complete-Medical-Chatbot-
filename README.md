@@ -1,10 +1,30 @@
-# 🩺 AI Medical Chatbot using RAG, GPT-4o mini, LangChain & Pinecone
+# 🩺 AI Medical Chatbot (RAG) | GPT-4o mini, LangChain, Pinecone & AWS
 
-An AI-powered multilingual medical information chatbot built using **Retrieval-Augmented Generation (RAG)**. The application retrieves relevant medical information from a Pinecone vector database built from **MedlinePlus-based content** and generates context-aware responses using **OpenAI GPT-4o mini**.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-3.1-lightgrey)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o_mini-black)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-blueviolet)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
+![AWS](https://img.shields.io/badge/AWS-EC2_|_ECR-orange)
 
-The chatbot supports **multi-turn conversations**, **structured symptom extraction**, **medical risk assessment**, **automatic detection of new medical complaints**, **intelligent follow-up questions**, and **multilingual interaction** while grounding responses in retrieved medical knowledge.
+---
 
-The project is containerized with Docker and includes deployment support for **AWS EC2**, **Amazon ECR**, and **GitHub Actions** for automated CI/CD.
+An AI-powered multilingual medical information chatbot built using **Retrieval-Augmented Generation (RAG)**.
+
+The application retrieves relevant medical information from a **Pinecone vector database** built from curated **MedlinePlus-based medical content** and generates context-aware responses using **OpenAI GPT-4o mini**.
+
+The chatbot supports:
+
+- Multi-turn conversations
+- Structured symptom extraction
+- Medical risk assessment
+- Automatic detection of new medical complaints
+- Intelligent follow-up questions
+- Multilingual conversations
+- Source-grounded medical responses
+
+The project is containerized with Docker and deployed using **AWS EC2**, **Amazon ECR**, and **GitHub Actions** for automated CI/CD.
 
 ---
 
@@ -68,10 +88,27 @@ The project is containerized with Docker and includes deployment support for **A
 - Multilingual support
 - Flask web interface
 - Docker containerization
-- AWS EC2 deployment support
+- AWS EC2 deployment
 - Amazon ECR
 - GitHub Actions CI/CD
 - Gunicorn production server
+
+---
+
+# 🎯 Current Capabilities
+
+The chatbot currently supports:
+
+- Retrieval-Augmented Generation (RAG)
+- Context-aware medical conversations
+- Structured symptom extraction
+- Medical risk assessment
+- Emergency symptom prioritization
+- Automatic follow-up questions
+- Retrieval query translation
+- Intelligent document reranking
+- Source-grounded medical responses
+- Multilingual conversations (English, Swedish, Spanish and Arabic)
 
 ---
 
@@ -84,7 +121,7 @@ The chatbot automatically understands and responds in:
 - 🇪🇸 Spanish
 - 🇸🇦 Arabic
 
-Medical retrieval is performed in English while responses are generated in the user's preferred language.
+Medical retrieval is performed in English, while responses are generated in the user's preferred language.
 
 ---
 
@@ -176,9 +213,6 @@ cd Build-a-Complete-Medical-Chatbot-
 
 ```bash
 conda create -n medibot python=3.10 -y
-```
-
-```bash
 conda activate medibot
 ```
 
@@ -218,7 +252,7 @@ python store_index.py
 python app.py
 ```
 
-Open your browser:
+Open:
 
 ```
 http://localhost:8000
@@ -264,27 +298,9 @@ Medical Response + Source Citations
 
 ---
 
-# 🧠 Intelligent Medical Features
-
-The chatbot includes several AI-powered capabilities:
-
-- Structured symptom extraction
-- Context-aware multi-turn conversations
-- Automatic follow-up question generation
-- Automatic detection of new medical complaints
-- Medical risk assessment
-- Emergency symptom detection
-- Retrieval query translation
-- Intelligent document reranking
-- History-aware retrieval
-- Medical source attribution
-- Multilingual conversations
-
----
-
 # 📚 Medical Knowledge Base
 
-The chatbot retrieves information from a medical knowledge base built using **MedlinePlus-based content**.
+The chatbot retrieves information from a curated medical knowledge base built using **MedlinePlus-based medical content**.
 
 The pipeline:
 
@@ -298,7 +314,9 @@ The pipeline:
 
 # ☁️ AWS Deployment
 
-The project includes deployment support for Docker on AWS.
+The application is containerized with Docker and deployed on AWS using Amazon EC2.
+
+Deployment pipeline:
 
 ```text
 GitHub
@@ -326,15 +344,15 @@ Flask Application
 
 # 🔄 CI/CD
 
-GitHub Actions can automate:
+GitHub Actions automatically:
 
-- Building the Docker image
-- Pushing the image to Amazon ECR
-- Deploying the latest version to AWS EC2
+- Builds the Docker image
+- Pushes the image to Amazon ECR
+- Deploys the latest version to AWS EC2
 
 ---
 
-# 📈 Observed Performance
+# ⚡ Performance
 
 | Version | Average Response Time |
 |----------|----------------------:|
@@ -342,19 +360,6 @@ GitHub Actions can automate:
 | GPT-4o mini | ~1–2 seconds |
 
 > Response times are approximate observations from local testing and may vary depending on API latency, network conditions, and retrieval complexity.
-
----
-
-# 📸 Screenshots
-
-Add screenshots after deployment.
-
-Suggested screenshots:
-
-- Home page
-- Medical conversation
-- Emergency symptom detection
-- Multilingual conversation
 
 ---
 
@@ -374,9 +379,9 @@ Suggested screenshots:
 
 # ⚠️ Medical Disclaimer
 
-This project is an educational AI application designed to provide **general medical information only**.
+This project is intended for educational purposes only.
 
-It **does not diagnose diseases**, replace professional medical advice, or substitute consultation with a qualified healthcare provider.
+It provides **general medical information** and **does not diagnose diseases**, replace professional medical advice, or substitute consultation with a qualified healthcare provider.
 
 For medical emergencies, users should immediately contact their local emergency services or seek urgent medical care.
 
@@ -398,14 +403,18 @@ For medical emergencies, users should immediately contact their local emergency 
 
 ---
 
+# 📄 License
+
+This project is released for educational purposes.
+
+---
+
 # 👨‍💻 Author
 
 **Mohamad Abou Helal**
 
-**GitHub**
-
+GitHub:  
 https://github.com/mohamadhelal94
 
-**LinkedIn**
-
+LinkedIn:  
 https://www.linkedin.com/in/mohamad-abou-helal/
