@@ -5,7 +5,7 @@
 
     <meta
         name="viewport"
-        content="width=device-width, initial-scale=1"
+        content="width=device-width, initial-scale=1, viewport-fit=cover"
     >
 
     <title>Medical Chatbot</title>
@@ -170,12 +170,15 @@
 
                 bubble.append(time);
                 imageContainer.append(image);
+
                 wrapper.append(
                     bubble,
                     imageContainer
                 );
 
-                $("#messageFormeight").append(wrapper);
+                $("#messageFormeight").append(
+                    wrapper
+                );
 
                 scrollToBottom();
             }
@@ -388,18 +391,28 @@
                             response.sources || []
                         );
 
-                        if (response.reset_history === true) {
+                        if (
+                            response.reset_history === true
+                        ) {
                             chatHistory.length = 0;
                         }
-                                    chatHistory.push({
-                                        role: "user",
-                                        content: rawText,
-                                    });
 
-                                    chatHistory.push({
-                                        role: "assistant",
-                                        content: answer,
-                                    });
+                        chatHistory.push({
+                            role: "user",
+                            content: rawText,
+                        });
+
+                        chatHistory.push({
+                            role: "assistant",
+                            content: answer,
+                        });
+                    })
+                    .fail(function () {
+                        $("#thinking-message").remove();
+
+                        appendBotMessage(
+                            "The medical assistant is temporarily unavailable. Please try again."
+                        );
                     })
                     .always(function () {
                         $("#text")
