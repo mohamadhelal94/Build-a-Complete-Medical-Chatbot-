@@ -1,10 +1,10 @@
 # 🩺 AI Medical Chatbot using RAG, GPT-4o mini, LangChain & Pinecone
 
-An AI-powered multilingual Medical Chatbot built using **Retrieval-Augmented Generation (RAG)**. The application retrieves trusted medical information from a Pinecone vector database and generates context-aware responses using **OpenAI GPT-4o mini**.
+An AI-powered multilingual medical information chatbot built using **Retrieval-Augmented Generation (RAG)**. The application retrieves relevant medical information from a Pinecone vector database built from **MedlinePlus-based content** and generates context-aware responses using **OpenAI GPT-4o mini**.
 
-The chatbot supports **multi-turn conversations**, **structured symptom extraction**, **medical risk assessment**, **automatic detection of new medical complaints**, and **multilingual interaction** while grounding responses in retrieved medical knowledge.
+The chatbot supports **multi-turn conversations**, **structured symptom extraction**, **medical risk assessment**, **automatic detection of new medical complaints**, **intelligent follow-up questions**, and **multilingual interaction** while grounding responses in retrieved medical knowledge.
 
-The project is containerized with Docker and can be deployed on **AWS EC2** using **Amazon ECR** and **GitHub Actions** for automated CI/CD.
+The project is containerized with Docker and includes deployment support for **AWS EC2**, **Amazon ECR**, and **GitHub Actions** for automated CI/CD.
 
 ---
 
@@ -27,17 +27,21 @@ The project is containerized with Docker and can be deployed on **AWS EC2** usin
                              ▼
                  Medical Risk Assessment
                              │
-                             ▼
-               History-Aware RAG Retrieval
-                             │
-               ┌─────────────┴─────────────┐
-               ▼                           ▼
-      Pinecone Vector Database       GPT-4o mini
-      (Medical Knowledge Base)         (OpenAI)
-               │                           │
-               └─────────────┬─────────────┘
-                             ▼
-            Grounded Medical Response + Sources
+                  ┌──────────┴──────────┐
+                  │                     │
+          Urgent Medical Case     Non-Urgent Case
+                  │                     │
+                  ▼                     ▼
+     Immediate Safety Guidance   History-Aware RAG
+                                        │
+                              ┌─────────┴─────────┐
+                              ▼                   ▼
+                   Pinecone Vector DB      GPT-4o mini
+                 (Medical Knowledge)        (OpenAI)
+                              │                   │
+                              └─────────┬─────────┘
+                                        ▼
+                         Medical Response + Sources
 ```
 
 ---
@@ -57,17 +61,17 @@ The project is containerized with Docker and can be deployed on **AWS EC2** usin
 - Medical risk assessment
 - Emergency symptom detection
 - Intelligent follow-up questions
-- Context-aware conversation memory
+- Context-aware conversation history
 - Retrieval query translation into English
-- Automatic reranking of retrieved documents
+- Intelligent document reranking
 - Medical source citations
 - Multilingual support
 - Flask web interface
 - Docker containerization
-- AWS EC2 deployment
+- AWS EC2 deployment support
 - Amazon ECR
 - GitHub Actions CI/CD
-- Gunicorn production deployment
+- Gunicorn production server
 
 ---
 
@@ -145,7 +149,8 @@ Build-a-Complete-Medical-Chatbot
 │
 ├── data/
 │   ├── raw/
-│   └── processed/
+│   ├── processed/
+│   └── curated/
 │
 └── .github/
     └── workflows/
@@ -223,8 +228,6 @@ http://localhost:8000
 
 # 🧠 AI Pipeline
 
-The chatbot follows a multi-stage AI pipeline:
-
 ```text
 User Question
         │
@@ -266,22 +269,36 @@ Medical Response + Source Citations
 The chatbot includes several AI-powered capabilities:
 
 - Structured symptom extraction
-- Multi-turn conversations
+- Context-aware multi-turn conversations
 - Automatic follow-up question generation
-- Detection of new medical complaints
+- Automatic detection of new medical complaints
 - Medical risk assessment
 - Emergency symptom detection
 - Retrieval query translation
-- Context-aware RAG retrieval
 - Intelligent document reranking
+- History-aware retrieval
 - Medical source attribution
 - Multilingual conversations
 
 ---
 
-# ☁ AWS Deployment
+# 📚 Medical Knowledge Base
 
-The project is deployed using Docker on AWS.
+The chatbot retrieves information from a medical knowledge base built using **MedlinePlus-based content**.
+
+The pipeline:
+
+- Processes medical documents
+- Generates embeddings using `sentence-transformers/all-MiniLM-L6-v2`
+- Stores embeddings in Pinecone
+- Retrieves semantically relevant medical information
+- Grounds responses using retrieved sources
+
+---
+
+# ☁️ AWS Deployment
+
+The project includes deployment support for Docker on AWS.
 
 ```text
 GitHub
@@ -309,34 +326,35 @@ Flask Application
 
 # 🔄 CI/CD
 
-GitHub Actions automatically:
+GitHub Actions can automate:
 
-- Build the Docker image
-- Push the image to Amazon ECR
-- Deploy the latest version to AWS EC2
+- Building the Docker image
+- Pushing the image to Amazon ECR
+- Deploying the latest version to AWS EC2
 
 ---
 
-# 📈 Performance
+# 📈 Observed Performance
 
 | Version | Average Response Time |
-|---------|----------------------:|
+|----------|----------------------:|
 | Ollama (CPU) | 20–40 seconds |
 | GPT-4o mini | ~1–2 seconds |
+
+> Response times are approximate observations from local testing and may vary depending on API latency, network conditions, and retrieval complexity.
 
 ---
 
 # 📸 Screenshots
 
-Example screenshots:
+Add screenshots after deployment.
 
-```
-screenshots/home.png
+Suggested screenshots:
 
-screenshots/chat.png
-
-screenshots/emergency.png
-```
+- Home page
+- Medical conversation
+- Emergency symptom detection
+- Multilingual conversation
 
 ---
 
@@ -347,8 +365,8 @@ screenshots/emergency.png
 - Medical image analysis
 - PDF medical report analysis
 - User authentication
-- Conversation persistence
-- Better UI/UX
+- Persistent conversation history
+- Improved UI/UX
 - Dark mode
 - Physician dashboard
 
@@ -356,7 +374,7 @@ screenshots/emergency.png
 
 # ⚠️ Medical Disclaimer
 
-This chatbot is designed to provide **general medical information and educational guidance only**.
+This project is an educational AI application designed to provide **general medical information only**.
 
 It **does not diagnose diseases**, replace professional medical advice, or substitute consultation with a qualified healthcare provider.
 
@@ -384,10 +402,10 @@ For medical emergencies, users should immediately contact their local emergency 
 
 **Mohamad Abou Helal**
 
-GitHub
+**GitHub**
 
 https://github.com/mohamadhelal94
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/mohamad-abou-helal/
