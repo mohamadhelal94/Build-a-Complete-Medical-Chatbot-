@@ -884,7 +884,7 @@ def translate_query_for_retrieval(
 def retrieve_and_rerank(
     query: str,
 ):
-    """Retrieve candidate documents and rerank them."""
+    """Retrieve candidate documents and rerank them for relevance."""
 
     english_query = translate_query_for_retrieval(
         query
@@ -912,9 +912,7 @@ def retrieve_and_rerank(
         set(),
     )
 
-    normalized_query = (
-        english_query.lower()
-    )
+    normalized_query = english_query.lower()
 
     query_words = {
         word
@@ -966,10 +964,7 @@ def retrieve_and_rerank(
     reranked_results = []
 
     for document, vector_score in results:
-        metadata = (
-            document.metadata
-            or {}
-        )
+        metadata = document.metadata or {}
 
         title = str(
             metadata.get(
@@ -1013,6 +1008,8 @@ def retrieve_and_rerank(
             ]
         ).lower()
 
+        # Basic relevance
+
         title_overlap = sum(
             1
             for word in query_words
@@ -1036,30 +1033,66 @@ def retrieve_and_rerank(
         exact_topic_bonus = 0.0
         mismatch_penalty = 0.0
 
-        # Fever-specific ranking.
+        if detected_topic:
+            for term in topic_terms:
+                if term in title:
+                    exact_topic_bonus += 0.10
+
+        # Limit the generic topic bonus.
+        exact_topic_bonus = min(
+            exact_topic_bonus,
+            0.30,
+        )
+
+       
+        # Fever-specific ranking
+       
+
         if detected_topic == "fever":
+
             if title == "fever":
-                exact_topic_bonus += 0.45
+                exact_topic_bonus += 0.55
 
             elif title == "high fever":
-                exact_topic_bonus += 0.20
+                exact_topic_bonus += 0.25
 
-            rare_fever_terms = {
-                "hemorrhagic fever",
-                "hemorrhagic fevers",
-                "valley fever",
-                "yellow fever",
-                "dengue",
-                "malaria",
+            preferred_fever_titles = {
+                "fever",
+                "high fever",
+                "common cold",
+                "influenza",
+                "viral infections",
             }
 
-            if any(
-                rare_term in title
-                and rare_term not in normalized_query
-                for rare_term in rare_fever_terms
-            ):
-                mismatch_penalty += 0.40
+            unrelated_fever_titles = {
+                "post-covid conditions",
+                "long covid",
+                "headache",
+                "lyme disease",
+                "staphylococcal infections",
+                "cellulitis",
+                "valley fever",
+                "yellow fever",
+                "hemorrhagic fever",
+                "hemorrhagic fevers",
+                "dengue",
+                "malaria",
+                "heat stroke",
+                "heat exhaustion",
+            }
 
+            if title in preferred_fever_titles:
+                exact_topic_bonus += 0.15
+
+            if any(
+                unrelated_title in title
+                and unrelated_title not in normalized_query
+                for unrelated_title in unrelated_fever_titles
+            ):
+                mismatch_penalty += 0.50
+
+            # Heat-related documents should only rank highly
+            # when the question actually mentions heat exposure.
             if (
                 "heat stroke" in title
                 and not query_mentions_heat
@@ -1072,13 +1105,16 @@ def retrieve_and_rerank(
             ):
                 mismatch_penalty += 0.35
 
-        # Avoid fractures/dislocations when trauma is not reported.
+       
+
         if not query_mentions_trauma:
             if any(
                 term in searchable_metadata
                 for term in serious_injury_terms
             ):
                 mismatch_penalty += 0.22
+
+        
 
         final_score = (
             float(vector_score)
@@ -1096,10 +1132,15 @@ def retrieve_and_rerank(
             )
         )
 
+    # Highest score first.
     reranked_results.sort(
         key=lambda item: item[1],
         reverse=True,
     )
+
+    
+    # Select unique documents
+    
 
     selected_documents = []
     seen_sources = set()
@@ -1108,10 +1149,8 @@ def retrieve_and_rerank(
         document,
         final_score,
     ) in reranked_results:
-        metadata = (
-            document.metadata
-            or {}
-        )
+
+        metadata = document.metadata or {}
 
         unique_key = (
             metadata.get(
@@ -1137,9 +1176,7 @@ def retrieve_and_rerank(
             document
         )
 
-        if len(
-            selected_documents
-        ) == 5:
+        if len(selected_documents) == 5:
             break
 
     app.logger.info(
