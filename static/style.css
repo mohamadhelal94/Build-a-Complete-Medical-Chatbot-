@@ -1,4 +1,48 @@
-   /***PAGE***/
+/* =========================================================
+   FONTS
+   ========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+
+/* =========================================================
+   DESIGN TOKENS — light: blue + white
+   ========================================================= */
+
+:root {
+    /* surfaces */
+    --bg-page: #eef4fb;
+    --bg-panel: #ffffff;
+    --bg-panel-soft: #f6f9fd;
+    --surface-line: rgba(15, 42, 74, 0.10);
+
+    /* clinical blue — primary voice (the assistant) */
+    --blue: #2563eb;
+    --blue-deep: #1d4ed8;
+    --blue-soft: #93c5fd;
+    --blue-dim: rgba(37, 99, 235, 0.10);
+
+    /* human voice (the user) — cool neutral, kept distinct from the blue */
+    --slate: #475569;
+    --slate-dim: rgba(71, 85, 105, 0.08);
+
+    /* pulse accent — used sparingly, for alerts / offline */
+    --pulse: #ef4444;
+
+    /* text */
+    --text-hi: #0f2a4a;
+    --text-lo: rgba(15, 42, 74, 0.58);
+    --text-faint: rgba(15, 42, 74, 0.36);
+
+    --font-display: "Space Grotesk", -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+
+/* =========================================================
+   PAGE
+   ========================================================= */
 
 html,
 body {
@@ -7,21 +51,14 @@ body {
     margin: 0;
     overflow: hidden;
 
-    background: rgb(44, 47, 59);
+    font-family: var(--font-body);
 
-    background: -webkit-linear-gradient(
-        to right,
-        rgb(40, 59, 34),
-        rgb(54, 60, 70),
-        rgb(32, 32, 43)
-    );
+    background:
+        radial-gradient(circle at 12% 8%, rgba(37, 99, 235, 0.12), transparent 40%),
+        radial-gradient(circle at 88% 92%, rgba(37, 99, 235, 0.10), transparent 42%),
+        linear-gradient(160deg, #d9e6f7 0%, #c7d9f0 55%, #d9e6f7 100%);
 
-    background: linear-gradient(
-        to right,
-        rgb(38, 51, 61),
-        rgb(50, 55, 65),
-        rgb(33, 33, 78)
-    );
+    color: var(--text-hi);
 }
 
 body {
@@ -29,7 +66,10 @@ body {
     min-height: 100dvh;
 }
 
-   /*MAIN CHAT LAYOUT*/
+
+/* =========================================================
+   MAIN CHAT LAYOUT
+   ========================================================= */
 
 .container-fluid {
     height: 100%;
@@ -41,26 +81,73 @@ body {
 }
 
 .card {
-    height: 500px;
+    height: 620px;
 
     display: flex;
     flex-direction: column;
 
-    border-radius: 15px !important;
-    background-color: rgba(0, 0, 0, 0.4) !important;
+    border-radius: 24px !important;
 
-    border: 0;
+    background: var(--bg-panel) !important;
+
+    border: 1px solid var(--surface-line) !important;
+
+    box-shadow:
+        0 30px 70px rgba(15, 42, 74, 0.12),
+        0 8px 22px rgba(15, 42, 74, 0.08),
+        0 0 0 1px rgba(37, 99, 235, 0.03);
+
     overflow: hidden;
 }
 
 
-   /*HEADER*/
+/* =========================================================
+   HEADER
+   ========================================================= */
 
 .card-header {
-    border-radius: 15px 15px 0 0 !important;
-    border-bottom: 0 !important;
+    position: relative;
+
+    padding: 18px 22px 22px;
+
+    border-radius: 24px 24px 0 0 !important;
+
+    border-bottom: 1px solid var(--surface-line) !important;
+
+    background:
+        linear-gradient(180deg, rgba(37, 99, 235, 0.05) 0%, rgba(37, 99, 235, 0.00) 100%);
 
     flex-shrink: 0;
+}
+
+/* signature element: a live ECG pulse line tracing the base of the header */
+.card-header::after {
+    content: "";
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    height: 10px;
+
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='20' viewBox='0 0 240 20'%3E%3Cpath d='M0 10 H60 L70 10 L76 2 L84 18 L90 10 L100 10 L106 4 L112 16 L118 10 L240 10' fill='none' stroke='%232563eb' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: repeat-x;
+    background-size: 240px 10px;
+
+    opacity: 0.45;
+
+    animation: pulse-scroll 5.5s linear infinite;
+}
+
+@keyframes pulse-scroll {
+    from { background-position-x: 0; }
+    to   { background-position-x: -240px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .card-header::after { animation: none; }
 }
 
 .msg_head {
@@ -68,19 +155,23 @@ body {
 }
 
 .user_img {
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
 
     object-fit: cover;
 
-    border: 1.5px solid #f5f6fa;
+    border: 2px solid var(--blue);
+
+    box-shadow:
+        0 0 0 4px var(--blue-dim),
+        0 6px 16px rgba(15, 42, 74, 0.14);
 }
 
 .img_cont {
     position: relative;
 
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
 
     flex-shrink: 0;
 }
@@ -88,47 +179,66 @@ body {
 .online_icon {
     position: absolute;
 
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
 
-    background-color: #4cd137;
+    background-color: #22c55e;
 
     border-radius: 50%;
 
-    bottom: 0.2em;
-    right: 0.4em;
+    bottom: 1px;
+    right: 1px;
 
-    border: 1.5px solid white;
+    border: 2px solid #ffffff;
+
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.5);
+    animation: breathe 2.4s ease-in-out infinite;
+}
+
+@keyframes breathe {
+    0%   { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.5); }
+    70%  { box-shadow: 0 0 0 7px rgba(34, 197, 94, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
 }
 
 .offline {
-    background-color: #c23616 !important;
+    background-color: var(--pulse) !important;
+    animation: none;
 }
 
 .user_info {
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: 15px;
+    margin-left: 16px;
 
     min-width: 0;
 }
 
 .user_info span {
-    font-size: 20px;
-    font-weight: 500;
+    font-family: var(--font-display);
+    font-size: 21px;
+    font-weight: 600;
 
-    color: white;
+    letter-spacing: -0.2px;
+
+    color: var(--text-hi);
 }
 
 .user_info p {
+    margin-top: 4px;
     margin-bottom: 0;
 
-    font-size: 10px;
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    letter-spacing: 0.02em;
 
-    color: rgba(255, 255, 255, 0.6);
+    color: var(--text-lo);
 }
 
-   /*CHAT BODY*/
+
+/* =========================================================
+   CHAT BODY
+   ========================================================= */
 
 .msg_card_body {
     flex: 1 1 auto;
@@ -138,140 +248,227 @@ body {
     overflow-y: auto;
     overflow-x: hidden;
 
-    padding: 1rem;
+    padding: 22px 20px;
 
     scroll-behavior: smooth;
 
     -webkit-overflow-scrolling: touch;
+
+    background-color: var(--bg-panel-soft);
+
+    position: relative;
 }
 
-   /*MESSAGE IMAGES*/
+/* empty-state placeholder — shown only while the chat body has no message children */
+.msg_card_body:empty::before {
+    content: "Ask a medical question to get started";
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 80%;
+
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+    color: var(--text-faint);
+}
+
+.msg_card_body::-webkit-scrollbar {
+    width: 6px;
+}
+
+.msg_card_body::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.msg_card_body::-webkit-scrollbar-thumb {
+    background: rgba(37, 99, 235, 0.22);
+
+    border-radius: 10px;
+}
+
+.msg_card_body::-webkit-scrollbar-thumb:hover {
+    background: rgba(37, 99, 235, 0.36);
+}
+
+
+/* =========================================================
+   MESSAGE IMAGES
+   ========================================================= */
 
 .user_img_msg {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
 
     object-fit: cover;
 
-    border: 1.5px solid #f5f6fa;
+    border: 1.5px solid rgba(15, 42, 74, 0.14);
+
+    box-shadow: 0 4px 10px rgba(15, 42, 74, 0.10);
 }
 
 .img_cont_msg {
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
 
-    min-width: 40px;
+    min-width: 36px;
 
     flex-shrink: 0;
 }
 
-  /* MESSAGE BUBBLES*/
+
+/* =========================================================
+   BOT MESSAGE — clinical note style: blue, left rule
+   ========================================================= */
 
 .msg_cotainer {
     margin-top: auto;
     margin-bottom: auto;
     margin-left: 10px;
 
-    max-width: 85%;
+    max-width: 82%;
     min-width: 0;
 
-    padding: 10px 14px;
+    padding: 12px 16px 12px 15px;
 
-    border-radius: 20px;
+    border-radius: 4px 18px 18px 18px;
+    border-left: 3px solid var(--blue);
 
-    background-color: rgb(82, 172, 255);
+    background: linear-gradient(150deg, rgba(37, 99, 235, 0.09), rgba(37, 99, 235, 0.04));
 
-    color: white;
+    border-top: 1px solid rgba(37, 99, 235, 0.14);
+    border-right: 1px solid rgba(37, 99, 235, 0.14);
+    border-bottom: 1px solid rgba(37, 99, 235, 0.14);
+
+    color: var(--text-hi);
 
     position: relative;
+
+    box-shadow: 0 6px 16px rgba(15, 42, 74, 0.06);
 
     overflow-wrap: anywhere;
     word-break: break-word;
 }
+
+
+/* =========================================================
+   USER MESSAGE — white/slate, human counterpart to the blue
+   ========================================================= */
 
 .msg_cotainer_send {
     margin-top: auto;
     margin-bottom: auto;
     margin-right: 10px;
 
-    max-width: 85%;
+    max-width: 82%;
     min-width: 0;
 
-    padding: 10px 14px;
+    padding: 12px 16px;
 
-    border-radius: 20px;
+    border-radius: 18px 4px 18px 18px;
 
-    background-color: #58cc71;
+    background: #ffffff;
 
-    color: white;
+    border: 1px solid var(--surface-line);
+
+    color: var(--text-hi);
 
     position: relative;
+
+    box-shadow: 0 6px 16px rgba(15, 42, 74, 0.08);
 
     overflow-wrap: anywhere;
     word-break: break-word;
 }
+
+
+/* =========================================================
+   BOT ANSWER TEXT
+   ========================================================= */
 
 .bot_answer {
     white-space: pre-wrap;
 
-    line-height: 1.45;
+    font-size: 14.5px;
+    line-height: 1.55;
 
     overflow-wrap: anywhere;
     word-break: break-word;
 }
 
+
+/* =========================================================
+   MESSAGE TIME — monospace, like a chart timestamp
+   ========================================================= */
+
 .msg_time {
     position: absolute;
 
-    left: 0;
-    bottom: -15px;
+    left: 4px;
+    bottom: -18px;
 
-    color: rgba(255, 255, 255, 0.55);
-
-    font-size: 10px;
+    font-family: var(--font-mono);
+    color: var(--text-faint);
+    font-size: 9px;
+    letter-spacing: 0.02em;
 }
 
 .msg_time_send {
     position: absolute;
 
-    right: 0;
-    bottom: -15px;
+    right: 4px;
+    bottom: -18px;
 
-    color: rgba(255, 255, 255, 0.55);
-
-    font-size: 10px;
+    font-family: var(--font-mono);
+    color: var(--text-faint);
+    font-size: 9px;
+    letter-spacing: 0.02em;
 }
 
-   /*SOURCES*/
+
+/* =========================================================
+   SOURCES — presented like reference citations
+   ========================================================= */
 
 .source_container {
-    margin-top: 12px;
-    padding-top: 8px;
+    margin-top: 14px;
+    padding-top: 10px;
 
-    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px dashed rgba(15, 42, 74, 0.16);
 
-    font-size: 0.85rem;
+    font-size: 0.82rem;
 }
 
 .source_title {
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 
-    font-weight: 600;
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
 
-    color: white;
+    color: var(--blue-deep);
 }
 
 .source_item {
-    margin-bottom: 4px;
+    margin-bottom: 5px;
 
     overflow-wrap: anywhere;
     word-break: break-word;
 }
 
 .source_item a {
-    color: #e6f4ff;
+    color: var(--blue-deep);
 
-    text-decoration: underline;
+    text-decoration: none;
+
+    border-bottom: 1px solid rgba(37, 99, 235, 0.35);
 
     overflow-wrap: anywhere;
     word-break: break-word;
@@ -282,18 +479,29 @@ body {
     z-index: 10;
 
     pointer-events: auto;
+
+    transition: color 0.15s ease, border-color 0.15s ease;
 }
 
 .source_item a:hover {
-    color: white;
+    color: var(--blue);
+
+    border-color: var(--blue);
 }
 
 
-   /*FOOTER*/
+/* =========================================================
+   FOOTER
+   ========================================================= */
 
 .card-footer {
-    border-radius: 0 0 15px 15px !important;
-    border-top: 0 !important;
+    padding: 15px 18px 18px;
+
+    border-radius: 0 0 24px 24px !important;
+
+    border-top: 1px solid var(--surface-line) !important;
+
+    background: var(--bg-panel-soft);
 
     flex-shrink: 0;
 }
@@ -302,23 +510,43 @@ body {
     width: 100%;
 
     flex-wrap: nowrap;
+
+    border: 1px solid var(--surface-line);
+
+    border-radius: 18px;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    transition: border-color 0.18s ease, box-shadow 0.18s ease;
 }
 
-   /*MESSAGE INPUT*/
+#messageArea:focus-within {
+    border-color: var(--blue);
+
+    box-shadow: 0 0 0 3px var(--blue-dim);
+}
+
+
+/* =========================================================
+   MESSAGE INPUT
+   ========================================================= */
 
 .type_msg {
-    min-height: 60px !important;
+    min-height: 58px !important;
     max-height: 140px !important;
 
     padding: 16px 18px !important;
 
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    background: transparent !important;
 
     border: 0 !important;
 
-    border-radius: 15px 0 0 15px !important;
+    border-radius: 18px 0 0 18px !important;
 
-    color: white !important;
+    font-family: var(--font-body) !important;
+    color: var(--text-hi) !important;
 
     resize: none;
 
@@ -332,16 +560,19 @@ body {
 }
 
 .type_msg::placeholder {
-    color: rgba(255, 255, 255, 0.45);
+    color: var(--text-faint);
 }
 
 .type_msg:focus {
     box-shadow: none !important;
+
     outline: 0 !important;
 }
 
 
-   /*SEND BUTTON*/
+/* =========================================================
+   SEND BUTTON
+   ========================================================= */
 
 .send_btn {
     width: 58px;
@@ -352,13 +583,25 @@ body {
 
     border: 0 !important;
 
-    border-radius: 0 15px 15px 0 !important;
+    border-left: 1px solid var(--surface-line) !important;
 
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    border-radius: 0 18px 18px 0 !important;
 
-    color: white !important;
+    background: transparent !important;
+    color: var(--blue) !important;
 
     cursor: pointer;
+
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+
+.send_btn:hover {
+    background: var(--blue-dim) !important;
+    color: var(--blue-deep) !important;
+}
+
+.send_btn:active {
+    transform: scale(0.92);
 }
 
 .send_btn i {
@@ -366,12 +609,15 @@ body {
 }
 
 .send_btn:disabled {
-    opacity: 0.5;
+    opacity: 0.4;
 
     cursor: not-allowed;
 }
 
-   /*EXISTING OPTIONAL COMPONENTS*/
+
+/* =========================================================
+   OPTIONAL EXISTING COMPONENTS
+   ========================================================= */
 
 .contacts_body {
     padding: 0.75rem 0 !important;
@@ -388,11 +634,11 @@ body {
 .search {
     border-radius: 15px 0 0 15px !important;
 
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    background-color: var(--bg-panel-soft) !important;
 
-    border: 0 !important;
+    border: 1px solid var(--surface-line) !important;
 
-    color: white !important;
+    color: var(--text-hi) !important;
 }
 
 .search:focus {
@@ -404,11 +650,11 @@ body {
 .attach_btn {
     border-radius: 15px 0 0 15px !important;
 
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    background-color: var(--bg-panel-soft) !important;
 
-    border: 0 !important;
+    border: 1px solid var(--surface-line) !important;
 
-    color: white !important;
+    color: var(--text-hi) !important;
 
     cursor: pointer;
 }
@@ -416,11 +662,11 @@ body {
 .search_btn {
     border-radius: 0 15px 15px 0 !important;
 
-    background-color: rgba(0, 0, 0, 0.3) !important;
+    background-color: var(--bg-panel-soft) !important;
 
-    border: 0 !important;
+    border: 1px solid var(--surface-line) !important;
 
-    color: white !important;
+    color: var(--text-hi) !important;
 
     cursor: pointer;
 }
@@ -440,7 +686,7 @@ body {
 }
 
 .active {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--blue-dim);
 }
 
 .video_cam {
@@ -451,7 +697,7 @@ body {
 .video_cam span {
     margin-right: 20px;
 
-    color: white;
+    color: var(--text-hi);
 
     font-size: 20px;
 
@@ -464,7 +710,7 @@ body {
     right: 10px;
     top: 10px;
 
-    color: white;
+    color: var(--text-hi);
 
     cursor: pointer;
 
@@ -481,9 +727,12 @@ body {
 
     padding: 15px 0;
 
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
 
-    color: white;
+    color: var(--text-hi);
+
+    border: 1px solid var(--surface-line);
+    box-shadow: 0 12px 32px rgba(15, 42, 74, 0.14);
 
     border-radius: 15px;
 
@@ -512,10 +761,13 @@ body {
 .action_menu ul li:hover {
     cursor: pointer;
 
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: var(--blue-dim);
 }
 
-   /*TABLETS*/
+
+/* =========================================================
+   TABLETS
+   ========================================================= */
 
 @media (max-width: 768px) {
 
@@ -540,8 +792,10 @@ body {
     }
 }
 
-   /*MOBILE PHONES*/
-   
+
+/* =========================================================
+   MOBILE PHONES
+   ========================================================= */
 
 @media (max-width: 576px) {
 
@@ -588,17 +842,19 @@ body {
 
         margin: 0;
 
+        border: 0 !important;
         border-radius: 0 !important;
 
         display: flex;
         flex-direction: column;
+
+        box-shadow: none;
     }
 
-
-    /* Header */
+    /* HEADER */
 
     .card-header {
-        padding: 12px 14px;
+        padding: 12px 14px 16px;
 
         border-radius: 0 !important;
 
@@ -606,18 +862,18 @@ body {
     }
 
     .img_cont {
-        width: 50px;
-        height: 50px;
+        width: 48px;
+        height: 48px;
     }
 
     .user_img {
-        width: 50px;
-        height: 50px;
+        width: 48px;
+        height: 48px;
     }
 
     .online_icon {
-        width: 12px;
-        height: 12px;
+        width: 11px;
+        height: 11px;
 
         right: 0;
         bottom: 0;
@@ -628,24 +884,23 @@ body {
     }
 
     .user_info span {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .user_info p {
         margin-top: 2px;
 
-        font-size: 11px;
+        font-size: 10px;
     }
 
-
-    /* Chat messages */
+    /* CHAT MESSAGES */
 
     .msg_card_body {
         flex: 1 1 auto;
 
         min-height: 0;
 
-        padding: 12px 8px 24px 8px;
+        padding: 14px 8px 26px 8px;
 
         overflow-y: auto;
         overflow-x: hidden;
@@ -654,23 +909,21 @@ body {
     }
 
     .user_img_msg {
-        width: 32px;
-        height: 32px;
+        width: 30px;
+        height: 30px;
     }
 
     .img_cont_msg {
-        width: 32px;
-        min-width: 32px;
-        height: 32px;
+        width: 30px;
+        min-width: 30px;
+        height: 30px;
     }
 
     .msg_cotainer,
     .msg_cotainer_send {
         max-width: calc(100vw - 78px);
 
-        padding: 10px 12px;
-
-        border-radius: 17px;
+        padding: 10px 13px;
 
         font-size: 14px;
         line-height: 1.45;
@@ -681,10 +934,14 @@ body {
 
     .msg_cotainer {
         margin-left: 6px;
+
+        border-radius: 4px 16px 16px 16px;
     }
 
     .msg_cotainer_send {
         margin-right: 6px;
+
+        border-radius: 16px 4px 16px 16px;
     }
 
     .source_container {
@@ -698,18 +955,14 @@ body {
         font-size: 9px;
     }
 
-
-    /* Footer */
+    /* FOOTER */
 
     .card-footer {
         flex-shrink: 0;
 
         padding: 8px;
 
-        padding-bottom: max(
-            8px,
-            env(safe-area-inset-bottom)
-        );
+        padding-bottom: max(8px, env(safe-area-inset-bottom));
 
         border-radius: 0 !important;
     }
@@ -718,10 +971,11 @@ body {
         width: 100%;
 
         flex-wrap: nowrap;
+
+        border-radius: 14px;
     }
 
-
-    /* Input */
+    /* INPUT */
 
     .type_msg {
         min-height: 50px !important;
@@ -747,7 +1001,9 @@ body {
 }
 
 
-   /*VERY SMALL PHONES*/
+/* =========================================================
+   VERY SMALL PHONES
+   ========================================================= */
 
 @media (max-width: 360px) {
 

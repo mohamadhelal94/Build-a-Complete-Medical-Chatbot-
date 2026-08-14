@@ -1,13 +1,11 @@
 import json
 import os
+import re
 from typing import Optional
 
 from dotenv import load_dotenv
 from flask import Flask, jsonify, render_template, request
-from langchain.chains import (
-    create_history_aware_retriever,
-    create_retrieval_chain,
-)
+from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.messages import (
     AIMessage,
@@ -25,10 +23,7 @@ from langchain_pinecone import PineconeVectorStore
 from pydantic import BaseModel, Field
 
 from src.helper import create_embeddings
-from src.prompt import (
-    contextualize_q_system_prompt,
-    system_prompt,
-)
+from src.prompt import system_prompt
 
 
 load_dotenv()
@@ -36,19 +31,17 @@ load_dotenv()
 app = Flask(__name__)
 
 
+# Environment
+
 
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 if not PINECONE_API_KEY:
-    raise ValueError(
-        "PINECONE_API_KEY was not found."
-    )
+    raise ValueError("PINECONE_API_KEY was not found.")
 
 if not OPENAI_API_KEY:
-    raise ValueError(
-        "OPENAI_API_KEY was not found."
-    )
+    raise ValueError("OPENAI_API_KEY was not found.")
 
 
 
@@ -65,180 +58,251 @@ docsearch = PineconeVectorStore.from_existing_index(
 
 # OpenAI model
 
-
 chat_model = ChatOpenAI(
-    model=os.getenv(
-        "OPENAI_MODEL",
-        "gpt-4o-mini",
-    ),
+    model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
     temperature=0,
     max_tokens=350,
     timeout=30,
     max_retries=2,
 )
 
+
+# Supported-language detection
+
+
+def detect_explicit_language(message: str) -> Optional[str]:
+    """
+    Detect a language only when there is enough evidence.
+
+    Returns:
+    - English
+    - Swedish
+    - Spanish
+    - Arabic
+    - None when the message is too ambiguous
+    """
+
+    text = message.lower().strip()
+
+    if re.search(r"[\u0600-\u06FF]", text):
+        return "Arabic"
+
+    if any(character in text for character in "åäö"):
+        return "Swedish"
+
+    if any(character in text for character in "áéíóúñü¿¡"):
+        return "Spanish"
+
+    words = set(
+        re.findall(
+            r"[a-zA-ZÀ-ÿ]+",
+            text,
+        )
+    )
+
+    english_words = {
+        "i",
+        "have",
+        "pain",
+        "fever",
+        "chest",
+        "breathing",
+        "difficulty",
+        "cough",
+        "throat",
+        "temperature",
+        "yesterday",
+        "today",
+        "hello",
+        "hi",
+        "what",
+        "should",
+        "do",
+        "started",
+        "also",
+        "hurt",
+        "hurts",
+    }
+
+    swedish_words = {
+        "jag",
+        "har",
+        "och",
+        "svårt",
+        "andas",
+        "feber",
+        "bröstsmärta",
+        "hosta",
+        "halsont",
+        "temperatur",
+        "sedan",
+        "ont",
+        "hej",
+        "tack",
+        "vad",
+        "ska",
+        "göra",
+        "också",
+    }
+
+    spanish_words = {
+        "tengo",
+        "dolor",
+        "fiebre",
+        "respirar",
+        "tos",
+        "garganta",
+        "desde",
+        "hola",
+        "gracias",
+        "temperatura",
+        "pecho",
+        "qué",
+        "debo",
+        "hacer",
+        "también",
+        "tambien",
+    }
+
+    english_score = len(words & english_words)
+    swedish_score = len(words & swedish_words)
+    spanish_score = len(words & spanish_words)
+
+    highest_score = max(
+        english_score,
+        swedish_score,
+        spanish_score,
+    )
+
+    if highest_score == 0:
+        return None
+
+    if (
+        swedish_score > english_score
+        and swedish_score > spanish_score
+    ):
+        return "Swedish"
+
+    if (
+        spanish_score > english_score
+        and spanish_score > swedish_score
+    ):
+        return "Spanish"
+
+    if (
+        english_score > swedish_score
+        and english_score > spanish_score
+    ):
+        return "English"
+
+    return None
+
+
+def detect_user_language(message: str) -> str:
+    """
+    Detect the user's language.
+
+    English is used only when no supported language can
+    be confidently detected.
+    """
+
+    return detect_explicit_language(message) or "English"
+
+
+def detect_response_language(
+    user_message: str,
+    chat_history: list[BaseMessage],
+) -> str:
+    """
+    Keep language consistent for ambiguous follow-up messages.
+
+    Example:
+    Swedish conversation -> "39°C" -> answer in Swedish.
+    """
+
+    current_language = detect_explicit_language(user_message)
+
+    if current_language:
+        return current_language
+
+    for message in reversed(chat_history):
+        if not isinstance(message, HumanMessage):
+            continue
+
+        previous_language = detect_explicit_language(
+            str(message.content)
+        )
+
+        if previous_language:
+            return previous_language
+
+    return "English"
+
+
 # Structured symptom extraction
+
 
 class SymptomDetails(BaseModel):
     """Information explicitly provided for the current medical problem."""
 
     symptom: Optional[str] = Field(
         default=None,
-        description=(
-            "Main symptom such as pain, fever, cough, or bleeding."
-        ),
+        description="Main symptom.",
     )
 
     body_location: Optional[str] = Field(
         default=None,
-        description=(
-            "Exact body location explicitly reported."
-        ),
+        description="Exact body location.",
     )
 
     duration: Optional[str] = Field(
         default=None,
-        description=(
-            "How long the current symptom has been present."
-        ),
+        description="Symptom duration.",
     )
 
     temperature: Optional[str] = Field(
         default=None,
-        description=(
-            "Measured body temperature explicitly provided."
-        ),
+        description="Measured temperature.",
     )
 
     fever_duration: Optional[str] = Field(
         default=None,
-        description=(
-            "How long the fever has lasted."
-        ),
+        description="Fever duration.",
     )
 
     severity: Optional[str] = Field(
         default=None,
-        description=(
-            "Reported severity such as mild, moderate, or severe."
-        ),
+        description="Reported severity.",
     )
 
     trigger: Optional[str] = Field(
         default=None,
-        description=(
-            "Activity or event associated with the symptom."
-        ),
+        description="Associated activity or event.",
     )
 
     injury: Optional[bool] = Field(
         default=None,
-        description=(
-            "True only if injury or trauma was explicitly reported. "
-            "False only if explicitly denied. Otherwise null."
-        ),
+        description="Explicit injury or trauma status.",
     )
 
     radiation: Optional[str] = Field(
         default=None,
-        description=(
-            "Where the pain spreads, if explicitly reported."
-        ),
+        description="Where pain spreads.",
     )
 
-    numbness: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if numbness was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
+    numbness: Optional[bool] = None
+    tingling: Optional[bool] = None
+    weakness: Optional[bool] = None
+    cough: Optional[bool] = None
+    sore_throat: Optional[bool] = None
+    breathing_difficulty: Optional[bool] = None
+    rash: Optional[bool] = None
+    vomiting: Optional[bool] = None
+    stiff_neck: Optional[bool] = None
+    confusion: Optional[bool] = None
 
-    tingling: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if tingling was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    weakness: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if weakness was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    cough: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if cough was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    sore_throat: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if sore throat was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    breathing_difficulty: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if breathing difficulty was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    rash: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if rash was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    vomiting: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if vomiting was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    stiff_neck: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if neck stiffness was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    confusion: Optional[bool] = Field(
-        default=None,
-        description=(
-            "True if confusion was explicitly reported. "
-            "False if explicitly denied. Otherwise null."
-        ),
-    )
-
-    associated_symptoms: list[str] = Field(
-        default_factory=list,
-        description=(
-            "Other symptoms explicitly reported for this problem."
-        ),
-    )
-
-    warning_signs: list[str] = Field(
-        default_factory=list,
-        description=(
-            "Serious warning signs explicitly reported."
-        ),
-    )
+    associated_symptoms: list[str] = Field(default_factory=list)
+    warning_signs: list[str] = Field(default_factory=list)
 
 
 symptom_extractor = chat_model.with_structured_output(
@@ -250,37 +314,48 @@ def extract_symptom_details(
     user_message: str,
     chat_history: list[BaseMessage],
 ) -> SymptomDetails:
-    """Extract facts for the current medical problem only."""
+    """
+    Extract only medical facts explicitly provided by the USER.
+
+    Assistant messages are intentionally excluded so that questions
+    such as "Do you have difficulty breathing?" are never mistaken
+    for symptoms the user actually reported.
+    """
+
+    user_only_history = [
+        message
+        for message in chat_history
+        if isinstance(message, HumanMessage)
+    ]
 
     extraction_messages = [
         SystemMessage(
             content=(
                 "Extract medical information for the CURRENT medical "
-                "problem only. Use recent conversation history only when "
-                "it belongs to the same medical problem.\n\n"
+                "problem only.\n\n"
 
-                "Do not carry information from an older unrelated "
-                "complaint into the current complaint.\n\n"
+                "Use ONLY information explicitly stated by the USER.\n"
+                "Never treat something mentioned by the assistant as "
+                "a user symptom or fact.\n\n"
+
+                "Use previous USER messages only when they belong to "
+                "the same active medical problem.\n\n"
 
                 "For boolean fields:\n"
-                "- true = explicitly present.\n"
-                "- false = explicitly denied.\n"
-                "- null = not mentioned.\n\n"
+                "- true = the USER explicitly reported the symptom.\n"
+                "- false = the USER explicitly denied the symptom.\n"
+                "- null = the USER did not mention it.\n\n"
 
-                "Examples:\n"
-                "\"I have a cough\" -> cough=true.\n"
-                "\"I do not have a cough\" -> cough=false.\n"
-                "\"I have a fever\" -> cough=null.\n"
-                "\"My shoulder hurts\" -> numbness=null.\n"
-                "\"My shoulder hurts but I have no numbness\" "
-                "-> numbness=false.\n\n"
+                "Example:\n"
+                "Assistant asks: 'Do you have difficulty breathing?'\n"
+                "User says: 'I have a cough and sore throat.'\n"
+                "Then breathing_difficulty MUST remain null.\n\n"
 
                 "Never guess missing information. "
-                "Never infer that an unmentioned symptom is absent. "
-                "Do not diagnose or infer diseases."
+                "Never diagnose diseases."
             )
         ),
-        *chat_history,
+        *user_only_history,
         HumanMessage(
             content=user_message
         ),
@@ -290,24 +365,22 @@ def extract_symptom_details(
         extraction_messages
     )
 
-
-
+# =========================================================
 # New medical problem detection
+# =========================================================
 
 class ConversationState(BaseModel):
-    """Whether the latest message starts a different medical problem."""
+    """Whether the latest message starts a different complaint."""
 
     new_medical_problem: bool = Field(
         description=(
             "True only when the latest message starts a clearly "
-            "different medical problem from the active complaint."
+            "different medical complaint."
         )
     )
 
     reason: str = Field(
-        description=(
-            "Short explanation for the decision."
-        )
+        description="Short explanation for the decision."
     )
 
 
@@ -320,14 +393,11 @@ def detect_new_medical_problem(
     user_message: str,
     chat_history: list[BaseMessage],
 ) -> ConversationState:
-    """Detect whether the user switched to an unrelated complaint."""
 
     if not chat_history:
         return ConversationState(
             new_medical_problem=False,
-            reason=(
-                "There is no previous medical problem."
-            ),
+            reason="There is no previous medical problem.",
         )
 
     detector_messages = [
@@ -344,29 +414,29 @@ def detect_new_medical_problem(
                 "Fever -> temperature is 39.2 = SAME.\n"
                 "Fever -> sore throat = SAME.\n"
                 "Fever -> cough = SAME.\n"
-                "Fever -> body aches = SAME.\n"
+                "Fever -> difficulty breathing = SAME and may increase risk.\n"
+                "Fever -> chest pain = SAME if presented as an additional "
+                "symptom of the current illness.\n"
+                "Fever -> what should I do = SAME.\n"
                 "Fever -> shoulder pain after lifting boxes = NEW.\n"
+                "Chest pain with breathing difficulty -> 'I have a fever' "
+                "as a separate complaint = NEW.\n"
                 "Back pain -> numbness in the leg = SAME.\n"
-                "Back pain -> pain is worse when moving = SAME.\n"
-                "Heavy menstrual bleeding -> dizziness = SAME.\n"
-                "Heavy menstrual bleeding -> ankle pain after fall = NEW.\n"
-                "Pregnancy -> vaginal bleeding = SAME.\n"
-                "Pregnancy -> injured wrist after a fall = NEW.\n\n"
+                "Heavy menstrual bleeding -> ankle pain after a fall = NEW.\n\n"
+
+                "A dangerous new symptom that develops during an active "
+                "illness should normally remain part of the SAME problem "
+                "so that it can be included in risk assessment.\n\n"
 
                 "Do not start a new problem merely because a related "
-                "symptom appears."
+                "symptom or follow-up question appears."
             )
         ),
         *chat_history,
-        HumanMessage(
-            content=user_message
-        ),
+        HumanMessage(content=user_message),
     ]
 
-    return conversation_detector.invoke(
-        detector_messages
-    )
-
+    return conversation_detector.invoke(detector_messages)
 
 
 # Risk assessment
@@ -376,31 +446,16 @@ class RiskAssessment(BaseModel):
     """Basic triage-style risk assessment."""
 
     risk_level: str = Field(
-        description=(
-            "One of: low, moderate, high."
-        )
+        description="One of: low, moderate, high."
     )
 
     urgent: bool = Field(
-        description=(
-            "True only when explicitly reported symptoms may require "
-            "urgent medical assessment."
-        )
+        description="Whether urgent medical assessment may be needed."
     )
 
-    reasons: list[str] = Field(
-        default_factory=list,
-        description=(
-            "Explicit warning signs that contributed to the assessment."
-        ),
-    )
+    reasons: list[str] = Field(default_factory=list)
 
-    emergency_reason: Optional[str] = Field(
-        default=None,
-        description=(
-            "Short description of why the situation may be urgent."
-        ),
-    )
+    emergency_reason: Optional[str] = None
 
 
 risk_detector = chat_model.with_structured_output(
@@ -412,46 +467,82 @@ def assess_medical_risk(
     user_message: str,
     symptom_details: SymptomDetails,
 ) -> RiskAssessment:
-    """
-    Assess whether explicitly reported symptoms contain urgent warning signs.
-    """
 
     symptom_json = json.dumps(
-        symptom_details.model_dump(
-            exclude_none=True
-        ),
+        symptom_details.model_dump(exclude_none=True),
         ensure_ascii=False,
     )
 
     messages = [
         SystemMessage(
-            content=(
-                "Perform cautious medical triage using ONLY symptoms "
-                "explicitly provided by the user.\n\n"
+    content=(
+        "Perform cautious medical triage using only symptoms "
+        "explicitly provided by the user.\n\n"
 
-                "Return HIGH risk and urgent=true for clear emergency "
-                "warning signs such as:\n"
-                "- chest pain with difficulty breathing\n"
-                "- severe difficulty breathing\n"
-                "- new one-sided weakness or trouble speaking\n"
-                "- loss of consciousness\n"
-                "- seizure\n"
-                "- severe uncontrolled bleeding\n"
-                "- fever with confusion or stiff neck\n"
-                "- pregnancy with severe bleeding or severe abdominal pain\n"
-                "- sudden severe testicular pain\n"
-                "- prolonged painful erection\n\n"
+        "IMPORTANT:\n"
+        "Do NOT classify a case as urgent merely because the user "
+        "has fever, cough, sore throat, cold symptoms, or "
+        "flu-like symptoms.\n\n"
 
-                "Return MODERATE when prompt medical review may be "
-                "appropriate but there is no clear emergency warning sign.\n\n"
+        "A fever such as 39°C together with cough and sore throat, "
+        "WITHOUT another emergency warning sign, should generally "
+        "be classified as LOW or MODERATE risk, not HIGH risk.\n\n"
 
-                "Return LOW for common mild symptoms without clear "
-                "warning signs.\n\n"
+        "Chest pain ALONE is not enough to automatically return "
+        "urgent=true. Evaluate the explicitly reported associated "
+        "warning signs.\n\n"
 
-                "Do not invent symptoms. "
-                "Do not diagnose diseases."
-            )
-        ),
+        "Return HIGH risk and urgent=true when there is a clear "
+        "emergency warning pattern explicitly reported, such as:\n"
+        "- chest pain together with difficulty breathing\n"
+        "- persistent chest pressure with shortness of breath\n"
+        "- severe difficulty breathing\n"
+        "- new one-sided weakness or trouble speaking\n"
+        "- loss of consciousness or inability to awaken normally\n"
+        "- seizure\n"
+        "- severe uncontrolled bleeding\n"
+        "- fever with confusion\n"
+        "- fever with stiff neck\n"
+        "- severe weakness or inability to stand or walk normally\n"
+        "- pregnancy with severe bleeding or severe abdominal pain\n"
+        "- sudden severe testicular pain\n"
+        "- prolonged painful erection\n\n"
+
+        "Return MODERATE when medical review may be appropriate "
+        "but there is no clear emergency warning sign. "
+        "Examples include:\n"
+        "- high or persistent fever without emergency warning signs\n"
+        "- symptoms that are worsening\n"
+        "- persistent respiratory symptoms without severe "
+        "breathing difficulty\n"
+        "- isolated chest pain without an explicitly reported "
+        "emergency warning pattern\n\n"
+
+        "IMPORTANT FOR MENSTRUAL OR VAGINAL BLEEDING:\n"
+        "- Heavy menstrual bleeding by itself is NOT automatically HIGH risk.\n"
+        "- Bleeding that started recently is NOT automatically HIGH risk.\n"
+        "- Passing blood clots by itself is NOT automatically HIGH risk.\n"
+        "- Heavy bleeding together with blood clots is NOT automatically "
+        "HIGH risk unless an emergency warning sign is also explicitly reported.\n"
+        "- Use MODERATE risk when heavy menstrual bleeding or blood clots "
+        "need medical review but no emergency warning sign has been "
+        "explicitly reported.\n"
+        "- Use HIGH risk and urgent=true only when an explicit emergency "
+        "warning sign is reported, such as fainting, severe dizziness, "
+        "confusion, severe weakness, inability to stand or walk normally, "
+        "severe uncontrolled bleeding, severe abdominal or pelvic pain, "
+        "or pregnancy with severe bleeding or severe abdominal pain.\n"
+        "- Never assume bleeding is life-threatening from the words "
+        "'heavy', 'large clots', or 'started yesterday' alone.\n"
+        "- Never invent an emergency warning sign that the user did not report.\n\n"
+
+        "Return LOW for common mild symptoms without warning signs.\n\n"
+
+        "Never invent symptoms. "
+        "Do not assume an unmentioned warning sign is present. "
+        "Do not diagnose diseases."
+    )
+),
         HumanMessage(
             content=(
                 f"User message:\n{user_message}\n\n"
@@ -460,21 +551,20 @@ def assess_medical_risk(
         ),
     ]
 
-    return risk_detector.invoke(
-        messages
-    )
+    return risk_detector.invoke(messages)
+
+
+# Urgent response
 
 
 def generate_urgent_response(
     user_message: str,
     risk_assessment: RiskAssessment,
+    target_language: str,
 ) -> str:
-    """Generate short urgent guidance in the user's language."""
 
     risk_json = json.dumps(
-        risk_assessment.model_dump(
-            exclude_none=True
-        ),
+        risk_assessment.model_dump(exclude_none=True),
         ensure_ascii=False,
     )
 
@@ -484,12 +574,14 @@ def generate_urgent_response(
                 content=(
                     "You are a cautious medical information assistant.\n\n"
 
-                    "A separate triage system has already determined that "
-                    "the user's reported symptoms may require urgent "
-                    "medical assessment.\n\n"
+                    "A separate triage system has determined that the "
+                    "user's symptoms may require urgent medical "
+                    "assessment.\n\n"
 
-                    "Respond in the SAME LANGUAGE as the user's latest "
-                    "message.\n\n"
+                    f"OUTPUT LANGUAGE: {target_language}.\n"
+                    f"You MUST write the entire response only in "
+                    f"{target_language}.\n"
+                    "Do not switch to another language.\n\n"
 
                     "Your response must:\n"
                     "- briefly acknowledge the symptoms\n"
@@ -498,7 +590,7 @@ def generate_urgent_response(
                     "symptoms are severe, rapidly worsening, or the person "
                     "feels faint or critically unwell\n"
                     "- not diagnose a disease\n"
-                    "- not list speculative possible diagnoses\n"
+                    "- not list speculative diagnoses\n"
                     "- not delay care by asking additional questions\n"
                     "- be concise and under 120 words\n"
                 )
@@ -506,16 +598,14 @@ def generate_urgent_response(
             HumanMessage(
                 content=(
                     f"User message:\n{user_message}\n\n"
+                    f"Required response language:\n{target_language}\n\n"
                     f"Risk assessment:\n{risk_json}"
                 )
             ),
         ]
     )
 
-    return str(
-        response.content
-    ).strip()
-
+    return str(response.content).strip()
 
 
 # Medical topics
@@ -599,6 +689,23 @@ TOPIC_KEYWORDS = {
         "حمى",
     },
 
+    "cardiopulmonary": {
+        "chest pain",
+        "chest pressure",
+        "chest",
+        "difficulty breathing",
+        "shortness of breath",
+        "bröstsmärta",
+        "bröst",
+        "svårt att andas",
+        "dolor en el pecho",
+        "pecho",
+        "dificultad para respirar",
+        "ألم في الصدر",
+        "الصدر",
+        "صعوبة في التنفس",
+    },
+
     "respiratory": {
         "cough",
         "breathing",
@@ -676,6 +783,16 @@ CATEGORY_TERMS = {
         "infection",
     },
 
+    "cardiopulmonary": {
+        "chest",
+        "cardiac",
+        "heart",
+        "breathing",
+        "respiratory",
+        "lung",
+        "shortness of breath",
+    },
+
     "respiratory": {
         "cough",
         "lung",
@@ -697,10 +814,43 @@ CATEGORY_TERMS = {
 }
 
 
+PREFERRED_TITLES = {
+    "fever": {
+        "fever",
+        "high fever",
+        "viral infections",
+        "influenza",
+        "common cold",
+        "sore throat",
+    },
+
+    "respiratory": {
+        "common cold",
+        "influenza",
+        "sore throat",
+        "cough",
+        "viral infections",
+    },
+
+    "sexual_health": {
+        "erectile dysfunction",
+        "weak erection",
+        "sexual problems in men",
+        "erection problems",
+    },
+
+    "musculoskeletal": {
+        "muscle strain",
+        "shoulder pain",
+        "back pain",
+        "neck pain",
+        "pain between shoulder blades",
+    },
+}
+
 def detect_topic(
     query: str,
 ) -> Optional[str]:
-    """Detect a broad medical topic from an English query."""
 
     normalized_query = " ".join(
         query.lower().split()
@@ -710,6 +860,7 @@ def detect_topic(
     best_matches = 0
 
     for topic, keywords in TOPIC_KEYWORDS.items():
+
         matches = sum(
             1
             for keyword in keywords
@@ -722,12 +873,148 @@ def detect_topic(
 
     return best_topic
 
-# Missing-information logic
+# Deterministic medical-problem switch protection
+
+
+def should_force_new_problem(
+    user_message: str,
+    chat_history: list[BaseMessage],
+) -> bool:
+    """
+    Detect an obvious switch between clearly different medical problems.
+
+    The LLM detector still handles ambiguous cases.
+    """
+
+    if not chat_history:
+        return False
+
+    normalized_message = " ".join(
+        user_message.lower()
+        .strip(" !?.,")
+        .split()
+    )
+
+    continuation_markers = {
+        "also",
+        "still",
+        "and now",
+        "it also",
+        "i also",
+        "too",
+        "också",
+        "fortfarande",
+        "jag har också",
+        "también",
+        "todavía",
+        "tambien",
+        "أيضا",
+        "أيضاً",
+        "كمان",
+    }
+
+    has_continuation_marker = any(
+        marker in normalized_message
+        for marker in continuation_markers
+    )
+
+    current_topic = detect_topic(
+        user_message
+    )
+
+    # Negative symptom statements normally belong to
+    # the active medical problem and should not create
+    # a new complaint.
+    negative_followup_patterns = {
+        "i don't have",
+        "i do not have",
+        "i haven't had",
+        "i have no",
+        "no bleeding",
+        "without bleeding",
+        "jag har inte",
+        "jag har ingen",
+        "jag har inget",
+        "no tengo",
+        "sin sangrado",
+        "ليس لدي",
+        "لا أعاني",
+        "ما عندي",
+    }
+
+    if any(
+        pattern in normalized_message
+        for pattern in negative_followup_patterns
+    ):
+        return False
+
+    if current_topic is None:
+        # Example: "What should I do?"
+        return False
+
+    previous_topic = None
+
+    for message in reversed(
+        chat_history
+    ):
+        if not isinstance(
+            message,
+            HumanMessage,
+        ):
+            continue
+
+        candidate_topic = detect_topic(
+            str(message.content)
+        )
+
+        if candidate_topic:
+            previous_topic = candidate_topic
+            break
+
+    if previous_topic is None:
+        return False
+
+    if current_topic == previous_topic:
+        return False
+
+    # Fever and respiratory symptoms commonly belong
+    # to the same illness.
+    if (
+        previous_topic in {"fever", "respiratory"}
+        and current_topic in {
+            "fever",
+            "respiratory",
+            "cardiopulmonary",
+        }
+    ):
+        return False
+
+    # If an additional symptom is explicitly added, allow
+    # the LLM detector to decide whether it is still the same case.
+    if has_continuation_marker:
+        return False
+
+    # Explicit fresh fever/respiratory complaint after a
+    # cardiopulmonary case should reset the active case.
+    if (
+        previous_topic == "cardiopulmonary"
+        and current_topic in {
+            "fever",
+            "respiratory",
+        }
+    ):
+        return True
+
+    return True
+
+
+
+# Missing information
+
 
 def get_missing_information(
     details: SymptomDetails,
 ) -> list[str]:
-    """Determine useful missing information for common symptom groups."""
 
     missing = []
 
@@ -739,12 +1026,12 @@ def get_missing_information(
         details.body_location or ""
     ).lower()
 
-    # Fever
     if (
         "fever" in symptom
         or details.temperature is not None
         or details.fever_duration is not None
     ):
+
         if details.temperature is None:
             missing.append(
                 "measured temperature"
@@ -775,7 +1062,6 @@ def get_missing_information(
 
         return missing[:4]
 
-    # Musculoskeletal pain
     musculoskeletal_words = {
         "back",
         "shoulder",
@@ -796,6 +1082,7 @@ def get_missing_information(
             for word in musculoskeletal_words
         )
     ):
+
         if details.severity is None:
             missing.append(
                 "pain severity"
@@ -818,7 +1105,6 @@ def get_missing_information(
 
         return missing[:4]
 
-    # Genital pain
     genital_words = {
         "penis",
         "testicle",
@@ -830,6 +1116,7 @@ def get_missing_information(
         word in location
         for word in genital_words
     ):
+
         if details.severity is None:
             missing.append(
                 "pain severity"
@@ -845,28 +1132,139 @@ def get_missing_information(
     return missing
 
 
+# Case-aware retrieval query
+
+
+def build_retrieval_query(
+    user_message: str,
+    details: SymptomDetails,
+) -> str:
+
+    parts = []
+
+    if details.symptom:
+        parts.append(
+            details.symptom
+        )
+
+    if details.body_location:
+        parts.append(
+            f"location: {details.body_location}"
+        )
+
+    if details.temperature:
+        parts.append(
+            f"temperature: {details.temperature}"
+        )
+
+    duration = (
+        details.fever_duration
+        or details.duration
+    )
+
+    if duration:
+        parts.append(
+            f"duration: {duration}"
+        )
+
+    if details.severity:
+        parts.append(
+            f"severity: {details.severity}"
+        )
+
+    if details.trigger:
+        parts.append(
+            f"trigger: {details.trigger}"
+        )
+
+    if details.radiation:
+        parts.append(
+            f"radiation: {details.radiation}"
+        )
+
+    boolean_labels = {
+        "cough": "cough",
+        "sore_throat": "sore throat",
+        "breathing_difficulty": "difficulty breathing",
+        "rash": "rash",
+        "vomiting": "vomiting",
+        "stiff_neck": "stiff neck",
+        "confusion": "confusion",
+        "numbness": "numbness",
+        "tingling": "tingling",
+        "weakness": "weakness",
+        "injury": "injury or trauma",
+    }
+
+    for field_name, label in boolean_labels.items():
+
+        if getattr(
+            details,
+            field_name
+        ) is True:
+
+            parts.append(
+                label
+            )
+
+    parts.extend(
+        details.associated_symptoms
+    )
+
+    parts.extend(
+        details.warning_signs
+    )
+
+    unique_parts = dict.fromkeys(
+        part.strip()
+        for part in parts
+        if part and part.strip()
+    )
+
+    case_summary = "; ".join(
+        unique_parts
+    )
+
+    if case_summary:
+        return (
+            f"Current medical problem: {case_summary}. "
+            f"User asks: {user_message}"
+        )
+
+    return user_message
+
+
 # English retrieval query
 
 
 def translate_query_for_retrieval(
     query: str,
 ) -> str:
-    """Create a concise English medical search query."""
 
     response = chat_model.invoke(
         [
             SystemMessage(
                 content=(
-                    "Rewrite the user's latest message as a concise "
-                    "English medical search query for retrieval from a "
-                    "medical database. Translate into English when needed. "
-                    "Keep medically important symptoms, location, duration, "
-                    "temperature, severity, triggers, injury and warning signs. "
-                    "Remove conversational filler. "
-                    "Do not answer the question. "
+                    "Rewrite the text as a concise standalone English "
+                    "medical search query for retrieval from a medical "
+                    "database.\n\n"
+
+                    "Translate into English when needed.\n"
+                    "Keep all medically important symptoms, location, "
+                    "duration, temperature, severity, triggers, injury "
+                    "and warning signs.\n\n"
+
+                    "If the text contains a follow-up request such as "
+                    "'what should I do', preserve the medical case "
+                    "details and remove only conversational filler.\n\n"
+
+                    "Do not add diseases or diagnoses that the user did "
+                    "not mention.\n"
+                    "Do not answer the question.\n"
                     "Return only the search query."
                 )
             ),
+
             HumanMessage(
                 content=query
             ),
@@ -877,14 +1275,18 @@ def translate_query_for_retrieval(
         response.content
     ).strip()
 
-    return english_query or query
+    return (
+        english_query
+        or query
+    )
 
+
+# Retrieval + reranking
 
 
 def retrieve_and_rerank(
     query: str,
 ):
-    """Retrieve candidate documents and rerank them for relevance."""
 
     english_query = translate_query_for_retrieval(
         query
@@ -912,6 +1314,11 @@ def retrieve_and_rerank(
         set(),
     )
 
+    preferred_titles = PREFERRED_TITLES.get(
+        detected_topic,
+        set(),
+    )
+
     normalized_query = english_query.lower()
 
     query_words = {
@@ -921,9 +1328,26 @@ def retrieve_and_rerank(
         .replace(".", " ")
         .replace(",", " ")
         .replace(":", " ")
+        .replace(";", " ")
         .split()
         if len(word) >= 4
     }
+
+    
+    # Query flags
+  
+
+    query_has_fever = any(
+        term in normalized_query
+        for term in {
+            "fever",
+            "high fever",
+            "temperature",
+            "38°",
+            "39°",
+            "40°",
+        }
+    )
 
     trauma_terms = {
         "fall",
@@ -961,9 +1385,44 @@ def retrieve_and_rerank(
         for term in heat_exposure_terms
     )
 
+    query_has_erection_problem = any(
+        term in normalized_query
+        for term in {
+            "erection",
+            "erectile",
+            "erectile dysfunction",
+            "weak erection",
+            "trouble getting an erection",
+            "difficulty getting an erection",
+            "difficulty maintaining an erection",
+        }
+    )
+
+    query_mentions_ejaculation = any(
+        term in normalized_query
+        for term in {
+            "ejaculation",
+            "premature ejaculation",
+            "ejaculate",
+        }
+    )
+
+    query_mentions_erection_pain = any(
+        term in normalized_query
+        for term in {
+            "painful erection",
+            "pain during erection",
+            "erection pain",
+        }
+    )
+
+    # Rerank documents
+    
+
     reranked_results = []
 
     for document, vector_score in results:
+
         metadata = document.metadata or {}
 
         title = str(
@@ -975,40 +1434,13 @@ def retrieve_and_rerank(
 
         searchable_metadata = " ".join(
             [
-                str(
-                    metadata.get(
-                        "title",
-                        "",
-                    )
-                ),
-                str(
-                    metadata.get(
-                        "category",
-                        "",
-                    )
-                ),
-                str(
-                    metadata.get(
-                        "categories",
-                        "",
-                    )
-                ),
-                str(
-                    metadata.get(
-                        "mapped_title",
-                        "",
-                    )
-                ),
-                str(
-                    metadata.get(
-                        "document_type",
-                        "",
-                    )
-                ),
+                str(metadata.get("title", "")),
+                str(metadata.get("category", "")),
+                str(metadata.get("categories", "")),
+                str(metadata.get("mapped_title", "")),
+                str(metadata.get("document_type", "")),
             ]
         ).lower()
-
-        # Basic relevance
 
         title_overlap = sum(
             1
@@ -1024,9 +1456,7 @@ def retrieve_and_rerank(
 
         curated_bonus = (
             0.10
-            if metadata.get(
-                "document_type"
-            ) == "curated_topic"
+            if metadata.get("document_type") == "curated_topic"
             else 0.0
         )
 
@@ -1034,21 +1464,24 @@ def retrieve_and_rerank(
         mismatch_penalty = 0.0
 
         if detected_topic:
+
             for term in topic_terms:
+
                 if term in title:
                     exact_topic_bonus += 0.10
 
-        # Limit the generic topic bonus.
-        exact_topic_bonus = min(
-            exact_topic_bonus,
-            0.30,
-        )
+            exact_topic_bonus = min(
+                exact_topic_bonus,
+                0.30,
+            )
 
-       
+        if title in preferred_titles:
+            exact_topic_bonus += 0.45
+
         # Fever-specific ranking
-       
+        
 
-        if detected_topic == "fever":
+        if detected_topic == "fever" or query_has_fever:
 
             if title == "fever":
                 exact_topic_bonus += 0.55
@@ -1056,19 +1489,13 @@ def retrieve_and_rerank(
             elif title == "high fever":
                 exact_topic_bonus += 0.25
 
-            preferred_fever_titles = {
-                "fever",
-                "high fever",
-                "common cold",
-                "influenza",
-                "viral infections",
-            }
-
             unrelated_fever_titles = {
                 "post-covid conditions",
                 "long covid",
                 "headache",
                 "lyme disease",
+                "tick bites",
+                "mosquito bites",
                 "staphylococcal infections",
                 "cellulitis",
                 "valley fever",
@@ -1079,42 +1506,161 @@ def retrieve_and_rerank(
                 "malaria",
                 "heat stroke",
                 "heat exhaustion",
+                "heat illness",
+                "hay fever",
+                "fifth disease",
+                "meningococcal disease",
+                "chickenpox",
+                "polio and post-polio syndrome",
+                "plague",
+                "low-grade fever",
+                "bird flu",
+                "avian influenza",
+                "children's health",
+                "histoplasmosis",
+                "diphtheria",
+                "pneumonia",
+                "anaphylaxis",
+                "vital signs",
             }
-
-            if title in preferred_fever_titles:
-                exact_topic_bonus += 0.15
 
             if any(
                 unrelated_title in title
                 and unrelated_title not in normalized_query
                 for unrelated_title in unrelated_fever_titles
             ):
-                mismatch_penalty += 0.50
+                mismatch_penalty += 0.85
 
-            # Heat-related documents should only rank highly
-            # when the question actually mentions heat exposure.
             if (
                 "heat stroke" in title
                 and not query_mentions_heat
             ):
-                mismatch_penalty += 0.35
+                mismatch_penalty += 0.55
 
             if (
                 "heat exhaustion" in title
                 and not query_mentions_heat
             ):
-                mismatch_penalty += 0.35
+                mismatch_penalty += 0.55
+
+            if (
+                "heat illness" in title
+                and not query_mentions_heat
+            ):
+                mismatch_penalty += 0.55
 
        
+        # Respiratory-specific ranking
+      
 
-        if not query_mentions_trauma:
+        if detected_topic == "respiratory":
+
+            if title in {
+                "common cold",
+                "influenza",
+                "sore throat",
+                "cough",
+                "viral infections",
+                "fever",
+            }:
+                exact_topic_bonus += 0.20
+
+            disease_specific_respiratory_titles = {
+                "respiratory syncytial virus infections",
+                "sinusitis",
+                "bronchitis",
+                "pneumonia",
+                "bird flu",
+                "avian influenza",
+                "histoplasmosis",
+                "diphtheria",
+                "anaphylaxis",
+            }
+
             if any(
-                term in searchable_metadata
-                for term in serious_injury_terms
+                disease_title in title
+                and disease_title not in normalized_query
+                for disease_title in disease_specific_respiratory_titles
             ):
-                mismatch_penalty += 0.22
+                mismatch_penalty += 0.55
+
+        # Sexual-health-specific ranking
+        
+
+        if detected_topic == "sexual_health":
+
+            if query_has_erection_problem:
+
+                if title in {
+                    "erectile dysfunction",
+                    "weak erection",
+                    "erection problems",
+                    "sexual problems in men",
+                }:
+                    exact_topic_bonus += 0.50
+
+                if (
+                    "premature ejaculation" in title
+                    and not query_mentions_ejaculation
+                ):
+                    mismatch_penalty += 0.75
+
+                if (
+                    "pain during erection" in title
+                    and not query_mentions_erection_pain
+                ):
+                    mismatch_penalty += 0.75
+
+                if "sexual problems in women" in title:
+                    mismatch_penalty += 0.90
+
+                if "birth control" in title:
+                    mismatch_penalty += 0.90
+
+            if query_mentions_ejaculation:
+
+                if "premature ejaculation" in title:
+                    exact_topic_bonus += 0.55
+
+            if query_mentions_erection_pain:
+
+                if "pain during erection" in title:
+                    exact_topic_bonus += 0.55
 
         
+        # Musculoskeletal-specific ranking
+       
+
+        if detected_topic == "musculoskeletal":
+
+            unrelated_injury_titles = {
+                "dislocated shoulder",
+                "shoulder dislocation",
+                "fracture",
+                "broken bone",
+            }
+
+            if (
+                not query_mentions_trauma
+                and any(
+                    injury_title in title
+                    for injury_title in unrelated_injury_titles
+                )
+            ):
+                mismatch_penalty += 0.45
+
+        
+        # Generic trauma mismatch
+        
+
+        if (
+            not query_mentions_trauma
+            and any(
+                term in searchable_metadata
+                for term in serious_injury_terms
+            )
+        ):
+            mismatch_penalty += 0.22
 
         final_score = (
             float(vector_score)
@@ -1132,40 +1678,111 @@ def retrieve_and_rerank(
             )
         )
 
-    # Highest score first.
     reranked_results.sort(
         key=lambda item: item[1],
         reverse=True,
     )
 
     
-    # Select unique documents
+    # Generic fever source filtering
+  
+
+    generic_fever_sources = {
+        "fever",
+        "high fever",
+        "influenza",
+        "common cold",
+        "viral infections",
+        "sore throat",
+        "cough",
+    }
+
+    specific_fever_topics = {
+        "pneumonia",
+        "anaphylaxis",
+        "histoplasmosis",
+        "diphtheria",
+        "bird flu",
+        "avian influenza",
+        "lyme disease",
+        "malaria",
+        "dengue",
+        "yellow fever",
+        "valley fever",
+        "hay fever",
+        "heat stroke",
+        "heat exhaustion",
+        "heat illness",
+        "plague",
+    }
+
+    generic_fever_case = (
+        query_has_fever
+        and not any(
+            specific_term in normalized_query
+            for specific_term in specific_fever_topics
+        )
+    )
+
     
+    # Generic erection-problem source filtering
+    
+
+    generic_erection_sources = {
+        "erectile dysfunction",
+        "weak erection",
+        "erection problems",
+        "sexual problems in men",
+    }
+
+    generic_erection_case = (
+        query_has_erection_problem
+        and not query_mentions_ejaculation
+        and not query_mentions_erection_pain
+    )
+
+   
+    # Select final documents
+   
 
     selected_documents = []
     seen_sources = set()
 
-    for (
-        document,
-        final_score,
-    ) in reranked_results:
+    for document, final_score in reranked_results:
 
         metadata = document.metadata or {}
 
-        unique_key = (
+        title = str(
             metadata.get(
-                "source_url"
+                "title",
+                "",
             )
-            or metadata.get(
-                "title"
-            )
+        ).lower()
+
+        # directly relevant fever/respiratory sources.
+        if (
+            generic_fever_case
+            and title not in generic_fever_sources
+        ):
+            continue
+
+        # questions, should use male erection-related sources.
+        if (
+            generic_erection_case
+            and title not in generic_erection_sources
+        ):
+            continue
+
+        unique_key = (
+            metadata.get("source_url")
+            or metadata.get("title")
             or document.page_content[:100]
         )
 
         if unique_key in seen_sources:
             continue
 
-        if final_score < 0.50:
+        if final_score < 0.65:
             continue
 
         seen_sources.add(
@@ -1176,113 +1793,122 @@ def retrieve_and_rerank(
             document
         )
 
-        if len(selected_documents) == 5:
+        if len(selected_documents) == 4:
             break
 
     app.logger.info(
         "Selected sources: %s",
         [
-            document.metadata.get(
-                "title"
-            )
-            for document
-            in selected_documents
+            document.metadata.get("title")
+            for document in selected_documents
         ],
     )
 
     return selected_documents
+def retrieve_from_chain_inputs(
+    inputs: dict,
+):
+
+    retrieval_query = str(
+        inputs.get(
+            "retrieval_query"
+        )
+        or inputs.get(
+            "input"
+        )
+        or ""
+    ).strip()
+
+    return retrieve_and_rerank(
+        retrieval_query
+    )
 
 
 retriever = RunnableLambda(
-    retrieve_and_rerank
+    retrieve_from_chain_inputs
 )
+
 
 # RAG chain
 
-contextualize_question_prompt = (
-    ChatPromptTemplate.from_messages(
-        [
+answer_prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            system_prompt,
+        ),
+
+        (
+            "system",
             (
-                "system",
-                contextualize_q_system_prompt,
+                "Structured information for the CURRENT "
+                "medical problem:\n"
+                "{symptom_details}\n\n"
+
+                "Important missing information:\n"
+                "{missing_information}\n\n"
+
+                "REQUIRED OUTPUT LANGUAGE:\n"
+                "{response_language}\n\n"
+
+                "Rules:\n"
+                "- Write the entire response only in "
+                "{response_language}.\n"
+
+                "- Do not switch to another language.\n"
+
+                "- Do not ask for information already present in "
+                "symptom_details.\n"
+
+                "- If clarification is needed, ask at most two "
+                "important missing items.\n"
+
+                "- Do not mix symptoms from an older unrelated "
+                "problem into the current problem.\n"
+
+                "- If enough information is available, give practical "
+                "guidance instead of asking unnecessary questions.\n"
+
+                "- Ground medical claims in the retrieved context.\n"
+
+                "- Do not invent a diagnosis.\n"
+
+                "- Do not name speculative possible diseases merely "
+                "because they could cause the symptoms.\n"
+
+                "- Unless the user specifically asks about possible "
+                "causes or diagnoses, prefer broad wording such as "
+                "'a respiratory infection' instead of listing diseases "
+                "such as pneumonia, bronchitis, or other conditions.\n"
+
+                "- Never claim that the user has a disease that has not "
+                "been diagnosed."
             ),
-            MessagesPlaceholder(
-                "chat_history"
-            ),
-            (
-                "human",
-                "{input}",
-            ),
-        ]
-    )
+        ),
+
+        MessagesPlaceholder(
+            "chat_history"
+        ),
+
+        (
+            "human",
+            "{input}",
+        ),
+    ]
 )
 
 
-history_aware_retriever = (
-    create_history_aware_retriever(
-        chat_model,
-        retriever,
-        contextualize_question_prompt,
-    )
-)
-
-
-answer_prompt = (
-    ChatPromptTemplate.from_messages(
-        [
-            (
-                "system",
-                system_prompt,
-            ),
-
-            (
-                "system",
-                (
-                    "Structured information for the CURRENT "
-                    "medical problem:\n"
-                    "{symptom_details}\n\n"
-
-                    "Important missing information:\n"
-                    "{missing_information}\n\n"
-
-                    "Rules:\n"
-                    "- Do not ask for information already present in "
-                    "symptom_details.\n"
-                    "- If clarification is needed, ask at most two of "
-                    "the most important items from missing_information.\n"
-                    "- Do not mix symptoms from an older unrelated "
-                    "problem into the current problem.\n"
-                    "- If enough information is available, give "
-                    "practical guidance instead of asking unnecessary "
-                    "questions."
-                ),
-            ),
-
-            MessagesPlaceholder(
-                "chat_history"
-            ),
-
-            (
-                "human",
-                "{input}",
-            ),
-        ]
-    )
-)
-
-
-question_answer_chain = (
-    create_stuff_documents_chain(
-        chat_model,
-        answer_prompt,
-    )
+question_answer_chain = create_stuff_documents_chain(
+    chat_model,
+    answer_prompt,
 )
 
 
 rag_chain = create_retrieval_chain(
-    history_aware_retriever,
+    retriever,
     question_answer_chain,
 )
+
 
 # Chat history
 
@@ -1290,7 +1916,6 @@ rag_chain = create_retrieval_chain(
 def convert_chat_history(
     history_data,
 ) -> list[BaseMessage]:
-    """Convert browser history into LangChain messages."""
 
     messages = []
 
@@ -1301,6 +1926,7 @@ def convert_chat_history(
         return messages
 
     for item in history_data[-10:]:
+
         if not isinstance(
             item,
             dict,
@@ -1322,6 +1948,7 @@ def convert_chat_history(
             continue
 
         if role == "user":
+
             messages.append(
                 HumanMessage(
                     content=content
@@ -1329,6 +1956,7 @@ def convert_chat_history(
             )
 
         elif role == "assistant":
+
             messages.append(
                 AIMessage(
                     content=content
@@ -1338,11 +1966,11 @@ def convert_chat_history(
     return messages
 
 
-# Casual conversation in multiple languages.
+
+# Casual conversation
 
 
 CASUAL_MESSAGES = {
-    # English
     "hi",
     "hello",
     "hey",
@@ -1370,7 +1998,6 @@ CASUAL_MESSAGES = {
     "i want to ask something",
     "help me",
 
-    # Swedish
     "hej",
     "hallå",
     "god morgon",
@@ -1385,7 +2012,6 @@ CASUAL_MESSAGES = {
     "jag har en fråga",
     "jag vill ställa en fråga",
 
-    # Spanish
     "hola",
     "buenos días",
     "buenas tardes",
@@ -1399,7 +2025,6 @@ CASUAL_MESSAGES = {
     "tengo una pregunta",
     "quiero hacer una pregunta",
 
-    # Arabic
     "مرحبا",
     "مرحباً",
     "السلام عليكم",
@@ -1447,12 +2072,16 @@ MEDICAL_HINTS = {
     "rygg",
     "axel",
     "sexuell",
+    "bröst",
+    "andas",
 
     "dolor",
     "fiebre",
     "sangrado",
     "tos",
     "sexo",
+    "pecho",
+    "respirar",
 
     "ألم",
     "حرارة",
@@ -1460,13 +2089,14 @@ MEDICAL_HINTS = {
     "نزيف",
     "سعال",
     "جنس",
+    "صدر",
+    "تنفس",
 }
 
 
 def normalize_message(
     message: str,
 ) -> str:
-    """Normalize text for message matching."""
 
     return " ".join(
         message.lower()
@@ -1478,18 +2108,15 @@ def normalize_message(
 def is_casual_message(
     message: str,
 ) -> bool:
-    """Return True only for non-medical conversational messages."""
 
     normalized = normalize_message(
         message
     )
 
-    contains_medical_information = any(
+    if any(
         medical_hint in normalized
         for medical_hint in MEDICAL_HINTS
-    )
-
-    if contains_medical_information:
+    ):
         return False
 
     if normalized in CASUAL_MESSAGES:
@@ -1507,20 +2134,17 @@ def is_casual_message(
 def get_casual_response(
     message: str,
 ) -> str:
-    """Return a short casual response in the user's language."""
 
     normalized = normalize_message(
         message
     )
 
-    arabic_characters = (
-        "ابتثجحخدذرزسشصضطظعغفقكلمنهوي"
+    language = detect_user_language(
+        message
     )
 
-    if any(
-        character in message
-        for character in arabic_characters
-    ):
+    if language == "Arabic":
+
         if "شك" in normalized:
             return (
                 "على الرحب والسعة! "
@@ -1538,19 +2162,8 @@ def get_casual_response(
             "في سؤالك الطبي؟"
         )
 
-    spanish_terms = {
-        "hola",
-        "gracias",
-        "adiós",
-        "adios",
-        "pregunta",
-        "ayuda",
-    }
+    if language == "Spanish":
 
-    if any(
-        term in normalized
-        for term in spanish_terms
-    ):
         if "gracias" in normalized:
             return (
                 "¡De nada! Puedes hacerme "
@@ -1570,20 +2183,8 @@ def get_casual_response(
             "con tu pregunta médica?"
         )
 
-    swedish_terms = {
-        "hej",
-        "hallå",
-        "tack",
-        "fråga",
-        "hjälp",
-        "god morgon",
-        "god kväll",
-    }
+    if language == "Swedish":
 
-    if any(
-        term in normalized
-        for term in swedish_terms
-    ):
         if "tack" in normalized:
             return (
                 "Varsågod! Du kan ställa "
@@ -1626,9 +2227,9 @@ def get_casual_response(
 def history_has_medical_user_message(
     chat_history: list[BaseMessage],
 ) -> bool:
-    """Check whether history contains a medical user message."""
 
     for message in chat_history:
+
         if not isinstance(
             message,
             HumanMessage,
@@ -1650,11 +2251,12 @@ def history_has_medical_user_message(
     return False
 
 
-# Flask routes 
+# Flask routes
 
 
 @app.route("/")
 def index():
+
     return render_template(
         "chat.html"
     )
@@ -1665,6 +2267,7 @@ def index():
     methods=["POST"],
 )
 def chat():
+
     data = (
         request.get_json(
             silent=True
@@ -1685,6 +2288,7 @@ def chat():
     )
 
     if not user_message:
+
         return jsonify(
             {
                 "error": (
@@ -1693,17 +2297,14 @@ def chat():
             }
         ), 400
 
-
-
     if is_casual_message(
         user_message
     ):
+
         return jsonify(
             {
-                "answer": (
-                    get_casual_response(
-                        user_message
-                    )
+                "answer": get_casual_response(
+                    user_message
                 ),
                 "sources": [],
                 "reset_history": False,
@@ -1712,26 +2313,75 @@ def chat():
         )
 
     try:
-        full_chat_history = (
-            convert_chat_history(
-                history_data
-            )
+
+        full_chat_history = convert_chat_history(
+            history_data
         )
 
         
-        # Detect new medical complaint 
-        
+        # Detect obvious medical topic switches first
+       
 
-        if history_has_medical_user_message(
+        forced_new_problem = should_force_new_problem(
+            user_message=user_message,
+            chat_history=full_chat_history,
+        )
+
+        if forced_new_problem:
+
+            conversation_state = ConversationState(
+                new_medical_problem=True,
+                reason=(
+                    "The latest message clearly starts a different "
+                    "medical topic from the active complaint."
+                ),
+            )
+
+        elif history_has_medical_user_message(
             full_chat_history
         ):
-            conversation_state = (
-                detect_new_medical_problem(
+
+            normalized_current_message = normalize_message(
+                user_message
+            )
+
+            negative_followup_patterns = {
+                "i don't have",
+                "i do not have",
+                "i haven't had",
+                "i have no",
+                "no bleeding",
+                "without bleeding",
+                "jag har inte",
+                "jag har ingen",
+                "jag har inget",
+                "no tengo",
+                "sin sangrado",
+                "ليس لدي",
+                "لا أعاني",
+                "ما عندي",
+            }
+
+            if any(
+                pattern in normalized_current_message
+                for pattern in negative_followup_patterns
+            ):
+                conversation_state = ConversationState(
+                    new_medical_problem=False,
+                    reason=(
+                        "The latest message is a negative symptom "
+                        "follow-up for the active medical problem."
+                    ),
+                )
+
+            else:
+                conversation_state = detect_new_medical_problem(
                     user_message=user_message,
                     chat_history=full_chat_history,
                 )
-            )
+
         else:
+
             conversation_state = ConversationState(
                 new_medical_problem=False,
                 reason=(
@@ -1744,31 +2394,19 @@ def chat():
             conversation_state.model_dump(),
         )
 
-        # New complaint = do not use old case history.
-        if (
-            conversation_state
-            .new_medical_problem
-        ):
-            active_chat_history = []
-        else:
-            active_chat_history = (
-                full_chat_history
-            )
-
-        # Extract symptoms
-      
-
-        symptom_details = (
-            extract_symptom_details(
-                user_message=user_message,
-                chat_history=active_chat_history,
-            )
+        active_chat_history = (
+            []
+            if conversation_state.new_medical_problem
+            else full_chat_history
         )
 
-        symptom_data = (
-            symptom_details.model_dump(
-                exclude_none=True
-            )
+        symptom_details = extract_symptom_details(
+            user_message=user_message,
+            chat_history=active_chat_history,
+        )
+
+        symptom_data = symptom_details.model_dump(
+            exclude_none=True
         )
 
         app.logger.info(
@@ -1776,13 +2414,9 @@ def chat():
             symptom_data,
         )
 
-        
-
-        risk_assessment = (
-            assess_medical_risk(
-                user_message=user_message,
-                symptom_details=symptom_details,
-            )
+        risk_assessment = assess_medical_risk(
+            user_message=user_message,
+            symptom_details=symptom_details,
         )
 
         app.logger.info(
@@ -1790,15 +2424,26 @@ def chat():
             risk_assessment.model_dump(),
         )
 
+        response_language = detect_response_language(
+            user_message=user_message,
+            chat_history=active_chat_history,
+        )
+
+        app.logger.info(
+            "Response language: %s",
+            response_language,
+        )
+
         
-        # Urgent cases bypass normal RAG questioning
+        # Urgent cases
+        
 
         if risk_assessment.urgent:
-            urgent_answer = (
-                generate_urgent_response(
-                    user_message=user_message,
-                    risk_assessment=risk_assessment,
-                )
+
+            urgent_answer = generate_urgent_response(
+                user_message=user_message,
+                risk_assessment=risk_assessment,
+                target_language=response_language,
             )
 
             return jsonify(
@@ -1819,13 +2464,12 @@ def chat():
                 }
             )
 
+        
         # Normal medical conversation
         
 
-        missing_information = (
-            get_missing_information(
-                symptom_details
-            )
+        missing_information = get_missing_information(
+            symptom_details
         )
 
         symptom_context = json.dumps(
@@ -1839,17 +2483,29 @@ def chat():
             ensure_ascii=False,
         )
 
+        retrieval_query = build_retrieval_query(
+            user_message=user_message,
+            details=symptom_details,
+        )
+
         app.logger.info(
             "Missing information: %s",
             missing_information,
         )
 
+        app.logger.info(
+            "Case-aware retrieval query: %s",
+            retrieval_query,
+        )
+
         response = rag_chain.invoke(
             {
                 "input": user_message,
+                "retrieval_query": retrieval_query,
                 "chat_history": active_chat_history,
                 "symptom_details": symptom_context,
                 "missing_information": missing_context,
+                "response_language": response_language,
             }
         )
 
@@ -1860,11 +2516,9 @@ def chat():
             )
         ).strip()
 
-        retrieved_documents = (
-            response.get(
-                "context",
-                [],
-            )
+        retrieved_documents = response.get(
+            "context",
+            [],
         )
 
         no_relevant_information = (
@@ -1878,14 +2532,11 @@ def chat():
         ):
             retrieved_documents = []
 
-        
-        # Sources
-        
-
         sources = []
         seen_sources = set()
 
         for document in retrieved_documents:
+
             metadata = (
                 document.metadata
                 or {}
@@ -1927,6 +2578,7 @@ def chat():
             )
 
         if not answer:
+
             return jsonify(
                 {
                     "error": (
@@ -1951,6 +2603,7 @@ def chat():
         )
 
     except Exception:
+
         app.logger.exception(
             "Chatbot error"
         )
@@ -1966,6 +2619,7 @@ def chat():
 
 
 if __name__ == "__main__":
+
     app.run(
         host="0.0.0.0",
         port=8000,
